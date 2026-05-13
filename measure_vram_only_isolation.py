@@ -327,7 +327,7 @@ def run_tenant(
     turns_per_tenant: int,
     max_prompt_tokens: int,
     max_tokens: int,
-    turn_period_sec: int,
+    request_timeout_sec: int,
     metrics_jsonl_path: str,
     io_log_dir: str,
     raw_csv_path: str,
@@ -398,7 +398,7 @@ def run_tenant(
                 prompt,
                 max_tokens,
                 client_request_id,
-                turn_period_sec,
+                request_timeout_sec,
             )
             metrics_request_id = f"{stream_result['response_id']}-0"
             p95_tbt_ms, output_tokens = derive_tbt_p95_ms(
@@ -519,6 +519,7 @@ def main() -> int:
     parser.add_argument("--max-tokens", type=int, default=2048)
     parser.add_argument("--pre-request-sleep-sec", type=int, default=180)
     parser.add_argument("--inter-turn-sleep-sec", type=int, default=30)
+    parser.add_argument("--request-timeout-sec", type=int, default=900)
     args = parser.parse_args()
 
     raw_fieldnames = [
@@ -568,8 +569,8 @@ def main() -> int:
     abort_event = threading.Event()
     print(
         f"[INFO] tenant_count={args.tenant_count} run={args.run_index}: "
-        f"starting {args.tenant_count} tenant sessions with synchronized "
-        f"{args.inter_turn_sleep_sec}s turn periods",
+        f"starting {args.tenant_count} tenant sessions with synchronized turns; "
+        f"sleeping {args.inter_turn_sleep_sec}s after each completed turn",
         flush=True,
     )
     with ThreadPoolExecutor(max_workers=args.tenant_count) as executor:
@@ -585,7 +586,7 @@ def main() -> int:
                 args.turns_per_tenant,
                 args.max_prompt_tokens,
                 args.max_tokens,
-                args.inter_turn_sleep_sec,
+                args.request_timeout_sec,
                 args.metrics_jsonl,
                 args.io_log_dir,
                 args.raw_csv,
@@ -600,16 +601,11 @@ def main() -> int:
             for tenant_state in tenant_states
         ]
         start_event.set()
-        batch_start_time = time.monotonic()
         max_turns = min(
             args.turns_per_tenant,
             min(len(tenant_state.user_turns) for tenant_state in tenant_states),
         )
         for turn_index in range(1, max_turns + 1):
-            scheduled_ts = batch_start_time + (turn_index - 1) * args.inter_turn_sleep_sec
-            sleep_sec = scheduled_ts - time.monotonic()
-            if sleep_sec > 0:
-                time.sleep(sleep_sec)
             print(
                 f"[INFO] tenant_count={args.tenant_count} run={args.run_index}: "
                 f"launching synchronized turn={turn_index}",
@@ -617,18 +613,26 @@ def main() -> int:
             )
             try:
                 launch_barrier.wait()
-                finish_barrier.wait(timeout=args.inter_turn_sleep_sec)
+                finish_barrier.wait(timeout=args.request_timeout_sec + 30)
             except threading.BrokenBarrierError:
                 abort_event.set()
                 raise RuntimeError(
                     f"Synchronized turn {turn_index} did not complete within "
-                    f"{args.inter_turn_sleep_sec}s"
+                    f"{args.request_timeout_sec + 30}s"
                 )
             if abort_event.is_set():
                 raise RuntimeError(
-                    f"Synchronized turn {turn_index} failed or exceeded "
-                    f"{args.inter_turn_sleep_sec}s period"
+                    f"Synchronized turn {turn_index} failed or exceeded request timeout "
+                    f"{args.request_timeout_sec}s"
                 )
+            if turn_index < max_turns and args.inter_turn_sleep_sec > 0:
+                print(
+                    f"[INFO] tenant_count={args.tenant_count} run={args.run_index}: "
+                    f"completed turn={turn_index}; sleeping "
+                    f"{args.inter_turn_sleep_sec}s before next turn",
+                    flush=True,
+                )
+                time.sleep(args.inter_turn_sleep_sec)
         for future in futures:
             future.result()
 

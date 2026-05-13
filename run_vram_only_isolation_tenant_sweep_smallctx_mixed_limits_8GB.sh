@@ -24,7 +24,8 @@ TURNS_PER_TENANT="10"
 MIN_SESSION_USER_TURNS="10"
 PRE_REQUEST_SLEEP_SEC="30"
 POST_REQUEST_SLEEP_SEC="30"
-INTER_TURN_SLEEP_SEC="240"
+INTER_TURN_SLEEP_SEC="30"
+REQUEST_TIMEOUT_SEC="900"
 MAX_PROMPT_TOKENS="24576"
 MAX_TOKENS="1024"
 MAX_NUM_SEQS="32"
@@ -72,6 +73,7 @@ snapshot_path.write_text(
             "pre_request_sleep_sec=${PRE_REQUEST_SLEEP_SEC}",
             "post_request_sleep_sec=${POST_REQUEST_SLEEP_SEC}",
             "inter_turn_sleep_sec=${INTER_TURN_SLEEP_SEC}",
+            "request_timeout_sec=${REQUEST_TIMEOUT_SEC}",
             "max_prompt_tokens=${MAX_PROMPT_TOKENS}",
             "max_tokens=${MAX_TOKENS}",
             "max_num_seqs=${MAX_NUM_SEQS}",
@@ -275,7 +277,8 @@ for tenant_count in "${TENANT_VALUES[@]}"; do
       --max-prompt-tokens "${MAX_PROMPT_TOKENS}" \
       --max-tokens "${MAX_TOKENS}" \
       --pre-request-sleep-sec "${PRE_REQUEST_SLEEP_SEC}" \
-      --inter-turn-sleep-sec "${INTER_TURN_SLEEP_SEC}"; then
+      --inter-turn-sleep-sec "${INTER_TURN_SLEEP_SEC}" \
+      --request-timeout-sec "${REQUEST_TIMEOUT_SEC}"; then
       echo "[FAIL] num_gpu_blocks_override=${BLOCK_VALUE} run=${run_index} tenants=${tenant_count}" >&2
     fi
 
