@@ -9,8 +9,8 @@ EXPERIMENTS = [
     ("block_2048_not_saturation_diff_8192max4", "exp3", "#059669"),
 ]
 
-ROOT = Path("/home/yuhwa2323/zoneatten")
-OUT_DIR = ROOT / "analysis_32tenant_compare"
+ROOT = Path(__file__).resolve().parents[1]
+OUT_DIR = Path(__file__).resolve().parents[1] / "vram_only_results_smallctx_mixed_limits_8GB_ori" / "graphs" / Path(__file__).stem
 
 
 def load_rows(exp_dir: str):
