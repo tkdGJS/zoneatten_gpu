@@ -5,6 +5,7 @@ datasets/
 *.json
 *.jsonl
 !vendor/vllm/**/*.json
+vendor/vllm/
 
 # model / weights
 *.pt

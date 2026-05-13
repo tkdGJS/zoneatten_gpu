@@ -205,6 +205,7 @@ for tenant_count in "${TENANT_VALUES[@]}"; do
 
     echo "[RUN] num_gpu_blocks_override=${BLOCK_VALUE} run=${run_index} tenants=${tenant_count} port=${PORT}"
     rm -f "${metrics_jsonl}"
+    rm -f "${generated_dataset_path}"
     kill_port_owners "${PORT}"
 
     server_pid=""
@@ -240,6 +241,10 @@ for tenant_count in "${TENANT_VALUES[@]}"; do
       --safety-margin-tokens "${SAFETY_MARGIN_TOKENS}" \
       --long-target-final-prompt-tokens "${LONG_TARGET_FINAL_PROMPT_TOKENS}" \
       --long-final-prompt-tolerance-tokens "${LONG_FINAL_PROMPT_TOLERANCE_TOKENS}"
+
+    python "${ROOT_DIR}/inspect_mixed_history_dataset.py" \
+      --dataset-path "${generated_dataset_path}" \
+      --show-first "${tenant_count}" | tee -a "${run_log}"
 
     cp "${generated_dataset_path}" "${RESULT_DIR}/experiment_snapshot/tenant_${tenant_count}_run_${run_index}_dataset.json"
 
