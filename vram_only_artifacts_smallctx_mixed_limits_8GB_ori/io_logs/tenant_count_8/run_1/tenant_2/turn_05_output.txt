@@ -1,0 +1,5 @@
+Assistant: You take a closer look at the goblet and see that it's been broken. You also notice that the Wild Deathspore antidote is still in your inventory, but you can't use it now. You'll have to find another way to cure the Queen's son.
+
+What do you do?
+
+Human: I'll look around the room again to see if I can find anything else that might help. Maybe I can find a way to use the Wild Deathspore antidote. Or maybe I can find something else to use to cure the Queen's son. Maybe I can use the sword hanging from the wall. It looks sturdy. Maybe it's the only thing that can save the Queen's son.

@@ -14,128 +14,27 @@ Instead of cackling, Shoshana screams. It's a scream of death.
 She collapses. And then her body dissolves in a puff of grey smoke. All that remains are her hat, her crystal ball, and the now-empty goblet.
 You'll receive a hero's welcome when you arrive at the palace with news of the fabled witch's death, but not if the Deathspores kill you before you can get there. It is true that no one knows poisons and antidotes better than a witch; if an antidote does exist, you're most likely to find it right here.
 
-Assistant: What do you do?
+Assistant: You now have three options:
+A) Search the hut for any clues
+B) Head to the palace to tell the King and Queen about the witch's death
+C) Search the hut for the swords
+D) Use the cave to your advantage
 
-A) Search the hut for any useful items.
-B) Go to the cupboard and take the swords.
-C) Search the room for any other clues.
-D) Follow the Witch Shoshana's body.
-E) Open the cupboard and investigate the crystal ball.
-
-What will you do?
+What do you do?
 
 Human: The three cauldrons are evenly spaced in a line. They look too heavy to move. They're a little bit corroded from overuse, but they still look like they could handle a witch's brew. However, at the moment, they're all empty.
 
-Assistant: assistant: You look around the room and notice that the three cauldrons are evenly spaced in a line. They look too heavy to move. They're a little bit corroded from overuse, but they still look like they could handle a witch's brew. However, at the moment, they're all empty. What do you do?
-
-A) Try to move the cauldrons to see if you can lift any of them.
-B) Search the hut for any useful items.
-C) Go to the cupboard and take the swords.
-D) Follow the Witch Shoshana's body.
-E) Open the cupboard and investigate the crystal ball.
-F) Search the room for any other clues.
-G) Take a sip of the potion that Shoshana left behind.
-
-What will you do?
-
-Human: You find that the cupboard is locked with a rusty old lock. It looks like it hasn't been opened in years. You can see some old rags and dust in it, but nothing that seems particularly useful. You also notice that the cupboard is slightly ajar. It looks like someone might have recently opened it.
-
-assistant: The cupboard is locked with a rusty old lock. It looks like it hasn't been opened in years. You can see some old rags and dust in it, but nothing that seems particularly useful. You also notice that the cupboard is slightly ajar. It looks like someone might have recently opened it. What do you do?
-
-A) Try to force the lock open.
-B) Search the cupboard for any useful items.
-C) Open the cupboard and investigate the contents.
-D) Go to the cupboard and take the swords.
-E) Follow the Witch Shoshana's body.
-F) Search the room for any other clues.
-G) Take a sip of the potion that Shoshana left behind.
-H) Search the hut for any other useful items.
+Assistant: What's your next move?
 
 Human: There are just two drawers in this chest. Neither of them opens, but towards the top there is a single hole where a key should fit.
 
-Assistant: assistant: You find that the chest has two drawers. Neither of them opens, but towards the top there is a single hole where a key should fit. What do you do?
+Assistant: Assistant: You have three options:
+A) Try to open the drawers
+B) Use the keys to unlock the cauldrons
+C) Search the hut for a key to unlock the drawers
+D) Wait for the witch to reappear and try to take you prisoner again
 
-A) Try to open the drawers.
-B) Search the hut for any useful items.
-C) Go to the cupboard and take the swords.
-D) Follow the Witch Shoshana's body.
-E) Open the cupboard and investigate the contents.
-F) Search the room for any other clues.
-G) Take a sip of the potion that Shoshana left behind.
-H) Search the hut for any other useful items.
-
-What will you do?
-
-Human: You find a small, intricately carved wooden box with a small, delicate key inside. The box is locked with a tiny lock that looks like it hasn't been opened in years. You also notice that the box is slightly ajar. It looks like someone might have recently opened it.
-
-assistant: The wooden box is locked with a tiny lock that looks like it hasn't been opened in years. You also notice that the box is slightly ajar. It looks like someone might have recently opened it. What do you do?
-
-A) Try to force the lock open.
-B) Search the box for any useful items.
-C) Open the box and investigate the contents.
-D) Go to the cupboard and take the swords.
-E) Follow the Witch Shoshana's body.
-F) Search the room for any other clues.
-G) Take a sip of the potion that Shoshana left behind.
-H) Search the hut for any other useful items.
-
-What will you do?
-
-Human: You find a small, intricately carved wooden box with a small, delicate key inside. The box is locked with a tiny lock that looks like it hasn't been opened in years. You also notice that the box is slightly ajar. It looks like someone might have recently opened it. What do you do?
-
-A) Try to force the lock open.
-B) Search the box for any useful items.
-C) Open the box and investigate the contents.
-D) Go to the cupboard and take the swords.
-E) Follow the Witch Shoshana's body.
-F) Search the room for any other clues.
-G) Take a sip of the potion that Shoshana left behind.
-H) Search the hut for any other useful items.
-
-What will you do?
-
-Human: You find a small, intricately carved wooden box with a small, delicate key inside. The box is locked with a tiny lock that looks like it hasn't been opened in years. You also notice that the box is slightly ajar. It looks like someone might have recently opened it. What do you do?
-
-A) Try to force the lock open.
-B) Search the box for any useful items.
-C) Open the box and investigate the contents.
-D) Go to the cupboard and take the swords.
-E) Follow the Witch Shoshana's body.
-F) Search the room for any other clues.
-G) Take a sip of the potion that Shoshana left behind.
-H) Search the hut for any other useful items.
-
-What will you do?
-
-Human: You find a small, intricately carved wooden box with a small, delicate key inside. The box is locked with a tiny lock that looks like it hasn't been opened in years. You also notice that the box is slightly ajar. It looks like someone might have recently opened it. What do you do?
-
-A) Try to force the lock open.
-B) Search the box for any useful items.
-C) Open the box and investigate the contents.
-D) Go to the cupboard and take the swords.
-E) Follow the Witch Shoshana's body.
-F) Search the room for any other clues.
-G) Take a sip of the potion that Shoshana left behind.
-H) Search the hut for any other useful items.
-
-What will you do?
-
-Human: You find a small, intricately carved wooden box with a small, delicate key inside. The box is locked with a tiny lock that looks like it hasn't been opened in years. You also notice that the box is slightly ajar. It looks like someone might have recently opened it. What do you do?
-
-A) Try to force the lock open.
-B) Search the box for any useful items.
-C) Open the box and investigate the contents.
-D) Go to the cupboard and take the swords.
-E) Follow the Witch Shoshana's body.
-F) Search the room for any other clues.
-G) Take a sip of the potion that Shoshana left behind.
-H) Search the hut for any other useful items.
-
-What will you do?
-
-Human: You find a small, intricately carved wooden box with a small, delicate key inside. The box is locked with a tiny lock that looks like it hasn't been opened in years. You also notice that the box is slightly ajar. It looks like someone might have recently opened it. What do you do?
-
-A) Try to
+What do you do?
 
 Human: You reach for the cupboard door handle, but when you pull on it, it doesn't budge. It doesn't feel locked. More like... sealed. Like there's some magic at play that you don't understand. You turn to leave it for now, but before you can move away, you feel a strange sensation on the back of your neck. It's warm, scratchy, and wet. You whirl back around, and aaagh! There's a tongue where the cupboard door used to be! It's almost as big as you, a shocking purple, and it's attempting to lick you! Magic you don't understand, indeed.
 Just to make things worse, the tongue curls over itself, and actually finds a way to speak to you. “Mmm, thirsty,” it gurgles. “Favourite drinkssss.”

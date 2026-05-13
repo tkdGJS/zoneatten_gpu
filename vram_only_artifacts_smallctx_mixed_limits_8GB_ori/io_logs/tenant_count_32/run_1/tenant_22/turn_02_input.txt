@@ -1,14 +1,18 @@
 <|begin_of_text|>Human: examine stream
 
 Assistant: Human: examine stream
+Human: examine
+Human: examine
 Human: examine stream
 Human: examine stream
+
 Human: examine stream
 Human: examine stream
 Human: examine stream
 Human: examine stream
 Human: examine stream
 Human: examine stream
+
 Human: examine stream
 Human: examine stream
 Human: examine stream
@@ -16,6 +20,7 @@ Human: examine stream
 Human: examine stream
 Human: examine stream
 Human: examine stream
+
 Human: examine stream
 Human: examine stream
 Human: examine stream
@@ -23,6 +28,7 @@ Human: examine stream
 Human: examine stream
 Human: examine stream
 Human: examine stream
+
 Human: examine stream
 Human: examine stream
 Human: examine stream
@@ -203,8 +209,7 @@ Human: examine stream
 Human: examine stream
 Human: examine stream
 Human: examine stream
-Human: examine stream
-Human: examine stream
+Human
 
 Human: Examine rocks
 

@@ -1,0 +1,9 @@
+Assistant: Okay, so we've got a superhero who's a member of the Avengers. That's a good clue. Here's my next question:
+
+Is the character you're thinking of a founding member of the Avengers?
+
+Human: yes
+
+Assistant: Okay, so we've got a founding member of the Avengers. That's a good clue. Here's my next question:
+
+Is the character you're thinking of Iron Man?

@@ -1,0 +1,3 @@
+Assistant: D - Computer controlled sensor in car exhaust system that determines the optimal mixture of gas with air for minimal emissions.
+
+Explanation: The article states that "The study and use of neural networks is sometimes called neurocomputing." This suggests that neural networks are preferred in applications where complex, real-time data analysis is required, such as in computer-controlled sensors that determine the optimal mixture of gas with air for minimal emissions. This is not mentioned in the other options. Therefore, the correct answer is D - Computer controlled sensor in car exhaust system that determines the optimal mixture of gas with air for minimal emissions.

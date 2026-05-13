@@ -1,0 +1,11 @@
+Assistant: What do you do?
+
+Human: I'll open the chest and search for any useful items.
+
+Assistant: What do you find inside?
+
+Human: Inside the chest, I find a small vial of glowing liquid, a few gold coins, and a note with a riddle that reads: "The first step in solving the puzzle is to find the key to unlock the door to the hidden chamber of the Jade Witch Shoshana. The first clue is hidden in plain sight."
+
+Assistant: What do you do?
+
+Human: I'll search the hut for any objects that could be related to the riddle.

@@ -1,0 +1,18 @@
+What do you do?
+
+A) Open the chest of drawers to see what's inside
+B) Search the hut for any clues
+C) Examine the cauldrons
+D) Take the sword and armour
+E) Go to the cupboard and take the swords
+F) Go to the cell and check on Shoshana
+G) Wait for a while to see if the smoke clears
+H) Go back outside into the fog
+I) Follow Shoshana to see where she goes
+J) Try to communicate with Shoshana
+K) Use your surroundings to create a smoke trap
+L) Take a Wild Deathspore
+M) Search the hut for any other clues
+N) Open the cupboard and examine the potions
+
+Choose your response:

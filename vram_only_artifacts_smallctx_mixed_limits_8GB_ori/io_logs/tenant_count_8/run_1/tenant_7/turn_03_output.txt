@@ -1,0 +1,17 @@
+Assistant: next
+
+Human: "Sarah, I feel like I'm finally starting to feel like myself again. I'm excited to see where this journey takes us."
+
+Sarah: "I'm excited too. I think we're just getting started. And I have a feeling that this is going to be a really amazing journey. We're going to explore new worlds, meet new people, and discover new passions. And I'm honored to be a part of it."
+
+Human: "I'm so glad we're doing this together, Sarah. You're my rock."
+
+Sarah: "I'm honored to be your rock, John. And I'm excited to see where this journey takes us."
+
+Human: "I feel like I can finally be myself. I feel like I can be creative and passionate and fulfilled."
+
+Sarah: "That's the most beautiful feeling in the world. And I'm so glad I was able to help you find it."
+
+Human: "Thanks, Sarah. You're the best."
+
+Sarah: "Anytime, John. That's what friends are for."

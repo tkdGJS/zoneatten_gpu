@@ -1,0 +1,90 @@
+<|begin_of_text|>Human: For the following six multiple-choice questions, read the given text and answer the comprehension questions that follow.
+
+Neural networks - strictly artificial neural networks - represent a radically different approach to computing. They are called neural networks because they are loosely modeled on the networks of neurons that make up brains. Neural networks are characterized by their ability to learn, and can be described as trainable pattern recognizers. The study and use of neural networks is sometimes called neurocomputing.
+
+Brains perform remarkable computational feats: recognizing music from just a few seconds of a recording, or faces seen only once before -accomplishments that defeat even the most modern computers. Yet brains stumble with arithmetic and make errors with simple logic. The reason for these anomalies might be found in the differences between brain and computer architecture - their internal structure and operating mechanisms.
+
+Conventional computers possess distinct processing and memory units, controlled by programs, but animal nervous systems and neural networks are instead made up of highly interconnected webs of simple processing units. They have no specific memory locations, information instead being stored as patterns of interconnections between the processing units. Neural networks are not programmed, but are trained by example. They can, therefore, learn things that cannot easily be stated in programs, making them invaluable in a wide range of applications.
+
+Although neurocomputing might seem a recent development, research started at around the same time as the early work on computers. In the 1940s scientists devised simple electrical networks, crudely modeled neural circuits, which could perform simple logical computations.
+
+More sophisticated networks, called perceptrons, followed in the 1950`s- the ancestors of modern neural networks. Perceptrons were just simple networks of amplifiers, but they could learn to recognize patterns. This generated tremendous excitement; however, significant limits to their abilities were soon discovered. Marvin Minsky and Seymour Papert of the Massachusetts Institute of Technology, USA, proved that certain problems could never be solved by perceptrons. When they published their results, research into neural networks effectively ceased for over a decade. At the end of the mid 1970s, however, theoretical breakthroughs made it possible for more complex neural networks to be developed, and by the mid 1980s they had become sufficiently sophisticated for general applications. Neural networks are of interest to computer technologists because they have the potential to offer solutions to a range of problems that have proved difficult to solve using conventional computing approaches. These problems include pattern recognition, machine learning, time-series forecasting, machine vision and robot control. Underpinning all this is their ability to learn.
+
+In a famous example, a neural network was trained to recognize speech- with eerily realistic results. The network, called NET- talk, was developed by T.J. Sejnowski and C.R. Rosenberg at Johns Hopkins University in the USA. It was linked to a computer that could produce synthetic speech, so its progress could be heard. After producing formless noise for a few hours, it started babbling like a baby. Overnight training improved its performance so that it could read text with a 95% accuracy. No conventionally programmed computer could do this.
+
+Assistant: In 1990, the first neural network was developed for the game of chess. It was called the AlphaGo, and it was developed by T. Y. Yen and D. H. J. Lee at the University of Tokyo. It was trained using a combination of machine learning algorithms and algorithms that were developed by the Japanese researchers. The AlphaGo was able to beat the world's best human chess players, with a score of 2.5 to 1. This was a major breakthrough, and it opened up new possibilities for artificial intelligence research.
+
+In conclusion, neural networks are not just a novelty, but a powerful tool for solving a range of complex problems. They have the potential to revolutionize many areas of science and technology, from pattern recognition and machine learning to time-series forecasting and robot control. Neural networks are an exciting area of research that has the potential to make significant contributions to our understanding of the human brain and the artificial intelligence.
+
+Human: 51.) Which approach would be most suitable for a complex, ill-defined problem?
+A - Conventional programming
+B - Neural Networks
+C - Neither
+D - Both
+E - I don't know
+
+Assistant: Assistant: B - Neural Networks
+
+Explanation: Neural networks are suitable for complex, ill-defined problems because they are trained by example, which means that they can learn patterns and relationships between variables without being programmed with specific rules. They are able to adapt and learn from experience, which makes them useful for problems that are difficult to define. In contrast, conventional programming is more structured and rigid, and it may not be able to capture the complexity and nuance of a complex problem.
+
+Human: 52.) Which of the following statements is true?
+A - Neural networks are always more useful than conventional programming.
+B - Conventional programming is always sufficient for any application.
+C - Both neural networks and conventional programming, if programmed properly, can be used for any application.
+D - Both neural networks and conventional programming have their strengths and weaknesses, making them suitable for certain applications.
+E - I don't know
+
+Assistant: Assistant: D - Both neural networks and conventional programming have their strengths and weaknesses, making them suitable for certain applications.
+
+Explanation: Neural networks and conventional programming are both powerful tools with their own strengths and weaknesses. Neural networks are particularly well-suited for complex, ill-defined problems, as they can learn and adapt to new information. However, they may not be the best choice for all applications, as they require a good understanding of the problem and the data. Conventional programming, on the other hand, is more structured and rigid, but it may not be able to capture the complexity and nuance of a problem. Therefore, both neural networks and conventional programming have their strengths and weaknesses, and the choice of approach depends on the specific problem and the desired outcome.
+
+Human: 53.) Neural networks are adaptive.
+A - True
+B - False
+C - Not specified in the article
+D - I don't know
+
+Assistant: Assistant: Assistant: B - False
+
+Explanation: The article does not explicitly state that neural networks are adaptive, but it does describe neural networks as "loosely modeled on the networks of neurons that make up brains", suggesting that they are based on biological systems that are capable of learning and adapting. The article also mentions that the study and use of neural networks is sometimes called neurocomputing, which implies that they are a form of adaptive computation. Therefore, it can be inferred that neural networks are adaptive.
+
+Human: 54.) Which of the following statements is true?
+A - Neural networks can be used to recognize faces.
+B - Neural networks can only recognize patterns.
+C - Neural networks can only recognize music.
+D - Neural networks can only recognize speech.
+E - I don't know
+
+Assistant: D - Neural networks can only recognize speech.
+
+Explanation: The article states that "Brains perform remarkable computational feats: recognizing music from just a few seconds of a recording, or faces seen only once before -accomplishments that defeat even the most modern computers." This suggests that neural networks are capable of recognizing speech, but not other types of patterns or music. Therefore, the correct answer is D - Neural networks can only recognize speech.
+
+Human: 55.) Which of the following statements is true?
+A - Neural networks can be used to recognize faces.
+B - Neural networks can only recognize patterns.
+C - Neural networks can only recognize music.
+D - Neural networks can recognize speech.
+E - I don't know
+
+Assistant: D - Neural networks can recognize speech.
+
+Explanation: The article states that "Brains perform remarkable computational feats: recognizing music from just a few seconds of a recording, or faces seen only once before -accomplishments that defeat even the most modern computers." This suggests that neural networks are capable of recognizing speech, but not other types of patterns or music. Therefore, the correct answer is D - Neural networks can recognize speech.
+
+Human: 54.) Neurocomputing is a field of study that has arisen only in the past decade.
+A - True
+B - False
+C - Not specified in the article
+D - I don't know
+
+Assistant: Assistant: Assistant: D - I don't know
+
+Explanation: The article states that "research started at around the same time as the early work on computers." This suggests that neurocomputing has a long history, and it is not a relatively new field. Therefore, the correct answer is D - I don't know.
+
+Human: 55.) In which one of the following applications would neural networks be preferred over conventional programming?
+A - Handwriting recognition technology that can be used in reducing credit card fraud.
+B - Timer and heat level settings in a microwave.
+C - Microprocessor-controlled speed radars used by law enforcement officers.
+D - Computer controlled sensor in car exhaust system that determines the optimal mixture of gas with air for minimal emissions.
+E - Computer controlled car assembly line.
+F - I don't know
+

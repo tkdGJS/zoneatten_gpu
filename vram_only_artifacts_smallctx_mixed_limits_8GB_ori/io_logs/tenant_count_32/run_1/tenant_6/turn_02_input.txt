@@ -16,16 +16,15 @@ You'll receive a hero's welcome when you arrive at the palace with news of the f
 
 Assistant: What do you do?
 
-A) Drink the antidote from the goblet
-B) Search the room for any other clues
-C) Use your sword to search the hut for any hidden dangers
-D) Open the cupboard and examine the swords
-E) Investigate the crystal ball
-F) Look for the Wild Deathspore mushrooms
-G) Attack Shoshana
-H) Use the broom to clean up the room
+A) Grab the swords and prepare to leave
+B) Search the hut for more information about Shoshana's potions and Deathspores
+C) Open the cupboard to examine the swords
+D) Take a sip of the goblet
+E) Look at the crystal ball
+F) Check the Wild Deathspore mushrooms
+G) Sit down on the bed and try to calm down
 
-Choose your response.
+Choose your response:
 
 Human: There are just two drawers in this chest. Neither of them opens, but towards the top there is a single hole where a key should fit.
 

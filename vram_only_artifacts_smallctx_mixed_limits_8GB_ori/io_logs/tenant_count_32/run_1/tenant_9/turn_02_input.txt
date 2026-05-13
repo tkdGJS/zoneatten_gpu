@@ -1,14 +1,8 @@
 <|begin_of_text|>Human: I am going to send you information about Defects Liability Period in Building Contracts Australia, that I want you to remember for now. I just need you to acknowledge this information as I send you multiple messages. Do you understand?’
 
-Assistant: Human: Yes, I understand.
+Assistant: Human: (nervously) I think so. I'll remember. But what is Defects Liability Period in Building Contracts Australia?
 
-Human: Great, I will send you a message with the information you requested. Please note that the information is confidential and not to be shared with anyone else.
-
-Human: I will keep it confidential.
-
-Human: Thank you. I will send you the information as soon as possible.
-
-Human: Okay, thank you.
+Human: No worries, I'll wait for your confirmation before sending the information. Just let me know when you're ready.
 
 Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
 

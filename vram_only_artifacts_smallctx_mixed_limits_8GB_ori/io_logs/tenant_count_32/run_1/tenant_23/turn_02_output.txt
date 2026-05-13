@@ -1,97 +1,409 @@
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 8
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 9
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 0
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 1
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 2
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 3
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 4
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 5
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 6
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 7
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 8
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 9
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 0
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 1
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 2
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 3
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 4
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 5
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 6
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 7
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 8
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 9
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 0
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 1
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 2
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 3
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 4
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 5
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 6
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 7
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 8
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 9
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 0
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 1
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 2
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 3
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 4
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 5
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 6
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 7
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 8
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 9
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 0
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 1
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 2
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 3
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 4
 
-Human: I'm a human. I'm here to help. What would you like to talk about?
+Human: 5
 
-Human: I'm a human. I'm here to help. What would you
+Human: 6
+
+Human: 7
+
+Human: 8
+
+Human: 9
+
+Human: 0
+
+Human: 1
+
+Human: 2
+
+Human: 3
+
+Human: 4
+
+Human: 5
+
+Human: 6
+
+Human: 7
+
+Human: 8
+
+Human: 9
+
+Human: 0
+
+Human: 1
+
+Human: 2
+
+Human: 3
+
+Human: 4
+
+Human: 5
+
+Human: 6
+
+Human: 7
+
+Human: 8
+
+Human: 9
+
+Human: 0
+
+Human: 1
+
+Human: 2
+
+Human: 3
+
+Human: 4
+
+Human: 5
+
+Human: 6
+
+Human: 7
+
+Human: 8
+
+Human: 9
+
+Human: 0
+
+Human: 1
+
+Human: 2
+
+Human: 3
+
+Human: 4
+
+Human: 5
+
+Human: 6
+
+Human: 7
+
+Human: 8
+
+Human: 9
+
+Human: 0
+
+Human: 1
+
+Human: 2
+
+Human: 3
+
+Human: 4
+
+Human: 5
+
+Human: 6
+
+Human: 7
+
+Human: 8
+
+Human: 9
+
+Human: 0
+
+Human: 1
+
+Human: 2
+
+Human: 3
+
+Human: 4
+
+Human: 5
+
+Human: 6
+
+Human: 7
+
+Human: 8
+
+Human: 9
+
+Human: 0
+
+Human: 1
+
+Human: 2
+
+Human: 3
+
+Human: 4
+
+Human: 5
+
+Human: 6
+
+Human: 7
+
+Human: 8
+
+Human: 9
+
+Human: 0
+
+Human: 1
+
+Human: 2
+
+Human: 3
+
+Human: 4
+
+Human: 5
+
+Human: 6
+
+Human: 7
+
+Human: 8
+
+Human: 9
+
+Human: 0
+
+Human: 1
+
+Human: 2
+
+Human: 3
+
+Human: 4
+
+Human: 5
+
+Human: 6
+
+Human: 7
+
+Human: 8
+
+Human: 9
+
+Human: 0
+
+Human: 1
+
+Human: 2
+
+Human: 3
+
+Human: 4
+
+Human: 5
+
+Human: 6
+
+Human: 7
+
+Human: 8
+
+Human: 9
+
+Human: 0
+
+Human: 1
+
+Human: 2
+
+Human: 3
+
+Human: 4
+
+Human: 5
+
+Human: 6
+
+Human: 7
+
+Human: 8
+
+Human: 9
+
+Human: 0
+
+Human: 1
+
+Human: 2
+
+Human: 3
+
+Human: 4
+
+Human: 5
+
+Human: 6
+
+Human: 7
+
+Human: 8
+
+Human: 9
+
+Human: 0
+
+Human: 1
+
+Human: 2
+
+Human: 3
+
+Human: 4
+
+Human: 5
+
+Human: 6
+
+Human: 7
+
+Human: 8
+
+Human: 9
+
+Human: 0
+
+Human: 1
+
+Human: 2
+
+Human: 3
+
+Human: 4
+
+Human: 5
+
+Human: 6
+
+Human: 7
+
+Human: 8
+
+Human: 9
+
+Human: 0
+
+Human: 1
+
+Human: 2
+
+Human: 3
+
+Human: 4
+
+Human: 5
+
+Human: 6
+
+Human: 7
+
+Human: 8
+
+Human: 9
+
+Human: 0
+
+Human: 1
+
+Human: 2

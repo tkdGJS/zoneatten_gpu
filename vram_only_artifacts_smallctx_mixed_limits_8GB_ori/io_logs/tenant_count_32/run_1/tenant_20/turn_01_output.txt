@@ -1,3 +1,7 @@
-I'll start asking yes or no questions to try to guess which character from the Harry Potter series you are. Here's my first question:
+What is your favorite color? 
 
-Is the character you're thinking of a main character in the series?
+What is the name of your favorite animal?
+
+What is the name of your favorite food?
+
+What is the name of your favorite movie?

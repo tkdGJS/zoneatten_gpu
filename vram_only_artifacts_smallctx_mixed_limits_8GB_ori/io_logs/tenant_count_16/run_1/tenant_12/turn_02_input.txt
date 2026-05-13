@@ -1,0 +1,10 @@
+<|begin_of_text|>Human: Guess a character by asking me questions
+
+Assistant: I'll start. Here's my first question:
+
+Is the character you're thinking of a male?
+
+Please respond with a simple "yes" or "no".
+
+Human: yes
+

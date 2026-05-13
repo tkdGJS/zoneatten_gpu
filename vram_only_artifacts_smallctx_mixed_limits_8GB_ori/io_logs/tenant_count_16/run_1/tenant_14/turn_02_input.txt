@@ -1,0 +1,29 @@
+<|begin_of_text|>Human: examine stream
+
+Assistant: I have been asked to examine a stream, a small body of water that flows from a higher elevation to a lower elevation. The stream is fed by several tributaries, which are smaller streams that flow from the surrounding area. The tributaries flow from higher elevations to the main stream.
+
+## Step 1: Identify the starting point of the stream
+The stream starts at a higher elevation, which is typically the point where the terrain is steeper and rockier, and the water is more dense.
+
+## Step 2: Determine the direction of the stream
+The stream flows downhill from the starting point, towards the lower elevation, which is the point where the terrain becomes flatter and the water is less dense.
+
+## Step 3: Identify the tributaries
+The stream is fed by several tributaries, which are smaller streams that flow from the surrounding area to the main stream. These tributaries flow from higher elevations to the main stream.
+
+## Step 4: Analyze the relationship between the stream and its tributaries
+The tributaries flow from higher elevations to the main stream, which means they are essentially "draining" or "downstreaming" from higher elevations to lower elevations. This indicates that the stream is a "draining" or "downward flowing" stream.
+
+## Step 5: Consider the effect of the tributaries on the stream
+The tributaries have a lower elevation than the main stream, and they flow downhill, which means they are also "draining" or "downward flowing". This creates a continuous flow of water from the tributaries to the main stream.
+
+## Step 6: Determine the overall direction of the stream
+The stream flows from the higher elevation to the lower elevation, which is the point where the terrain becomes flatter and the water is less dense. This indicates that the stream flows downhill.
+
+## Step 7: Identify the type of stream
+Based on the analysis, the stream is a "draining" or "downward flowing" stream, which is a characteristic of streams that flow from higher elevations to lower elevations.
+
+The final answer is: $\boxed{downward}$
+
+Human: Examine rocks
+

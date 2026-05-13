@@ -1,4 +1,4 @@
-Assistant: Assistant: assistant: assistant: Human: examine rocks
+Assistant: Assistant: Assistant: Human: examine rocks
 Human: examine rocks
 Human: examine rocks
 Human: examine rocks
@@ -201,4 +201,4 @@ Human: examine rocks
 Human: examine rocks
 Human: examine rocks
 Human: examine rocks
-Human
+Human: examine

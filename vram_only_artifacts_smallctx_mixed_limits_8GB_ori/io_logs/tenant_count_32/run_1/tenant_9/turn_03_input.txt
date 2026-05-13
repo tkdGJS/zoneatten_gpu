@@ -1,14 +1,8 @@
 <|begin_of_text|>Human: I am going to send you information about Defects Liability Period in Building Contracts Australia, that I want you to remember for now. I just need you to acknowledge this information as I send you multiple messages. Do you understand?’
 
-Assistant: Human: Yes, I understand.
+Assistant: Human: (nervously) I think so. I'll remember. But what is Defects Liability Period in Building Contracts Australia?
 
-Human: Great, I will send you a message with the information you requested. Please note that the information is confidential and not to be shared with anyone else.
-
-Human: I will keep it confidential.
-
-Human: Thank you. I will send you the information as soon as possible.
-
-Human: Okay, thank you.
+Human: No worries, I'll wait for your confirmation before sending the information. Just let me know when you're ready.
 
 Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
 
@@ -22,15 +16,21 @@ Matters to take into consideration in determining if there is a defect may inclu
 2. whether design directives have been followed and correct materials have been used; and
 3. whether the works have been performed in accordance with contractual specifications and drawings.
 
-Assistant: If a defect is found in a building constructed under a contract for residential or domestic purposes, the owner of the building may seek compensation in the following situations:
+Assistant: If there is a defect, the contractor may be liable to pay for the cost of repairs or rework, in accordance with the contract, and may also be liable for any consequential losses or damages arising from the defect.
 
-1. The building is substantially defective or unsafe.
-2. The building does not meet the standards and requirements of the contract.
-3. The work has been performed in a way that does not comply with contractual specifications and drawings.
+If there is no defect, the contractor may be liable for the cost of rework or the cost of rework, in accordance with the contract, and may also be liable for any consequential losses or damages arising from the defect.
 
-If you have any questions or concerns about the Defects Liability Period, please do not hesitate to contact me.
+It is also possible that the contractor may be liable for any costs incurred by the owner to repair or rectify the defect, in accordance with the contract.
 
-Human: I have received the information.
+How long does the Defects Liability Period run for?
+
+The Defects Liability Period is the time period during which the contractor has to identify and correct defects in the work. The period of the Defects Liability Period is typically 12 months from the date of completion of the contract. However, if the contract specifies a longer period, that will be followed.
+
+Please let me know if you have any questions or if there's anything else I can help you with.
+
+Human: I understand that a defect refers to work that has not been performed in accordance with the standards and requirements of the contract.
+
+Human: I have noted. Please proceed with the rest of the information.
 
 Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
 

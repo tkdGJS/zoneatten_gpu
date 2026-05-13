@@ -1,0 +1,3 @@
+Assistant: B - Neural Networks
+
+Explanation: Neural networks are suitable for complex, ill-defined problems because they are trained by example, which means that they can learn patterns and relationships between variables without being programmed with specific rules. They are able to adapt and learn from experience, which makes them useful for problems that are difficult to define. In contrast, conventional programming is more structured and rigid, and it may not be able to capture the complexity and nuance of a complex problem.

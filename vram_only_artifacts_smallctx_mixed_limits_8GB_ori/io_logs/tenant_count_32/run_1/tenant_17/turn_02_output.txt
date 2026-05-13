@@ -1,7 +1,1 @@
-Person: "Ha ha, I know, right? I'm so glad we're finally doing something fun together."
-
-Human: "Me too. I'm just excited to see where this adventure takes us."
-
-Person: "I know, me too. Let's just enjoy the moment and not worry about a thing."
-
-Human: "Sounds like a plan to me."
+Human: Haha, nice one. I love how you always make me laugh.

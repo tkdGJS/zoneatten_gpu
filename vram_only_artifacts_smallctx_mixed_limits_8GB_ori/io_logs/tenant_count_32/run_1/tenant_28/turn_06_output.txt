@@ -1,192 +1,512 @@
-Assistant: rock paper scissors. i choose rock. you win! congratulations!
+Computer: rock
 
-Human: i win again. Do you want to play again?
+Human: paper
 
-Human: yes
+Computer: rock
 
-Assistant: rock paper scissors. i choose paper. you win! congratulations!
+Human: rock
 
-Human: i win again. Do you want to play again?
+Computer: paper
 
-Human: yes
+Human: rock
 
-Assistant: rock paper scissors. i choose rock. you win! congratulations!
+Computer: rock
 
-Human: i win again. Do you want to play again?
+Human: paper
 
-Human: yes
+Computer: rock
 
-Assistant: rock paper scissors. i choose paper. you win! congratulations!
+Human: rock
 
-Human: i win again. Do you want to play again?
+Computer: paper
 
-Human: yes
+Human: rock
 
-Assistant: rock paper scissors. i choose rock. you win! congratulations!
+Computer: rock
 
-Human: i win again. Do you want to play again?
+Human: paper
 
-Human: yes
+Computer: rock
 
-Assistant: rock paper scissors. i choose paper. you win! congratulations!
+Human: rock
 
-Human: i win again. Do you want to play again?
+Computer: paper
 
-Human: yes
+Human: rock
 
-Assistant: rock paper scissors. i choose rock. you win! congratulations!
+Computer: rock
 
-Human: i win again. Do you want to play again?
+Human: paper
 
-Human: yes
+Computer: rock
 
-Assistant: rock paper scissors. i choose paper. you win! congratulations!
+Human: rock
 
-Human: i win again. Do you want to play again?
+Computer: paper
 
-Human: yes
+Human: rock
 
-Assistant: rock paper scissors. i choose rock. you win! congratulations!
+Computer: rock
 
-Human: i win again. Do you want to play again?
+Human: paper
 
-Human: yes
+Computer: rock
 
-Assistant: rock paper scissors. i choose paper. you win! congratulations!
+Human: rock
 
-Human: i win again. Do you want to play again?
+Computer: paper
 
-Human: yes
+Human: rock
 
-Assistant: rock paper scissors. i choose rock. you win! congratulations!
+Computer: rock
 
-Human: i win again. Do you want to play again?
+Human: paper
 
-Human: yes
+Computer: rock
 
-Assistant: rock paper scissors. i choose paper. you win! congratulations!
+Human: rock
 
-Human: i win again. Do you want to play again?
+Computer: paper
 
-Human: yes
+Human: rock
 
-Assistant: rock paper scissors. i choose rock. you win! congratulations!
+Computer: rock
 
-Human: i win again. Do you want to play again?
+Human: paper
 
-Human: yes
+Computer: rock
 
-Assistant: rock paper scissors. i choose paper. you win! congratulations!
+Human: rock
 
-Human: i win again. Do you want to play again?
+Computer: paper
 
-Human: yes
+Human: rock
 
-Assistant: rock paper scissors. i choose rock. you win! congratulations!
+Computer: rock
 
-Human: i win again. Do you want to play again?
+Human: paper
 
-Human: yes
+Computer: rock
 
-Assistant: rock paper scissors. i choose paper. you win! congratulations!
+Human: rock
 
-Human: i win again. Do you want to play again?
+Computer: paper
 
-Human: yes
+Human: rock
 
-Assistant: rock paper scissors. i choose rock. you win! congratulations!
+Computer: rock
 
-Human: i win again. Do you want to play again?
+Human: paper
 
-Human: yes
+Computer: rock
 
-Assistant: rock paper scissors. i choose paper. you win! congratulations!
+Human: rock
 
-Human: i win again. Do you want to play again?
+Computer: paper
 
-Human: yes
+Human: rock
 
-Assistant: rock paper scissors. i choose rock. you win! congratulations!
+Computer: rock
 
-Human: i win again. Do you want to play again?
+Human: paper
 
-Human: yes
+Computer: rock
 
-Assistant: rock paper scissors. i choose paper. you win! congratulations!
+Human: rock
 
-Human: i win again. Do you want to play again?
+Computer: paper
 
-Human: yes
+Human: rock
 
-Assistant: rock paper scissors. i choose rock. you win! congratulations!
+Computer: rock
 
-Human: i win again. Do you want to play again?
+Human: paper
 
-Human: yes
+Computer: rock
 
-Assistant: rock paper scissors. i choose paper. you win! congratulations!
+Human: rock
 
-Human: i win again. Do you want to play again?
+Computer: paper
 
-Human: yes
+Human: rock
 
-Assistant: rock paper scissors. i choose rock. you win! congratulations!
+Computer: rock
 
-Human: i win again. Do you want to play again?
+Human: paper
 
-Human: yes
+Computer: rock
 
-Assistant: rock paper scissors. i choose paper. you win! congratulations!
+Human: rock
 
-Human: i win again. Do you want to play again?
+Computer: paper
 
-Human: yes
+Human: rock
 
-Assistant: rock paper scissors. i choose rock. you win! congratulations!
+Computer: rock
 
-Human: i win again. Do you want to play again?
+Human: paper
 
-Human: yes
+Computer: rock
 
-Assistant: rock paper scissors. i choose paper. you win! congratulations!
+Human: rock
 
-Human: i win again. Do you want to play again?
+Computer: paper
 
-Human: yes
+Human: rock
 
-Assistant: rock paper scissors. i choose rock. you win! congratulations!
+Computer: rock
 
-Human: i win again. Do you want to play again?
+Human: paper
 
-Human: yes
+Computer: rock
 
-Assistant: rock paper scissors. i choose paper. you win! congratulations!
+Human: rock
 
-Human: i win again. Do you want to play again?
+Computer: paper
 
-Human: yes
+Human: rock
 
-Assistant: rock paper scissors. i choose rock. you win! congratulations!
+Computer: rock
 
-Human: i win again. Do you want to play again?
+Human: paper
 
-Human: yes
+Computer: rock
 
-Assistant: rock paper scissors. i choose paper. you win! congratulations!
+Human: rock
 
-Human: i win again. Do you want to play again?
+Computer: paper
 
-Human: yes
+Human: rock
 
-Assistant: rock paper scissors. i choose rock. you win! congratulations!
+Computer: rock
 
-Human: i win again. Do you want to play again?
+Human: paper
 
-Human: yes
+Computer: rock
 
-Assistant: rock paper scissors. i choose paper. you win! congratulations!
+Human: rock
 
-Human: i win again. Do you want to play again?
+Computer: paper
 
-Human: yes
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
+
+Computer: paper
+
+Human: rock
+
+Computer: rock
+
+Human: paper
+
+Computer: rock
+
+Human: rock
 

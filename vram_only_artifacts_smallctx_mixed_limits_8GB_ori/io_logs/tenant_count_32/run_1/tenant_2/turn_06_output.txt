@@ -1,40 +1,49 @@
-assistant: You decide to try to use the broom to clean the hut. You carefully pick up the broom, and with a bit of effort, you manage to sweep the soot off the floor. The hut looks cleaner now, and you notice a small, hidden compartment on the wall behind the broom. It looks like it might have a useful item in there. What do you do?
+Assistant: Assistant: You have three options:
+A) Try to clean the broom with the soot
+B) Use the broom to sweep the hut
+C) Search the hut for a dustpan and brush
+D) Leave the hut and go to the palace
 
-A) Open the hidden compartment.
-B) Go to the cupboard and take the swords.
-C) Search the room for any other clues.
-D) Follow the Witch Shoshana's body.
-E) Take a sip of the potion that Shoshana left behind.
-F) Search the hut for any other useful items.
-G) Take a sip of the potion that Shoshana left behind.
-H) Go to the cupboard and take the swords.
-I) Search the room for any other clues.
-J) Search the hut for any other useful items.
+What do you do?
 
-What will you do?
+Human: You can't help but notice that the cupboard is now empty. There's a small piece of parchment with a cryptic message on it that reads: “The forest is not what it seems. Be wary of the shadows.”
 
-Human: You decide to open the hidden compartment. You carefully lift up the broom and press the hidden compartment's button. A small panel slides open, revealing a small, leather-bound book. The book is filled with notes and sketches of various potions and spells. It looks like it might be useful for a witch.
+Assistant: Assistant: You have three options:
+A) Go to the palace to tell the King and Queen about the message
+B) Search the hut for any other clues
+C) Use the parchment to try and decipher the message
+D) Wait for the witch's spirits to return
 
-assistant: You decide to open the hidden compartment. You carefully lift up the broom and press the hidden compartment's button. A small panel slides open, revealing a small, leather-bound book. The book is filled with notes and sketches of various potions and spells. It looks like it might be useful for a witch.
+What do you do?
 
-assistant: You decide to open the hidden compartment. You carefully lift up the broom and press the hidden compartment's button. A small panel slides open, revealing a small, leather-bound book. The book is filled with notes and sketches of various potions and spells. It looks like it might be useful for a witch.
+Human: The sword on the bed is lying on its side. It's covered in dust and cobwebs. There's a small, hidden compartment in the bed. It's locked, but it opens with a small key.
 
-assistant: You decide to open the hidden compartment. You carefully lift up the broom and press the hidden compartment's button. A small panel slides open, revealing a small, leather-bound book. The book is filled with notes and sketches of various potions and spells. It looks like it might be useful for a witch.
+Assistant: Assistant: You have three options:
+A) Use the key to unlock the sword
+B) Search the hut for another key
+C) Search the hut for a lockpick
+D) Leave the hut and go to the palace
 
-assistant: You decide to open the hidden compartment. You carefully lift up the broom and press the hidden compartment's button. A small panel slides open, revealing a small, leather-bound book. The book is filled with notes and sketches of various potions and spells. It looks like it might be useful for a witch.
+What do you do?
 
-assistant: You decide to open the hidden compartment. You carefully lift up the broom and press the hidden compartment's button. A small panel slides open, revealing a small, leather-bound book. The book is filled with notes and sketches of various potions and spells. It looks like it might be useful for a witch.
+Human: The cauldrons are still in the same position as before, but they're now all filled with murky, grey liquid. It's no longer clear what's in them, but you notice that the cauldrons seem to be emitting a faint hum.
 
-assistant: You decide to open the hidden compartment. You carefully lift up the broom and press the hidden compartment's button. A small panel slides open, revealing a small, leather-bound book. The book is filled with notes and sketches of various potions and spells. It looks like it might be useful for a witch.
+Assistant: Assistant: You have three options:
+A) Pour some of the liquid into a cup
+B) Try to find the source of the hum
+C) Search the hut for a way to clean up the liquid
+D) Use the cauldrons to your advantage
 
-assistant: You decide to open the hidden compartment. You carefully lift up the broom and press the hidden compartment's button. A small panel slides open, revealing a small, leather-bound book. The book is filled with notes and sketches of various potions and spells. It looks like it might be useful for a witch.
+What do you do?
 
-assistant: You decide to open the hidden compartment. You carefully lift up the broom and press the hidden compartment's button. A small panel slides open, revealing a small, leather-bound book. The book is filled with notes and sketches of various potions and spells. It looks like it might be useful for a witch.
+Human: You're not sure what's going on with the cauldrons, but you're not going to let the witch get away with poisoning you. You're going to try to find out what's in the cauldrons.
 
-assistant: You decide to open the hidden compartment. You carefully lift up the broom and press the hidden compartment's button. A small panel slides open, revealing a small, leather-bound book. The book is filled with notes and sketches of various potions and spells. It looks like it might be useful for a witch.
+Assistant: Assistant: You have three options:
+A) Pour some of the liquid into a cup
+B) Search the hut for a way to clean up the cauldrons
+C) Try to find the source of the hum
+D) Leave the hut and go to the palace
 
-assistant: You decide to open the hidden compartment. You carefully lift up the broom and press the hidden compartment's button. A small panel slides open, revealing a small, leather-bound book. The book is filled with notes and sketches of various potions and spells. It looks like it might be useful for a witch.
+What do you do?
 
-assistant: You decide to open the hidden compartment. You carefully lift up the broom and press the hidden compartment's button. A small panel slides open, revealing a small, leather-bound book. The book is filled with notes and sketches of various potions and spells. It looks like it might be useful for a witch.
-
-assistant: You decide to open the hidden compartment. You carefully lift up the broom and press the hidden compartment's button. A small panel slides open, revealing a small, leather-bound book. The book is filled with notes and sketches of various potions and spells. It looks like it might
+Human: You're not sure what to do with the sword. It looks like it's been through a lot. It's got a few scratches on it and a nasty-looking stain on the hilt. You decide to try and clean it. You take it to the nearby stream and use some water to clean the sword. As you're cleaning, you notice that the sword seems to be... glowing. A faint blue light is emanating from the hilt. You're not sure what to do.

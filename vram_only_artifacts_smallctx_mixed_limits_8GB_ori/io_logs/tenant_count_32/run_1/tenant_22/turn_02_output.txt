@@ -1,4 +1,3 @@
-assistant: Human: examine rocks
 Human: examine rocks
 Human: examine rocks
 Human: examine rocks
@@ -202,4 +201,5 @@ Human: examine rocks
 Human: examine rocks
 Human: examine rocks
 Human: examine rocks
-Human:
+Human: examine rocks
+Human: examine rocks

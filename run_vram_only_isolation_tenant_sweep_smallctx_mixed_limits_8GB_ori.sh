@@ -249,7 +249,7 @@ for tenant_count in "${TENANT_VALUES[@]}"; do
         VLLM_MAX_NUM_SEQS="${MAX_NUM_SEQS}" \
         VLLM_DISABLE_PREFIX_CACHING=0 \
         VLLM_MAX_MODEL_LEN=24576 \
-        VLLM_MAX_NUM_BATCHED_TOKENS=32768 \
+        VLLM_MAX_NUM_BATCHED_TOKENS=16384 \
         VLLM_EXTRA_ARGS="--attention-backend TRITON_ATTN" \
         "${ROOT_DIR}/start_vllm.sh" --port "${PORT}"
     ) >>"${run_log}" 2>&1 &

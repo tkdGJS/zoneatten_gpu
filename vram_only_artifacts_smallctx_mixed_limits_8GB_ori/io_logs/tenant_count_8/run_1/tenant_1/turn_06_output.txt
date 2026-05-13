@@ -1,0 +1,10 @@
+Assistant: Explanation: The correct answer is D - Computer controlled sensor in car exhaust system that determines the optimal mixture of gas with air for minimal emissions. The article mentions that neural networks can be trained to recognize patterns and make predictions, which suggests that they could be used in applications where pattern recognition is required. The article also mentions that neural networks can be used for tasks such as speech recognition, machine learning, and time-series forecasting, which are all relevant to the field of car exhaust system optimization. The article does not mention handwriting recognition technology, timer and heat level settings, or computer-controlled speed radars used by law enforcement officers, which are not relevant to the field of car exhaust system optimization. Therefore, the correct answer is D - Computer controlled sensor in car exhaust system that determines the optimal mixture of gas with air for minimal emissions.
+
+Human: 56.) What is the main reason why neural networks are considered a radical departure from conventional computing approaches?
+A - Because they are more complex
+B - Because they are more powerful
+C - Because they are more flexible
+D - Because they are more efficient
+E - Because they are more reliable
+
+Assistant: Explanation: The correct answer is A - Because they are more complex. The article states that neural networks are "loosely modeled on the networks of neurons that make up brains", which implies that they are more complex and have a more intricate structure than conventional computing approaches. The article also mentions that neural networks are "trained by example" and that they "can learn things that cannot easily be stated in programs", which suggests that they are more flexible and adaptable than conventional computing approaches. The article does not mention that neural networks are more powerful or more efficient, or that they are more reliable. Therefore, the main reason why neural networks are considered a radical departure from conventional computing approaches is that they are more complex.

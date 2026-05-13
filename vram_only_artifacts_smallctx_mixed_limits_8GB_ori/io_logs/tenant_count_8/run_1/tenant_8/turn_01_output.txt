@@ -1,0 +1,3 @@
+I'll think of a character, and you try to guess who it is by asking yes or no questions. Here's my first question:
+
+Is the character you're thinking of male?

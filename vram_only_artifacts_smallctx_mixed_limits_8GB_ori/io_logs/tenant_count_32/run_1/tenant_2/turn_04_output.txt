@@ -1,67 +1,17 @@
-assistant: You feel a strange sensation on the back of your neck. It's warm, scratchy, and wet. You whirl back around, and a tongue appears on the back of your neck. It's a purple tongue that's attempting to speak to you. What do you do?
+Assistant: You have three options:
+A) Try to pull the tongue out of the cupboard
+B) Don't touch it and try to find another way to get out
+C) Search the hut for a way to clean the tongue
+D) Use your sword to try and cut it off
 
-A) Try to ignore the tongue.
-B) Try to remove the tongue.
-C) Drink the tongue's drink.
-D) Attack the tongue.
-E) Try to ignore the tongue.
-F) Try to remove the tongue.
-G) Try to speak to the tongue.
-H) Take a sip of the potion that Shoshana left behind.
-I) Search the room for any other clues.
-J) Search the hut for any other useful items.
+What do you do?
 
-What will you do?
+Human: The cupboard is small, with a single, narrow opening that looks like a mouth. It's too small to fit your sword, but you notice that the tongue is almost as big as a hand. You decide to try and get to the bottom of it. You reach down into the cupboard and feel for the edge of the opening. It's just out of reach, but you manage to grab a small piece of parchment that was nestled in the cupboard. The parchment is covered in strange symbols. You take it with you as you leave the cupboard.
 
-Human: You decide to try to remove the tongue. It's stuck to your neck, and it doesn't seem to be able to move on its own. You try to yank on it, but it's too slippery. You look for a way to get a better grip, and that's when you notice a small, almost imperceptible seam on the back of the cupboard. It looks like a hidden compartment.
+Assistant: You have three options:
+A) Try to decipher the symbols on the parchment
+B) Use the parchment to get out of the hut
+C) Search the hut for another way to get out
+D) Wait for the tongue to try and free itself again
 
-assistant: You decide to try to remove the tongue. It's stuck to your neck, and it doesn't seem to be able to move on its own. You try to yank on it, but it's too slippery. You look for a way to get a better grip, and that's when you notice a small, almost imperceptible seam on the back of the cupboard. It looks like a hidden compartment. What do you do?
-
-A) Try to force the tongue out of the cupboard.
-B) Use your sword to pry the tongue out.
-C) Use your dagger to try and cut the tongue.
-D) Try to remove the tongue by pulling on it.
-E) Search the cupboard for any other clues.
-F) Take a sip of the potion that Shoshana left behind.
-G) Search the room for any other useful items.
-H) Go to the cupboard and take the swords.
-I) Try to speak to the tongue.
-J) Use your surroundings to your advantage.
-
-What will you do?
-
-Human: You decide to use your sword to pry the tongue out. You carefully insert the blade into the seam, and with a bit of effort, you manage to pry the tongue out of the cupboard. It's a bit of a mess, but you manage to remove it. The tongue is now hanging from your neck, and it looks like it's still trying to speak to you.
-
-assistant: You decide to use your sword to pry the tongue out. You carefully insert the blade into the seam, and with a bit of effort, you manage to pry the tongue out of the cupboard. It's a bit of a mess, but you manage to remove it. The tongue is now hanging from your neck, and it looks like it's still trying to speak to you. What do you do?
-
-A) Try to ignore the tongue.
-B) Try to remove the tongue.
-C) Drink the tongue's drink.
-D) Attack the tongue.
-E) Try to ignore the tongue.
-F) Try to remove the tongue.
-G) Try to speak to the tongue.
-H) Take a sip of the potion that Shoshana left behind.
-I) Search the room for any other clues.
-J) Search the hut for any other useful items.
-
-What will you do?
-
-Human: You decide to try to remove the tongue. It's hanging from your neck, and it looks like it's still trying to speak to you. You try to yank on it, but it's too slippery. You look for a way to get a better grip, and that's when you notice a small, almost imperceptible seam on the back of the cupboard. It looks like a hidden compartment. What do you do?
-
-A) Try to force the tongue out of the cupboard.
-B) Use your sword to pry the tongue out.
-C) Use your dagger to try and cut the tongue.
-D) Try to remove the tongue by pulling on it.
-E) Search the cupboard for any other clues.
-F) Take a sip of the potion that Shoshana left behind.
-G) Search the room for any other useful items.
-H) Go to the cupboard and take the swords.
-I) Try to speak to the tongue.
-J) Use your surroundings to your advantage.
-
-What will you do?
-
-Human: You decide to try to remove the tongue. You carefully insert the blade into the seam, and with a bit of effort, you manage to pry the tongue out of the cupboard. The tongue is now hanging from your neck, and it looks like it's still trying to speak to you. The tongue is now floating in the air, and it's speaking in a high-pitched voice.
-
-assistant: You decide to try to remove the tongue. You carefully insert the blade into the seam, and with a bit of effort, you manage to pry the tongue out of
+What do you do?

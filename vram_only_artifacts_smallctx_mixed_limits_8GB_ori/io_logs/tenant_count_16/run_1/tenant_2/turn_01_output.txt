@@ -1,0 +1,9 @@
+What do you do? 
+
+A) Drink the poison to save yourself
+B) Search the hut for any remaining potions or antidotes
+C) Use your sword to fight Shoshana
+D) Attack the cauldrons and brews
+E) Search the hut for any other clues or useful items
+
+Choose your response.

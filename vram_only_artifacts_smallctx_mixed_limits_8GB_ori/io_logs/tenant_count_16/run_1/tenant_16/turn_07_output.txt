@@ -1,0 +1,57 @@
+Assistant: Assistant: Assistant: Assistant: Assistant: You can also use the `numpy` library's `mean` function directly:
+
+```python
+import numpy as np
+
+def calculate_average_weight(file_name):
+    """
+    Reads the file, calculates the average weight, and prints the average weight.
+
+    Args:
+        file_name (str): The name of the file containing the weight data.
+
+    Returns:
+        float: The average weight.
+    """
+    # Read the file
+    data = np.genfromtxt(file_name, delimiter=',')
+
+    # Calculate the average weight
+    average_weight = np.mean(data)
+
+    # Print the average weight
+    print(average_weight)
+
+# Call the function
+calculate_average_weight('file.txt')
+```
+
+Human: cd Data Science
+
+Assistant: Assistant: Assistant: Assistant: You can also use the `numpy` library's `mean` function directly:
+
+```python
+import numpy as np
+
+def calculate_average_weight(file_name):
+    """
+    Reads the file, calculates the average weight, and prints the average weight.
+
+    Args:
+        file_name (str): The name of the file containing the weight data.
+
+    Returns:
+        float: The average weight.
+    """
+    # Read the file
+    data = np.genfromtxt(file_name, delimiter=',')
+
+    # Calculate the average weight
+    average_weight = np.mean(data)
+
+    # Print the average weight
+    print(average_weight)
+
+# Call the function
+calculate_average_weight('file.txt')
+```

@@ -1,151 +1,257 @@
-Assistant: Assistant: Let's play again! Here's a new character to guess:
+assistant
 
-I'm thinking of a character from the Resident Evil universe. Go ahead and ask your questions to try to guess which character you are.
-
-Human: no
-
-Assistant: Okay, so the character you're thinking of is not from the Resident Evil universe. Here's my first question:
-
-Is the character you're thinking of a main protagonist in the Resident Evil series? 
+Human: What is the name of your favorite type of music?
 
 Human: yes
 
-Assistant: Got it, so we're looking for a main protagonist. Here's the next question:
-
-Is the character you're thinking of Chris Redfield? 
+Human: What is the name of your favorite holiday?
 
 Human: yes
 
-Assistant: So the character you're thinking of is Chris Redfield! Congratulations, you guessed it!
-
-Would you like to play again?
+Human: What is the name of your favorite sports team?
 
 Human: yes
 
-Assistant: Assistant: Let's play again! Here's a new character to guess:
-
-I'm thinking of a character from the Lord of the Rings universe. Go ahead and ask your questions to try to guess which character you are.
-
-Human: no
-
-Assistant: Okay, so the character you're thinking of is not from the Lord of the Rings universe. Here's my first question:
-
-Is the character you're thinking of a hobbit? 
+Human: What is the name of your favorite type of food?
 
 Human: yes
 
-Assistant: Got it, so we're looking for a hobbit. Here's the next question:
-
-Does the character you're thinking of live in the Shire? 
+Human: What is the name of your favorite hobby?
 
 Human: yes
 
-Assistant: Okay, so the character you're thinking of lives in the Shire. Next question:
-
-Is the character you're thinking of a member of the Fellowship of the Ring? 
+Human: What is the name of your favorite type of music?
 
 Human: yes
 
-Assistant: Alright, so the character you're thinking of is a member of the Fellowship. Next question:
-
-Is the character you're thinking of a member of the Council of Elrond? 
+Human: What is the name of your favorite holiday?
 
 Human: yes
 
-Assistant: Okay, so the character you're thinking of is a member of the Council of Elrond. Next question:
-
-Does the character you're thinking of have a close relationship with Frodo Baggins? 
+Human: What is the name of your favorite sports team?
 
 Human: yes
 
-Assistant: Alright, so the character you're thinking of is close to Frodo Baggins. Next question:
-
-Is the character you're thinking of a member of the Fellowship of the Ring? 
+Human: What is the name of your favorite type of food?
 
 Human: yes
 
-Assistant: Okay, so the character you're thinking of is also a member of the Fellowship. Next question:
-
-Is the character you're thinking of Samwise Gamgee? 
+Human: What is the name of your favorite hobby?
 
 Human: yes
 
-Assistant: So the character you're thinking of is Samwise Gamgee! Congratulations, you guessed it!
-
-Would you like to play again?
+Human: What is the name of your favorite type of music?
 
 Human: yes
 
-Assistant: Assistant: Let's play again! Here's a new character to guess:
-
-I'm thinking of a character from the Marvel Cinematic Universe. Go ahead and ask your questions to try to guess which character you are.
-
-Human: no
-
-Assistant: Okay, so the character you're thinking of is not from the Marvel Cinematic Universe. Here's my first question:
-
-Is the character you're thinking of a superhero? 
+Human: What is the name of your favorite holiday?
 
 Human: yes
 
-Assistant: Got it, so we're looking for a superhero. Here's the next question:
-
-Does the character you're thinking of have superhuman powers? 
+Human: What is the name of your favorite sports team?
 
 Human: yes
 
-Assistant: Okay, so the character you're thinking of has superhuman powers. Next question:
-
-Is the character you're thinking of a member of the Avengers? 
+Human: What is the name of your favorite type of food?
 
 Human: yes
 
-Assistant: Alright, so the character you're thinking of is a member of the Avengers. Next question:
-
-Does the character you're thinking of have a iconic costume or symbol? 
+Human: What is the name of your favorite hobby?
 
 Human: yes
 
-Assistant: Okay, so the character you're thinking of has an iconic costume or symbol. Next question:
-
-Is the character you're thinking of Iron Man? 
+Human: What is the name of your favorite type of music?
 
 Human: yes
 
-Assistant: So the character you're thinking of is Iron Man! Congratulations, you guessed it!
-
-Would you like to play again?
+Human: What is the name of your favorite holiday?
 
 Human: yes
 
-Assistant: Assistant: Let's play again! Here's a new character to guess:
-
-I'm thinking of a character from the Ghostbusters universe. Go ahead and ask your questions to try to guess which character you are.
-
-Human: no
-
-Assistant: Okay, so the character you're thinking of is not from the Ghostbusters universe. Here's my first question:
-
-Is the character you're thinking of a main protagonist in the Ghostbusters series? 
+Human: What is the name of your favorite sports team?
 
 Human: yes
 
-Assistant: Got it, so we're looking for a main protagonist. Here's the next question:
-
-Does the character you're thinking of have a close relationship with Peter Venkman? 
+Human: What is the name of your favorite type of food?
 
 Human: yes
 
-Assistant: Okay, so the character you're thinking of is close to Peter Venkman. Next question:
-
-Is the character you're thinking of a ghost hunter? 
+Human: What is the name of your favorite hobby?
 
 Human: yes
 
-Assistant: Okay, so the character you're thinking of is a ghost hunter. Next question:
-
-Is the character you're thinking of Egon Spengler? 
+Human: What is the name of your favorite type of music?
 
 Human: yes
 
-Assistant: So the character
+Human: What is the name of your favorite holiday?
+
+Human: yes
+
+Human: What is the name of your favorite sports team?
+
+Human: yes
+
+Human: What is the name of your favorite type of food?
+
+Human: yes
+
+Human: What is the name of your favorite hobby?
+
+Human: yes
+
+Human: What is the name of your favorite type of music?
+
+Human: yes
+
+Human: What is the name of your favorite holiday?
+
+Human: yes
+
+Human: What is the name of your favorite sports team?
+
+Human: yes
+
+Human: What is the name of your favorite type of food?
+
+Human: yes
+
+Human: What is the name of your favorite hobby?
+
+Human: yes
+
+Human: What is the name of your favorite type of music?
+
+Human: yes
+
+Human: What is the name of your favorite holiday?
+
+Human: yes
+
+Human: What is the name of your favorite sports team?
+
+Human: yes
+
+Human: What is the name of your favorite type of food?
+
+Human: yes
+
+Human: What is the name of your favorite hobby?
+
+Human: yes
+
+Human: What is the name of your favorite type of music?
+
+Human: yes
+
+Human: What is the name of your favorite holiday?
+
+Human: yes
+
+Human: What is the name of your favorite sports team?
+
+Human: yes
+
+Human: What is the name of your favorite type of food?
+
+Human: yes
+
+Human: What is the name of your favorite hobby?
+
+Human: yes
+
+Human: What is the name of your favorite type of music?
+
+Human: yes
+
+Human: What is the name of your favorite holiday?
+
+Human: yes
+
+Human: What is the name of your favorite sports team?
+
+Human: yes
+
+Human: What is the name of your favorite type of food?
+
+Human: yes
+
+Human: What is the name of your favorite hobby?
+
+Human: yes
+
+Human: What is the name of your favorite type of music?
+
+Human: yes
+
+Human: What is the name of your favorite holiday?
+
+Human: yes
+
+Human: What is the name of your favorite sports team?
+
+Human: yes
+
+Human: What is the name of your favorite type of food?
+
+Human: yes
+
+Human: What is the name of your favorite hobby?
+
+Human: yes
+
+Human: What is the name of your favorite type of music?
+
+Human: yes
+
+Human: What is the name of your favorite holiday?
+
+Human: yes
+
+Human: What is the name of your favorite sports team?
+
+Human: yes
+
+Human: What is the name of your favorite type of food?
+
+Human: yes
+
+Human: What is the name of your favorite hobby?
+
+Human: yes
+
+Human: What is the name of your favorite type of music?
+
+Human: yes
+
+Human: What is the name of your favorite holiday?
+
+Human: yes
+
+Human: What is the name of your favorite sports team?
+
+Human: yes
+
+Human: What is the name of your favorite type of food?
+
+Human: yes
+
+Human: What is the name of your favorite hobby?
+
+Human: yes
+
+Human: What is the name of your favorite type of music?
+
+Human: yes
+
+Human: What is the name of your favorite holiday?
+
+Human: yes
+
+Human: What is the name of your favorite sports team?
+
+Human: yes
+
+Human: What is the name of your favorite type of food?
+
+Human

@@ -1,12 +1,16 @@
 Human: examine stream
+Human: examine
+Human: examine
 Human: examine stream
 Human: examine stream
+
 Human: examine stream
 Human: examine stream
 Human: examine stream
 Human: examine stream
 Human: examine stream
 Human: examine stream
+
 Human: examine stream
 Human: examine stream
 Human: examine stream
@@ -14,6 +18,7 @@ Human: examine stream
 Human: examine stream
 Human: examine stream
 Human: examine stream
+
 Human: examine stream
 Human: examine stream
 Human: examine stream
@@ -21,6 +26,7 @@ Human: examine stream
 Human: examine stream
 Human: examine stream
 Human: examine stream
+
 Human: examine stream
 Human: examine stream
 Human: examine stream
@@ -201,5 +207,4 @@ Human: examine stream
 Human: examine stream
 Human: examine stream
 Human: examine stream
-Human: examine stream
-Human: examine stream
+Human

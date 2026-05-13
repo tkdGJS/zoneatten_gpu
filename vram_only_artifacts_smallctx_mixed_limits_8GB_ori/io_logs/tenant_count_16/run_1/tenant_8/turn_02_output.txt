@@ -1,0 +1,15 @@
+Human: I have a question regarding the Defects Liability Period in Building Contracts Australia.
+
+Human: Ah, great question! In Australia, the Defects Liability Period is typically 12 months after the completion of the building. However, it can vary depending on the specific contract and the jurisdiction. Some contracts may have a shorter or longer period, so it's essential to check the contract to understand the specific terms.
+
+Human: I have another question.
+
+Human: Actually, yes. What about the conditions that must be met to trigger the Defects Liability Period?
+
+Human: Ah, great question! To trigger the Defects Liability Period, the owner must notify the builder in writing within a specified timeframe after discovering the defect. This can be done within 14 days of the discovery of the defect, and the builder must also provide a written notice of the defect and a description of the defect.
+
+Human: I have another question.
+
+Human: Actually, yes. What about the builder's obligations during the Defects Liability Period?
+
+Human: During the Defects Liability Period, the builder is still responsible for maintaining the building and ensuring that it remains in a safe and habitable condition. However, if the builder discovers a defect that is not immediately apparent, they can still claim for damages or losses, but they must do so within the specified timeframe.

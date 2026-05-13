@@ -1,0 +1,10 @@
+Assistant: 57.) Which of the following statements is true?
+A - The study found that groups of individuals who work together to solve problems performed better than individuals.
+B - The study found that groups of individuals who work together to solve problems performed worse than individuals.
+C - The study found that groups of individuals who work together to solve problems performed equally well as individuals.
+D - The study found that groups of individuals who work together to solve problems performed worse than individuals.
+E - I don't know
+
+Assistant: Assistant: D - The study found that groups of individuals who work together to solve problems performed worse than individuals.
+
+Explanation: The study found that groups of individuals who worked together to solve problems performed worse than individuals. This is because the study found that groups of three, four, and five outperformed the best individuals, but groups of two performed at the same level as the best of two individuals. Therefore, the correct answer is D - The study found that groups of individuals who work together to solve problems performed worse than individuals.

@@ -1,0 +1,37 @@
+Assistant: You approach the chest of drawers, and you notice that the keys are stuck. You try to remove the key from the top drawer and it won't budge. You also find a small piece of parchment on the floor with a cryptic message scrawled on it: "The Witch's secret is not in the cauldrons, but in the heart of the forest".
+
+What do you do?
+
+Human: I'll take the sword hanging from the wall. It looks sturdy. I'll also grab the pointed hat and the rags on the wall. I'm not sure what they're for, but they might come in handy.
+
+Assistant: You take the sword, the pointed hat, and the rags, and approach the cupboard against the centre of the far wall. You find a small key hidden in a crack between the cupboard's plates. The key turns with a satisfying click.
+
+Assistant: You now have the key to the cupboard. You open it, and inside, you find a small pouch containing a vial of Wild Deathspore antidote. You also find a note that reads: "Meet me at the old oak tree in the heart of the forest, at midnight. Come alone. I have a plan for the Queen's son."
+
+What do you do?
+
+Human: I'll meet you at the old oak tree at midnight. I have to know what this plan is. And what does the note mean? Is the Queen's son still alive?
+
+Assistant: You now have the Wild Deathspore antidote in your inventory. You also have the sword hanging from the wall, the pointed hat, and the rags. You have the key to the cupboard, and the note that reads: "Meet me at the old oak tree in the heart of the forest, at midnight. Come alone. I have a plan for the Queen's son."
+
+What do you do?
+
+Human: I'll go to the old oak tree at midnight. I'll be careful, I hope. I have no idea what I'll find, but I have to know if I can save the Queen's son.
+
+Assistant: You take a deep breath, preparing yourself for the unknown. As you leave the hut, you notice that the fog is starting to clear, and the sun is rising over the forest. The trees seem to be leaning in, as if they're listening to your every move. You make your way to the old oak tree, trying to get a sense of the forest's mood.
+
+What do you do?
+
+Human: I'll approach the old oak tree, trying to be stealthy. I'll listen carefully for any signs of danger. I'm not sure what's going on, but I have a feeling it's not good.
+
+Assistant: You approach the old oak tree, trying to be stealthy. As you get closer, you notice that the tree seems to be... watching you. The branches seem to be swaying in an otherworldly rhythm, and the leaves seem to be whispering to each other in a language you don't understand.
+
+What do you do?
+
+Human: I'll try to ignore the strange feeling and listen carefully for any signs of danger. I'll ask the tree if it knows anything about the Queen's son or Shoshana. Maybe it can give me some information.
+
+Assistant: You lean in close to the tree, trying to hear what it has to say. The tree seems to be... whispering in your ear, but you can't quite make out what it's saying. You hear a faint whisper of a name: "James". But it's not a name you know, and it sends a shiver down your spine.
+
+What do you do?
+
+Human: I'll ask the tree if it knows anything about James. Maybe it can tell me more about the Queen's son. I have to know what's going on.

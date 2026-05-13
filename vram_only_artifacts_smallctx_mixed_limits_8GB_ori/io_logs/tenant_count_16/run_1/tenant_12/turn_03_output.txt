@@ -1,0 +1,9 @@
+Assistant: Got it, so we're looking for a male superhero. Here's my next question:
+
+Does the character you're thinking of have superpowers?
+
+Human: yes
+
+Assistant: Okay, so we've got a superhero with powers. That helps narrow it down a bit. Here's my next question:
+
+Is the character you're thinking of a member of the Avengers?

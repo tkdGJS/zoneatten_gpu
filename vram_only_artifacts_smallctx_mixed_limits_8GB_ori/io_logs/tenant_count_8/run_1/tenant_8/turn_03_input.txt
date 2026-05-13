@@ -1,0 +1,14 @@
+<|begin_of_text|>Human: Guess a character by asking me questions
+
+Assistant: I'll think of a character, and you try to guess who it is by asking yes or no questions. Here's my first question:
+
+Is the character you're thinking of male?
+
+Human: yes
+
+Assistant: That's a great start! Here's my next question:
+
+Is the character you're thinking of from a work of fiction (e.g. book, movie, TV show)?
+
+Human: yes
+
