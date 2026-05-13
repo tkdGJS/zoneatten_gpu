@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import argparse
+from pathlib import Path
 from statistics import mean
 
 from build_mixed_history_limit_dataset_offline import (
@@ -78,7 +79,7 @@ def main() -> int:
     args = parse_args()
     add_vendor_dir(args.vendor_dir)
     tokenizer = load_tokenizer(args.model)
-    sessions = load_sessions(args.dataset_path, args.turns_per_tenant)
+    sessions = load_sessions(Path(args.dataset_path), args.turns_per_tenant)
     print(f"[load] sessions_with_{args.turns_per_tenant}_turns={len(sessions)}")
 
     assistant_filler = build_filler_text(tokenizer, args.target_output_budget_tokens)
