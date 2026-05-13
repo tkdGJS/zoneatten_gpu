@@ -14,6 +14,8 @@ RAW_CSV="${RESULT_DIR}/result_raw.csv"
 SUMMARY_CSV="${RESULT_DIR}/result_summary.csv"
 VENDOR_DIR="${ROOT_DIR}/vendor"
 VLLM_EXECUTABLE="${VENV_DIR}/bin/vllm"
+MODEL_NAME="meta-llama/Llama-3.2-1B-Instruct"
+REUSE_GENERATED_DATASET="${REUSE_GENERATED_DATASET:-1}"
 
 BLOCK_VALUE="16384"
 TENANT_VALUES=(32 16 8)
@@ -44,6 +46,8 @@ snapshot_experiment_context() {
 
   cp "${ROOT_DIR}/run_vram_only_isolation_tenant_sweep_smallctx_mixed_limits_8GB.sh" "${snapshot_dir}/"
   cp "${ROOT_DIR}/generate_mixed_history_limit_dataset.py" "${snapshot_dir}/"
+  cp "${ROOT_DIR}/build_mixed_history_limit_dataset_offline.py" "${snapshot_dir}/"
+  cp "${ROOT_DIR}/inspect_mixed_history_dataset.py" "${snapshot_dir}/"
   cp "${ROOT_DIR}/measure_vram_only_isolation.py" "${snapshot_dir}/"
   cp "${ROOT_DIR}/start_vllm.sh" "${snapshot_dir}/"
 
@@ -80,6 +84,8 @@ snapshot_path.write_text(
             "port=${PORT}",
             "vllm_executable=${VLLM_EXECUTABLE}",
             "vendor_dir=${VENDOR_DIR}",
+            "model_name=${MODEL_NAME}",
+            "reuse_generated_dataset=${REUSE_GENERATED_DATASET}",
         ]
     )
     + "\n",
@@ -203,9 +209,31 @@ for tenant_count in "${TENANT_VALUES[@]}"; do
     metrics_jsonl="${METRICS_DIR}/block_${BLOCK_VALUE}_tenant_${tenant_count}_run_${run_index}.jsonl"
     generated_dataset_path="${GENERATED_DATASET_DIR}/sharegpt_mixed_history_limits_tenant_${tenant_count}.json"
 
+    if [[ "${REUSE_GENERATED_DATASET}" == "1" && -f "${generated_dataset_path}" ]]; then
+      echo "[INFO] reusing generated dataset: ${generated_dataset_path}"
+    else
+      rm -f "${generated_dataset_path}"
+      python "${ROOT_DIR}/build_mixed_history_limit_dataset_offline.py" \
+        --model "${MODEL_NAME}" \
+        --vendor-dir "${VENDOR_DIR}" \
+        --dataset-path "${SOURCE_DATASET_PATH}" \
+        --output-path "${generated_dataset_path}" \
+        --tenant-count "${tenant_count}" \
+        --turns-per-tenant "${TURNS_PER_TENANT}" \
+        --short-limit-tokens "${SHORT_LIMIT_TOKENS}" \
+        --long-limit-tokens "${LONG_LIMIT_TOKENS}" \
+        --target-output-budget-tokens "${TARGET_OUTPUT_BUDGET_TOKENS}" \
+        --safety-margin-tokens "${SAFETY_MARGIN_TOKENS}" \
+        --long-target-final-prompt-tokens "${LONG_TARGET_FINAL_PROMPT_TOKENS}" \
+        --long-final-prompt-tolerance-tokens "${LONG_FINAL_PROMPT_TOLERANCE_TOKENS}"
+    fi
+
+    python "${ROOT_DIR}/inspect_mixed_history_dataset.py" \
+      --dataset-path "${generated_dataset_path}" \
+      --show-first "${tenant_count}" | tee "${run_log}"
+
     echo "[RUN] num_gpu_blocks_override=${BLOCK_VALUE} run=${run_index} tenants=${tenant_count} port=${PORT}"
     rm -f "${metrics_jsonl}"
-    rm -f "${generated_dataset_path}"
     kill_port_owners "${PORT}"
 
     server_pid=""
@@ -224,27 +252,10 @@ for tenant_count in "${TENANT_VALUES[@]}"; do
         VLLM_MAX_NUM_BATCHED_TOKENS=32768 \
         VLLM_EXTRA_ARGS="--attention-backend TRITON_ATTN" \
         "${ROOT_DIR}/start_vllm.sh" --port "${PORT}"
-    ) >"${run_log}" 2>&1 &
+    ) >>"${run_log}" 2>&1 &
     server_pid="$!"
 
     wait_for_server_ready "${base_url}"
-
-    python "${ROOT_DIR}/generate_mixed_history_limit_dataset.py" \
-      --base-url "${base_url}" \
-      --dataset-path "${SOURCE_DATASET_PATH}" \
-      --output-path "${generated_dataset_path}" \
-      --tenant-count "${tenant_count}" \
-      --turns-per-tenant "${TURNS_PER_TENANT}" \
-      --short-limit-tokens "${SHORT_LIMIT_TOKENS}" \
-      --long-limit-tokens "${LONG_LIMIT_TOKENS}" \
-      --target-output-budget-tokens "${TARGET_OUTPUT_BUDGET_TOKENS}" \
-      --safety-margin-tokens "${SAFETY_MARGIN_TOKENS}" \
-      --long-target-final-prompt-tokens "${LONG_TARGET_FINAL_PROMPT_TOKENS}" \
-      --long-final-prompt-tolerance-tokens "${LONG_FINAL_PROMPT_TOLERANCE_TOKENS}"
-
-    python "${ROOT_DIR}/inspect_mixed_history_dataset.py" \
-      --dataset-path "${generated_dataset_path}" \
-      --show-first "${tenant_count}" | tee -a "${run_log}"
 
     cp "${generated_dataset_path}" "${RESULT_DIR}/experiment_snapshot/tenant_${tenant_count}_run_${run_index}_dataset.json"
 
