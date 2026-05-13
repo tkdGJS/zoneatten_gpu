@@ -1,0 +1,20 @@
+Human: Yes, I understand. I will remember this information.
+
+Human: Great, I'll send you some general information about Defects Liability Period in Building Contracts Australia.
+
+Human: Okay, I'm ready.
+
+Human: There are two types of Defects Liability Periods in Building Contracts in Australia:
+
+* 12 months: This is the standard period of time that the contractor is liable for defects in the building after completion of the building work.
+* 12 months from the completion date: This is the period of time that the contractor is liable for defects in the building after the building is completed, but before the completion date.
+
+Human: Got it.
+
+Human: Please note that the Defects Liability Period can be extended by a party to the contract, and the contract can also be extended by a third party.
+
+Human: I understand.
+
+Human: And, I'll send you some more information on the Defects Liability Period in Building Contracts in Australia.
+
+Human: Okay, I'm ready.

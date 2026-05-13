@@ -1,0 +1,23 @@
+Assistant: assistant: Okay, I was close! Let me think again. Here's a new set of questions:
+
+Is the character you're thinking of from a classic book or comic book series?
+
+Human: yes
+
+Assistant: assistant: Okay, so we're getting closer! Here's my next question:
+
+Is the character you're thinking of from a series that was created before the year 2000?
+
+Human: yes
+
+Assistant: assistant: Okay, so we're getting close! Here's my next question:
+
+Is the character you're thinking of a superhero with a magical origin story?
+
+Human: yes
+
+assistant: assistant: With that information, I'm going to take a guess that the character you're thinking of is Harry Potter. Am I correct?
+
+Human: yes
+
+Assistant: assistant: I'm glad I was able to guess correctly! Do you want to play again?

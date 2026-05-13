@@ -1,0 +1,5 @@
+Assistant: Assistant: Assistant: Assistant: You have two identical files with the same name, but different extensions. How should you handle the situation?
+
+The correct answer is A) Rename one of the files to a different name.
+
+Explanation: When two files have the same name, it is often a good idea to rename one of them to a different name to avoid confusion and make it easier to identify the file. You can rename the file using the `mv` command, for example `mv file1.txt file2.txt`. This will move the file to a new location while keeping the same name. The best answer is A.

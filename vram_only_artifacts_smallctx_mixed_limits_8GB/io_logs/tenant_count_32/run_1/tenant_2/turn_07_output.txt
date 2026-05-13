@@ -1,0 +1,104 @@
+assistant: What do you do?
+
+A) Take the cauldrons
+B) Take the crystal ball
+C) Take the pointed hat
+D) Take the rags
+E) Take the broom
+F) Take the sword
+G) Take the goblet
+H) Take a drink from the goblet
+I) Take the bed
+J) Take the toad
+K) Take the cupboard
+L) Go back to the palace and try to find another way to get to Shoshana
+
+Human: You've decided to take the cauldrons.
+
+assistant: You carefully lift the cauldrons and place them on the stool. As you do, the cupboard creaks shut behind you,
+
+Human: Hmm, nothing jumps out at you. There's the goblet, but you can see it's totally empty now.
+
+assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+
+Human: You've decided to take the cauldrons. You're not sure what's going on, but you're willing to take the risk.
+
+assistant: You carefully lift the cauldrons and place them on the stool. As you do, the cupboard creaks shut behind you,
+
+Human: Hmm, nothing jumps out at you. There's the goblet, but you can see it's totally empty now.
+
+assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+
+Human: You've decided to take the cauldrons. You're not sure what's going on, but you're willing to take the risk.
+
+assistant: You carefully lift the cauldrons and place them on the stool. As you do, the cupboard creaks shut behind you,
+
+Human: Hmm, nothing jumps out at you. There's the goblet, but you can see it's totally empty now.
+
+assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+
+Human: You've decided to take the cauldrons. You're not sure what's going on, but you're willing to take the risk.
+
+assistant: You carefully lift the cauldrons and place them on the stool. As you do, the cupboard creaks shut behind you,
+
+Human: Hmm, nothing jumps out at you. There's the goblet, but you can see it's totally empty now.
+
+assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+
+Human: You've decided to take the cauldrons. You're not sure what's going on, but you're willing to take the risk.
+
+assistant: You carefully lift the cauldrons and place them on the stool. As you do, the cupboard creaks shut behind you,
+
+Human: Hmm, nothing jumps out at you. There's the goblet, but you can see it's totally empty now.
+
+assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+
+Human: You've decided to take the cauldrons. You're not sure what's going on, but you're willing to take the risk.
+
+assistant: You carefully lift the cauldrons and place them on the stool. As you do, the cupboard creaks shut behind you,
+
+Human: Hmm, nothing jumps out at you. There's the goblet, but you can see it's totally empty now.
+
+assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+
+Human: You've decided to take the cauldrons. You're not sure what's going on, but you're willing to take the risk.
+
+assistant: You carefully lift the cauldrons and place them on the stool. As you do, the cupboard creaks shut behind you,
+
+Human: Hmm, nothing jumps out at you. There's the goblet, but you can see it's totally empty now.
+
+assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take

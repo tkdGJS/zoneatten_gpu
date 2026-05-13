@@ -1,0 +1,21 @@
+Assistant: The cupboard is still ajar. What do you do?
+
+Human: Go back to the forest.
+
+Assistant: What do you do?
+
+Human: It's probably a good idea to check the cell in the far right corner. It looks like it hasn't been used in a long time.
+
+Assistant: You're right. It's a cell, and it's locked. There's a small keyhole on the door. You can try to pick it or find another way to open it.
+
+assistant. What do you do?
+
+Human: Pick the keyhole. 
+
+assistant. What do you do?
+
+Human: The chest is a bit too heavy for you to lift. It's on a low shelf. You can use the broom to push it down, but it might break. What do you do?
+
+assistant. What do you do?
+
+Human: Go back to the forest. It's probably a good idea to find the Wild Deathspore mushrooms and eat them. You don't want to be poisoned.

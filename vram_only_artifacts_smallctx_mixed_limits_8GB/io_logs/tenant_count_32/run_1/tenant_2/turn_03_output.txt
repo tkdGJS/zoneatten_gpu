@@ -1,0 +1,94 @@
+Assistant: What do you do?
+
+A) Try to find a key
+B) Take the cauldrons
+C) Take the crystal ball
+D) Take the pointed hat
+E) Take the rags
+F) Use the broom
+G) Wait for Shoshana to come back
+H) Drink the potion
+I) Kill Shoshana
+J) Use the sword to smash the cupboard
+K) Try to find another way to get to the palace
+L) Take a drink from the goblet
+M) Go back to the wild forest and try to find more information about Shoshana's powers
+
+Choose your action.
+
+Human: I'm going to take the cauldrons. They're heavy, but I'm sure they could be worth it. 
+
+Assistant: You carefully lift the cauldrons and lift them onto your shoulders. They feel heavy, but they're not as heavy as you thought. You can move them with a bit of effort. As you lift the cauldrons, you hear a faint whispering coming from the cupboard. It sounds like Shoshana is trying to communicate with you.
+
+Assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and listen to the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+E) Drink the potion
+F) Kill Shoshana
+G) Use the sword to smash the cupboard
+H) Try to find another way to get to the palace
+I) Use the broom to search the hut
+J) Take a drink from the goblet
+K) Wait for Shoshana to come back
+L) Take a closer look at the cupboard
+M) Go back to the wild forest and try to find more information about Shoshana's powers
+
+Choose your action.
+
+Human: You've decided to take the cauldrons. The cauldrons are heavy, but they're also heavy enough to be useful. You can lift them with a bit of effort.
+
+Assistant: You carefully lift the cauldrons and place them on a nearby stool. As you do, you notice that the whispering in the cupboard has stopped. You can hear a faint rustling noise coming from inside the cupboard. It sounds like something is moving.
+
+Assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+E) Drink the potion
+F) Kill Shoshana
+G) Use the sword to smash the cupboard
+H) Try to find another way to get to the palace
+I) Use the broom to search the hut
+J) Take a drink from the goblet
+K) Wait for Shoshana to come back
+L) Take a closer look at the cupboard
+M) Go back to the wild forest and try to find more information about Shoshana's powers
+
+Choose your action.
+
+Human: You've decided to take the cauldrons. You're not sure what's going on in the cupboard, but you're willing to take the risk.
+
+Assistant: You carefully lift the cauldrons and place them on the stool. As you do, you notice that the cupboard is slightly ajar. You can see a sliver of dim light coming from inside.
+
+Assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+E) Drink the potion
+F) Kill Shoshana
+G) Use the sword to smash the cupboard
+H) Try to find another way to get to the palace
+I) Use the broom to search the hut
+J) Take a drink from the goblet
+K) Wait for Shoshana to come back
+L) Take a closer look at the cupboard
+M) Go back to the wild forest and try to find more information about Shoshana's powers
+
+Choose your action.
+
+Human: You've decided to take the cauldrons. You're not sure what's going on in the cupboard, but you're willing to take the risk.
+
+Assistant: You carefully lift the cauldrons and place them on the stool. As you do, the cupboard creaks shut behind you, and you hear the sound of locks clicking into place. You're now trapped. You can hear the sound of Shoshana's voice coming from the cupboard, but it's muffled and distant.
+
+Assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana

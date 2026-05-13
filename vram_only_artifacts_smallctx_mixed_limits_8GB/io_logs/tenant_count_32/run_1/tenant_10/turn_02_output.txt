@@ -1,0 +1,27 @@
+Human: I understand.
+
+Human: How does the Defects Liability Period work?
+
+The Defects Liability Period is a contractual term that allows a party to the contract to bring a claim against the other party to the contract for defects in the building work.
+
+Human: Got it.
+
+Human: What happens if the contractor fails to perform the work?
+
+If the contractor fails to perform the work, the party to the contract can bring a claim for damages for defects in the building work. The claim can be made within the Defects Liability Period.
+
+Human: I understand.
+
+Human: What are the consequences of not paying for defects in the building work?
+
+If the party to the contract fails to pay for defects in the building work, the contractor can claim damages for the full extent of the defects.
+
+Human: I understand.
+
+Human: What is the purpose of the Defects Liability Period?
+
+The Defects Liability Period is designed to protect the contractor by providing them with a period of time to rectify defects in the building work before they are claimed against the other party to the contract.
+
+Human: I understand.
+
+Human: Thank you for taking the time to provide this information about Defects Liability Period in Building Contracts Australia.

@@ -1,0 +1,10 @@
+1. e4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 Nxe4 5. Bd3 d5 6. O-O e5 7. Nc3 Nxc3 8.
+bxc3 exd4 9. cxd4 Bb4 10. Rb1 a5 11. Re1+ Bxe1 12. Qxe1+ Qe7 13. Ba3 Qxe1+ 14.
+Rxe1+ Be6 15. Bd6 Kd7 16. Bxb8 Raxb8 17. Rc1 Rhc8 18. a3 h5 19. c4 dxc4 20. Bxc4
+Bxc4 21. Re1 Rc7 22. Re5 f6 23. Re3 Rbc8 24. h3 g5 25. g4 hxg4 26. hxg4 Rh8 27.
+Kg2 Bd5+ 28. Kg3 Be6 29. Rd3 Rh4 30. f3 f5 31. d5 f4+ 32. Kf2 Bxg4 33. fxg4 Rxg4
+34. Rh3 Rg3
+
+Assistant: Assistant: Assistant: Assistant: Assistant: [The position on the board is now a sharp endgame with a strong initiative on the queenside. White's pawns are somewhat weakened, and Black's pawns are somewhat supported.]
+
+34. Rh3 Rg3 35. Rh2+ Kd7 36. Qh4+ Kc7 37. Qg4+ Kd7 38. Qh4+ Kc7 39. Qg4+ Kd7 40. Qh4+ Kc7 41. Qg4+ Kd7 42. Qh4+ Kc7 43. Qg4+ Kd7 44. Qh4+ Kc7 45. Qg4+ Kd7 46. Qh4+ Kc7 47. Qg4+ Kd7 48. Qh4+ Kc7 49. Qg4+ Kd7 50. Qh4+ Kc7 51. Qg4+ Kd7 52. Qh4+ Kc7 53. Qg4+ Kd7 54. Qh4+ Kc7 55. Qg4+ Kd7 56. Qh4+ Kc7 57. Qg4+ Kd7 58. Qh4+ Kc7 59. Qg4+ Kd7 60. Qh4+ Kc7 61. Qg4+ Kd7 62. Qh4+ Kc7 63. Qg4+ Kd7 64. Qh4+ Kc7 65. Qg4+ Kd7 66. Qh4+ Kc7 67. Qg4+ Kd7 68. Qh4+ Kc7 69. Qg4+ Kd7 70. Qh4+ Kc7 71. Qg4+ Kd7 72. Qh4+ Kc7 73. Qg4+ Kd7 74. Qh4+ Kc7 75. Qg4+ Kd7 76. Qh4+ Kc7 77. Qg4+ Kd7 78. Qh4+ Kc7 79. Qg4+ Kd7 80. Qh4+ Kc7 81. Qg4+ Kd7 82. Qh4+ Kc7 83. Qg4+ Kd7 84. Qh4+ Kc7 85. Qg4+ Kd7 86. Qh4+ Kc7 87. Qg4+ Kd7 88. Qh4+ Kc7 89. Qg4+ Kd7 90. Qh4+ Kc7 91. Qg4+ Kd7 92. Qh4+ Kc7 93. Qg4+ Kd7 94. Qh4+ Kc7 95. Qg4+ Kd7 96. Qh4+ Kc7 97. Qg4+ Kd7 98. Qh4+ Kc7 99. Qg4+ Kd7 100. Qh4+ Kc7 101. Qg4+ Kd7 102. Qh4+ Kc7 103. Qg4+ Kd7

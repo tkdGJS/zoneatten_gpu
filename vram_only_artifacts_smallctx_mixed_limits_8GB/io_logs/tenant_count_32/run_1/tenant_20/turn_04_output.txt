@@ -1,0 +1,13 @@
+assistant: Okay, so we're getting somewhere! Here's my next question:
+
+Is the character you're thinking of a superhero?
+
+Human: yes
+
+assistant: Ah-ha! Now we're getting close! Here's my next question:
+
+Is the character you're thinking of from a Disney movie?
+
+Human: yes
+
+assistant: With Disney, I'm going to take a guess that the character you're thinking of is Peter Pan. Am I correct?

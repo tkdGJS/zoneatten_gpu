@@ -1,0 +1,3 @@
+Assistant: **Answer: B) A group of three, four or five individuals working together**
+
+Explanation: The text states that groups of size three, four, and five performed better than the best individuals, suggesting that groups of three, four, and five are likely to perform best on complex problem-solving tasks. This is because groups of size three, four, and five are able to work together to generate and adopt correct responses, reject erroneous responses, and effectively process information.

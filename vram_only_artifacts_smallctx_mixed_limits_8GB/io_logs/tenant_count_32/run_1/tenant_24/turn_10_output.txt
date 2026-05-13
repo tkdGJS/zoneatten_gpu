@@ -1,0 +1,5 @@
+Assistant: Assistant: Assistant: Assistant: Assistant: You are in a simulated terminal. You want to list the files and directories in your computer. What should you do?
+
+The correct answer is A) ls.
+
+Explanation: The `ls` command is a command that lists the files and directories on your computer. It can be used to find and view the files and directories that are currently on your computer. The `ls` command is often used as a simple way to list the files and directories on your computer. The best answer is A.

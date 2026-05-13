@@ -1,0 +1,5 @@
+Assistant: Assistant: Assistant: I'm trying to list the files and subdirectories in my computer. I want to see the files that are hidden, but not listed in the main directory.
+
+The correct answer is A) ls -a.
+
+Explanation: The `ls` command with the `-a` option is used to list the files and subdirectories on your computer, including hidden files and directories. The `-a` option stands for "all", which includes hidden files and directories. Therefore, using the `ls -a` command will list all files and subdirectories on your computer, including those that are hidden. The best answer is A.

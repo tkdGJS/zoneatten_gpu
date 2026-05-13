@@ -1,0 +1,5 @@
+Assistant: Assistant: I'm trying to change the directory to the "Documents" folder. However, I'm getting an error message saying that I don't have permission to access that directory.
+
+The correct answer is A) cd Documents.
+
+Explanation: The `cd` command is used to change the current directory on your computer. The `cd` command followed by the name of the directory you want to change to is used to navigate to that directory. If the directory is not accessible, you will need to give the necessary permissions to access it. In this case, you can enter `Documents` to change to the "Documents" folder. The `cd` command can also be used to change to a directory that is not in the current working directory, such as a subdirectory within a subdirectory. Therefore, `cd Documents` is the correct command to use. The best answer is A.

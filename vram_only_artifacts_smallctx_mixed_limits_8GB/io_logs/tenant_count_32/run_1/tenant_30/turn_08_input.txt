@@ -1,0 +1,2884 @@
+<|begin_of_text|>Human: 3
+
+Assistant: This is a type of...  [type of food]
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human:
+
+Human: 1
+
+Assistant: Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 3
+
+Assistant: Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Assistant: Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 3
+
+Human: 2
+
+Assistant: Assistant: Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human: 2
+
+Human:
+
+Human: 1
+
+Assistant: Assistant: Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human:
+
+Human: 1
+
+Assistant: Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+
+Human: 1
+

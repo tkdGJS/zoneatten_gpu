@@ -1,0 +1,3 @@
+Assistant: **Answer: B) False**
+
+Explanation: The text states that research on neural networks started at around the same time as the early work on computers, and that it has been used in a wide range of applications since then. This suggests that neurocomputing has been a field of study for a long time, not just in the past decade.

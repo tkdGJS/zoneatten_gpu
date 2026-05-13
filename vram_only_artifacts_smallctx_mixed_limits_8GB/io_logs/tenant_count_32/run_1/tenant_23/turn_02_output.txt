@@ -1,0 +1,1 @@
+As you can see, the chatbot's responses are now dynamically generated based on the user's input. This should solve the issue you were facing with the default response.

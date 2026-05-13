@@ -1,0 +1,5 @@
+Assistant: I'm looking for files on my computer. Can you give me a list of files that are currently on my computer?
+
+The correct answer is A) ls.
+
+Explanation: The `ls` command is a command that lists the files and directories on your computer. It can be used to find and view the files that are currently on your computer, making it a useful tool for organizing and managing your files.

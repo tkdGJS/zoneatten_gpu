@@ -1,0 +1,90 @@
+Hello, I'm a programmer and I've been tasked with creating a simple chatbot that can understand and respond to basic queries. I've been using the NLTK library for natural language processing tasks. I've implemented a basic chatbot that can understand and respond to some simple queries, but I'm having trouble with more complex queries. The bot is currently able to understand the basic queries, but it doesn't seem to be able to handle the more complex queries.
+
+One of the issues I'm experiencing is that the bot's response is not being generated dynamically based on the user's input, it's always returning the same response for every query.
+
+Here is a simple example of the code:
+
+```python
+import nltk
+from nltk.stem import WordNetLemmatizer
+import random
+
+# Initialize NLTK data
+nltk.download('wordnet')
+lemmatizer = WordNetLemmatizer()
+
+class Chatbot:
+    def __init__(self):
+        self.responses = {
+            "hello": ["Hi, how are you?", "Hello! What's up?", "Hi, I'm here to help you!"]
+        }
+
+    def process_input(self, input_str):
+        # Tokenize the input string
+        tokens = nltk.word_tokenize(input_str)
+
+        # Lemmatize the tokens
+        lemmatized_tokens = [lemmatizer.lemmatize(token) for token in tokens]
+
+        # Check if the lemmatized tokens are in the chatbot's responses
+        for key, value in self.responses.items():
+            if lemmatized_tokens in value:
+                return value
+
+        # If the lemmatized tokens are not in the chatbot's responses, return a default response
+        return "I didn't understand that."
+
+# Test the chatbot
+chatbot = Chatbot()
+print(chatbot.process_input("hello"))  # Should return "Hi, how are you?"
+print(chatbot.process_input("what's up"))  # Should return "Hi, I'm here to help you!"
+print(chatbot.process_input("I'm feeling sad"))  # Should return "I didn't understand that."
+```
+
+As you can see, the chatbot always returns the default response "I didn't understand that." even when the user inputs a complex query. This is because the default response is not dynamically generated based on the user's input.
+
+To solve this issue, I've added a dictionary to store the chatbot's responses, where the keys are the user's input and the values are lists of possible responses. I've also modified the `process_input` method to check if the lemmatized tokens are in the chatbot's responses. If they are, it returns the corresponding response. If not, it returns the default response.
+
+Here's the updated code:
+
+```python
+import nltk
+from nltk.stem import WordNetLemmatizer
+import random
+
+# Initialize NLTK data
+nltk.download('wordnet')
+lemmatizer = WordNetLemmatizer()
+
+class Chatbot:
+    def __init__(self):
+        self.responses = {
+            "hello": ["Hi, how are you?", "Hello! What's up?", "Hi, I'm here to help you!"],
+            "what's up": ["I'm doing well, thanks!", "How are you?", "I'm here to help you!"],
+            "I'm feeling sad": ["I'm sorry to hear that.", "I can help you with that.", "It's okay, I'm here to listen."]
+        }
+
+    def process_input(self, input_str):
+        # Tokenize the input string
+        tokens = nltk.word_tokenize(input_str)
+
+        # Lemmatize the tokens
+        lemmatized_tokens = [lemmatizer.lemmatize(token) for token in tokens]
+
+        # Check if the lemmatized tokens are in the chatbot's responses
+        for key, value in self.responses.items():
+            if lemmatized_tokens in value:
+                return value
+
+        # If the lemmatized tokens are not in the chatbot's responses, return a default response
+        return "I didn't understand that."
+
+# Test the chatbot
+chatbot = Chatbot()
+print(chatbot.process_input("hello"))  # Should return "Hi, how are you?"
+print(chatbot.process_input("what's up"))  # Should return "I'm doing well, thanks!"
+print(chatbot.process_input("I'm feeling sad"))  # Should return "I'm sorry to hear that."
+print(chatbot.process_input("I love you"))  # Should return "I didn't understand that."
+```
+
+In this updated code, I've added a dictionary `self.responses` to store the chatbot's responses, where the keys are the user's input and the values are lists of possible responses. The `process_input` method checks if the lemmatized tokens are in the chatbot's responses and returns the corresponding response. If not, it returns

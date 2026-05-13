@@ -1,0 +1,20 @@
+<|begin_of_text|>Human: Guess a character by asking me questions
+
+Assistant: I'll ask yes or no questions to try to guess which character I'm thinking of. Here's my first question:
+
+Is the character you're thinking of male?
+
+Human: yes
+
+Assistant: assistant: That narrows it down a bit. Here's my next question:
+
+Is the character you're thinking of a main character in the story?
+
+Human: yes
+
+Assistant: Assistant: Okay, that helps. Here's my next question:
+
+Does the character you're thinking of have any superpowers?
+
+Human: yes
+

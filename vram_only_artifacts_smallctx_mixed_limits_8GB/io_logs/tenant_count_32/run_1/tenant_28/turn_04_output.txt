@@ -1,0 +1,226 @@
+Human wins this round.
+
+The score is now:
+Human: 112
+You: 0
+
+Human: rock crushes scissors, so you win this round.
+
+The score is now:
+Human: 113
+You: 0
+
+Human: scissors cuts paper, so you win this round.
+
+The score is now:
+Human: 114
+You: 0
+
+Human: paper covers rock, so you win this round.
+
+The score is now:
+Human: 115
+You: 0
+
+Human: rock crushes scissors, so you win this round.
+
+The score is now:
+Human: 116
+You: 0
+
+Human: scissors cuts paper, so you win this round.
+
+The score is now:
+Human: 117
+You: 0
+
+Human: paper covers rock, so you win this round.
+
+The score is now:
+Human: 118
+You: 0
+
+Human: rock crushes scissors, so you win this round.
+
+The score is now:
+Human: 119
+You: 0
+
+Human: scissors cuts paper, so you win this round.
+
+The score is now:
+Human: 120
+You: 0
+
+Human: paper covers rock, so you win this round.
+
+The score is now:
+Human: 121
+You: 0
+
+Human: rock crushes scissors, so you win this round.
+
+The score is now:
+Human: 122
+You: 0
+
+Human: scissors cuts paper, so you win this round.
+
+The score is now:
+Human: 123
+You: 0
+
+Human: paper covers rock, so you win this round.
+
+The score is now:
+Human: 124
+You: 0
+
+Human: rock crushes scissors, so you win this round.
+
+The score is now:
+Human: 125
+You: 0
+
+Human: scissors cuts paper, so you win this round.
+
+The score is now:
+Human: 126
+You: 0
+
+Human: paper covers rock, so you win this round.
+
+The score is now:
+Human: 127
+You: 0
+
+Human: rock crushes scissors, so you win this round.
+
+The score is now:
+Human: 128
+You: 0
+
+Human: scissors cuts paper, so you win this round.
+
+The score is now:
+Human: 129
+You: 0
+
+Human: paper covers rock, so you win this round.
+
+The score is now:
+Human: 130
+You: 0
+
+Human: rock crushes scissors, so you win this round.
+
+The score is now:
+Human: 131
+You: 0
+
+Human: scissors cuts paper, so you win this round.
+
+The score is now:
+Human: 132
+You: 0
+
+Human: paper covers rock, so you win this round.
+
+The score is now:
+Human: 133
+You: 0
+
+Human: rock crushes scissors, so you win this round.
+
+The score is now:
+Human: 134
+You: 0
+
+Human: scissors cuts paper, so you win this round.
+
+The score is now:
+Human: 135
+You: 0
+
+Human: paper covers rock, so you win this round.
+
+The score is now:
+Human: 136
+You: 0
+
+Human: rock crushes scissors, so you win this round.
+
+The score is now:
+Human: 137
+You: 0
+
+Human: scissors cuts paper, so you win this round.
+
+The score is now:
+Human: 138
+You: 0
+
+Human: paper covers rock, so you win this round.
+
+The score is now:
+Human: 139
+You: 0
+
+Human: rock crushes scissors, so you win this round.
+
+The score is now:
+Human: 140
+You: 0
+
+Human: scissors cuts paper, so you win this round.
+
+The score is now:
+Human: 141
+You: 0
+
+Human: paper covers rock, so you win this round.
+
+The score is now:
+Human: 142
+You: 0
+
+Human: rock crushes scissors, so you win this round.
+
+The score is now:
+Human: 143
+You: 0
+
+Human: scissors cuts paper, so you win this round.
+
+The score is now:
+Human: 144
+You: 0
+
+Human: paper covers rock, so you win this round.
+
+The score is now:
+Human: 145
+You: 0
+
+Human: rock crushes scissors, so you win this round.
+
+The score is now:
+Human: 146
+You: 0
+
+Human: scissors cuts paper, so you win this round.
+
+The score is now:
+Human: 147
+You: 0
+
+Human: paper covers rock, so you win this round.
+
+The score is now:
+Human: 148
+You: 0
+
+Human: rock crushes scissors, so you win this round.
+
+The score is now:
+Human:

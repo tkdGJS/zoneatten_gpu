@@ -1,0 +1,86 @@
+Assistant: Assistant: What do you do?
+
+A) Use the broom to sweep the hut
+B) Take the cauldrons back to the hut
+C) Go back to the palace and try to find another way to get to Shoshana
+
+Human: You've decided to use the broom to sweep the hut. You carefully take the broom and begin to sweep the hut. As you do, you notice that the smoke from the cauldrons seems to be coming from the cupboard. It's as if the cupboard is somehow releasing the smoke.
+
+Assistant: Assistant: What do you do?
+
+A) Keep sweeping
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+
+Human: You've decided to stop sweeping. You're not sure what's going on, but you're willing to take the risk.
+
+Assistant: You carefully lift the cauldrons and place them on the stool. As you do, the cupboard creaks shut behind you,
+
+Human: Hmm, nothing jumps out at you. There's the goblet, but you can see it's totally empty now.
+
+Assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+
+Human: You've decided to stop and investigate the cupboard. You carefully lift the cupboard and open it. Inside, you see a small, hidden compartment. Inside the compartment is a note that reads:
+
+“Your sword is not the only thing that can be forged. You will find the key to your true power in the heart of the forest. Go to the ancient oak tree, and you will find it.”
+
+assistant: Assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+
+Human: You've decided to stop and investigate the cupboard. You carefully lift the cupboard and open it. Inside, you see a small, hidden compartment. Inside the compartment is a note that reads:
+
+“Your sword is not the only thing that can be forged. You will find the key to your true power in the heart of the forest. Go to the ancient oak tree, and you will find it.”
+
+assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+
+Human: You've decided to stop and investigate the cupboard. You carefully lift the cupboard and open it. Inside, you see a small, hidden compartment. Inside the compartment is a note that reads:
+
+“Your sword is not the only thing that can be forged. You will find the key to your true power in the heart of the forest. Go to the ancient oak tree, and you will find it.”
+
+assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+
+Human: You've decided to stop and investigate the cupboard. You carefully lift the cupboard and open it. Inside, you see a small, hidden compartment. Inside the compartment is a note that reads:
+
+“Your sword is not the only thing that can be forged. You will find the key to your true power in the heart of the forest. Go to the ancient oak tree, and you will find it.”
+
+assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+
+Human: You've decided to stop and investigate the cupboard. You carefully lift the cupboard and open it. Inside, you see a small, hidden compartment. Inside the compartment is a note that reads:
+
+“Your sword is not the only thing that can be forged. You will find the key to your true power in the heart of the forest. Go to the ancient oak tree, and you will find it.”
+
+assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+
+Human: You've decided to stop and investigate the cupboard. You carefully lift the cupboard and open it. Inside, you see a small, hidden compartment. Inside the compartment is a note that reads:
+
+“Your sword is

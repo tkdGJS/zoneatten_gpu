@@ -1,0 +1,23 @@
+Assistant: Okay! Let's play again. Here's a new character:
+
+I'll think of a character and ask yes or no questions to try to guess who it is.
+
+Human: I'll start. Is the character you're thinking of a main character in the story?
+
+Human: yes
+
+Assistant: assistant: Okay, that helps. Here's my next question:
+
+Does the character you're thinking of have any superpowers?
+
+Human: yes
+
+Assistant: assistant: Okay, so we're getting closer! Here's my next question:
+
+Is the character you're thinking of a villain?
+
+Human: no
+
+Assistant: assistant: Okay, so the character is a main character, has superpowers, but is not a villain. Here's my next question:
+
+Is the character you're thinking of a female?

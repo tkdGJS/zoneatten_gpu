@@ -1,0 +1,20 @@
+<|begin_of_text|>Human: I am going to send you information about repudiating a building contract, that I want you to remember for now. I just need you to acknowledge this information as I send you multiple messages. Do you understand?
+
+Assistant: (Note: This is a common scenario in online communication, particularly in online marketplaces, when a seller wants to provide a disclaimer or warning to potential buyers about the terms and conditions of a contract. This is known as a "repudiation" and is a common practice in online transactions.)
+
+Human: Yes, I understand. Please go ahead and send the information.
+
+Human: Okay, here is the information. The contract is binding and non-negotiable. You will be required to fulfill the terms and conditions of the agreement. If you do not comply, you will be liable for any damages or losses incurred by the seller. I want you to remember this information for now, but I can provide more details later if needed.
+
+Human: Got it. I will keep this in mind. I want to confirm that you are saying this is binding and non-negotiable?
+
+Human: Yes, I am saying that the contract is binding and non-negotiable. You will be required to fulfill the terms and conditions as outlined in the agreement. I do not expect any exceptions or excuses.
+
+Human: Okay, I will remember this. I want to ask, is there anything else you need me to do?
+
+Human: No, that's all. I've sent you the information you requested. You should now have a clear understanding of the contract terms and conditions.
+
+Human: This is an information about repudiating a building contract. Limit your response to “acknowledged” if you understand:
+
+Repudiation of a building contract occurs when one party evinces an intention no longer to be bound by the contract.
+

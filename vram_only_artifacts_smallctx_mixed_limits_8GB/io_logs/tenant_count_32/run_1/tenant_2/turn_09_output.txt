@@ -1,0 +1,85 @@
+Sword: The sword is gone. You can't see it anywhere. You're pretty sure it's been stolen. You can feel it's still in your hand, though. You can see a faint sheen on it. It's probably the only thing left of your sword.
+
+Rags: The rags are a bit dusty and stained, but they're still intact. You can see that they're not the same color they were when you first put them on. They're now a bit more faded.
+
+Broom: The broom is dusty and cobweb-covered. You can see that it's not as sturdy as it used to be. You're pretty sure it's been used by Shoshana.
+
+The cupboard: The cupboard is now open. You can see that it's filled with nothing but a few old, wilted flowers and some dusty old books. There's a small, ornate box in the center of the cupboard. It's locked. You can feel a strange, pulsating energy emanating from it. You can't quite place it.
+
+assistant:assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+
+Human: You've decided to take the cauldrons. You're not sure what's going on, but you're willing to take the risk.
+
+assistant: You carefully lift the cauldrons and place them on the stool. As you do, the cupboard creaks shut behind you,
+
+Human: Hmm, nothing jumps out at you. There's the goblet, but you can see it's totally empty now.
+
+assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+
+Human: You've decided to take the cauldrons. You're not sure what's going on, but you're willing to take the risk.
+
+assistant: You carefully lift the cauldrons and place them on the stool. As you do, the cupboard creaks shut behind you,
+
+Human: Hmm, nothing jumps out at you. There's the goblet, but you can see it's totally empty now.
+
+assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+
+Human: You've decided to take the cauldrons. You're not sure what's going on, but you're willing to take the risk.
+
+assistant: You carefully lift the cauldrons and place them on the stool. As you do, the cupboard creaks shut behind you,
+
+Human: Hmm, nothing jumps out at you. There's the goblet, but you can see it's totally empty now.
+
+assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+
+Human: You've decided to take the cauldrons. You're not sure what's going on, but you're willing to take the risk.
+
+assistant: You carefully lift the cauldrons and place them on the stool. As you do, the cupboard creaks shut behind you,
+
+Human: Hmm, nothing jumps out at you. There's the goblet, but you can see it's totally empty now.
+
+assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+
+Human: You've decided to take the cauldrons. You're not sure what's going on, but you're willing to take the risk.
+
+assistant: You carefully lift the cauldrons and place them on the stool. As you do, the cupboard creaks shut behind you,
+
+Human: Hmm, nothing jumps out at you. There's the goblet, but you can see it's totally empty now.
+
+assistant: What do you do?
+
+A) Keep moving forward
+B) Stop and investigate the cupboard
+C) Take the cauldrons back to the hut
+D) Go back to the palace and try to find another way to get to Shoshana
+
+Human: You've decided to take the cauldrons. You're not sure what's going on, but you're willing to take the risk.
+
+assistant: You carefully lift the cauldrons and place them on the stool. As you do, the cupboard creaks shut behind you,
+
+Human: Hmm,

@@ -1,0 +1,16 @@
+## Step 1:  Isolate the variable x
+2x + 5y = 11
+
+## Step 2:  Subtract 5y from both sides of the equation
+2x = 11 - 5y
+
+## Step 3:  Divide both sides of the equation by 2
+x = (11 - 5y) / 2
+
+## Step 4:  Simplify the expression
+x = 11/2 - 5y/2
+
+## Step 5:  Final expression for x in terms of y
+x = 11/2 - 5y/2
+
+The final answer is: $\boxed{\frac{11 - 5y}{2}}$

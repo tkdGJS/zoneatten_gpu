@@ -1,0 +1,17 @@
+What do you do?
+
+A) Take the cauldrons
+B) Take the crystal ball
+C) Take the pointed hat
+D) Take the rags
+E) Use the broom
+F) Search the hut
+G) Wait for Shoshana to come back
+H) Drink the potion
+I) Kill Shoshana
+J) Use the sword to smash the cupboard
+K) Try to find another way to get to the palace
+L) Take a drink from the goblet
+M) Go back to the wild forest and try to find more information about Shoshana's powers
+
+Choose your action.

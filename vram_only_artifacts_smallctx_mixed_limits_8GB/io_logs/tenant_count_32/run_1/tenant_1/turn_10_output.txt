@@ -1,0 +1,3 @@
+Assistant: Assistant: **Answer: B) They performed as well as larger groups**
+
+Explanation: The text states that the researchers found that groups of two performed at the same level as the best of two individuals, suggesting that this group size was not enough to introduce the necessary dynamics for optimal problem-solving. This is because groups of two are too small to have the same level of expertise and knowledge as a single person.

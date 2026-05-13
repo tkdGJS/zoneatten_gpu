@@ -1,0 +1,13 @@
+Assistant: Assistant: Assistant: Assistant: Assistant: You want to create a new folder on your computer, but you're not sure where to start. What should you do?
+
+The correct answer is A) mkdir foldername.
+
+Explanation: The `mkdir` command is used to create a new folder on your computer. The `mkdir` command is short for "make directory", and it is used to create a new folder. To create a new folder, you can use the `mkdir` command followed by the name of the folder you want to create, for example `mkdir newfolder`. The best answer is A.
+
+Human: cd My Documents
+
+Assistant: Assistant: Assistant: Assistant: Assistant: I'm trying to change the directory to the "My Documents" folder. However, I'm getting an error message saying that the folder does not exist. What should I do?
+
+The correct answer is A) cd My Documents.
+
+Explanation: The `cd` command is used to change the current directory on your computer. The `cd` command followed by the name of the directory you want to change to is used to navigate to that directory. If the directory does not exist, the `cd` command will prompt you to enter the path to the directory. In this case, you can enter `My Documents` to change to the "My Documents" folder. The `cd` command can also be used to navigate to a directory that is not in the current working directory, such as a subdirectory within a subdirectory. Therefore, `cd My Documents` is the correct command to use. The best answer is A.

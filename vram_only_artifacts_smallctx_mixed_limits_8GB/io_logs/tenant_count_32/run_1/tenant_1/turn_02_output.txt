@@ -1,0 +1,3 @@
+**Answer: B) Neural Networks**
+
+Explanation: The text states that neural networks have the potential to solve complex problems and make our lives easier, and that they have the ability to learn and adapt. This suggests that neural networks would be more suitable for complex, ill-defined problems, as they have the potential to learn and adapt to new information.

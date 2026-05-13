@@ -1,0 +1,14 @@
+Assistant: **Answer: B) False**
+
+Explanation: The text states that neural networks are capable of learning and adapting, but it does not specify whether they are adaptive or not. However, it does state that they can learn things that cannot easily be stated in programs, which suggests that they are capable of learning and adapting.
+
+Human: 54.) Which of the following is a characteristic of neural networks?
+A - They are only used for machine learning.
+B - They are only used for pattern recognition.
+C) They can be used for any type of application.
+D) They can only be used for complex problems.
+E) They are only useful for artificial intelligence research.
+
+Assistant: **Answer: C) They can be used for any type of application**
+
+Explanation: The text states that neural networks have the potential to solve complex problems and make our lives easier, and that they have the ability to learn and adapt. This suggests that neural networks can be used for a wide range of applications, not just machine learning or pattern recognition.
