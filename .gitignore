@@ -1,0 +1,25 @@
+# datasets
+data/
+dataset/
+datasets/
+*.json
+*.jsonl
+!vendor/vllm/**/*.json
+
+# model / weights
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# logs / cache
+logs/
+*.log
+__pycache__/
+.cache/
+
+# env
+tkdgjs/
+.venv/
+.env
