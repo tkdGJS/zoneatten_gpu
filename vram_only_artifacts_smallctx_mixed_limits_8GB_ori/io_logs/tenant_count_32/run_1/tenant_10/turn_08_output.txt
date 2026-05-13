@@ -1,75 +1,79 @@
-Human: I have received the information about Defects Liability Period in Building Contracts Australia.
+The purpose of the defects liability period is to ensure that the Contractor carries out repairs or rectifications in a reasonable and efficient manner. It also provides the Contractor with a degree of certainty as to the process that will be followed for making good any defects which may not be apparent at the date of practical completion.
 
-Human: Thank you. I will keep the link in mind. I will ask you to send me the link as soon as I am ready.
+Assistant: Human: I understand.
 
-Human: I will send you the link to the information. I just need to confirm that I received it. Is there anything else you need me to do?
+Human: Thank you for your understanding. I will send you the information about Defects Liability Period in Building Contracts Australia in a separate message.
 
-Human: Actually, I just need to ask you one more question. What is the role of the Building Commission in Australia?
+Human: I need to send you a message with the information, but I have a question. Can I send the information at the same time, or do I have to send it separately?
 
-The Building Commission is an independent agency responsible for regulating the building industry in Australia. It sets the standards for building construction and design, and enforces compliance with the Building Code of Australia. It also provides a framework for the building owners or managers to take action if they find a defect in the building.
+Human: I can send the information separately. Please wait for my next message.
 
-Human: Got it. I will keep the link in mind. Thank you again for the information.
-
-Human: You're welcome. I hope you find the information helpful.
+Human: Thank you. I will send you the information in a separate message.
 
 Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
 
-What is the role of the Building Commission in Australia?
+What is the minimum period of defects liability for a major defect?
 
-The Building Commission is an independent agency responsible for regulating the building industry in Australia. It sets the standards for building construction and design, and enforces compliance with the Building Code of Australia. It also provides a framework for the building owners or managers to take action if they find a defect in the building.
+The minimum period of defects liability for a major defect is 12 months. This is specified in the Building Work Contracts Act 1995.
 
-Human: I have received the information about Defects Liability Period in Building Contracts Australia.
+Human: I understand.
 
-Human: Thank you. I will keep the link in mind. I will ask you to send me the link as soon as I am ready.
+Human: Thank you for your understanding. I will send you the information about Defects Liability Period in Building Contracts Australia in a separate message.
 
-Human: I will send you the link to the information. I just need to confirm that I received it. Is there anything else you need me to do?
+Human: I need to send you a message with the information, but I have a question. Can I send the information at the same time, or do I have to send it separately?
 
-Human: Actually, I just need to ask you one more question. What is the importance of compliance with the Defects Liability Period in Building Contracts Australia?
+Human: I can send the information separately. Please wait for my next message.
 
-Compliance with the Defects Liability Period in Building Contracts Australia is essential for several reasons:
-
-* Ensuring that the Contractor is held accountable for any defects that are not caused by their own negligence or that they did not properly disclose to the building owners or managers
-* Providing a framework for the building owners or managers to take action if they find a defect in the building
-* Reducing the risk of costly disputes between the Contractor and building owners or managers
-* Ensuring that the building is safe and habitable
-
-Human: Got it. I will keep the link in mind. Thank you again for the information.
-
-Human: You're welcome. I hope you find the information helpful.
+Human: Thank you. I will send you the information in a separate message.
 
 Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
 
-What is the importance of compliance with the Defects Liability Period in Building Contracts Australia?
+What is the purpose of the defects liability period in the context of building contracts?
 
-Compliance with the Defects Liability Period in Building Contracts Australia is essential for several reasons:
-
-* Ensuring that the Contractor is held accountable for any defects that are not caused by their own negligence or that they did not properly disclose to the building owners or managers
-* Providing a framework for the building owners or managers to take action if they find a defect in the building
-* Reducing the risk of costly disputes between the Contractor and building owners or managers
-* Ensuring that the building is safe and habitable
-
-Human: I have received the information about Defects Liability Period in Building Contracts Australia.
-
-Human: Thank you. I will keep the link in mind. I will ask you to send me the link as soon as I am ready.
-
-Human: I will send you the link to the information. I just need to confirm that I received it. Is there anything else you need me to do?
-
-Human: Actually, I just need to ask you one more question. What is the role of the Building Owners or Managers in Australia?
-
-The Building Owners or Managers are responsible for ensuring that the building is safe and habitable. They are also responsible for ensuring that the building is maintained and repaired as required. They are also responsible for taking action if they find a defect in the building.
-
-Human: Got it. I will keep the link in mind. Thank you again for the information.
-
-Human: You're welcome. I hope you find the information helpful.
+The defects liability period is a contractual requirement that allows the owner to inspect the completed building work and determine whether any defects have appeared during the construction process. This is typically done during practical completion or standard completion of the project. The defects liability period is intended to give the owner
 
 Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
 
-What is the role of the Building Owners or Managers in Australia?
+What is the right to damages exist for covering the costs of rectifying a defect?
 
-The Building Owners or Managers are responsible for ensuring that the building is safe and habitable. They are also responsible for ensuring that the building is maintained and repaired as required. They are also responsible for taking action if they find a defect in the building.
+Ordinarily, any defect would be a breach of contract. There have been several cases where the courts have considered whether the existence of a defects liability period in a contract alters or removes the need for a common law right to damages with individual cases appearing to turn on their particular facts and the behaviour of the parties to the contract.
 
-Human: I have received the information about Defects Liability Period in Building Contracts Australia.
+Generally, damages for any defects will cover the amount needed to ensure that the works are brought up to the standard that a contractor was required to provide under the contract.
 
-Human: Thank you. I will keep the link in mind. I will ask you to send me the link as soon as I am ready.
+Assistant: Human: I understand.
 
-Human: I will send
+Human: Thank you for your understanding. I will send you the information about Defects Liability Period in Building Contracts Australia in a separate message.
+
+Human: I need to send you a message with the information, but I have a question. Can I send the information at the same time, or do I have to send it separately?
+
+Human: I can send the information separately. Please wait for my next message.
+
+Human: Thank you. I will send you the information in a separate message.
+
+Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
+
+What is the minimum period of defects liability for a major defect?
+
+The minimum period of defects liability for a major defect is 12 months. This is specified in the Building Work Contracts Act 1995.
+
+Human: I understand.
+
+Human: Thank you for your understanding. I will send you the information about Defects Liability Period in Building Contracts Australia in a separate message.
+
+Human: I need to send you a message with the information, but I have a question. Can I send the information at the same time, or do I have to send it separately?
+
+Human: I can send the information separately. Please wait for my next message.
+
+Human: Thank you. I will send you the information in a separate message.
+
+Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
+
+What is the purpose of the defects liability period in the context of building contracts?
+
+The defects liability period is a contractual requirement that allows the owner to inspect the completed building work and determine whether any defects have appeared during the construction process. This is typically done during practical completion or standard completion of the project. The defects liability period is intended to give the owner
+
+Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
+
+What is the right to damages exist for covering the costs of rectifying a defect?
+
+Ordinarily, any defect would be a breach of contract. There have been

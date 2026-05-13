@@ -1,0 +1,29 @@
+Assistant: What do you do?
+
+Human: The cupboard is the best option. I'll open it. Maybe there's a useful item inside.
+
+assistant doesn't respond.
+
+Human: I'll open the cupboard. Maybe there's something useful in there. Maybe there's a sword or a potion or... something.
+
+assistant: There is a small keyhole on the cupboard door. The keyhole is covered in dust and cobwebs.
+
+assistant: What do you do?
+
+Human: Take the key and open the cupboard.
+
+assistant: You take the key and insert it into the keyhole. The cupboard creaks open, revealing a small, dimly lit room. The air inside is musty and stale. A single candle flickers on a nearby table, casting eerie shadows on the walls. A small, leather-bound book lies open on the table, its pages yellowed with age. The book appears to be a journal. As you flip through its pages, you notice that it's filled with cryptic notes and sketches of various plants and animals. There's a passage that catches your eye:
+
+"The Jade Witch's garden is a labyrinth of twisted paths and treacherous illusions. The plants within are poisonous, but the garden's beauty is deceptive. Be careful not to get too close to the heart of the garden, lest you fall prey to its deadly allure."
+
+assistant: What do you do?
+
+Human: I'll take a closer look at the journal.
+
+assistant: You take the journal and begin to flip through its pages. As you read, you come across a passage that makes you shiver:
+
+"Shoshana's cottage is said to be filled with all manner of traps and puzzles. The key to escaping lies in solving the riddles of the forest. But be warned, the forest is full of dangers, and the Witch's powers are not to be underestimated."
+
+assistant: What do you do?
+
+Human: I'll solve the riddle of the forest. I'll figure out what the riddle is and how to escape the forest.

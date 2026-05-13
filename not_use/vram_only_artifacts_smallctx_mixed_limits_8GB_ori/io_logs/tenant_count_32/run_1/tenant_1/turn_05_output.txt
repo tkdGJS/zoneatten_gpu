@@ -1,0 +1,3 @@
+Assistant: assistant: B - False
+
+Explanation: The text states that "research started at around the same time as the early work on computers," indicating that neurocomputing has a history that predates the development of computers. The text also notes that "the study and use of neural networks is sometimes called neurocomputing," suggesting that the term is a relatively recent development. Therefore, the correct answer is B - False.

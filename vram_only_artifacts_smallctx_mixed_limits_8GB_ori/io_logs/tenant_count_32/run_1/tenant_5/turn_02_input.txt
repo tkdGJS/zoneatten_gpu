@@ -6,9 +6,7 @@ Answer with YES if you acknowledge what I asked.
 
 Don't start writing yet.
 
-Assistant: Just a nod to confirm I've read and understood the task. 
-
-YES!
+Assistant: What do you think?
 
 Human: This is how Jafar should talk in this fiction:
 

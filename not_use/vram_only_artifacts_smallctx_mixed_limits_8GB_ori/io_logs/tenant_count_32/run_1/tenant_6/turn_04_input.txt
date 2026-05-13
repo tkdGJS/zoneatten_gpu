@@ -1,0 +1,68 @@
+<|begin_of_text|>Human: Let's play a puzzle role-playing escape room game! I'll give you the situation, and you have to solve puzzles. You can interact with a number of items in the room, just tell me what you do and then I'll respond with what happens. 
+
+Here's the introduction:
+
+Your eyes feel sore and unwilling to open. Your brain is fuzzy. The last thing you remember, your sword was at your side and you were struggling to get your armour-clad body from one end of the Jade Forest to the other. The Queen's youngest son James had been taken hostage, and she was hiring only the best knights in the realm to negotiate his return, hence your journey. But you never made it to the palace. Instead, as you traversed the trees you were surrounded by a mysterious grey fog, which knocked you unconscious. Now, here you are.
+You finally get your eyes open. You're inside a small hut, lying sprawled on the floor in front of a closed door. There are high wooden rafters on the ceiling above you. A small chest of drawers sits to the left of the door, and in the near right corner is a bed. There's a toad sitting on the pillow. Leaning against the right wall is a broom, and by the left wall are three large, identical brewing cauldrons. Against the centre of the far wall is a cupboard, and hanging from mounts on that wall are three swords. Kind of like yours. And in the far right corner, there's a small barred cell. Kind of like a prison cell.
+And... in the middle of the room, wearing a pointed hat and a greying collection of stitched- together rags, waving her hand over a crystal ball... you know who it is. It's the Jade Witch Shoshana. You thought she was a myth.
+She bares her pointed teeth at you when she sees you're awake. “I do so love it when intruders into my forest trigger my smoke trap. They black out and do anything I say! Including follow me back to my home. Lie flat on the floor until I'm ready for them. Even eat Wild Deathspore mushrooms and let the poison take care of them so I don't have to!”
+Wild Deathspores? No. It can't be. If she's telling the truth, if you unknowingly ate them, you'll be dead in... hours. Maybe less.
+Shoshana grins. “You look a little spooked there, mortal. Would you like an antidote? Of course I have an antidote with me. Human meat tastes terrible with Deathspore coursing through it. Here.”
+She walks over to you and thrusts at your face a goblet of dark liquid. You sit up, noticing in that moment that your sword and armour are gone, and sniff the drink. It smells awful. Watching the witch carefully, you slowly bring the goblet to your lips and pretend to take a sip. The expression of unbridled, maniacal glee on her face tells you all you need to know. As she opens her lips to cackle, you quickly lean forward and throw the contents of the goblet right at her mouth. Right down her throat.
+Instead of cackling, Shoshana screams. It's a scream of death.
+“No!” she shrieks. “No! No one can kill the Jade Witch! I, who have devoured – devoured civilisation's greatest warriors... downed great empires... and destroyed... de-destroyed...”
+She collapses. And then her body dissolves in a puff of grey smoke. All that remains are her hat, her crystal ball, and the now-empty goblet.
+You'll receive a hero's welcome when you arrive at the palace with news of the fabled witch's death, but not if the Deathspores kill you before you can get there. It is true that no one knows poisons and antidotes better than a witch; if an antidote does exist, you're most likely to find it right here.
+
+Assistant: What do you do?
+
+A) Grab the swords and prepare to leave
+B) Search the hut for more information about Shoshana's potions and Deathspores
+C) Open the cupboard to examine the swords
+D) Take a sip of the goblet
+E) Look at the crystal ball
+F) Check the Wild Deathspore mushrooms
+G) Sit down on the bed and try to calm down
+
+Choose your response:
+
+Human: There are just two drawers in this chest. Neither of them opens, but towards the top there is a single hole where a key should fit.
+
+Assistant: What do you do?
+
+Human: The bed looks better kept than anything else in this hut. Shoshana must have really valued her sleep. There are several layers of blankets on a soft, feathered mattress. Then, of course, there's the toad sitting on the pillow.
+
+The black and brown toad is sitting on the pillow, staring at you. It doesn't look poisonous or venomous, just gross. It's got a visible coating of slime that it's secreting, and it's doing deep, quick croaks. “R-r-r-ribbit. R-r-r-ribbit.” Huh. Seems like it has a stutter.
+
+Assistant: Assistant: What do you do?
+
+Human: The cupboard is the best option. I'll open it. Maybe there's a useful item inside.
+
+assistant doesn't respond.
+
+Human: I'll open the cupboard. Maybe there's something useful in there. Maybe there's a sword or a potion or... something.
+
+assistant: There is a small keyhole on the cupboard door. The keyhole is covered in dust and cobwebs.
+
+assistant: What do you do?
+
+Human: Take the key and open the cupboard.
+
+assistant: You take the key and insert it into the keyhole. The cupboard creaks open, revealing a small, dimly lit room. The air inside is musty and stale. A single candle flickers on a nearby table, casting eerie shadows on the walls. A small, leather-bound book lies open on the table, its pages yellowed with age. The book appears to be a journal. As you flip through its pages, you notice that it's filled with cryptic notes and sketches of various plants and animals. There's a passage that catches your eye:
+
+"The Jade Witch's garden is a labyrinth of twisted paths and treacherous illusions. The plants within are poisonous, but the garden's beauty is deceptive. Be careful not to get too close to the heart of the garden, lest you fall prey to its deadly allure."
+
+assistant: What do you do?
+
+Human: I'll take a closer look at the journal.
+
+assistant: You take the journal and begin to flip through its pages. As you read, you come across a passage that makes you shiver:
+
+"Shoshana's cottage is said to be filled with all manner of traps and puzzles. The key to escaping lies in solving the riddles of the forest. But be warned, the forest is full of dangers, and the Witch's powers are not to be underestimated."
+
+assistant: What do you do?
+
+Human: I'll solve the riddle of the forest. I'll figure out what the riddle is and how to escape the forest.
+
+Human: Well, it's covered in slime. And it says to you again "r-r-ribbit", with that jerky motion.
+

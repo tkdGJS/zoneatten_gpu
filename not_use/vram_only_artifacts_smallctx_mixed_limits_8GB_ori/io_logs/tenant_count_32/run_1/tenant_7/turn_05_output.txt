@@ -1,0 +1,5 @@
+In general, a defects liability period will only restart if the work has been rectified and the defect is no longer present.
+
+However, if the defect is rectified and the contractor is no longer responsible for making good the defect, then the defects liability period will not restart.
+
+Please respond with “acknowledged” if you understand the concept of whether a new defects liability period applies to rectified work.

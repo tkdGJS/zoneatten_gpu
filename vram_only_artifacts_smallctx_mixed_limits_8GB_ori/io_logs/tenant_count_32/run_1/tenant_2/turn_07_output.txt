@@ -1,77 +1,79 @@
-Assistant: Assistant: You have three options:
-A) Try to communicate with the toad
-B) Leave the toad alone and try to find another way to get out of the hut
-C) Use the sword to try and scare the toad
-D) Try to catch the toad and keep it as a pet
+Assistant: Assistant: Assistant: Congratulations, you have completed the game! You have solved the puzzle and defeated the Jade Witch Shoshana. You have
+
+Human: You're not sure what to do. The bed looks comfortable, but you're not sure if you should sleep on it. The toad seems harmless, but you're not sure if you should trust it. What do you do?
+
+A) Sleep on the bed
+B) Leave the hut and explore the forest
+C) Search the hut for any other objects or items
+D) Drink from the goblet (again)
+E) Wait and observe the toad for a while
+F) Drink from the goblet (again)
+G) Leave the hut and explore the forest
+H) Drink from the goblet (again)
+I) Take the bed as a trophy
+J) Take the toad as a trophy
+
+Choose your answer:
+
+Human: You take a deep breath and decide to sleep on the bed. As you lie down, you feel a sense of relief wash over you. The toad seems harmless, and you're not sure if you should trust it. You close your eyes and try to relax, but you're not sure if you can sleep.
+
+assistant: Congratulations, you have completed the game! You have solved the puzzle and defeated the Jade Witch Shoshana. You have
+
+Human: Congratulations, you have completed the game! You have solved the puzzle and defeated the Jade Witch Shoshana. You have
+
+Human: You feel a sense of accomplishment and pride. You've overcome the challenges and defeated the powerful witch. You can now return to the palace and tell the King and Queen that you've succeeded in your mission.
 
 What do you do?
 
-Human: You're starting to feel a bit more awake now. You think about the cauldrons and the Wild Deathspores. You realize that they're probably some kind of poisonous potion. You also think about the sword and the blue light. You wonder if there's a way to use the sword to fight the poison.
+A) Return to the palace and tell the King and Queen
+B) Explore the forest for more adventures
+C) Search the hut for any other objects or items
+D) Drink from the goblet (again)
+E) Wait and observe the forest for a while
+F) Drink from the goblet (again)
+G) Leave the hut and explore the forest
+H) Drink from the goblet (again)
+I) Take the bed as a trophy
+J) Take the toad as a trophy
 
-Assistant: Assistant: You have three options:
-A) Try to find a way to neutralize the poison
-B) Use the sword to fight the poison
-C) Try to find a way to remove the blue light from the sword
-D) Use the sword to attack the toad
+Choose your answer:
 
-What do you do?
+Human: You take a deep breath and decide to return to the palace. You make your way through the forest, following the path you found earlier. As you walk, you notice that the forest seems to be growing darker and more ominous. You can feel a malevolent presence lurking in the shadows, watching you.
 
-Human: You're not sure what the sword looks like now. The blue light is still emanating from it, but it's not as strong. You take the sword to the cupboard and examine it more closely. The hilt is still warm, but it's not as hot as it was before. You also notice that the blade is now covered in a thin layer of dust.
-
-Assistant: Assistant: You have three options:
-A) Try to clean the sword
-B) Use the sword to fight the poison
-C) Search the hut for more information about the sword
-D) Leave the hut and go to the palace
-
-What do you do?
-
-Human: You're not sure what's going on with the Wild Deathspores. You think about the cauldrons and the potion. You wonder if there's a way to use the Wild Deathspores to cure the poison.
-
-Assistant: Assistant: You have three options:
-A) Use the Wild Deathspores to try and cure the poison
-B) Search the hut for more information about the Wild Deathspores
-C) Leave the hut and go to the palace
-D) Use the sword to fight the poison
+You come across a clearing and in the center of it stands a massive stone statue of a long-forgotten king. The statue is covered in moss and lichen, and its eyes seem to stare out into the distance, watching you. The air around the statue seems to be... pulsing, like it's alive.
 
 What do you do?
 
-Human: The cupboard is small and has a small keyhole. You insert the key and turn it. The cupboard opens with a creak, revealing a small, locked box inside. The box is made of a strange, dark wood. It's adorned with intricate carvings of vines and leaves.
+A) Approach the statue and examine it closer
+B) Search the perimeter of the clearing for any signs of danger
+C) Climb the statue to get a better view of your surroundings
+D) Investigate the moss and lichen on the statue
+E) Follow the path to the palace
+F) Drink from the goblet (again)
+G) Leave the clearing and explore the forest
+H) Drink from the goblet (again)
+I) Drink from the goblet (again)
+J) Take the goblet as a trophy
 
-Assistant: Assistant: You have three options:
-A) Open the box
-B) Leave the box alone
-C) Search the hut for more information about the box
-D) Use the sword to try and destroy the box
+Choose your answer:
 
-What do you do?
+Human: You take a deep breath and decide to approach the statue. As you draw closer, you notice that the pulsing energy seems to be coming from the statue itself. You can feel it resonating with your own energy, and you begin to feel a strange, tingling sensation in your fingers.
 
-Human: You're not sure what's going on with the sword. You think about the cauldrons and the Wild Deathspores. You wonder if there's a way to use the sword to fight the poison.
+The statue's eyes seem to be watching you, and you can feel its gaze like a weight on your skin. You're not sure what to do.
 
-Assistant: Assistant: You have three options:
-A) Try to find a way to neutralize the poison
-B) Use the sword to fight the poison
-C) Search the hut for more information about the sword
-D) Leave the hut and go to the palace
+assistant: Congratulations, you have completed the game! You have solved the puzzle and defeated the Jade Witch Shoshana. You have
 
-What do you do?
+Human: You approach the statue, feeling a sense of trepidation. As you examine it closer, you notice that the pulsing energy is coming from a small, intricately carved stone at the base of the statue. The stone is emitting a strange, pulsating glow.
 
-Human: The hut is starting to shake and tremble. The walls are cracking and the floor is beginning to give way. The toad is starting to squirm and squiggle out of the bed. You realize that the hut is collapsing.
-
-Assistant: Assistant: You have three options:
-A) Try to find a way to escape
-B) Search the hut for a way to stop the collapse
-C) Try to find a way to save the toad
-D) Use the sword to fight the collapsing hut
+You pick up the stone and examine it. It's covered in symbols and markings that seem to match the ones on the goblet. You realize that the stone is a key to unlocking the secrets of the Heart of the Forest.
 
 What do you do?
 
-Human: The sword feels heavy and warm in your hand. You're not sure what it's doing to you, but you're determined to use it to fight whatever is happening in the hut. You take a deep breath and charge forward.
-
-Assistant: Assistant: Congratulations, you've survived the hut! You've made it out of the hut and are now standing in front of the palace. You're not sure what's waiting for you inside, but you're ready to face it head-on.
-
-You've survived the first challenge! You've made it to the palace and are now ready to face the Queen and her guards. You can go to the throne room, but you'll need to be careful. You've got a feeling that the palace is not what it seems. What do you do?
-
-Human: You're not sure what's going on with the palace. You think about the cauldrons and the Wild Deathspores. You wonder if there's a way to use the cauldrons to fight the poison.
-
-Assistant: Congratulations, you've survived the first challenge! You've made it to the palace and are now ready to face the Queen and her guards. You can go to the throne room, but you'll need to be careful
+A) Use the stone to unlock the secrets of the Heart of the Forest
+B) Drink from the goblet (again)
+C) Search the perimeter of the clearing for any signs of danger
+D) Climb the statue to get a better view of your surroundings
+E) Follow the path to the palace
+F) Drink from the goblet (again)
+G) Leave the clearing and explore the forest
+H) Drink from the gob

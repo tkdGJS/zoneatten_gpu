@@ -1,0 +1,16 @@
+A man is looking at a photograph of a horse. He wants to know if the man in the photograph is a real horse or a painting.
+To verify, he consults with a friend who is an expert in the field of art. The expert says that the man in the photograph is a painting.
+
+## Step 1: Determine the context of the problem
+The problem is asking whether the man in the photograph is a real horse or a painting.
+
+## Step 2: Identify the information given
+The expert in the field of art says that the man in the photograph is a painting.
+
+## Step 3: Analyze the situation
+Since the expert is an expert in the field of art, we can rely on their opinion as a reliable source of information.
+
+## Step 4: Draw a conclusion
+Given the expert's opinion, we can conclude that the man in the photograph is a painting.
+
+The final answer is: $\boxed{painting}$

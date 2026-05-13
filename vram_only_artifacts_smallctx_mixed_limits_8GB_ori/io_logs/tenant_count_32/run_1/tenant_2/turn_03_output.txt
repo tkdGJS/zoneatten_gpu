@@ -1,7 +1,84 @@
-Assistant: You have three options:
-A) Try to open the drawers
-B) Use the keys to unlock the cauldrons
-C) Search the hut for a key to unlock the drawers
-D) Wait for the witch to reappear and try to take you prisoner again
+Assistant: What do you do?
+
+A) Try to find a key
+B) Open the drawers and see what's inside
+C) Search the room for any other clues or objects
+D) Leave the chest and explore the hut for more clues
+E) Open the cupboard and look inside
+F) Drink from the goblet (again)
+G) Wait and observe the chest and its contents
+H) Try to communicate with the woman
+I) Leave the hut and explore the forest
+J) Wait and observe the woman for a while
+
+Choose your answer:
+
+Human: You feel a sudden surge of adrenaline and a strong desire to fight. You charge at the woman, sword drawn, but she doesn't flinch. Instead, she raises her hand and points to a small, intricately carved wooden box in the corner of the room. The box is adorned with strange symbols and markings that seem to shift and writhe like living things. The woman's eyes glow with an otherworldly energy as she speaks in a voice that sends shivers down your spine.
+
+"The box contains the key to the Heart of the Forest. But be warned, mortal, the power it holds is not for the taking. You will be consumed by its power, and your soul will be lost forever."
 
 What do you do?
+
+A) Attack the woman with your sword
+B) Try to reason with her
+C) Attempt to take the box
+D) Use your surroundings to your advantage
+E) Try to flee
+F) Offer to trade with her
+G) Drink from the goblet (again)
+H) Try to communicate with the woman
+I) Leave the hut and explore the forest
+J) Wait and observe the woman for a while
+
+Choose your answer:
+
+Human: You manage to dodge the woman's attack and grab the box. As soon as you touch it, you feel a surge of energy course through your veins. The symbols on the box begin to glow brighter, and you can feel the power of the Heart of the Forest coursing through your body. You're filled with a sense of excitement and trepidation as you realize that you now have the power to shape the very fabric of the forest.
+
+But as you hold the box, you also feel a creeping sense of dread. What do you do?
+
+A) Use the power to try and free James
+B) Explore the hut for more clues
+C) Search the room for any other objects or items
+D) Open the cupboard and look inside
+E) Drink from the goblet (again)
+F) Try to communicate with the woman
+G) Leave the hut and explore the forest
+H) Wait and observe the woman for a while
+I) Attempt to take the woman's place as the Jade Witch
+J) Use the power to try and destroy the hut and the woman
+
+Choose your answer:
+
+Human: You hear a faint whispering in your ear. It's Shoshana's voice, and she's speaking to you. "You're not the only one with power, mortal. The Heart of the Forest is not just a simple artifact. It's a key to unlocking the secrets of the ancient ones. And with that power, you'll be able to control the very fabric of reality itself."
+
+What do you do?
+
+A) Use the power to try and free James
+B) Explore the hut for more clues
+C) Search the room for any other objects or items
+D) Open the cupboard and look inside
+E) Drink from the goblet (again)
+F) Try to communicate with the woman
+G) Leave the hut and explore the forest
+H) Wait and observe the woman for a while
+I) Attempt to take the woman's place as the Jade Witch
+J) Use the power to try and destroy the hut and the woman
+
+Choose your answer:
+
+Human: You feel a sudden rush of excitement and a sense of purpose. You realize that you now have the power to shape the very fabric of reality. But you also feel a sense of responsibility, and a sense of danger. You know that you can't let your desire for power consume you.
+
+As you hold the box, you feel a strange, tingling sensation in your fingers. The symbols on the box begin to glow brighter, and you can feel the power of the Heart of the Forest coursing through your veins. You realize that you're not just a simple mortal, but a key player in a much larger game.
+
+What do you do?
+
+A) Use the power to try and free James
+B) Explore the hut for more clues
+C) Search the room for any other objects or items
+D) Open the cupboard and look inside
+E) Drink from the goblet (again)
+F) Try to communicate with the woman
+G) Leave the hut and explore the forest
+H) Wait and observe the woman for a while
+I) Attempt to take the woman's place as the Jade Witch
+J) Use the power to try and destroy the hut and the

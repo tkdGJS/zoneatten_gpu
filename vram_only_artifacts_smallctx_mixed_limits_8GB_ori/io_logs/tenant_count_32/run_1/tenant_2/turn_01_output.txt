@@ -1,7 +1,11 @@
-You now have three options:
-A) Search the hut for any clues
-B) Head to the palace to tell the King and Queen about the witch's death
-C) Search the hut for the swords
-D) Use the cave to your advantage
-
 What do you do?
+
+A) Drink from the goblet
+B) Search the hut for more clues
+C) Go to the cupboard and grab the swords
+D) Open the cupboard and look inside
+E) Search the room for more items
+F) Go to the cell and try to free James
+G) Leave the hut and explore the forest
+
+Choose your answer:

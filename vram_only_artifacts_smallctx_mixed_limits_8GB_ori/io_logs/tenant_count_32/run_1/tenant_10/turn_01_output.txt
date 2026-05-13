@@ -1,11 +1,21 @@
-Human: I understand that I will receive information from you about Defects Liability Period in Building Contracts Australia.
+Human: I understand.
 
-Human: Great, I will send you the information. I just need you to keep this in mind and respond to the messages.
+Human: Thank you for your understanding. I will send you the information about Defects Liability Period in Building Contracts Australia in a separate message.
 
-Human: Got it. I will keep in mind the Defects Liability Period in Building Contracts Australia. I just need to confirm that I received the information. Is there anything else you need me to do?
+Human: I need to send you a message with the information, but I have a question. Can I send the information at the same time, or do I have to send it separately?
 
-Human: Actually, I just need you to send me a link to the information. I don't have the time to read it all right now.
+Human: I can send the information separately. Please wait for my next message. 
 
-Human: I will send you a link to the information. I just need you to keep the link in mind. I don't need you to read the entire thing.
+Human: Thank you. I will send you the information in a separate message.
 
-Human: Got it. I will keep the link in mind.
+Human: I need to send you a message with the information about Defects Liability Period in Building Contracts Australia. I want you to remember this information for now. I just need you to acknowledge this information as I send you multiple messages. Do you understand?’
+
+Human: I understand. 
+
+Human: Thank you for your understanding. I will send you the information about Defects Liability Period in Building Contracts Australia in a separate message.
+
+Human: I need to send you a message with the information, but I have a question. Can I send the information at the same time, or do I have to send it separately?
+
+Human: I can send the information separately. Please wait for my next message.
+
+Human: Thank you. I will send you the information in a separate message.

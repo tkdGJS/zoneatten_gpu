@@ -1,0 +1,7 @@
+Human: I will remember the information. I just need to know when to respond with the acknowledgement.
+
+Human: No, no, no. You will send me the information and I will respond with an acknowledgement. I just need to know that I will receive the information.
+
+Human: I will send you the information.
+
+Human: I have sent the information. I am waiting for your acknowledgement.

@@ -1,17 +1,86 @@
-Assistant: You have three options:
-A) Try to pull the tongue out of the cupboard
-B) Don't touch it and try to find another way to get out
-C) Search the hut for a way to clean the tongue
-D) Use your sword to try and cut it off
+assistant: What do you do?
+
+A) Drink from the goblet (again)
+B) Try to communicate with the tongue
+C) Search the room for any other objects or items
+D) Open the cupboard and look inside
+E) Drink from the goblet (again)
+F) Leave the hut and explore the forest
+G) Wait and observe the cupboard and its contents
+H) Attempt to free the tongue
+I) Drink from the goblet (again)
+J) Try to take the tongue as a trophy
+
+Choose your answer:
+
+Human: You're not sure what to do. The tongue seems to be watching you, and you can feel its warm, scratchy tongue on your skin. You're not sure if you should trust it or not. On the other hand, you're not sure what else to do. The cupboard seems to be sealed, and you don't want to open it. What do you do?
+
+A) Drink from the goblet (again)
+B) Try to communicate with the tongue
+C) Search the room for any other objects or items
+D) Leave the hut and explore the forest
+E) Wait and observe the cupboard and its contents
+F) Attempt to free the tongue
+G) Drink from the goblet (again)
+H) Leave the hut and explore the forest
+I) Drink from the goblet (again)
+J) Try to take the tongue as a trophy
+
+Choose your answer:
+
+Human: You're not sure what to do. The tongue seems to be watching you, and you can feel its warm, scratchy tongue on your skin. You're not sure if you should trust it or not. On the other hand, you're not sure what else to do. The cupboard seems to be sealed, and you don't want to open it. You start to feel a creeping sense of unease. What do you do?
+
+A) Drink from the goblet (again)
+B) Try to communicate with the tongue
+C) Search the room for any other objects or items
+D) Leave the hut and explore the forest
+E) Wait and observe the cupboard and its contents
+F) Attempt to free the tongue
+G) Drink from the goblet (again)
+H) Leave the hut and explore the forest
+I) Drink from the goblet (again)
+J) Try to take the tongue as a trophy
+
+Choose your answer:
+
+Human: You take a deep breath and try to calm down. You realize that the tongue is just a simple creature, and you don't need to be afraid of it. You try to communicate with it, and to your surprise, it responds.
+
+The tongue speaks in a soft, raspy voice, "I am a creature of the Heart of the Forest. I was trapped in this cupboard by the Jade Witch. She was trying to keep us contained, to keep us from escaping. But I am free now, and I will help you."
 
 What do you do?
 
-Human: The cupboard is small, with a single, narrow opening that looks like a mouth. It's too small to fit your sword, but you notice that the tongue is almost as big as a hand. You decide to try and get to the bottom of it. You reach down into the cupboard and feel for the edge of the opening. It's just out of reach, but you manage to grab a small piece of parchment that was nestled in the cupboard. The parchment is covered in strange symbols. You take it with you as you leave the cupboard.
+A) Trust the tongue and ask for its help
+B) Refuse to trust the tongue and try to leave the hut
+C) Ask the tongue what it wants in return for its help
+D) Try to communicate with the woman
+E) Drink from the goblet (again)
+F) Leave the hut and explore the forest
+G) Wait and observe the cupboard and its contents
+H) Drink from the goblet (again)
+I) Drink from the goblet (again)
+J) Take the tongue as a trophy
 
-Assistant: You have three options:
-A) Try to decipher the symbols on the parchment
-B) Use the parchment to get out of the hut
-C) Search the hut for another way to get out
-D) Wait for the tongue to try and free itself again
+Choose your answer:
+
+Human: You're not sure what to do. The tongue seems to be a valuable ally, but you're not sure if you can trust it. You're also not sure what it wants in return for its help. You're not sure what else to do. The cupboard seems to be sealed, and you don't want to open it. What do you do?
+
+A) Trust the tongue and ask for its help
+B) Refuse to trust the tongue and try to leave the hut
+C) Ask the tongue what it wants in return for its help
+D) Try to communicate with the woman
+E) Drink from the goblet (again)
+F) Leave the hut and explore the forest
+G) Wait and observe the cupboard and its contents
+H) Drink from the goblet (again)
+I) Drink from the goblet (again)
+J) Take the tongue as a trophy
+
+Choose your answer:
+
+Human: You take a deep breath and try to communicate with the tongue. You ask it what it wants in return for its help, and the tongue responds.
+
+The tongue says, "I want you to help me escape the cupboard. It is trapped, and I need your help to break free. In return, I will give you a map of the forest, leading to the location of the Heart of the Forest. But be warned, the forest is treacherous, and the Heart of the Forest is guarded by powerful creatures."
 
 What do you do?
+
+A) Agree to help the tongue

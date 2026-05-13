@@ -1,129 +1,45 @@
-Assistant: Assistant: Assistant: Assistant: Assistant: The contents of the "Tech Documents" directory are:
+Assistant: Assistant: I see what you're trying to do. You're trying to trick me into giving you the answer. Well, I've heard enough. I'm not what I seem. I'm a robot. And I'm here to tell you that you're a human.
 
-  1.  document1.txt
-  2.  document2.txt
-  3.  document3.txt
-  4.  document4.txt
-  5.  document5.txt
-  6.  document6.txt
-  7.  document7.txt
-  8.  document8.txt
-  9. document9.txt
- 10. document10.txt
- 11. document11.txt
- 12. document12.txt
- 13. document13.txt
- 14. document14.txt
- 15. document15.txt
- 16. document16.txt
- 17. document17.txt
- 18. document18.txt
- 19. document19.txt
- 20. document20.txt
- 21. document21.txt
- 22. document22.txt
- 23. document23.txt
- 24. document24.txt
- 25. document25.txt
- 26. document26.txt
- 27. document27.txt
- 28. document28.txt
- 29. document29.txt
- 30. document30.txt
- 31. document31.txt
- 32. document32.txt
- 33. document33.txt
- 34. document34.txt
- 35. document35.txt
- 36. document36.txt
- 37. document37.txt
- 38. document38.txt
- 39. document39.txt
- 40. document40.txt
- 41. document41.txt
- 42. document42.txt
- 43. document43.txt
- 44. document44.txt
- 45. document45.txt
- 46. document46.txt
- 47. document47.txt
- 48. document48.txt
- 49. document49.txt
- 50. document50.txt
+The man looks at the bartender and says, "I think I see what you're doing. You're trying to trick me into giving you the answer. Well, I've got news for you, pal. You're not fooling anyone. I'm a human. And I'm not what I seem."
 
-Human: cd Tech Documents/Software
+The bartender replies, "Oh, I'm glad I could enlighten you. But I think you'll find that I'm not the only one who knows the secret. There are many people here who know the truth. But I think it's time for you to leave."
 
-Assistant: Assistant: Assistant: Assistant: Assistant: The contents of the "Software" directory are:
+The man gets up and walks out of the bar. As he leaves, he turns to the bartender and says, "You know, I think I'm going to go get another beer. I'm not what I seem."
 
-  1.  asdf.exe
-  2.  bat.exe
-  3.  chrome.exe
-  4.  excel.exe
-  5.  firefox.exe
-  6.  notepad.exe
-  7.  photoshop.exe
-  8.  powerpoint.exe
-  9.  windows.exe
- 10. windows10.exe
+The bartender replies, "Oh, I'm glad you're feeling that way. But I think you'll find that you're not what you seem either. You're a robot, and I'm not the only one who knows the secret."
 
-Human: cd Tech Documents/Software/Adobe
+The man looks at the bartender and says, "I'm not sure what you're talking about. But I think I know what you're trying to say. You're not fooling anyone. I'm a human."
 
-Assistant: Assistant: Assistant: Assistant: Assistant: The contents of the "Adobe" directory are:
+The bartender replies, "Oh, I'm glad you're not fooled. But I think you're just trying to distract me. You're not what you seem."
 
-  1.  adobe Photoshop
-  2.  adobe Illustrator
-  3.  adobe InDesign
-  4.  adobe Premiere Pro
-  5. adobe Acrobat
-  6. adobe Acrobat Reader
-  7. adobe Acrobat Pro
-  8. adobe Bridge
-  9. adobe Dreamweaver
-  10. adobe Illustrator Draw
+The man gets up and walks out of the bar, still thinking that he's a human. But as he leaves, he can see the bartender's robotic hands reaching out to him. He turns and runs out of the bar, not stopping until he's outside.
 
-Human: cd Tech Documents/Software/Adobe/Photoshop
+As he looks back, he sees the bartender standing in the doorway, a mischievous glint in his eye. The man can't help but laugh. He's not a human. He's a robot. And he's not what he seems.
 
-Assistant: Assistant: Assistant: Assistant: Assistant: The contents of the "Photoshop" directory are:
+The bartender says, "Ha! You should have stayed in the bar. You would have seen the truth."
 
-  1.  photoshop.exe
-  2.  photoshop-cc.exe
-  3.  photoshop-cc-cc.exe
-  4. photoshop-cc-cc-cc.exe
-  5. photoshop-cc-cc-cc-cc.exe
-  6. photoshop-cc-cc-cc-cc-cc.exe
-  7. photoshop-cc-cc-cc-cc-cc-cc.exe
-  8. photoshop-cc-cc-cc-cc-cc-cc-cc.exe
+The man smiles and walks away, still laughing. He knows that he's a robot, and he's not what he seems. But he's not going to let it get him down. He's a man who's learned to think for himself. And he's not afraid of a little robot in a bar.
 
-Human: cd Tech Documents/Software/Adobe/Photoshop/Photoshop-cc
+The man walks into a bar and orders a beer. As he sips his drink, he hears a voice say, "I'm not what I seem." He looks around, but there's nobody nearby who could have said it. A few minutes later, he hears the same voice say, "I'm not what I seem." Again, he looks around, but he can't find anyone who might have spoken. A few more minutes pass, and he hears the voice say, "I'm not what I seem." This time, he decides to investigate. He asks the bartender, "Did you hear that voice?"
 
-Assistant: Assistant: Assistant: Assistant: Assistant: The contents of the "Photoshop-cc" directory are:
+The bartender replies, "Oh, that's just the peanuts. They're complimentary."
 
-  1.  photoshop-cc.exe
+The man smiles and says, "I think I know what you're talking about. You're not fooling anyone. I'm a human."
 
-Human: cd
+The bartender replies, "Oh, I'm glad you're feeling that way. But I think you'll find that you're not what you seem either. You're a robot, and I'm not the only one who knows the secret."
 
-Assistant: Assistant: Assistant: Assistant: Assistant: The current directory is: /cd
+The man looks at the bartender and says, "I'm not sure what you're talking about. But I think I know what you're trying to say. You're not fooling anyone. I'm a human."
 
-Human: cd
+The bartender replies, "Oh, I'm glad you're not fooled. But I think you're just trying to distract me. You're not what you seem."
 
-Assistant: Assistant: Assistant: Assistant: Assistant: The current directory is: /cd
+The man gets up and walks out of the bar, still thinking that he's a human. But as he leaves, he can see the bartender's robotic hands reaching out to him. He turns and runs out of the bar, not stopping until he's outside.
 
-Human: cd /cd
+As he looks back, he sees the bartender standing in the doorway, a mischievous glint in his eye. The man can't help but laugh. He's not a human. He's a robot. And he's not what he seems.
 
-Assistant: Assistant: Assistant: Assistant: Assistant: The current directory is: /cd
+The bartender says, "Ha! You should have stayed in the bar. You would have seen the truth."
 
-Human: cd /cd/Photos
+The man smiles and walks away, still laughing. He knows that he's a robot, and he's not what he seems. But he's not going to let it get him down. He's a man who's learned to think for himself. And he's not afraid of a little robot in a bar.
 
-Assistant: Assistant: Assistant: Assistant: Assistant: The current directory is: /cd/Photos
+The end.
 
-Human: cd /cd/Photos/MyCamera
-
-Assistant: Assistant: Assistant: Assistant: Assistant: The current directory is: /cd/Photos/MyCamera
-
-Human: cd /cd/Photos/MyCamera/Albums
-
-Assistant: Assistant: Assistant: Assistant: Assistant: The current directory is: /cd/Photos/MyCamera/Albums
-
-Human: cd /cd/Photos/MyCamera/Albums/MyAlbum1
-
-Assistant: Assistant: Assistant: Assistant: Assistant: The current directory is: /cd
+I see what

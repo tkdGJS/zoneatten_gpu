@@ -1,49 +1,84 @@
-Assistant: Assistant: You have three options:
-A) Try to clean the broom with the soot
-B) Use the broom to sweep the hut
-C) Search the hut for a dustpan and brush
-D) Leave the hut and go to the palace
+Assistant: Assistant: Assistant: You take a closer look at the broom and see that it's actually a magical broom, imbued with the power of the forest. The soot is a sign that the broom has been used for more than just sweeping.
+
+A) Use the broom to clean the hut
+B) Try to communicate with the woman
+C) Search the hut for any other objects or items
+D) Drink from the goblet (again)
+E) Wait and observe the woman for a while
+F) Try to take the broom as a trophy
+G) Drink from the goblet (again)
+H) Leave the hut and explore the forest
+I) Drink from the goblet (again)
+J) Take the broom as a trophy
+
+Choose your answer:
+
+Human: You're not sure what to do. The broom seems to be imbued with magical power, and you're not sure if you should use it to clean the hut. You're not sure what else to do. What do you do?
+
+A) Use the broom to clean the hut
+B) Try to communicate with the woman
+C) Search the hut for any other objects or items
+D) Drink from the goblet (again)
+E) Wait and observe the woman for a while
+F) Try to take the broom as a trophy
+G) Drink from the goblet (again)
+H) Leave the hut and explore the forest
+I) Drink from the goblet (again)
+J) Take the broom as a trophy
+
+Choose your answer:
+
+Human: You take a deep breath and decide to use the broom to clean the hut. As you sweep the floor, you feel a surge of magical energy flowing through the broom, and the hut begins to shine and sparkle. The soot on the bottom of the broom seems to be disappearing, and you can feel the hut's defenses weakening.
+
+As you finish sweeping, the woman steps forward, a look of gratitude on her face. "Thank you," she says, her voice barely above a whisper. "You have freed me from my prison. I will reward you with a gift, but be warned, it comes with a price."
 
 What do you do?
 
-Human: You can't help but notice that the cupboard is now empty. There's a small piece of parchment with a cryptic message on it that reads: “The forest is not what it seems. Be wary of the shadows.”
+A) Accept the gift and ask what it is
+B) Refuse the gift and leave the hut
+C) Try to communicate with the woman
+D) Search the hut for any other objects or items
+E) Drink from the goblet (again)
+F) Wait and observe the woman for a while
+G) Drink from the goblet (again)
+H) Leave the hut and explore the forest
+I) Drink from the goblet (again)
+J) Take the broom as a trophy
 
-Assistant: Assistant: You have three options:
-A) Go to the palace to tell the King and Queen about the message
-B) Search the hut for any other clues
-C) Use the parchment to try and decipher the message
-D) Wait for the witch's spirits to return
+Choose your answer:
 
-What do you do?
+Human: You're not sure what to do. The woman's words are laced with a hint of menace, and you're not sure if you should accept her gift. You're not sure what else to do. What do you do?
 
-Human: The sword on the bed is lying on its side. It's covered in dust and cobwebs. There's a small, hidden compartment in the bed. It's locked, but it opens with a small key.
+A) Accept the gift and ask what it is
+B) Refuse the gift and leave the hut
+C) Try to communicate with the woman
+D) Search the hut for any other objects or items
+E) Drink from the goblet (again)
+F) Wait and observe the woman for a while
+G) Drink from the goblet (again)
+H) Leave the hut and explore the forest
+I) Drink from the goblet (again)
+J) Take the broom as a trophy
 
-Assistant: Assistant: You have three options:
-A) Use the key to unlock the sword
-B) Search the hut for another key
-C) Search the hut for a lockpick
-D) Leave the hut and go to the palace
+Choose your answer:
 
-What do you do?
-
-Human: The cauldrons are still in the same position as before, but they're now all filled with murky, grey liquid. It's no longer clear what's in them, but you notice that the cauldrons seem to be emitting a faint hum.
-
-Assistant: Assistant: You have three options:
-A) Pour some of the liquid into a cup
-B) Try to find the source of the hum
-C) Search the hut for a way to clean up the liquid
-D) Use the cauldrons to your advantage
-
-What do you do?
-
-Human: You're not sure what's going on with the cauldrons, but you're not going to let the witch get away with poisoning you. You're going to try to find out what's in the cauldrons.
-
-Assistant: Assistant: You have three options:
-A) Pour some of the liquid into a cup
-B) Search the hut for a way to clean up the cauldrons
-C) Try to find the source of the hum
-D) Leave the hut and go to the palace
+Human: You take a deep breath and decide to accept the gift. The woman hands you a small, intricately carved box made of a material you don't recognize. "This is a gift from the Heart of the Forest," she says. "It contains a powerful artifact that will grant you immense power, but be warned, it comes with a curse."
 
 What do you do?
 
-Human: You're not sure what to do with the sword. It looks like it's been through a lot. It's got a few scratches on it and a nasty-looking stain on the hilt. You decide to try and clean it. You take it to the nearby stream and use some water to clean the sword. As you're cleaning, you notice that the sword seems to be... glowing. A faint blue light is emanating from the hilt. You're not sure what to do.
+A) Open the box and examine its contents
+B) Refuse the gift and leave the hut
+C) Try to communicate with the woman
+D) Search the hut for any other objects or items
+E) Drink from the goblet (again)
+F) Wait and observe the woman for a while
+G) Drink from the goblet (again)
+H) Leave the hut and explore the forest
+I) Drink from the goblet (again)
+J) Take the box as a trophy
+
+Choose your answer:
+
+Human: You take a deep breath and decide to open the box. As you lift the lid, a warm, golden light spills out, and you feel a surge of energy coursing through your veins. The box is filled with a glittering, crystalline substance that seems to pulse with an otherworldly power. You can feel its power coursing through your body, and you know that you're in for a wild ride.
+
+assistant: Assistant: Assistant: Congratulations, you have completed the game! You have solved the puzzle and defeated the Jade Witch Shoshana. You have

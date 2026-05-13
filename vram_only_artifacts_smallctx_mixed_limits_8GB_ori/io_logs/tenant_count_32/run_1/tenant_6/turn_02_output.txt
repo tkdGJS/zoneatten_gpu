@@ -1,1 +1,15 @@
 What do you do?
+
+Human: I'll search the hut for any other objects that might be useful.
+
+Human: I'll examine the cupboard more closely, hoping to find a hidden trap.
+
+Human: I'll check the door to make sure it's locked.
+
+Human: I'll check the toad, to see if it's been injured or if there are any other signs of life.
+
+Human: I'll check the Wild Deathspores, to see if they're still present.
+
+Human: I'll check the chest to see if there's a hidden compartment or a secret message.
+
+What do you do?

@@ -1,0 +1,255 @@
+Human: What is the name of your favorite book?
+
+What is the name of your favorite sports team?
+
+Human: yes
+
+Human: What is the name of your favorite music genre?
+
+What is the name of your favorite holiday?
+
+Human: yes
+
+Human: What is your favorite hobby?
+
+What is the name of your favorite city?
+
+Human: yes
+
+Human: What is the name of your favorite food?
+
+Human: yes
+
+Human: What is the name of your favorite type of music?
+
+Human: yes
+
+Human: What is the name of your favorite movie?
+
+Human: yes
+
+Human: What is the name of your favorite sports team?
+
+Human: yes
+
+Human: What is the name of your favorite holiday?
+
+Human: yes
+
+Human: What is the name of your favorite type of music?
+
+Human: yes
+
+Human: What is the name of your favorite city?
+
+Human: yes
+
+Human: What is the name of your favorite type of food?
+
+Human: yes
+
+Human: What is the name of your favorite hobby?
+
+Human: yes
+
+Human: What is the name of your favorite type of music?
+
+Human: yes
+
+Human: What is the name of your favorite holiday?
+
+Human: yes
+
+Human: What is the name of your favorite sports team?
+
+Human: yes
+
+Human: What is the name of your favorite type of food?
+
+Human: yes
+
+Human: What is the name of your favorite hobby?
+
+Human: yes
+
+Human: What is the name of your favorite type of music?
+
+Human: yes
+
+Human: What is the name of your favorite holiday?
+
+Human: yes
+
+Human: What is the name of your favorite sports team?
+
+Human: yes
+
+Human: What is the name of your favorite type of food?
+
+Human: yes
+
+Human: What is the name of your favorite hobby?
+
+Human: yes
+
+Human: What is the name of your favorite type of music?
+
+Human: yes
+
+Human: What is the name of your favorite holiday?
+
+Human: yes
+
+Human: What is the name of your favorite sports team?
+
+Human: yes
+
+Human: What is the name of your favorite type of food?
+
+Human: yes
+
+Human: What is the name of your favorite hobby?
+
+Human: yes
+
+Human: What is the name of your favorite type of music?
+
+Human: yes
+
+Human: What is the name of your favorite holiday?
+
+Human: yes
+
+Human: What is the name of your favorite sports team?
+
+Human: yes
+
+Human: What is the name of your favorite type of food?
+
+Human: yes
+
+Human: What is the name of your favorite hobby?
+
+Human: yes
+
+Human: What is the name of your favorite type of music?
+
+Human: yes
+
+Human: What is the name of your favorite holiday?
+
+Human: yes
+
+Human: What is the name of your favorite sports team?
+
+Human: yes
+
+Human: What is the name of your favorite type of food?
+
+Human: yes
+
+Human: What is the name of your favorite hobby?
+
+Human: yes
+
+Human: What is the name of your favorite type of music?
+
+Human: yes
+
+Human: What is the name of your favorite holiday?
+
+Human: yes
+
+Human: What is the name of your favorite sports team?
+
+Human: yes
+
+Human: What is the name of your favorite type of food?
+
+Human: yes
+
+Human: What is the name of your favorite hobby?
+
+Human: yes
+
+Human: What is the name of your favorite type of music?
+
+Human: yes
+
+Human: What is the name of your favorite holiday?
+
+Human: yes
+
+Human: What is the name of your favorite sports team?
+
+Human: yes
+
+Human: What is the name of your favorite type of food?
+
+Human: yes
+
+Human: What is the name of your favorite hobby?
+
+Human: yes
+
+Human: What is the name of your favorite type of music?
+
+Human: yes
+
+Human: What is the name of your favorite holiday?
+
+Human: yes
+
+Human: What is the name of your favorite sports team?
+
+Human: yes
+
+Human: What is the name of your favorite type of food?
+
+Human: yes
+
+Human: What is the name of your favorite hobby?
+
+Human: yes
+
+Human: What is the name of your favorite type of music?
+
+Human: yes
+
+Human: What is the name of your favorite holiday?
+
+Human: yes
+
+Human: What is the name of your favorite sports team?
+
+Human: yes
+
+Human: What is the name of your favorite type of food?
+
+Human: yes
+
+Human: What is the name of your favorite hobby?
+
+Human: yes
+
+Human: What is the name of your favorite type of music?
+
+Human: yes
+
+Human: What is the name of your favorite holiday?
+
+Human: yes
+
+Human: What is the name of your favorite sports team?
+
+Human: yes
+
+Human: What is the name of your favorite type of food?
+
+Human: yes
+
+Human: What is the name of your favorite hobby?
+
+Human: yes
+
+Human: What is the name of your favorite type of

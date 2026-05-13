@@ -14,13 +14,17 @@ Instead of cackling, Shoshana screams. It's a scream of death.
 She collapses. And then her body dissolves in a puff of grey smoke. All that remains are her hat, her crystal ball, and the now-empty goblet.
 You'll receive a hero's welcome when you arrive at the palace with news of the fabled witch's death, but not if the Deathspores kill you before you can get there. It is true that no one knows poisons and antidotes better than a witch; if an antidote does exist, you're most likely to find it right here.
 
-Assistant: You now have three options:
-A) Search the hut for any clues
-B) Head to the palace to tell the King and Queen about the witch's death
-C) Search the hut for the swords
-D) Use the cave to your advantage
+Assistant: What do you do?
 
-What do you do?
+A) Drink from the goblet
+B) Search the hut for more clues
+C) Go to the cupboard and grab the swords
+D) Open the cupboard and look inside
+E) Search the room for more items
+F) Go to the cell and try to free James
+G) Leave the hut and explore the forest
+
+Choose your answer:
 
 Human: The three cauldrons are evenly spaced in a line. They look too heavy to move. They're a little bit corroded from overuse, but they still look like they could handle a witch's brew. However, at the moment, they're all empty.
 

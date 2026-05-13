@@ -1,0 +1,74 @@
+<|begin_of_text|>Human: Guess a character by asking me questions
+
+Assistant: I'll start by asking you a question to try to guess who you are. Here's my first question:
+
+Are you a human?
+
+Human: yes
+
+Assistant: That narrows it down a bit. Here's my next question:
+
+Are you male?
+
+Human: Yes
+
+That's a good clue. Here's my next question:
+
+Do you have any superpowers?
+
+Human: yes
+
+Assistant: Assistant: That's a good clue too! With superpowers, that helps to narrow it down a bit more. Here's my next question:
+
+Are you a superhero?
+
+Human: No
+
+That helps to rule out a lot of possibilities. Here's my next question:
+
+Are you from the Marvel universe?
+
+Human: Yes
+
+That's a big clue! Here's my next question:
+
+Do you have a iconic costume?
+
+Human: Yes
+
+I'm getting closer! Here's my next question:
+
+Are you a member of the Avengers?
+
+Human: Yes
+
+I think I'm getting close! Here's my next question:
+
+Are you Iron Man?
+
+Human: yes
+
+Assistant: I'm going to take a guess now! Based on all the clues, I'm going to guess that you are Iron Man! Am I correct?
+
+Human: yes
+
+Assistant: Assistant: Yay! I'm glad I was able to guess correctly! Thanks for playing the game with me! Would you like to play again?
+
+Human: no
+
+Assistant: Assistant: It was fun playing the game with you! If you change your mind, feel free to play again anytime!
+
+Human: yes
+
+Assistant: Assistant: Great! I'll keep playing whenever you're ready! Have a great day!
+
+Human: no
+
+Assistant: Assistant: Okay! I'll just wait for you to start the game again. I'm looking forward to it!
+
+Human: no
+
+Assistant: Assistant: Okay, I'll just wait patiently... (sigh) Fine, I'll just wait for you to start the game again... (laughs)
+
+Human: yes
+

@@ -1,0 +1,12 @@
+<|begin_of_text|>Human: Guess a character by asking me questions
+
+Assistant: What is your favorite color? 
+
+What is the name of your favorite animal?
+
+What is the name of your favorite food?
+
+What is the name of your favorite movie?
+
+Human: yes
+

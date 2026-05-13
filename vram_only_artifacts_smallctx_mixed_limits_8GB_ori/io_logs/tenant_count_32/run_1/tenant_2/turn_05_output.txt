@@ -1,7 +1,86 @@
-Assistant: You have three options:
-A) Search the hut for the Wild Deathspore mushrooms
-B) Go to the palace and tell the King and Queen about the witch's death
-C) Search the hut for any other clues
-D) Wait for the witch's spirits to return
+Assistant: Assistant: You look at the goblet, and it seems to be empty. It's possible that the goblet was just a ruse to lure you into the hut. What do you do?
+
+A) Drink from the goblet (again)
+B) Search the room for any other objects or items
+C) Leave the hut and explore the forest
+D) Open the cupboard and look inside
+E) Drink from the goblet (again)
+F) Wait and observe the cupboard and its contents
+G) Drink from the goblet (again)
+H) Leave the hut and explore the forest
+I) Drink from the goblet (again)
+J) Take the goblet as a trophy
+
+Choose your answer:
+
+Human: You're not sure what to do. The goblet seems to be empty, and you're not sure if you should drink from it again. You're not sure what else to do. The cupboard seems to be sealed, and you don't want to open it. What do you do?
+
+A) Drink from the goblet (again)
+B) Search the room for any other objects or items
+C) Leave the hut and explore the forest
+D) Open the cupboard and look inside
+E) Drink from the goblet (again)
+F) Wait and observe the cupboard and its contents
+G) Drink from the goblet (again)
+H) Leave the hut and explore the forest
+I) Drink from the goblet (again)
+J) Take the goblet as a trophy
+
+Choose your answer:
+
+Human: You're not sure what to do. The goblet seems to be empty, and you're not sure if you should drink from it again. You're not sure what else to do. The cupboard seems to be sealed, and you don't want to open it. What do you do?
+
+A) Drink from the goblet (again)
+B) Search the room for any other objects or items
+C) Leave the hut and explore the forest
+D) Open the cupboard and look inside
+E) Drink from the goblet (again)
+F) Wait and observe the cupboard and its contents
+G) Drink from the goblet (again)
+H) Leave the hut and explore the forest
+I) Drink from the goblet (again)
+J) Take the goblet as a trophy
+
+Choose your answer:
+
+Human: You take a deep breath and decide to leave the hut. You're not sure what else to do, and you're not sure if you can trust the cupboard or the tongue. You leave the hut and explore the forest, following the map the tongue gave you. The forest is dense and dark, and you have to navigate through it carefully. As you walk, you notice that the trees seem to be watching you, and the wind carries a strange, whispery voice.
 
 What do you do?
+
+A) Continue to follow the map
+B) Try to communicate with the trees
+C) Search the forest for any other objects or items
+D) Drink from the goblet (again)
+E) Wait and observe the forest for a while
+F) Try to find a way to communicate with the forest
+G) Drink from the goblet (again)
+H) Leave the forest and explore a different path
+I) Drink from the goblet (again)
+J) Take the goblet as a trophy
+
+Choose your answer:
+
+Human: You're not sure what to do. The forest seems to be full of dangers, and you're not sure if you can trust the trees. You're not sure what else to do. What do you do?
+
+A) Continue to follow the map
+B) Try to communicate with the trees
+C) Search the forest for any other objects or items
+D) Drink from the goblet (again)
+E) Wait and observe the forest for a while
+F) Try to find a way to communicate with the forest
+G) Drink from the goblet (again)
+H) Leave the forest and explore a different path
+I) Drink from the goblet (again)
+J) Take the goblet as a trophy
+
+Choose your answer:
+
+Human: You take a deep breath and decide to continue following the map. You press on, navigating through the dense forest, and after a while, you hear the sound of rushing water. You round a bend in the path and see a beautiful waterfall cascading down a rocky slope. The sound is soothing, and you feel a sense of relief wash over you.
+
+As you approach the waterfall, you notice a figure standing behind the falls. It's a woman, dressed in a flowing white gown, and her hair is flowing in the wind. She's singing a haunting melody that seems to match the sound of the waterfall. The song is beautiful, but also unsettling, and you can feel a strange energy emanating from her.
+
+What do you do?
+
+A) Approach the woman and try to communicate with her
+B) Ignore her and continue following the map
+C) Try to take the

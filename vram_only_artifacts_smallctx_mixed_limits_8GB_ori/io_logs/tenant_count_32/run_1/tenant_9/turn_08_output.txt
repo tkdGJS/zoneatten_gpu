@@ -1,71 +1,216 @@
-The defects liability period is not a one-time event, but a continuous obligation for the Contractor to carry out repairs and rectification work during the specified time frame.
+Assistant: What is the main purpose of a defects liability period?
 
-The purpose of the defects liability period is to:
+The main purpose of a defects liability period is to provide a practical mechanism to the Employer for the repair or making good of defects which may not be apparent before completion, without resorting to dispute resolution.
 
-1. Ensure that the Contractor is responsible for identifying and rectifying any defects in the works.
-2. Provide a framework for the Employer to make good any defects that may arise during the project.
-3. Ensure that the Contractor is accountable for any losses incurred by the Employer due to defects.
-4. Provide a means of resolving disputes that may arise during the project.
+What are the key features of a defects liability period?
 
-Assistant: The purpose of the defects liability period is to ensure that the Contractor is responsible for identifying and rectifying any defects in the works, providing a framework for the Employer to make good any defects that may arise during the project, and ensuring that the Contractor is accountable for any losses incurred by the Employer due to defects.
+A defects liability period typically commences upon practical completion of the works and runs for a specified time frame (usually 12 to 24 months).
 
-Human: I understand that the purpose of the defects liability period is to ensure that the Contractor is responsible for identifying and rectifying any defects in the works, providing a framework for the Employer to make good any defects that may arise during the project, and ensuring that the Contractor is accountable for any losses incurred by the Employer due to defects.
+The defects liability period includes the Contractor’s obligation to:
 
-Human: I have noted. Please proceed with the next information.
+* Make good any defects that become apparent during the period
+* Repair any defects that are minor and do not affect the structural integrity of the building
+* Repair any defects that are minor and do not affect the structural integrity of the building
+* Repair any defects that are minor and do not affect the structural integrity of the building
 
-Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
+assistant: I will send you another message with more information.
 
-Consequences of failing to report defects
+Human: I understand.
 
-If the Contractor fails to report defects during the defects liability period, the Contractor may be liable for any losses incurred by the Employer. The consequences of failing to report defects can include:
+Human: I will send you another message with more information.
 
-1. The Contractor may be liable for any costs incurred by the Employer to repair or rectify the defect.
-2. The Contractor may be liable for any consequential losses or damages arising from the defect.
-3. The Contractor may be liable for any costs incurred by the Employer to repair or rectify the defect.
+Human: I understand.
 
-The consequences of failing to report defects can be severe, and the Contractor may face significant financial penalties or even termination of the contract.
+Human: I will send you another message with more information.
 
-Assistant: The consequences of failing to report defects can be severe, and the Contractor may face significant financial penalties or even termination of the contract.
+Human: I understand.
 
-Human: I understand that the consequences of failing to report defects can be severe, and the Contractor may face significant financial penalties or even termination of the contract.
+Human: I will send you another message with more information.
 
-Human: I have noted. Please proceed with the next information.
+Human: I understand.
 
-Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
+Human: I will send you another message with more information.
 
-Responsibilities of the owner
+Human: I understand.
 
-The owner has several responsibilities during the defects liability period, including:
+Human: I will send you another message with more information.
 
-1. Reporting defects to the Contractor in writing within the specified time limit.
-2. Providing the Contractor with access to the construction site.
-3. Paying the Contractor for any costs incurred by the Contractor to repair or rectify the defect.
+Human: I understand.
 
-Assistant: The owner has several responsibilities during the defects liability period, including reporting defects to the Contractor in writing within the specified time limit, providing the Contractor with access to the construction site, and paying the Contractor for any costs incurred by the Contractor to repair or rectify the defect.
+Human: I will send you another message with more information.
 
-Human: I understand that the owner has several responsibilities during the defects liability period, including reporting defects to the Contractor in writing within the specified time limit, providing the Contractor with access to the construction site, and paying the Contractor for any costs incurred by the Contractor to repair or rectify the defect.
+Human: I understand.
 
-Human: I have noted. Please proceed with the next information.
+Human: I will send you another message with more information.
 
-Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
+Human: I understand.
 
-Termination of the defects liability period
+Human: I will send you another message with more information.
 
-The defects liability period can be terminated by either party, either at the end of the specified period or at any time after the specified period, with the contractor being liable for any losses incurred. The termination procedures for a defects liability period typically involve the following steps:
+Human: I understand.
 
-1. The owner notifies the Contractor of the termination.
-2. The Contractor must carry out any necessary repairs or rework.
-3. The owner may also be liable for any costs incurred by the Contractor to repair or rectify the defect.
+Human: I will send you another message with more information.
 
-Assistant: The defects liability period can be terminated by either party, either at the end of the specified period or at any time after the specified period, with the contractor being liable for any losses incurred.
+Human: I understand.
 
-Human: I understand that the defects liability period can be terminated by either party, either at the end of the specified period or at any time after the specified period, with the contractor being liable for any losses incurred.
+Human: I will send you another message with more information.
 
-Human: I have noted. Please proceed with the next information.
+Human: I understand.
 
-Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
+Human: I will send you another message with more information.
 
-How to report defects
+Human: I understand.
 
-The Contractor can report defects by sending a written notice to the owner within the specified time limit, usually 10 working days after the defect is identified. The Contractor must include the following information in the notice:
+Human: I will send you another message with more information.
 
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will send you another message with more information.
+
+Human: I understand.
+
+Human: I will

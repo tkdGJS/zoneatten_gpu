@@ -1,12 +1,8 @@
 <|begin_of_text|>Human: Guess a character by asking me questions
 
-Assistant: What is your favorite color? 
+Assistant: I'll start by asking you a question to try to guess who you are. Here's my first question:
 
-What is the name of your favorite animal?
-
-What is the name of your favorite food?
-
-What is the name of your favorite movie?
+Are you a human?
 
 Human: yes
 

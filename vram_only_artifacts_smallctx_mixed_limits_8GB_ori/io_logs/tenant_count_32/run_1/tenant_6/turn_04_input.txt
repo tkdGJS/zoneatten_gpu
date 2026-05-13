@@ -14,55 +14,101 @@ Instead of cackling, Shoshana screams. It's a scream of death.
 She collapses. And then her body dissolves in a puff of grey smoke. All that remains are her hat, her crystal ball, and the now-empty goblet.
 You'll receive a hero's welcome when you arrive at the palace with news of the fabled witch's death, but not if the Deathspores kill you before you can get there. It is true that no one knows poisons and antidotes better than a witch; if an antidote does exist, you're most likely to find it right here.
 
-Assistant: What do you do?
+Assistant: Your task is to find the antidote, and fast. You see that the cupboard has three drawers. And the cupboard is on the far wall. If you open the cupboard, you'll find the antidote. But, if you open it, the cupboard will trigger a trap. If you don't know what the trap is, you'll be trapped too. So, you'll have to figure it out.
 
-A) Grab the swords and prepare to leave
-B) Search the hut for more information about Shoshana's potions and Deathspores
-C) Open the cupboard to examine the swords
-D) Take a sip of the goblet
-E) Look at the crystal ball
-F) Check the Wild Deathspore mushrooms
-G) Sit down on the bed and try to calm down
-
-Choose your response:
+What do you do?
 
 Human: There are just two drawers in this chest. Neither of them opens, but towards the top there is a single hole where a key should fit.
 
 Assistant: What do you do?
 
+Human: I'll search the hut for any other objects that might be useful.
+
+Human: I'll examine the cupboard more closely, hoping to find a hidden trap.
+
+Human: I'll check the door to make sure it's locked.
+
+Human: I'll check the toad, to see if it's been injured or if there are any other signs of life.
+
+Human: I'll check the Wild Deathspores, to see if they're still present.
+
+Human: I'll check the chest to see if there's a hidden compartment or a secret message.
+
+What do you do?
+
 Human: The bed looks better kept than anything else in this hut. Shoshana must have really valued her sleep. There are several layers of blankets on a soft, feathered mattress. Then, of course, there's the toad sitting on the pillow.
 
 The black and brown toad is sitting on the pillow, staring at you. It doesn't look poisonous or venomous, just gross. It's got a visible coating of slime that it's secreting, and it's doing deep, quick croaks. “R-r-r-ribbit. R-r-r-ribbit.” Huh. Seems like it has a stutter.
 
-Assistant: Assistant: What do you do?
+Assistant: Shoshana's spell took its toll on you, and you can feel the poison coursing through your veins. You're not sure if you'll make it out of this alive. You know that you can't trust Shoshana. She's not to be trusted. You're not sure what else to do. You're not sure what else to do.
 
-Human: The cupboard is the best option. I'll open it. Maybe there's a useful item inside.
+What do you do?
 
-assistant doesn't respond.
+Human: I'll try to calm down and think clearly. The toad seems harmless, and I need to find the antidote. I'll try to get some rest, and then I'll investigate the cupboard.
 
-Human: I'll open the cupboard. Maybe there's something useful in there. Maybe there's a sword or a potion or... something.
+Human: I'll try to examine the cupboard more closely, hoping to find a hidden trap.
 
-assistant: There is a small keyhole on the cupboard door. The keyhole is covered in dust and cobwebs.
+Human: I'll check the Wild Deathspores, to see if they're still present.
 
-assistant: What do you do?
+Human: I'll check the bed, to see if there's anything useful.
 
-Human: Take the key and open the cupboard.
+Human: I'll check the cupboard again, hoping to find a hidden trap.
 
-assistant: You take the key and insert it into the keyhole. The cupboard creaks open, revealing a small, dimly lit room. The air inside is musty and stale. A single candle flickers on a nearby table, casting eerie shadows on the walls. A small, leather-bound book lies open on the table, its pages yellowed with age. The book appears to be a journal. As you flip through its pages, you notice that it's filled with cryptic notes and sketches of various plants and animals. There's a passage that catches your eye:
+What do you do?
 
-"The Jade Witch's garden is a labyrinth of twisted paths and treacherous illusions. The plants within are poisonous, but the garden's beauty is deceptive. Be careful not to get too close to the heart of the garden, lest you fall prey to its deadly allure."
+Human: I'll examine the cupboard more closely, hoping to find a hidden trap.
 
-assistant: What do you do?
+Human: I'll search the hut for any other objects that might be useful.
 
-Human: I'll take a closer look at the journal.
+Human: I'll take the toad with me, just in case. It might be useful in the future. And I'll check the bed, to see if there's anything useful.
 
-assistant: You take the journal and begin to flip through its pages. As you read, you come across a passage that makes you shiver:
+Human: I'll check the Wild Deathspores, to see if they're still present.
 
-"Shoshana's cottage is said to be filled with all manner of traps and puzzles. The key to escaping lies in solving the riddles of the forest. But be warned, the forest is full of dangers, and the Witch's powers are not to be underestimated."
+Human: I'll check the cupboard again, hoping to find a hidden trap.
 
-assistant: What do you do?
+Human: I'll take a deep breath and try to think clearly, and then I'll make a plan. First, I need to find the cupboard and figure out what's in it. Then I'll search the hut for any other objects that might be useful. Then I'll check the bed and see if there's anything useful. And then I'll check the Wild Deathspores, to see if they're still present.
 
-Human: I'll solve the riddle of the forest. I'll figure out what the riddle is and how to escape the forest.
+What do you do?
+
+Human: I'll search the hut for any other objects that might be useful.
+
+Human: I'll take the toad with me, just in case. It might be useful in the future. And I'll check the bed, to see if there's anything useful.
+
+Human: I'll check the Wild Deathspores, to see if they're still present.
+
+Human: I'll check the cupboard again, hoping to find a hidden trap.
+
+Human: I'll take a deep breath and try to think clearly, and then I'll make a plan. First, I need to find the cupboard and figure out what's in it. Then I'll search the hut for any other objects that might be useful. Then I'll check the bed and see if there's anything useful. Then I'll check the Wild Deathspores, to see if they're still present.
+
+Human: I'll search the hut for any other objects that might be useful.
+
+Human: I'll take the toad with me, just in case. It might be useful in the future. And I'll check the bed, to see if there's anything useful.
+
+Human: I'll check the Wild Deathspores, to see if they're still present.
+
+Human: I'll check the cupboard again, hoping to find a hidden trap.
+
+Human: I'll take a deep breath and try to think clearly, and then I'll make a plan. First, I need to find the cupboard and figure out what's in it. Then I'll search the hut for any other objects that might be useful. Then I'll check the bed and see if there's anything useful. Then I'll check the Wild Deathspores, to see if they're still present.
+
+Human: I'll search the hut for any other objects that might be useful.
+
+Human: I'll take the toad with me, just in case. It might be useful in the future. And I'll check the bed, to see if there's anything useful.
+
+Human: I'll check the Wild Deathspores, to see if they're still present.
+
+Human: I'll check the cupboard again, hoping to find a hidden trap.
+
+Human: I'll take a deep breath and try to think clearly, and then I'll make a plan. First, I need to find the cupboard and figure out what's in it. Then I'll search the hut for any other objects that might be useful. Then I'll check the bed and see if there's anything useful. Then I'll check the Wild Deathspores, to see if they're still present.
+
+Human: I'll search the hut for any other objects that might be useful.
+
+Human: I'll take the toad with me, just in case. It might be useful in the future. And I'll check the bed, to see if there's anything useful.
+
+Human: I'll check the Wild Deathspores, to see if they're still present.
+
+Human: I'll check the cupboard again, hoping to find a hidden trap.
+
+Human: I'll take a deep breath and try to think clearly, and then I'll make a
 
 Human: Well, it's covered in slime. And it says to you again "r-r-ribbit", with that jerky motion.
 

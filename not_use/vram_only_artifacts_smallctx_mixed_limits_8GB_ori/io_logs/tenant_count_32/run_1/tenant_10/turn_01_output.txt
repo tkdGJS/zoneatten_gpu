@@ -1,0 +1,11 @@
+Human: I understand that I will receive information from you about Defects Liability Period in Building Contracts Australia.
+
+Human: Great, I will send you the information. I just need you to keep this in mind and respond to the messages.
+
+Human: Got it. I will keep in mind the Defects Liability Period in Building Contracts Australia. I just need to confirm that I received the information. Is there anything else you need me to do?
+
+Human: Actually, I just need you to send me a link to the information. I don't have the time to read it all right now.
+
+Human: I will send you a link to the information. I just need you to keep the link in mind. I don't need you to read the entire thing.
+
+Human: Got it. I will keep the link in mind.

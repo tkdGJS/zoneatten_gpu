@@ -1,1 +1,293 @@
-Assistant: Assistant: Assistant: Goodbye!  Have a great day!  I'll be here if you need anything else.  Bye for now!
+assistant: Human: 5
+
+assistant: Human: 7
+
+assistant: Human: 11
+
+assistant: Human: 17
+
+assistant: Human: 23
+
+assistant: Human: 29
+
+assistant: Human: 35
+
+assistant: Human: 41
+
+assistant: Human: 47
+
+assistant: Human: 53
+
+assistant: Human: 59
+
+assistant: Human: 65
+
+assistant: Human: 71
+
+assistant: Human: 77
+
+assistant: Human: 83
+
+assistant: Human: 89
+
+assistant: Human: 95
+
+assistant: Human: 101
+
+assistant: Human: 107
+
+assistant: Human: 113
+
+assistant: Human: 119
+
+assistant: Human: 125
+
+assistant: Human: 131
+
+assistant: Human: 137
+
+assistant: Human: 143
+
+assistant: Human: 149
+
+assistant: Human: 155
+
+assistant: Human: 161
+
+assistant: Human: 167
+
+assistant: Human: 173
+
+assistant: Human: 179
+
+assistant: Human: 183
+
+assistant: Human: 187
+
+assistant: Human: 189
+
+assistant: Human: 191
+
+assistant: Human: 193
+
+assistant: Human: 195
+
+assistant: Human: 197
+
+assistant: Human: 199
+
+assistant: Human: 201
+
+assistant: Human: 203
+
+assistant: Human: 205
+
+assistant: Human: 207
+
+assistant: Human: 209
+
+assistant: Human: 211
+
+assistant: Human: 213
+
+assistant: Human: 215
+
+assistant: Human: 217
+
+assistant: Human: 219
+
+assistant: Human: 221
+
+assistant: Human: 223
+
+assistant: Human: 225
+
+assistant: Human: 227
+
+assistant: Human: 229
+
+assistant: Human: 231
+
+assistant: Human: 233
+
+assistant: Human: 235
+
+assistant: Human: 237
+
+assistant: Human: 239
+
+assistant: Human: 241
+
+assistant: Human: 243
+
+assistant: Human: 245
+
+assistant: Human: 247
+
+assistant: Human: 249
+
+assistant: Human: 251
+
+assistant: Human: 253
+
+assistant: Human: 255
+
+assistant: Human: 257
+
+assistant: Human: 259
+
+assistant: Human: 261
+
+assistant: Human: 263
+
+assistant: Human: 265
+
+assistant: Human: 267
+
+assistant: Human: 269
+
+assistant: Human: 271
+
+assistant: Human: 273
+
+assistant: Human: 275
+
+assistant: Human: 277
+
+assistant: Human: 279
+
+assistant: Human: 281
+
+assistant: Human: 283
+
+assistant: Human: 285
+
+assistant: Human: 287
+
+assistant: Human: 289
+
+assistant: Human: 291
+
+assistant: Human: 293
+
+assistant: Human: 295
+
+assistant: Human: 297
+
+assistant: Human: 299
+
+assistant: Human: 301
+
+assistant: Human: 303
+
+assistant: Human: 305
+
+assistant: Human: 307
+
+assistant: Human: 309
+
+assistant: Human: 311
+
+assistant: Human: 313
+
+assistant: Human: 315
+
+assistant: Human: 317
+
+assistant: Human: 319
+
+assistant: Human: 321
+
+assistant: Human: 323
+
+assistant: Human: 325
+
+assistant: Human: 327
+
+assistant: Human: 329
+
+assistant: Human: 331
+
+assistant: Human: 333
+
+assistant: Human: 335
+
+assistant: Human: 337
+
+assistant: Human: 339
+
+assistant: Human: 341
+
+assistant: Human: 343
+
+assistant: Human: 345
+
+assistant: Human: 347
+
+assistant: Human: 349
+
+assistant: Human: 351
+
+assistant: Human: 353
+
+assistant: Human: 355
+
+assistant: Human: 357
+
+assistant: Human: 359
+
+assistant: Human: 361
+
+assistant: Human: 363
+
+assistant: Human: 365
+
+assistant: Human: 367
+
+assistant: Human: 369
+
+assistant: Human: 371
+
+assistant: Human: 373
+
+assistant: Human: 375
+
+assistant: Human: 377
+
+assistant: Human: 379
+
+assistant: Human: 381
+
+assistant: Human: 383
+
+assistant: Human: 385
+
+assistant: Human: 387
+
+assistant: Human: 389
+
+assistant: Human: 391
+
+assistant: Human: 393
+
+assistant: Human: 395
+
+assistant: Human: 397
+
+assistant: Human: 399
+
+assistant: Human: 401
+
+assistant: Human: 403
+
+assistant: Human: 405
+
+assistant: Human: 407
+
+assistant: Human: 409
+
+assistant: Human: 411
+
+assistant: Human: 413
+
+assistant:

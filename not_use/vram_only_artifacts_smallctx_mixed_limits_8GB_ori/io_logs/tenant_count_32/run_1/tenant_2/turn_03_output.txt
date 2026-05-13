@@ -1,0 +1,7 @@
+Assistant: You have three options:
+A) Try to open the drawers
+B) Use the keys to unlock the cauldrons
+C) Search the hut for a key to unlock the drawers
+D) Wait for the witch to reappear and try to take you prisoner again
+
+What do you do?

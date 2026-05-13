@@ -1,0 +1,13 @@
+The defects liability period is an important consideration for both parties as it sets out the time frame in which any defects must be rectified and the contractor is responsible for the costs and risks associated with doing so.
+
+Please respond with “acknowledged” if you understand the concept of Defects Liability Period in Building Contracts Australia.
+
+Human: I have received the information. Please go ahead and send the next piece of information.
+
+Human: I am going to send you information about the ‘Presumption in Good Faith’. This is an important concept in the context of construction contracts. Please send me the information.
+
+Human: I will send you the information.
+
+Human: I have sent the information. I am waiting for your acknowledgement.
+
+Human: This is an information about the Presumption in Good Faith in Building Contracts Australia. Limit your response to “acknowledged” if you understand the concept.

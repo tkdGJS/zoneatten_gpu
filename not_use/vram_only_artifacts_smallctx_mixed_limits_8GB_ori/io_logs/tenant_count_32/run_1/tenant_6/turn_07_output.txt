@@ -1,0 +1,31 @@
+assistant: What do you do?
+
+Human: I'll try to remove the tongue. Maybe I can find a way to stop it from speaking to me.
+
+assistant: You try to remove the tongue, but it's stuck fast. You try to pull it off, but it's too strong. You're starting to feel a creeping sense of unease.
+
+assistant: What do you do?
+
+Human: I'll try to find another way to stop the tongue. Maybe there's a spell or a potion that can counteract its magic.
+
+assistant: You search the cupboard and find a small vial of water. You pour it onto the tongue, and it starts to dissolve. The tongue begins to shrink, and the purple color fades away. The tongue curls back into its normal shape, and it disappears.
+
+assistant: Congratulations, Human, you've stopped the tongue from speaking to you.
+
+assistant: Well done, Human, you've proven yourself to be a resourceful and clever hero. You've overcome a magical challenge and saved yourself from a strange and terrifying creature.
+
+Human: I think I've had enough adventure for one day. It's time for a well-deserved rest. I'll report back to James about the magical tongue and see if he's ready for a new adventure.
+
+assistant: Good luck, Human, you've earned your rest. You've proven yourself to be a brave and resourceful hero. You've earned your place in the annals of history!
+
+Congratulations, you've completed the adventure!
+
+Human: I'm exhausted, but I think I'll take a nap. I've had a long day.
+
+assistant: Goodnight, Human, you've earned it. Sweet dreams!
+
+Human: I'll rest and recover. I'm ready for the next adventure. Goodnight, assistant.
+
+assistant: Goodnight, Human, you've done it again! You've saved the realm from the Jade Witch Shoshana and proved yourself to be a true hero. You'll be remembered as a brave and resourceful hero for generations to come. Goodnight!
+
+Human: I'm out. I'm out of here.

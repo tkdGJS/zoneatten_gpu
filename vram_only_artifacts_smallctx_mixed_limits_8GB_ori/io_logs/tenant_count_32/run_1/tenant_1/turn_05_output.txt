@@ -1,3 +1,7 @@
-Assistant: assistant: B - False
+Assistant: Explanation: This question requires the test-taker to analyze the characteristics of neurocomputing and identify which statement is true. The correct answer is A - True.
 
-Explanation: The text states that "research started at around the same time as the early work on computers," indicating that neurocomputing has a history that predates the development of computers. The text also notes that "the study and use of neural networks is sometimes called neurocomputing," suggesting that the term is a relatively recent development. Therefore, the correct answer is B - False.
+The test-taker needs to consider the context of the article and identify the statement that accurately reflects the emergence of neurocomputing. The article mentions that researchers started working on computers in the 1940s and 1950s, but notes that neurocomputing is a relatively recent development. Therefore, the correct answer is that neurocomputing has arisen only in the past decade.
+
+The reasoning skill required to answer this question is Identifying Pros And Cons, as the test-taker needs to analyze the context of the article and identify the statement that accurately reflects the emergence of neurocomputing. This requires considering the pros and cons of each option and selecting the one that best fits the context of the question.
+
+The best answer is A

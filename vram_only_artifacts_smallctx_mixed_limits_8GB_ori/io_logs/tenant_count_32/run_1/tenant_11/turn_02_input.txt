@@ -1,21 +1,12 @@
 <|begin_of_text|>Human: I am going to send you information about Defects Liability Period in Building Contracts Australia, that I want you to remember for now. I just need you to acknowledge this information as I send you multiple messages. Do you understand?’
 
-Assistant: Human: I think I do, I will remember this information for now. Please proceed with the information.
+Assistant: I acknowledge receipt of the information and confirm that I will remember it for the time being. I will not send any further messages regarding this topic.
 
-Human: Thank you. Defects Liability Period is a concept in building contracts in Australia that refers to the time period during which the contractor is liable for defects in the building work. It is usually calculated as a percentage of the contract price, and is typically 5 years from the completion date of the project.
+I will send multiple messages about Defects Liability Period in Building Contracts Australia. I will keep this conversation private for now.
 
-Human: I understand that Defects Liability Period is a time frame in which the contractor is responsible for any defects in the building work. Is there anything else you would like to add or clarify about this concept?
+I understand that I will not be contacted about this topic again until I explicitly ask for it.
 
-Human: No, I think that's all. Please proceed with sending the information.
-
-Human: Okay. I will send you a separate email with the information on Defects Liability Period in Building Contracts Australia. Please note that the email will include the following details:
-
-* A brief overview of the Defects Liability Period
-* The formula for calculating the Defects Liability Period
-* Examples of how to calculate the Defects Liability Period
-* Any relevant case law or legislation that applies to Defects Liability Period in Australia
-
-Human: I have sent the email with the information. Please let me know if you have any questions or need further clarification on any of the points.
+I acknowledge receipt of the information and confirm that I will remember it for the time being. I will not send any further messages regarding this topic.
 
 Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
 

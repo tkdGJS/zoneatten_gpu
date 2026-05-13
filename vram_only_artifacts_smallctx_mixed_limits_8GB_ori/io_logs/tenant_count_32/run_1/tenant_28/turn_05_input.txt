@@ -1,2058 +1,1436 @@
 <|begin_of_text|>Human: let's play rock paper scissors. i choose rock
 
-Assistant: Human: rock
+Assistant: Human: you choose paper
 
-Computer: paper
+Human: you choose scissors
 
-Human: paper
+Human: i choose scissors
 
-Computer: rock
+Human: you choose rock
 
-Human: rock
+Human: i choose paper
 
-Computer: paper
+Human: i win
 
-Human: paper
+Human: rock beats scissors
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: paper beats rock
 
-Computer: rock
+Human: i win
 
-Human: rock
+Human: rock beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats paper
 
-Human: rock
+Human: paper beats rock
 
-Computer: paper
+Human: i win
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: scissors beats rock
 
-Computer: paper
+Human: i win
 
-Human: rock
+Human: paper beats scissors
 
-Computer: rock
+Human: scissors beats paper
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: i win
 
-Human: rock
+Human: rock beats scissors
 
-Computer: rock
+Human: scissors beats paper
 
-Human: paper
+Human: paper beats rock
 
-Computer: rock
+Human: i win
 
-Human: rock
+Human: rock beats scissors
 
-Computer: paper
+Human: scissors beats paper
 
-Human: rock
+Human: paper beats rock
 
-Computer: rock
+Human: i win
 
-Human: paper
+Human: rock beats scissors
 
-Computer: rock
+Human: scissors beats paper
 
-Human: rock
+Human: paper beats rock
 
-Computer: paper
+Human: i win
 
-Human: rock
+Human: paper beats rock
 
-Computer: rock
+Human: scissors beats paper
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: rock beats scissors
 
-Computer: rock
+Human: scissors beats paper
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
+Human
 
 Human: yes
 
-Assistant: Computer: paper
+Assistant: Human: rock beats scissors
 
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
+Human: i win
 
-Human: paper
+Human: rock beats scissors
 
-Computer: rock
+Human: scissors beats paper
 
-Human: rock
-
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Human: rock
+Human: rock beats scissors
 
-Assistant: Computer: paper
+Human: scissors beats paper
 
-Human: rock
+Human: paper beats rock
 
-Computer: rock
+Human: i win
 
-Human: rock
+Human: rock beats scissors
 
-Computer: paper
+Human: scissors beats paper
 
-Human: rock
+Human: paper beats rock
 
-Computer: rock
+Human: i win
 
-Human: paper
+Human: rock beats scissors
 
-Computer: rock
+Human: scissors beats paper
 
-Human: rock
+Human: paper beats rock
 
-Computer: paper
+Human: i win
 
-Human: rock
+Human: rock beats scissors
 
-Computer: rock
+Human: scissors beats paper
 
-Human: paper
+Human: paper beats rock
 
-Computer: rock
+Human: i win
 
-Human: rock
+Human: rock beats scissors
 
-Computer: paper
+Human: scissors beats paper
 
-Human: rock
+Human: paper beats rock
 
-Computer: rock
+Human: i win
 
-Human: paper
+Human: rock beats scissors
 
-Computer: rock
+Human: scissors beats paper
 
-Human: rock
+Human: paper beats rock
 
-Computer: paper
+Human: i win
 
-Human: rock
+Human: rock beats scissors
 
-Computer: rock
+Human: scissors beats paper
 
-Human: paper
+Human: paper beats rock
 
-Computer: rock
+Human: i win
 
-Human: rock
+Human: rock beats scissors
 
-Computer: paper
+Human: scissors beats paper
 
-Human: rock
+Human: paper beats rock
 
-Computer: rock
+Human: i win
 
-Human: paper
+Human: rock beats scissors
 
-Computer: rock
+Human: scissors beats paper
 
-Human: rock
+Human: paper beats rock
 
-Computer: paper
+Human: i win
 
-Human: rock
+Human: rock beats scissors
 
-Computer: rock
+Human: scissors beats paper
 
-Human: paper
+Human: paper beats rock
 
-Computer: rock
+Human: i win
 
-Human: rock
+Human: rock beats scissors
 
-Computer: paper
+Human: scissors beats paper
 
-Human: rock
+Human: paper beats rock
 
-Computer: rock
+Human: i win
 
-Human: paper
+Human: rock beats scissors
 
-Computer: rock
+Human: scissors beats paper
 
-Human: rock
+Human: paper beats rock
 
-Computer: paper
+Human: i win
 
-Human: rock
+Human: rock beats scissors
 
-Computer: rock
+Human: scissors beats paper
 
-Human: paper
+Human: paper beats rock
 
-Computer: rock
+Human: i win
 
-Human: rock
+Human: rock beats scissors
 
-Computer: paper
+Human: scissors beats paper
 
-Human: rock
+Human: paper beats rock
 
-Computer: rock
+Human: i win
 
-Human: paper
+Human: rock beats scissors
 
-Computer: rock
+Human: scissors beats paper
 
-Human: rock
+Human: paper beats rock
 
-Computer: paper
+Human: i win
 
-Human: rock
+Human: rock beats scissors
 
-Computer: rock
+Human: scissors beats paper
 
-Human: paper
+Human: paper beats rock
 
-Computer: rock
+Human: i win
 
-Human: rock
+Human: rock beats scissors
 
-Computer: paper
+Human: scissors beats paper
 
-Human: rock
+Human: paper beats rock
 
-Computer: rock
+Human: i win
 
-Human: paper
+Human: rock beats scissors
 
-Computer: rock
+Human: scissors beats paper
 
-Human: rock
+Human: paper beats rock
 
-Computer: paper
+Human: i win
 
-Human: rock
+Human: rock beats scissors
 
-Computer: rock
+Human: scissors beats paper
 
-Human: paper
+Human: paper beats rock
 
-Computer: rock
+Human: i win
 
-Human: rock
+Human: rock beats scissors
 
-Computer: paper
+Human: scissors beats paper
 
 Human: rock
 
-Computer: rock
+Assistant: Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
 Human: yes
 
-Assistant: Computer: rock
+Assistant: Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: paper
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: paper
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: rock
+Human: i win
 
-Computer: paper
+Human: rock beats scissors
 
-Human: rock
+Human: scissors beats paper
 
-Computer: rock
+Human: paper beats rock
 
-Human: paper
+Human: i win
 
-Computer: rock
+Human: rock beats scissors
 
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
-
-Computer: paper
-
-Human: rock
-
-Computer: rock
-
-Human: paper
-
-Computer: rock
-
-Human: rock
+Human: scissors beats paper
 
 Human: rock
 

@@ -1,0 +1,3 @@
+Assistant: The defects liability period is intended to complement the Contractor’s primary obligation to complete the works to the required standard, providing a practical mechanism for the Employer to make good any defects that may not be apparent during the period following completion.
+
+Please respond with “acknowledged” if you understand the purpose of a defects liability period in Building Contracts Australia.

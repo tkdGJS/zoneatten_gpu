@@ -1,71 +1,7 @@
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
+Please send the message to the other party.
 
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
+Human: I understand that repudiation of a building contract means that one party has abandoned or withdrawn from a contract, and I will send the message to the other party.
 
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
+Human: Please send the message to the other party.
 
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a building contract means that one party is terminating the contract and will be responsible for paying the full amount.
-
-Human: I understand that repudiating a
+Human: I have sent the message to the other party. Is that correct?

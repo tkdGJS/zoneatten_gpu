@@ -1,409 +1,409 @@
-Human: 7
+Assistant: Goodbye.
 
-Human: 8
+Human: Goodbye.
 
-Human: 9
-
-Human: 0
-
-Human: 1
+Assistant: Goodbye.
 
 Human: 2
 
-Human: 3
-
-Human: 4
-
-Human: 5
-
-Human: 6
-
-Human: 7
-
-Human: 8
-
-Human: 9
-
-Human: 0
-
-Human: 1
+Assistant: Goodbye.
 
 Human: 2
 
-Human: 3
-
-Human: 4
-
-Human: 5
-
-Human: 6
-
-Human: 7
-
-Human: 8
-
-Human: 9
-
-Human: 0
-
-Human: 1
+Assistant: Goodbye.
 
 Human: 2
 
-Human: 3
-
-Human: 4
-
-Human: 5
-
-Human: 6
-
-Human: 7
-
-Human: 8
-
-Human: 9
-
-Human: 0
-
-Human: 1
+Assistant: Goodbye.
 
 Human: 2
 
-Human: 3
-
-Human: 4
-
-Human: 5
-
-Human: 6
-
-Human: 7
-
-Human: 8
-
-Human: 9
-
-Human: 0
-
-Human: 1
+Assistant: Goodbye.
 
 Human: 2
 
-Human: 3
-
-Human: 4
-
-Human: 5
-
-Human: 6
-
-Human: 7
-
-Human: 8
-
-Human: 9
-
-Human: 0
-
-Human: 1
+Assistant: Goodbye.
 
 Human: 2
 
-Human: 3
-
-Human: 4
-
-Human: 5
-
-Human: 6
-
-Human: 7
-
-Human: 8
-
-Human: 9
-
-Human: 0
-
-Human: 1
+Assistant: Goodbye.
 
 Human: 2
 
-Human: 3
-
-Human: 4
-
-Human: 5
-
-Human: 6
-
-Human: 7
-
-Human: 8
-
-Human: 9
-
-Human: 0
-
-Human: 1
+Assistant: Goodbye.
 
 Human: 2
 
-Human: 3
-
-Human: 4
-
-Human: 5
-
-Human: 6
-
-Human: 7
-
-Human: 8
-
-Human: 9
-
-Human: 0
-
-Human: 1
+Assistant: Goodbye.
 
 Human: 2
 
-Human: 3
-
-Human: 4
-
-Human: 5
-
-Human: 6
-
-Human: 7
-
-Human: 8
-
-Human: 9
-
-Human: 0
-
-Human: 1
+Assistant: Goodbye.
 
 Human: 2
 
-Human: 3
-
-Human: 4
-
-Human: 5
-
-Human: 6
-
-Human: 7
-
-Human: 8
-
-Human: 9
-
-Human: 0
-
-Human: 1
+Assistant: Goodbye.
 
 Human: 2
 
-Human: 3
-
-Human: 4
-
-Human: 5
-
-Human: 6
-
-Human: 7
-
-Human: 8
-
-Human: 9
-
-Human: 0
-
-Human: 1
+Assistant: Goodbye.
 
 Human: 2
 
-Human: 3
-
-Human: 4
-
-Human: 5
-
-Human: 6
-
-Human: 7
-
-Human: 8
-
-Human: 9
-
-Human: 0
-
-Human: 1
+Assistant: Goodbye.
 
 Human: 2
 
-Human: 3
-
-Human: 4
-
-Human: 5
-
-Human: 6
-
-Human: 7
-
-Human: 8
-
-Human: 9
-
-Human: 0
-
-Human: 1
+Assistant: Goodbye.
 
 Human: 2
 
-Human: 3
-
-Human: 4
-
-Human: 5
-
-Human: 6
-
-Human: 7
-
-Human: 8
-
-Human: 9
-
-Human: 0
-
-Human: 1
+Assistant: Goodbye.
 
 Human: 2
 
-Human: 3
-
-Human: 4
-
-Human: 5
-
-Human: 6
-
-Human: 7
-
-Human: 8
-
-Human: 9
-
-Human: 0
-
-Human: 1
+Assistant: Goodbye.
 
 Human: 2
 
-Human: 3
-
-Human: 4
-
-Human: 5
-
-Human: 6
-
-Human: 7
-
-Human: 8
-
-Human: 9
-
-Human: 0
-
-Human: 1
+Assistant: Goodbye.
 
 Human: 2
 
-Human: 3
-
-Human: 4
-
-Human: 5
-
-Human: 6
-
-Human: 7
-
-Human: 8
-
-Human: 9
-
-Human: 0
-
-Human: 1
+Assistant: Goodbye.
 
 Human: 2
 
-Human: 3
-
-Human: 4
-
-Human: 5
-
-Human: 6
-
-Human: 7
-
-Human: 8
-
-Human: 9
-
-Human: 0
-
-Human: 1
+Assistant: Goodbye.
 
 Human: 2
 
-Human: 3
-
-Human: 4
-
-Human: 5
-
-Human: 6
-
-Human: 7
-
-Human: 8
-
-Human: 9
-
-Human: 0
-
-Human: 1
+Assistant: Goodbye.
 
 Human: 2
 
-Human: 3
+Assistant: Goodbye.
 
-Human: 4
+Human: 2
 
-Human: 5
+Assistant: Goodbye.
 
-Human: 6
+Human: 2
 
-Human: 7
+Assistant: Goodbye.
 
-Human: 8
+Human: 2
 
-Human: 9
+Assistant: Goodbye.
 
-Human: 0
+Human: 2
 
-Human: 1
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye.
+
+Human: 2
+
+Assistant: Goodbye

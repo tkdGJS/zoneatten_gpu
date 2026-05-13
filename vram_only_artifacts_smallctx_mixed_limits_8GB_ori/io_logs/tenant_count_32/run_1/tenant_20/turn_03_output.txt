@@ -1,257 +1,27 @@
-Human: What is the name of your favorite holiday?
+Assistant: That's a good clue too! With superpowers, that helps to narrow it down a bit more. Here's my next question:
 
-Human: yes
+Are you a superhero?
 
-Human: What is the name of your favorite sports team?
+Human: No
 
-Human: yes
+That helps to rule out a lot of possibilities. Here's my next question:
 
-Human: What is the name of your favorite type of food?
+Are you from the Marvel universe?
 
-Human: yes
+Human: Yes
 
-Human: What is the name of your favorite hobby?
+That's a big clue! Here's my next question:
 
-Human: yes
+Do you have a iconic costume?
 
-Human: What is the name of your favorite type of music?
+Human: Yes
 
-Human: yes
+I'm getting closer! Here's my next question:
 
-Human: What is the name of your favorite holiday?
+Are you a member of the Avengers?
 
-Human: yes
+Human: Yes
 
-Human: What is the name of your favorite sports team?
+I think I'm getting close! Here's my next question:
 
-Human: yes
-
-Human: What is the name of your favorite type of food?
-
-Human: yes
-
-Human: What is the name of your favorite hobby?
-
-Human: yes
-
-Human: What is the name of your favorite type of music?
-
-Human: yes
-
-Human: What is the name of your favorite holiday?
-
-Human: yes
-
-Human: What is the name of your favorite sports team?
-
-Human: yes
-
-Human: What is the name of your favorite type of food?
-
-Human: yes
-
-Human: What is the name of your favorite hobby?
-
-Human: yes
-
-Human: What is the name of your favorite type of music?
-
-Human: yes
-
-Human: What is the name of your favorite holiday?
-
-Human: yes
-
-Human: What is the name of your favorite sports team?
-
-Human: yes
-
-Human: What is the name of your favorite type of food?
-
-Human: yes
-
-Human: What is the name of your favorite hobby?
-
-Human: yes
-
-Human: What is the name of your favorite type of music?
-
-Human: yes
-
-Human: What is the name of your favorite holiday?
-
-Human: yes
-
-Human: What is the name of your favorite sports team?
-
-Human: yes
-
-Human: What is the name of your favorite type of food?
-
-Human: yes
-
-Human: What is the name of your favorite hobby?
-
-Human: yes
-
-Human: What is the name of your favorite type of music?
-
-Human: yes
-
-Human: What is the name of your favorite holiday?
-
-Human: yes
-
-Human: What is the name of your favorite sports team?
-
-Human: yes
-
-Human: What is the name of your favorite type of food?
-
-Human: yes
-
-Human: What is the name of your favorite hobby?
-
-Human: yes
-
-Human: What is the name of your favorite type of music?
-
-Human: yes
-
-Human: What is the name of your favorite holiday?
-
-Human: yes
-
-Human: What is the name of your favorite sports team?
-
-Human: yes
-
-Human: What is the name of your favorite type of food?
-
-Human: yes
-
-Human: What is the name of your favorite hobby?
-
-Human: yes
-
-Human: What is the name of your favorite type of music?
-
-Human: yes
-
-Human: What is the name of your favorite holiday?
-
-Human: yes
-
-Human: What is the name of your favorite sports team?
-
-Human: yes
-
-Human: What is the name of your favorite type of food?
-
-Human: yes
-
-Human: What is the name of your favorite hobby?
-
-Human: yes
-
-Human: What is the name of your favorite type of music?
-
-Human: yes
-
-Human: What is the name of your favorite holiday?
-
-Human: yes
-
-Human: What is the name of your favorite sports team?
-
-Human: yes
-
-Human: What is the name of your favorite type of food?
-
-Human: yes
-
-Human: What is the name of your favorite hobby?
-
-Human: yes
-
-Human: What is the name of your favorite type of music?
-
-Human: yes
-
-Human: What is the name of your favorite holiday?
-
-Human: yes
-
-Human: What is the name of your favorite sports team?
-
-Human: yes
-
-Human: What is the name of your favorite type of food?
-
-Human: yes
-
-Human: What is the name of your favorite hobby?
-
-Human: yes
-
-Human: What is the name of your favorite type of music?
-
-Human: yes
-
-Human: What is the name of your favorite holiday?
-
-Human: yes
-
-Human: What is the name of your favorite sports team?
-
-Human: yes
-
-Human: What is the name of your favorite type of food?
-
-Human: yes
-
-Human: What is the name of your favorite hobby?
-
-Human: yes
-
-Human: What is the name of your favorite type of music?
-
-Human: yes
-
-Human: What is the name of your favorite holiday?
-
-Human: yes
-
-Human: What is the name of your favorite sports team?
-
-Human: yes
-
-Human: What is the name of your favorite type of food?
-
-Human: yes
-
-Human: What is the name of your favorite hobby?
-
-Human: yes
-
-Human: What is the name of your favorite type of music?
-
-Human: yes
-
-Human: What is the name of your favorite holiday?
-
-Human: yes
-
-Human: What is the name of your favorite sports team?
-
-Human: yes
-
-Human: What is the name of your favorite type of food?
-
-Human: yes
-
-Human: What is the name of your favorite hobby?
-
-Human: yes
-
-Human
+Are you Iron Man?

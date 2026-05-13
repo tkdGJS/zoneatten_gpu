@@ -1,0 +1,17 @@
+Assistant: You have three options:
+A) Try to pull the tongue out of the cupboard
+B) Don't touch it and try to find another way to get out
+C) Search the hut for a way to clean the tongue
+D) Use your sword to try and cut it off
+
+What do you do?
+
+Human: The cupboard is small, with a single, narrow opening that looks like a mouth. It's too small to fit your sword, but you notice that the tongue is almost as big as a hand. You decide to try and get to the bottom of it. You reach down into the cupboard and feel for the edge of the opening. It's just out of reach, but you manage to grab a small piece of parchment that was nestled in the cupboard. The parchment is covered in strange symbols. You take it with you as you leave the cupboard.
+
+Assistant: You have three options:
+A) Try to decipher the symbols on the parchment
+B) Use the parchment to get out of the hut
+C) Search the hut for another way to get out
+D) Wait for the tongue to try and free itself again
+
+What do you do?
