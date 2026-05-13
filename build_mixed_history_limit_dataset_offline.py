@@ -183,24 +183,29 @@ def collect_candidates(
     return candidates
 
 
-def select_long_candidates_near_target(
+def select_candidates_near_target(
     candidates: List[Dict[str, object]],
     target_final_prompt_tokens: int,
     final_prompt_tolerance_tokens: int,
     count: int,
+    excluded_source_indices: set[int] | None = None,
 ) -> List[Dict[str, object]]:
+    excluded_source_indices = excluded_source_indices or set()
+    available = [
+        item for item in candidates if int(item["source_index"]) not in excluded_source_indices
+    ]
     in_range = [
         item
-        for item in candidates
+        for item in available
         if abs(item["estimated_final_prompt_tokens"] - target_final_prompt_tokens)
         <= final_prompt_tolerance_tokens
     ]
-    ranked_pool = in_range if len(in_range) >= count else candidates
+    ranked_pool = in_range if len(in_range) >= count else available
     ranked = sorted(
         ranked_pool,
         key=lambda item: (
             abs(item["estimated_final_prompt_tokens"] - target_final_prompt_tokens),
-            item["estimated_final_history_tokens"],
+            -item["estimated_final_history_tokens"],
         ),
     )
     return ranked[:count]
@@ -213,20 +218,26 @@ def build_dataset_entries(
     short_limit_tokens: int,
     long_limit_tokens: int,
     target_output_budget_tokens: int,
+    short_target_final_prompt_tokens: int,
+    short_final_prompt_tolerance_tokens: int,
     long_target_final_prompt_tokens: int,
     long_final_prompt_tolerance_tokens: int,
 ) -> List[Dict[str, object]]:
     half = tenant_count // 2
-    selected_long = select_long_candidates_near_target(
+    selected_long = select_candidates_near_target(
         long_candidates,
         long_target_final_prompt_tokens,
         long_final_prompt_tolerance_tokens,
         half,
     )
     used_source_indices = {item["source_index"] for item in selected_long}
-    selected_short = [
-        item for item in short_candidates if item["source_index"] not in used_source_indices
-    ][:half]
+    selected_short = select_candidates_near_target(
+        short_candidates,
+        short_target_final_prompt_tokens,
+        short_final_prompt_tolerance_tokens,
+        half,
+        used_source_indices,
+    )
 
     if len(selected_long) < half:
         raise RuntimeError(
@@ -281,6 +292,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--long-limit-tokens", type=int, default=8192)
     parser.add_argument("--target-output-budget-tokens", type=int, default=64)
     parser.add_argument("--safety-margin-tokens", type=int, default=64)
+    parser.add_argument("--short-target-final-prompt-tokens", type=int, default=1800)
+    parser.add_argument("--short-final-prompt-tolerance-tokens", type=int, default=400)
     parser.add_argument("--long-target-final-prompt-tokens", type=int, default=7600)
     parser.add_argument("--long-final-prompt-tolerance-tokens", type=int, default=400)
     parser.add_argument("--progress-every", type=int, default=100)
@@ -337,6 +350,8 @@ def main() -> int:
         args.short_limit_tokens,
         args.long_limit_tokens,
         args.target_output_budget_tokens,
+        args.short_target_final_prompt_tokens,
+        args.short_final_prompt_tolerance_tokens,
         args.long_target_final_prompt_tokens,
         args.long_final_prompt_tolerance_tokens,
     )
@@ -349,6 +364,8 @@ def main() -> int:
         f"(model={args.model}, long_limit={args.long_limit_tokens}, "
         f"short_limit={args.short_limit_tokens}, "
         f"target_output_budget_tokens={args.target_output_budget_tokens}, "
+        f"short_target_final_prompt_tokens={args.short_target_final_prompt_tokens}, "
+        f"short_final_prompt_tolerance_tokens={args.short_final_prompt_tolerance_tokens}, "
         f"long_target_final_prompt_tokens={args.long_target_final_prompt_tokens}, "
         f"long_final_prompt_tolerance_tokens={args.long_final_prompt_tolerance_tokens})"
     )

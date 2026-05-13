@@ -16,6 +16,7 @@ VENDOR_DIR="${ROOT_DIR}/vendor"
 VLLM_EXECUTABLE="${VENV_DIR}/bin/vllm"
 MODEL_NAME="meta-llama/Llama-3.2-1B-Instruct"
 REUSE_GENERATED_DATASET="${REUSE_GENERATED_DATASET:-1}"
+PREBUILT_DATASET_PATH="${PREBUILT_DATASET_PATH:-}"
 
 BLOCK_VALUE="16384"
 TENANT_VALUES=(32)
@@ -26,15 +27,17 @@ PRE_REQUEST_SLEEP_SEC="30"
 POST_REQUEST_SLEEP_SEC="30"
 INTER_TURN_SLEEP_SEC="30"
 REQUEST_TIMEOUT_SEC="900"
-MAX_PROMPT_TOKENS="24576"
-MAX_TOKENS="1024"
-MAX_NUM_SEQS="32"
+MAX_PROMPT_TOKENS="${MAX_PROMPT_TOKENS:-24576}"
+MAX_TOKENS="${MAX_TOKENS:-1024}"
+MAX_NUM_SEQS="${MAX_NUM_SEQS:-32}"
 TARGET_OUTPUT_BUDGET_TOKENS="${MAX_TOKENS}"
-SAFETY_MARGIN_TOKENS="64"
-SHORT_LIMIT_TOKENS="12288"
-LONG_LIMIT_TOKENS="24576"
-LONG_TARGET_FINAL_PROMPT_TOKENS="18000"
-LONG_FINAL_PROMPT_TOLERANCE_TOKENS="1000"
+SAFETY_MARGIN_TOKENS="${SAFETY_MARGIN_TOKENS:-64}"
+SHORT_LIMIT_TOKENS="${SHORT_LIMIT_TOKENS:-12288}"
+LONG_LIMIT_TOKENS="${LONG_LIMIT_TOKENS:-24576}"
+SHORT_TARGET_FINAL_PROMPT_TOKENS="${SHORT_TARGET_FINAL_PROMPT_TOKENS:-11200}"
+SHORT_FINAL_PROMPT_TOLERANCE_TOKENS="${SHORT_FINAL_PROMPT_TOLERANCE_TOKENS:-1000}"
+LONG_TARGET_FINAL_PROMPT_TOKENS="${LONG_TARGET_FINAL_PROMPT_TOKENS:-18000}"
+LONG_FINAL_PROMPT_TOLERANCE_TOKENS="${LONG_FINAL_PROMPT_TOLERANCE_TOKENS:-1000}"
 PORT="8000"
 
 source "${VENV_DIR}/bin/activate"
@@ -81,6 +84,8 @@ snapshot_path.write_text(
             "safety_margin_tokens=${SAFETY_MARGIN_TOKENS}",
             "short_limit_tokens=${SHORT_LIMIT_TOKENS}",
             "long_limit_tokens=${LONG_LIMIT_TOKENS}",
+            "short_target_final_prompt_tokens=${SHORT_TARGET_FINAL_PROMPT_TOKENS}",
+            "short_final_prompt_tolerance_tokens=${SHORT_FINAL_PROMPT_TOLERANCE_TOKENS}",
             "long_target_final_prompt_tokens=${LONG_TARGET_FINAL_PROMPT_TOKENS}",
             "long_final_prompt_tolerance_tokens=${LONG_FINAL_PROMPT_TOLERANCE_TOKENS}",
             "port=${PORT}",
@@ -88,6 +93,7 @@ snapshot_path.write_text(
             "vendor_dir=${VENDOR_DIR}",
             "model_name=${MODEL_NAME}",
             "reuse_generated_dataset=${REUSE_GENERATED_DATASET}",
+            "prebuilt_dataset_path=${PREBUILT_DATASET_PATH}",
         ]
     )
     + "\n",
@@ -211,7 +217,18 @@ for tenant_count in "${TENANT_VALUES[@]}"; do
     metrics_jsonl="${METRICS_DIR}/block_${BLOCK_VALUE}_tenant_${tenant_count}_run_${run_index}.jsonl"
     generated_dataset_path="${GENERATED_DATASET_DIR}/sharegpt_mixed_history_limits_tenant_${tenant_count}.json"
 
-    if [[ "${REUSE_GENERATED_DATASET}" == "1" && -f "${generated_dataset_path}" ]]; then
+    if [[ -n "${PREBUILT_DATASET_PATH}" ]]; then
+      if [[ "${PREBUILT_DATASET_PATH}" = /* ]]; then
+        generated_dataset_path="${PREBUILT_DATASET_PATH}"
+      else
+        generated_dataset_path="${ROOT_DIR}/${PREBUILT_DATASET_PATH}"
+      fi
+      if [[ ! -f "${generated_dataset_path}" ]]; then
+        echo "[ERROR] prebuilt dataset not found: ${generated_dataset_path}" >&2
+        exit 1
+      fi
+      echo "[INFO] using prebuilt dataset: ${generated_dataset_path}"
+    elif [[ "${REUSE_GENERATED_DATASET}" == "1" && -f "${generated_dataset_path}" ]]; then
       echo "[INFO] reusing generated dataset: ${generated_dataset_path}"
     else
       rm -f "${generated_dataset_path}"
@@ -226,6 +243,8 @@ for tenant_count in "${TENANT_VALUES[@]}"; do
         --long-limit-tokens "${LONG_LIMIT_TOKENS}" \
         --target-output-budget-tokens "${TARGET_OUTPUT_BUDGET_TOKENS}" \
         --safety-margin-tokens "${SAFETY_MARGIN_TOKENS}" \
+        --short-target-final-prompt-tokens "${SHORT_TARGET_FINAL_PROMPT_TOKENS}" \
+        --short-final-prompt-tolerance-tokens "${SHORT_FINAL_PROMPT_TOLERANCE_TOKENS}" \
         --long-target-final-prompt-tokens "${LONG_TARGET_FINAL_PROMPT_TOKENS}" \
         --long-final-prompt-tolerance-tokens "${LONG_FINAL_PROMPT_TOLERANCE_TOKENS}"
     fi
