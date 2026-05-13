@@ -116,6 +116,9 @@ def write_summary(rows):
         )
 
         def emit(scope, subset):
+            if not subset:
+                writer.writerow([scope, 0, "", "", "", "", "", ""])
+                return
             writer.writerow(
                 [
                     scope,
@@ -182,6 +185,9 @@ def write_percentile_summary(rows):
         for tenant_count in TENANT_COUNTS:
             subset = [r for r in rows if r["tenant_count"] == tenant_count]
             residuals = [r["residual_ttft_f"] for r in subset]
+            if not residuals:
+                writer.writerow([tenant_count, 0, "", "", "", "", ""])
+                continue
             writer.writerow(
                 [
                     tenant_count,

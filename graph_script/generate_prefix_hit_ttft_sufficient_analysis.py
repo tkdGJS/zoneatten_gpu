@@ -104,6 +104,8 @@ def build_binned(rows, tenant_key):
         subset = list(rows)
     else:
         subset = [r for r in rows if r['tenant_count'] == tenant_key]
+    if not subset:
+        return subset, []
     input_edges = quantile_edges([r['input_tokens'] for r in subset], 4)
     hit_edges = [0.0, 0.25, 0.5, 0.75, 1.000001]
     cells = defaultdict(list)
