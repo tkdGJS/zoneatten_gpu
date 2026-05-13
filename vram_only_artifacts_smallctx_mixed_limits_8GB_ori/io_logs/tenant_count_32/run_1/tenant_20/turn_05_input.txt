@@ -1,0 +1,86 @@
+<|begin_of_text|>Human: Guess a character by asking me questions
+
+Assistant: I'll start asking yes or no questions to try to guess which character from the Harry Potter series you are. Here's my first question:
+
+Is the character you're thinking of a main character in the series?
+
+Human: yes
+
+Assistant: Next question:
+
+Is the character you're thinking of male?
+
+Human: yes
+
+Assistant: Assistant: Got it, so we're looking for a male character. Here's the next question:
+
+Is the character you're thinking of a wizard?
+
+Human: yes
+
+Assistant: Assistant: Okay, so we're looking for a male wizard. Next question:
+
+Is the character you're thinking of one of the main trio (Harry, Ron, and Hermione)? 
+
+Human: no
+
+Assistant: Okay, so the character you're thinking of is not part of the main trio. Here's the next question:
+
+Does the character you're thinking of attend Hogwarts School of Witchcraft and Wizardry? 
+
+Human: yes
+
+Assistant: Alright, so the character you're thinking of attends Hogwarts. Next question:
+
+Is the character you're thinking of a Gryffindor student?
+
+Human: yes
+
+Assistant: So the character you're thinking of is a Gryffindor student. Next question:
+
+Is the character you're thinking of a member of Dumbledore's Army? 
+
+Human: yes
+
+Assistant: Okay, so the character you're thinking of is part of Dumbledore's Army. Next question:
+
+Is the character you're thinking of one of the leaders of Dumbledore's Army? 
+
+Human: yes
+
+Assistant: Alright, so the character you're thinking of is a leader of Dumbledore's Army. Next question:
+
+Is the character you're thinking of a student in Harry's year at Hogwarts? 
+
+Human: yes
+
+Assistant: Okay, so the character you're thinking of is a student in Harry's year. Next question:
+
+Is the character you're thinking of a member of the Order of the Phoenix? 
+
+Human: yes
+
+Assistant: Alright, so the character you're thinking of is a member of the Order of the Phoenix. Next question:
+
+Is the character you're thinking of a Death Eater? 
+
+Human: no
+
+Assistant: Okay, so the character you're thinking of is not a Death Eater. Next question:
+
+Is the character you're thinking of one of the champions of Hogwarts? 
+
+Human: yes
+
+Assistant: Alright, so the character you're thinking of is one of the champions of Hogwarts. Next question:
+
+Is the character you're thinking of Sirius Black? 
+
+Human: yes
+
+Assistant: So the character you're thinking of is Sirius Black! Congratulations, you guessed it!
+
+Would you like to play again?
+
+Human: yes
+

@@ -1,0 +1,11 @@
+**The current state of the grid is:**
+
+```
+  X | 2 | 3
+  ---------
+ 4 | 5 | 6
+  ---------
+ 7 | 8 | 9
+```
+
+Please enter the number of the square where you'd like to place your X.

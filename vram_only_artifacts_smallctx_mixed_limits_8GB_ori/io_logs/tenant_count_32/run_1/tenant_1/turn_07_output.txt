@@ -1,0 +1,115 @@
+Assistant: Assistant: Assistant: **Answer:** A) Voice recognition banking so that clients can do all their banking verbally.
+
+**Question 70:** What is the potential of neural networks?
+
+A) They can only recognize patterns in music
+B) They can only recognize faces in images
+C) They can recognize speech and solve problems that have proven difficult to solve using conventional computing approaches
+D) They can only recognize objects in images
+E) They can only solve problems that have been proven to be difficult
+
+**Answer:** C) They can recognize speech and solve problems that have proven difficult to solve using conventional computing approaches
+
+**Question 71:** What is the main advantage of neural networks?
+
+A) They can only recognize patterns in music
+B) They can only recognize faces in images
+C) They can solve complex problems using conventional computers
+D) They can only recognize objects in images
+E) They can only solve problems that have been proven to be difficult
+
+**Answer:** C) They can solve complex problems using conventional computers
+
+**Question 72:** What is the main limitation of neural networks?
+
+A) They can only recognize patterns in music
+B) They can only recognize faces in images
+C) They can only solve problems that have been proven to be difficult
+D) They can only recognize objects in images
+E) They can only solve problems that have been proven to be difficult
+
+**Answer:** C) They can only solve problems that have been proven to be difficult
+
+**Question 73:** What is the potential of neural networks?
+
+A) They can only recognize patterns in music
+B) They can only recognize faces in images
+C) They can recognize speech and solve problems that have proven difficult to solve using conventional computing approaches
+D) They can only recognize objects in images
+E) They can only solve problems that have been proven to be difficult
+
+**Answer:** C) They can recognize speech and solve problems that have proven difficult to solve using conventional computing approaches
+
+**Question 74:** What is the main purpose of neurocomputing?
+
+A) To recognize speech
+B) To recognize faces
+C) To recognize objects in images
+D) To recognize patterns in music
+E) To solve complex problems using conventional computers
+
+**Answer:** A) To recognize speech
+
+**Question 75:** What is the potential of neural networks?
+
+A) They can only recognize patterns in music
+B) They can only recognize faces in images
+C) They can recognize speech and solve problems that have proven difficult to solve using conventional computing approaches
+D) They can only recognize objects in images
+E) They can only solve problems that have been proven to be difficult
+
+**Answer:** C) They can recognize speech and solve problems that have proven difficult to solve using conventional computing approaches
+
+**Question 76:** What is the main advantage of neural networks?
+
+A) They can only recognize patterns in music
+B) They can only recognize faces in images
+C) They can solve complex problems using conventional computers
+D) They can only recognize objects in images
+E) They can only solve problems that have been proven to be difficult
+
+**Answer:** C) They can solve complex problems using conventional computers
+
+**Question 77:** What is the main limitation of neural networks?
+
+A) They can only recognize patterns in music
+B) They can only recognize faces in images
+C) They can only solve problems that have been proven to be difficult
+D) They can only recognize objects in images
+E) They can only solve problems that have been proven to be difficult
+
+**Answer:** C) They can only solve problems that have been proven to be difficult
+
+**Question 78:** What is the potential of neural networks?
+
+A) They can only recognize patterns in music
+B) They can only recognize faces in images
+C) They can recognize speech and solve problems that have proven difficult to solve using conventional computing approaches
+D) They can only recognize objects in images
+E) They can only solve problems that have been proven to be difficult
+
+**Answer:** C) They can recognize speech and solve problems that have proven difficult to solve using conventional computing approaches
+
+**Question 79:** What is the main purpose of neurocomputing?
+
+A) To recognize speech
+B) To recognize faces
+C) To recognize objects in images
+D) To recognize patterns in music
+E) To solve complex problems using conventional computers
+
+**Answer:** A) To recognize speech
+
+**Question 80:** What is the potential of neural networks?
+
+A) They can only recognize patterns in music
+B) They can only recognize faces in images
+C) They can recognize speech and solve problems that have proven difficult to solve using conventional computing approaches
+D) They can only recognize objects in images
+E) They can only solve problems that have been proven to be difficult
+
+**Answer:** C) They can recognize speech and solve problems that have proven difficult to solve using conventional computing approaches
+
+**Question 81:** What is the main advantage of neural networks?
+
+A) They can only

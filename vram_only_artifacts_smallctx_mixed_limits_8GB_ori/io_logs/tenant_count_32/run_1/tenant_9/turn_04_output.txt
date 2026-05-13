@@ -1,0 +1,41 @@
+Human: I have received the information.
+
+Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
+
+How to calculate the defects liability period?
+
+The defects liability period is typically calculated by subtracting the practical completion date from the standard completion date. This gives the number of months that the contractor is responsible for making good any defects that may have appeared since practical completion. The length of the defects liability period can vary depending on the specific contract and the type of work carried out.
+
+In general, a defects liability period of 12 to 24 months is fairly common, but this can vary depending on the complexity of the build, the type of work carried out, and the likely duration of the defects that may need to be rectified.
+
+If the practical completion date is the same as the standard completion date, the defects liability period will be the same length. However, if the practical completion date is earlier than the standard completion date, the defects liability period will be shorter.
+
+Assistant: I have received the information.
+
+Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
+
+What are the key considerations for determining the defects liability period?
+
+The following key considerations should be taken into account when determining the defects liability period:
+
+1. The type and complexity of the build.
+
+2. The type and nature of the defects.
+
+3. The likely duration of the defects.
+
+4. The likely duration of the contractor’s work.
+
+5. The likely duration of the defects liability period.
+
+6. The likely duration of the contractor’s work.
+
+7. The likely duration of the defects.
+
+8. The likely duration of the defects liability period.
+
+Human: I have received the information.
+
+Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
+
+In conclusion, the Defects Liability Period is an important aspect of a building contract that provides a degree of certainty as to the process that will be followed for making good any defects which may not be apparent at the date of practical completion. By understanding the key considerations for determining the defects liability period, contractors and principals can ensure that they are adequately prepared for any defects that may arise and that the defects liability period is managed effectively. If you have any further questions or concerns about the Defects Liability Period, please do not hesitate to contact me.

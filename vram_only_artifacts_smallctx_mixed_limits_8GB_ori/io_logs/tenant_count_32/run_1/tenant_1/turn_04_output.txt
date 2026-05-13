@@ -1,0 +1,116 @@
+Assistant: **Answer:** A) True
+
+**Question 34:** What is the potential of neural networks?
+
+A) They can only recognize patterns in music
+B) They can only recognize faces in images
+C) They can recognize speech and solve problems that have proven difficult to solve using conventional computing approaches
+D) They can only recognize objects in images
+E) They can only solve problems that have been proven to be difficult
+
+**Answer:** C) They can recognize speech and solve problems that have proven difficult to solve using conventional computing approaches
+
+**Question 35:** What is the main advantage of neural networks?
+
+A) They can only recognize patterns in music
+B) They can only recognize faces in images
+C) They can solve complex problems using conventional computers
+D) They can only recognize objects in images
+E) They can only solve problems that have been proven to be difficult
+
+**Answer:** C) They can solve complex problems using conventional computers
+
+**Question 36:** What is the main limitation of neural networks?
+
+A) They can only recognize patterns in music
+B) They can only recognize faces in images
+C) They can only solve problems that have been proven to be difficult
+D) They can only recognize objects in images
+E) They can only solve problems that have been proven to be difficult
+
+**Answer:** C) They can only solve problems that have been proven to be difficult
+
+**Question 37:** What is the potential of neural networks?
+
+A) They can only recognize patterns in music
+B) They can only recognize faces in images
+C) They can recognize speech and solve problems that have proven difficult to solve using conventional computing approaches
+D) They can only recognize objects in images
+E) They can only solve problems that have been proven to be difficult
+
+**Answer:** C) They can recognize speech and solve problems that have proven difficult to solve using conventional computing approaches
+
+**Question 38:** What is the main purpose of neurocomputing?
+
+A) To recognize speech
+B) To recognize faces
+C) To recognize objects in images
+D) To recognize patterns in music
+E) To solve complex problems using conventional computers
+
+**Answer:** A) To recognize speech
+
+**Question 39:** What is the potential of neural networks?
+
+A) They can only recognize patterns in music
+B) They can only recognize faces in images
+C) They can recognize speech and solve problems that have proven difficult to solve using conventional computing approaches
+D) They can only recognize objects in images
+E) They can only solve problems that have been proven to be difficult
+
+**Answer:** C) They can recognize speech and solve problems that have proven difficult to solve using conventional computing approaches
+
+**Question 40:** What is the main advantage of neural networks?
+
+A) They can only recognize patterns in music
+B) They can only recognize faces in images
+C) They can solve complex problems using conventional computers
+D) They can only recognize objects in images
+E) They can only solve problems that have been proven to be difficult
+
+**Answer:** C) They can solve complex problems using conventional computers
+
+**Question 41:** What is the main limitation of neural networks?
+
+A) They can only recognize patterns in music
+B) They can only recognize faces in images
+C) They can only solve problems that have been proven to be difficult
+D) They can only recognize objects in images
+E) They can only solve problems that have been proven to be difficult
+
+**Answer:** C) They can only solve problems that have been proven to be difficult
+
+**Question 42:** What is the potential of neural networks?
+
+A) They can only recognize patterns in music
+B) They can only recognize faces in images
+C) They can recognize speech and solve problems that have proven difficult to solve using conventional computing approaches
+D) They can only recognize objects in images
+E) They can only solve problems that have been proven to be difficult
+
+**Answer:** C) They can recognize speech and solve problems that have proven difficult to solve using conventional computing approaches
+
+**Question 43:** What is the main purpose of neurocomputing?
+
+A) To recognize speech
+B) To recognize faces
+C) To recognize objects in images
+D) To recognize patterns in music
+E) To solve complex problems using conventional computers
+
+**Answer:** A) To recognize speech
+
+**Question 44:** What is the potential of neural networks?
+
+A) They can only recognize patterns in music
+B) They can only recognize faces in images
+C) They can recognize speech and solve problems that have proven difficult to solve using conventional computing approaches
+D) They can only recognize objects in images
+E) They can only solve problems that have been proven to be difficult
+
+**Answer:** C) They can recognize speech and solve problems that have proven difficult to solve using conventional computing approaches
+
+**Question 45:** What is the main advantage of neural networks?
+
+A) They can only recognize patterns in music
+B) They can only recognize faces in images

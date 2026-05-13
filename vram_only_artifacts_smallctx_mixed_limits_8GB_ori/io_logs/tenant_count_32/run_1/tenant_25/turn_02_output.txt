@@ -1,0 +1,4 @@
+### Code Explanation
+This program defines four functions for basic arithmetic operations: addition, subtraction, multiplication, and division. The `main` function asks the user for their choice of operation and performs the corresponding operation on two numbers entered by the user. The result of the operation is then printed to the console.
+
+The program uses a `try-except` block in the division function to catch and handle the `ValueError` exception that is raised when the user tries to divide by zero. The `if` statements at the end of the program handle the user's choices and perform the corresponding operation. The `if __name__ == "__main__":` line ensures that the `main` function is only executed when the script is run directly (i.e., not when it is imported as a module by another script).

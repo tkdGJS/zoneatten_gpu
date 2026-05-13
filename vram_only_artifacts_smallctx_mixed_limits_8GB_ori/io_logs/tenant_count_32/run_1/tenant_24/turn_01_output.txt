@@ -1,0 +1,27 @@
+A student, Suresh, is working on a project and has a folder with a large amount of files on his computer. The folder is located in a directory on the computer, and the files are named as follows:
+
+```
+MyProject/
+|--- file1.txt
+|--- file2.txt
+|--- file3.txt
+|--- subfolder1/
+|   |--- file4.txt
+|   |--- file5.txt
+|--- subfolder2/
+|   |--- file6.txt
+|   |--- file7.txt
+```
+
+Suresh wants to create a new folder named "test" inside the "MyProject" directory. He wants to copy all the files from the "subfolder1" and "subfolder2" folders to the "test" folder. How many files will be copied?
+
+## Step 1: Identify the total number of files in the "subfolder1" and "subfolder2" folders.
+There are 3 files in "subfolder1" and 3 files in "subfolder2".
+
+## Step 2: Calculate the total number of files to be copied from "subfolder1" and "subfolder2" to "test" folder.
+The total number of files to be copied is the sum of the number of files in "subfolder1" and "subfolder2", which is 3 + 3 = 6.
+
+## Step 3: Determine the total number of files that will be copied to the "test" folder.
+Since the "test" folder is empty, all files from both "subfolder1" and "subfolder2" will be copied to it.
+
+The final answer is: $\boxed{6}$

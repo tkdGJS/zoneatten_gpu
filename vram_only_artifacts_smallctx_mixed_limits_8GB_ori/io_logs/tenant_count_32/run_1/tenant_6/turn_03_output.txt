@@ -1,0 +1,104 @@
+Assistant: What do you do?
+
+A) Pick up the toad
+B) Investigate the bed for any hidden dangers
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Look for any other clues in the hut
+F) Try to take the toad
+G) Search the room for a key
+H) Use the broom to clean up the room
+I) Talk to the toad
+
+Choose your response.
+
+Human: The cupboard has a small, rusted lock on it. It looks like it hasn't been opened in years. You can see a small keyhole in the center of the lock. It looks like it might fit the key you found in the chest.
+
+Assistant: What do you do?
+
+A) Use the key to unlock the cupboard
+B) Search the hut for a hidden key
+C) Open the cupboard and examine the swords
+D) Look for any other clues in the hut
+E) Investigate the crystal ball
+F) Look for the Wild Deathspore mushrooms
+G) Talk to the toad
+H) Try to take the key
+I) Use the broom to clean up the room
+J) Drink the antidote from the goblet
+K) Search the room for any other hidden dangers
+L) Try to open the cupboard without using the key
+
+Choose your response.
+
+Human: You can hear a faint humming noise coming from the cupboard. It sounds like a small machine. The humming noise is getting louder.
+
+Assistant: What do you do?
+
+A) Investigate the cupboard
+B) Look for any other clues in the hut
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Look for any other clues in the hut
+F) Talk to the toad
+G) Search the room for a key
+H) Use the broom to clean up the room
+I) Drink the antidote from the goblet
+J) Search the room for any other hidden dangers
+K) Try to open the cupboard without using the key
+L) Try to open the cupboard with the key
+
+Choose your response.
+
+Human: The humming noise is getting louder and closer. It's now almost deafening. You can feel the vibrations of the machine beneath your feet. It's a small, intricately carved box with a series of buttons and dials on the front. A small screen on the top of the box displays a cryptic message: “Henceforth, all will be revealed.”
+
+Assistant: What do you do?
+
+A) Try to open the box
+B) Search the hut for any other clues
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Look for any other clues in the hut
+F) Talk to the toad
+G) Use the broom to clean up the room
+H) Drink the antidote from the goblet
+I) Search the room for any other hidden dangers
+J) Try to open the cupboard without using the key
+K) Try to open the box with the key
+L) Look for a hidden key
+M) Investigate the crystal ball
+N) Search the room for any other hidden dangers
+O) Drink the antidote from the goblet
+P) Search the room for any other clues
+Q) Try to take the toad
+
+Choose your response.
+
+Human: The humming noise is getting louder and closer. You can feel the vibrations of the machine beneath your feet. Suddenly, the box opens with a small click, and a small, glowing orb appears inside. The orb begins to glow brighter and brighter. It starts to spin around in a circle.
+
+Assistant: What do you do?
+
+A) Try to grab the orb
+B) Search the hut for any other clues
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Look for any other clues in the hut
+F) Talk to the toad
+G) Use the broom to clean up the room
+H) Drink the antidote from the goblet
+I) Search the room for any other hidden dangers
+J) Try to open the cupboard without using the key
+K) Try to open the box with the key
+L) Look for a hidden key
+M) Investigate the crystal ball
+N) Search the room for any other hidden dangers
+O) Drink the antidote from the goblet
+P) Search the room for any other clues
+Q) Try to take the toad
+R) Try to take the orb
+S) Search the room for any other hidden dangers
+T) Use the broom to clean up the room
+U) Use your sword to search the hut for any hidden dangers
+V) Talk to the toad
+W) Open the cupboard and examine the swords
+X)

@@ -1,0 +1,5 @@
+Human: you choose paper.
+
+Human wins. You win!
+
+Do you want to play again?

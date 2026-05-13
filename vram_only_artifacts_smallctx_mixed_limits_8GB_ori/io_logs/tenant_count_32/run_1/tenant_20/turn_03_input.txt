@@ -1,0 +1,14 @@
+<|begin_of_text|>Human: Guess a character by asking me questions
+
+Assistant: I'll start asking yes or no questions to try to guess which character from the Harry Potter series you are. Here's my first question:
+
+Is the character you're thinking of a main character in the series?
+
+Human: yes
+
+Assistant: Next question:
+
+Is the character you're thinking of male?
+
+Human: yes
+

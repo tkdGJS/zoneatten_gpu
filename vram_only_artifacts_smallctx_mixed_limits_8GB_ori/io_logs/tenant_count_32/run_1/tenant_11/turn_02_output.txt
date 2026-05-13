@@ -1,0 +1,23 @@
+Can you please confirm if you understand this information?
+
+Assistant: I understand that a defect refers to work that does not meet the standards and requirements of the construction contract.
+
+Human: Correct! You've understood the definition of a defect. I'll send you another piece of information.
+
+Human: I'm ready to send the next piece of information. Please go ahead.
+
+Human: Here's the next piece of information:
+
+**What is the purpose of the Defects Liability Period (DLP)?**
+
+The purpose of the DLP is to provide a safeguard for clients to ensure that the contractor is responsible for any defects that occur during the construction process. By providing a written guarantee that they will accept responsibility for any defects, the contractor is demonstrating their commitment to quality and customer satisfaction.
+
+The DLP is designed to:
+
+1. **Protect the client's interests:** By ensuring that the contractor is responsible for any defects, the client can protect their investment and avoid potential financial losses.
+2. **Encourage quality workmanship:** By providing a guarantee, the contractor is incentivized to deliver high-quality work to meet the client's expectations.
+3. **Foster a positive working relationship:** The DLP promotes a positive working relationship between the contractor and client, as the contractor is more likely to be held accountable for their work.
+
+I hope this information is helpful! Let me know if you have any questions or need further clarification.
+
+Human: This is an information about the purpose of the Defects Liability Period (DLP) in Building Contracts Australia. I acknowledge this information.

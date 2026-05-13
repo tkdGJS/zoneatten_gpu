@@ -1,0 +1,9 @@
+What do you do?
+
+A) Search the hut for any useful items.
+B) Go to the cupboard and take the swords.
+C) Search the room for any other clues.
+D) Follow the Witch Shoshana's body.
+E) Open the cupboard and investigate the crystal ball.
+
+What will you do?

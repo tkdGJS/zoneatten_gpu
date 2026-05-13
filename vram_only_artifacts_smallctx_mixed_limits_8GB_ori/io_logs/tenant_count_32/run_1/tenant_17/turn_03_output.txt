@@ -1,0 +1,1 @@
+Assistant: Person: "I think we're going to have a blast. Let's do it!"

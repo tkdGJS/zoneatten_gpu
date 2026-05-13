@@ -1,0 +1,32 @@
+**Solve the equation**
+
+Human: The name Rain
+
+The equation is: x^2 + 3x - 7 = 0
+
+To solve for x, we can use the quadratic formula: x = (-b ± √(b^2 - 4ac)) / 2a
+
+In this case, a = 1, b = 3, and c = -7.
+
+x = (-(3) ± √((3)^2 - 4(1)(-7)) / 2(1)
+x = (-3 ± √(9 + 28) / 2
+x = (-3 ± √37) / 2
+
+This gives us two possible solutions for x:
+
+x = (-3 + √37) / 2 or x = (-3 - √37) / 2
+
+Let's check if the solutions are valid by plugging them back into the original equation:
+
+x = (-3 + √37) / 2
+(-3 + √37) / 2 ≈ -2.074 and (-3 - √37) / 2 ≈ -4.074
+
+x = (-3 - √37) / 2
+(-3 - √37) / 2 ≈ -2.074 and (-3 + √37) / 2 ≈ -4.074
+
+Both solutions are valid, but we can check if the original equation holds true for both values. Let's plug both solutions back into the original equation:
+
+(-3 + √37) / 2 ≈ -2.074 and (-3 + √37) / 2 ≈ -4.074
+(-3 - √37) / 2 ≈ -2.074 and (-3 - √37) / 2 ≈ -4.074
+
+Both solutions satisfy the original equation, so both (-3 + √37) / 2 and (-3 - √37) / 2 are valid solutions to the equation x^2 + 3x - 7 = 0.

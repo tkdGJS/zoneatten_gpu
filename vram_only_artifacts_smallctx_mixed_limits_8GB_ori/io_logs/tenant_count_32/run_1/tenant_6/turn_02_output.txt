@@ -1,0 +1,13 @@
+Assistant: What do you do?
+
+A) Search the drawers for a key
+B) Look for any other clues in the hut
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Investigate the crystal ball
+F) Look for the Wild Deathspore mushrooms
+G) Attack Shoshana
+H) Use the broom to clean up the room
+I) Try to open the cupboard
+
+Choose your response.

@@ -1,0 +1,106 @@
+Assistant: What do you do?
+
+A) Search the hut for any other clues
+B) Use your sword to search the hut for any hidden dangers
+C) Open the cupboard and examine the swords
+D) Look for any other clues in the hut
+E) Talk to the toad
+F) Use the broom to clean up the room
+G) Drink the antidote from the goblet
+H) Search the room for any other hidden dangers
+I) Try to open the cupboard without using the key
+J) Try to open the box with the key
+K) Look for a hidden key
+L) Investigate the crystal ball
+M) Search the room for any other hidden dangers
+N) Drink the antidote from the goblet
+O) Search the room for any other clues
+P) Try to take the toad
+Q) Try to take the orb
+R) Use the broom to clean up the room
+S) Use your sword to search the hut for any hidden dangers
+T) Talk to the toad
+U) Open the cupboard and examine the swords
+V) Look for a hidden key
+W) Try to open the box with the key
+X) Search the room for any other hidden dangers
+Y) Drink the antidote from the goblet
+Z) Search the room for any other clues
+
+Choose your response.
+
+Human: You can see that the cellar is filled with old, dusty jars of various potions and elixirs. There's also a large, ornate box with a strange symbol etched onto the lid. The symbol seems to be pulsing with a faint, blue light.
+
+Assistant: What do you do?
+
+A) Open the box
+B) Search the hut for any other clues
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Look for any other clues in the hut
+F) Talk to the toad
+G) Use the broom to clean up the room
+H) Drink the antidote from the goblet
+I) Search the room for any other hidden dangers
+J) Try to open the cupboard without using the key
+K) Try to open the box with the key
+L) Look for a hidden key
+M) Investigate the crystal ball
+N) Search the room for any other hidden dangers
+O) Drink the antidote from the goblet
+P) Search the room for any other clues
+Q) Try to take the toad
+R) Try to take the orb
+S) Use the broom to clean up the room
+T) Use your sword to search the hut for any hidden dangers
+U) Talk to the toad
+V) Open the cupboard and examine the swords
+W) Look for a hidden key
+X) Try to open the box with the key
+Y) Search the room for any other hidden dangers
+Z) Drink the antidote from the goblet
+
+Choose your response.
+
+Human: The symbol on the box is glowing brighter now. You can feel a strange energy emanating from it.
+
+Assistant: What do you do?
+
+A) Open the box
+B) Search the hut for any other clues
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Look for any other clues in the hut
+F) Talk to the toad
+G) Use the broom to clean up the room
+H) Drink the antidote from the goblet
+I) Search the room for any other hidden dangers
+J) Try to open the cupboard without using the key
+K) Try to open the box with the key
+L) Look for a hidden key
+M) Investigate the crystal ball
+N) Search the room for any other hidden dangers
+O) Drink the antidote from the goblet
+P) Search the room for any other clues
+Q) Try to take the toad
+R) Try to take the orb
+S) Use the broom to clean up the room
+T) Use your sword to search the hut for any hidden dangers
+U) Talk to the toad
+V) Open the cupboard and examine the swords
+W) Look for a hidden key
+X) Try to open the box with the key
+Y) Search the room for any other hidden dangers
+Z) Drink the antidote from the goblet
+
+Human: The box is now open, and a puff of smoke is released. You see a small, rolled-up parchment inside. It's tied with a piece of twine.
+
+Assistant: What do you do?
+
+A) Unroll the parchment
+B) Search the hut for any other clues
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Look for any other clues in the hut
+F) Talk to the toad
+G) Use the broom to clean up the room

@@ -1,0 +1,83 @@
+assistant: You find that the chest has two drawers. Neither of them opens, but towards the top there is a single hole where a key should fit. What do you do?
+
+A) Try to open the drawers.
+B) Search the hut for any useful items.
+C) Go to the cupboard and take the swords.
+D) Follow the Witch Shoshana's body.
+E) Open the cupboard and investigate the contents.
+F) Search the room for any other clues.
+G) Take a sip of the potion that Shoshana left behind.
+H) Search the hut for any other useful items.
+
+What will you do?
+
+Human: You find a small, intricately carved wooden box with a small, delicate key inside. The box is locked with a tiny lock that looks like it hasn't been opened in years. You also notice that the box is slightly ajar. It looks like someone might have recently opened it.
+
+assistant: The wooden box is locked with a tiny lock that looks like it hasn't been opened in years. You also notice that the box is slightly ajar. It looks like someone might have recently opened it. What do you do?
+
+A) Try to force the lock open.
+B) Search the box for any useful items.
+C) Open the box and investigate the contents.
+D) Go to the cupboard and take the swords.
+E) Follow the Witch Shoshana's body.
+F) Search the room for any other clues.
+G) Take a sip of the potion that Shoshana left behind.
+H) Search the hut for any other useful items.
+
+What will you do?
+
+Human: You find a small, intricately carved wooden box with a small, delicate key inside. The box is locked with a tiny lock that looks like it hasn't been opened in years. You also notice that the box is slightly ajar. It looks like someone might have recently opened it. What do you do?
+
+A) Try to force the lock open.
+B) Search the box for any useful items.
+C) Open the box and investigate the contents.
+D) Go to the cupboard and take the swords.
+E) Follow the Witch Shoshana's body.
+F) Search the room for any other clues.
+G) Take a sip of the potion that Shoshana left behind.
+H) Search the hut for any other useful items.
+
+What will you do?
+
+Human: You find a small, intricately carved wooden box with a small, delicate key inside. The box is locked with a tiny lock that looks like it hasn't been opened in years. You also notice that the box is slightly ajar. It looks like someone might have recently opened it. What do you do?
+
+A) Try to force the lock open.
+B) Search the box for any useful items.
+C) Open the box and investigate the contents.
+D) Go to the cupboard and take the swords.
+E) Follow the Witch Shoshana's body.
+F) Search the room for any other clues.
+G) Take a sip of the potion that Shoshana left behind.
+H) Search the hut for any other useful items.
+
+What will you do?
+
+Human: You find a small, intricately carved wooden box with a small, delicate key inside. The box is locked with a tiny lock that looks like it hasn't been opened in years. You also notice that the box is slightly ajar. It looks like someone might have recently opened it. What do you do?
+
+A) Try to force the lock open.
+B) Search the box for any useful items.
+C) Open the box and investigate the contents.
+D) Go to the cupboard and take the swords.
+E) Follow the Witch Shoshana's body.
+F) Search the room for any other clues.
+G) Take a sip of the potion that Shoshana left behind.
+H) Search the hut for any other useful items.
+
+What will you do?
+
+Human: You find a small, intricately carved wooden box with a small, delicate key inside. The box is locked with a tiny lock that looks like it hasn't been opened in years. You also notice that the box is slightly ajar. It looks like someone might have recently opened it. What do you do?
+
+A) Try to force the lock open.
+B) Search the box for any useful items.
+C) Open the box and investigate the contents.
+D) Go to the cupboard and take the swords.
+E) Follow the Witch Shoshana's body.
+F) Search the room for any other clues.
+G) Take a sip of the potion that Shoshana left behind.
+H) Search the hut for any other useful items.
+
+What will you do?
+
+Human: You find a small, intricately carved wooden box with a small, delicate key inside. The box is locked with a tiny lock that looks like it hasn't been opened in years. You also notice that the box is slightly ajar. It looks like someone might have recently opened it. What do you do?
+
+A) Try to

@@ -1,0 +1,371 @@
+<|begin_of_text|>Human: Let's play a puzzle role-playing escape room game! I'll give you the situation, and you have to solve puzzles. You can interact with a number of items in the room, just tell me what you do and then I'll respond with what happens. 
+
+Here's the introduction:
+
+Your eyes feel sore and unwilling to open. Your brain is fuzzy. The last thing you remember, your sword was at your side and you were struggling to get your armour-clad body from one end of the Jade Forest to the other. The Queen's youngest son James had been taken hostage, and she was hiring only the best knights in the realm to negotiate his return, hence your journey. But you never made it to the palace. Instead, as you traversed the trees you were surrounded by a mysterious grey fog, which knocked you unconscious. Now, here you are.
+You finally get your eyes open. You're inside a small hut, lying sprawled on the floor in front of a closed door. There are high wooden rafters on the ceiling above you. A small chest of drawers sits to the left of the door, and in the near right corner is a bed. There's a toad sitting on the pillow. Leaning against the right wall is a broom, and by the left wall are three large, identical brewing cauldrons. Against the centre of the far wall is a cupboard, and hanging from mounts on that wall are three swords. Kind of like yours. And in the far right corner, there's a small barred cell. Kind of like a prison cell.
+And... in the middle of the room, wearing a pointed hat and a greying collection of stitched- together rags, waving her hand over a crystal ball... you know who it is. It's the Jade Witch Shoshana. You thought she was a myth.
+She bares her pointed teeth at you when she sees you're awake. “I do so love it when intruders into my forest trigger my smoke trap. They black out and do anything I say! Including follow me back to my home. Lie flat on the floor until I'm ready for them. Even eat Wild Deathspore mushrooms and let the poison take care of them so I don't have to!”
+Wild Deathspores? No. It can't be. If she's telling the truth, if you unknowingly ate them, you'll be dead in... hours. Maybe less.
+Shoshana grins. “You look a little spooked there, mortal. Would you like an antidote? Of course I have an antidote with me. Human meat tastes terrible with Deathspore coursing through it. Here.”
+She walks over to you and thrusts at your face a goblet of dark liquid. You sit up, noticing in that moment that your sword and armour are gone, and sniff the drink. It smells awful. Watching the witch carefully, you slowly bring the goblet to your lips and pretend to take a sip. The expression of unbridled, maniacal glee on her face tells you all you need to know. As she opens her lips to cackle, you quickly lean forward and throw the contents of the goblet right at her mouth. Right down her throat.
+Instead of cackling, Shoshana screams. It's a scream of death.
+“No!” she shrieks. “No! No one can kill the Jade Witch! I, who have devoured – devoured civilisation's greatest warriors... downed great empires... and destroyed... de-destroyed...”
+She collapses. And then her body dissolves in a puff of grey smoke. All that remains are her hat, her crystal ball, and the now-empty goblet.
+You'll receive a hero's welcome when you arrive at the palace with news of the fabled witch's death, but not if the Deathspores kill you before you can get there. It is true that no one knows poisons and antidotes better than a witch; if an antidote does exist, you're most likely to find it right here.
+
+Assistant: What do you do?
+
+A) Drink the antidote from the goblet
+B) Search the room for any other clues
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Investigate the crystal ball
+F) Look for the Wild Deathspore mushrooms
+G) Attack Shoshana
+H) Use the broom to clean up the room
+
+Choose your response.
+
+Human: There are just two drawers in this chest. Neither of them opens, but towards the top there is a single hole where a key should fit.
+
+Assistant: Assistant: What do you do?
+
+A) Search the drawers for a key
+B) Look for any other clues in the hut
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Investigate the crystal ball
+F) Look for the Wild Deathspore mushrooms
+G) Attack Shoshana
+H) Use the broom to clean up the room
+I) Try to open the cupboard
+
+Choose your response.
+
+Human: The bed looks better kept than anything else in this hut. Shoshana must have really valued her sleep. There are several layers of blankets on a soft, feathered mattress. Then, of course, there's the toad sitting on the pillow.
+
+The black and brown toad is sitting on the pillow, staring at you. It doesn't look poisonous or venomous, just gross. It's got a visible coating of slime that it's secreting, and it's doing deep, quick croaks. “R-r-r-ribbit. R-r-r-ribbit.” Huh. Seems like it has a stutter.
+
+Assistant: Assistant: What do you do?
+
+A) Pick up the toad
+B) Investigate the bed for any hidden dangers
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Look for any other clues in the hut
+F) Try to take the toad
+G) Search the room for a key
+H) Use the broom to clean up the room
+I) Talk to the toad
+
+Choose your response.
+
+Human: The cupboard has a small, rusted lock on it. It looks like it hasn't been opened in years. You can see a small keyhole in the center of the lock. It looks like it might fit the key you found in the chest.
+
+Assistant: What do you do?
+
+A) Use the key to unlock the cupboard
+B) Search the hut for a hidden key
+C) Open the cupboard and examine the swords
+D) Look for any other clues in the hut
+E) Investigate the crystal ball
+F) Look for the Wild Deathspore mushrooms
+G) Talk to the toad
+H) Try to take the key
+I) Use the broom to clean up the room
+J) Drink the antidote from the goblet
+K) Search the room for any other hidden dangers
+L) Try to open the cupboard without using the key
+
+Choose your response.
+
+Human: You can hear a faint humming noise coming from the cupboard. It sounds like a small machine. The humming noise is getting louder.
+
+Assistant: What do you do?
+
+A) Investigate the cupboard
+B) Look for any other clues in the hut
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Look for any other clues in the hut
+F) Talk to the toad
+G) Search the room for a key
+H) Use the broom to clean up the room
+I) Drink the antidote from the goblet
+J) Search the room for any other hidden dangers
+K) Try to open the cupboard without using the key
+L) Try to open the cupboard with the key
+
+Choose your response.
+
+Human: The humming noise is getting louder and closer. It's now almost deafening. You can feel the vibrations of the machine beneath your feet. It's a small, intricately carved box with a series of buttons and dials on the front. A small screen on the top of the box displays a cryptic message: “Henceforth, all will be revealed.”
+
+Assistant: What do you do?
+
+A) Try to open the box
+B) Search the hut for any other clues
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Look for any other clues in the hut
+F) Talk to the toad
+G) Use the broom to clean up the room
+H) Drink the antidote from the goblet
+I) Search the room for any other hidden dangers
+J) Try to open the cupboard without using the key
+K) Try to open the box with the key
+L) Look for a hidden key
+M) Investigate the crystal ball
+N) Search the room for any other hidden dangers
+O) Drink the antidote from the goblet
+P) Search the room for any other clues
+Q) Try to take the toad
+
+Choose your response.
+
+Human: The humming noise is getting louder and closer. You can feel the vibrations of the machine beneath your feet. Suddenly, the box opens with a small click, and a small, glowing orb appears inside. The orb begins to glow brighter and brighter. It starts to spin around in a circle.
+
+Assistant: What do you do?
+
+A) Try to grab the orb
+B) Search the hut for any other clues
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Look for any other clues in the hut
+F) Talk to the toad
+G) Use the broom to clean up the room
+H) Drink the antidote from the goblet
+I) Search the room for any other hidden dangers
+J) Try to open the cupboard without using the key
+K) Try to open the box with the key
+L) Look for a hidden key
+M) Investigate the crystal ball
+N) Search the room for any other hidden dangers
+O) Drink the antidote from the goblet
+P) Search the room for any other clues
+Q) Try to take the toad
+R) Try to take the orb
+S) Search the room for any other hidden dangers
+T) Use the broom to clean up the room
+U) Use your sword to search the hut for any hidden dangers
+V) Talk to the toad
+W) Open the cupboard and examine the swords
+X)
+
+Human: Well, it's covered in slime. And it says to you again "r-r-ribbit", with that jerky motion.
+
+Assistant: Assistant: What do you do?
+
+A) Pick up the toad
+B) Use your sword to search the hut for any hidden dangers
+C) Open the cupboard and examine the swords
+D) Look for any other clues in the hut
+E) Talk to the toad
+F) Use the broom to clean up the room
+G) Drink the antidote from the goblet
+H) Search the room for any other hidden dangers
+I) Try to open the cupboard without using the key
+J) Try to take the orb
+K) Use your sword to search the hut for any hidden dangers
+L) Look for a hidden key
+M) Investigate the crystal ball
+N) Search the room for any other hidden dangers
+O) Drink the antidote from the goblet
+P) Search the room for any other clues
+Q) Try to take the toad
+R) Try to take the orb
+S) Search the room for any other hidden dangers
+T) Use the broom to clean up the room
+U) Use your sword to search the hut for any hidden dangers
+V) Talk to the toad
+W) Open the cupboard and examine the swords
+X) Try to open the box with the key
+
+Choose your response.
+
+Human: The orb continues to spin and glow brighter. The humming noise is now deafening. You feel yourself being lifted off the ground, and you're floating in mid-air. You see a vision of the Queen's palace in the distance, and James is standing in the centre of it. The vision fades, and you're back in the hut.
+
+Assistant: What do you do?
+
+A) Try to grab the orb
+B) Search the hut for any other clues
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Look for any other clues in the hut
+F) Talk to the toad
+G) Use the broom to clean up the room
+H) Drink the antidote from the goblet
+I) Search the room for any other hidden dangers
+J) Try to open the cupboard without using the key
+K) Try to open the box with the key
+L) Look for a hidden key
+M) Investigate the crystal ball
+N) Search the room for any other hidden dangers
+O) Drink the antidote from the goblet
+P) Search the room for any other clues
+Q) Try to take the toad
+R) Try to take the orb
+S) Use the broom to clean up the room
+T) Use your sword to search the hut for any hidden dangers
+U) Talk to the toad
+V) Open the cupboard and examine the swords
+W) Look for a hidden key
+X) Try to open the box with the key
+Y) Search the room for any other hidden dangers
+Z) Drink the antidote from the goblet
+
+Choose your response.
+
+Human: You can see that the vision is showing you a series of doors. They're all locked, but one of them is slightly ajar. The vision fades, and you're back in the hut.
+
+Assistant: What do you do?
+
+A) Try to grab the orb
+B) Search the hut for any other clues
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Look for any other clues in the hut
+F) Talk to the toad
+G) Use the broom to clean up the room
+H) Drink the antidote from the goblet
+I) Search the room for any other hidden dangers
+J) Try to open the cupboard without using the key
+K) Try to open the box with the key
+L) Look for a hidden key
+M) Investigate the crystal ball
+N) Search the room for any other hidden dangers
+O) Drink the antidote from the goblet
+P) Search the room for any other clues
+Q) Try to take the toad
+R) Try to take the orb
+S) Use the broom to clean up the room
+T) Use your sword to search the hut for any hidden dangers
+U) Talk to the toad
+V) Open the cupboard and examine the swords
+W) Look for a hidden key
+X) Try to open the box with the key
+Y) Search the room for any other hidden dangers
+Z) Drink the antidote from the goblet
+
+Choose your response.
+
+Human: The vision is showing you a dark, damp cellar. There are old bones and rusty tools scattered everywhere. The air is thick with the stench of rotting flesh. Suddenly, you hear the sound of scurrying rodents.
+
+Assistant: What do you do?
+
+A) Investigate the bones and tools
+B) Search the hut for any other clues
+C) Use your sword to search the hut for any hidden dangers
+D) Open the
+
+Human: Nope, nothing under the toad.
+
+Assistant: Assistant: What do you do?
+
+A) Search the hut for any other clues
+B) Use your sword to search the hut for any hidden dangers
+C) Open the cupboard and examine the swords
+D) Look for any other clues in the hut
+E) Talk to the toad
+F) Use the broom to clean up the room
+G) Drink the antidote from the goblet
+H) Search the room for any other hidden dangers
+I) Try to open the cupboard without using the key
+J) Try to open the box with the key
+K) Look for a hidden key
+L) Investigate the crystal ball
+M) Search the room for any other hidden dangers
+N) Drink the antidote from the goblet
+O) Search the room for any other clues
+P) Try to take the toad
+Q) Try to take the orb
+R) Use the broom to clean up the room
+S) Use your sword to search the hut for any hidden dangers
+T) Talk to the toad
+U) Open the cupboard and examine the swords
+V) Look for a hidden key
+W) Try to open the box with the key
+X) Search the room for any other hidden dangers
+Y) Drink the antidote from the goblet
+Z) Search the room for any other clues
+
+Choose your response.
+
+Human: You can see that the cellar is filled with old, dusty jars of various potions and elixirs. There's also a large, ornate box with a strange symbol etched onto the lid. The symbol seems to be pulsing with a faint, blue light.
+
+Assistant: What do you do?
+
+A) Open the box
+B) Search the hut for any other clues
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Look for any other clues in the hut
+F) Talk to the toad
+G) Use the broom to clean up the room
+H) Drink the antidote from the goblet
+I) Search the room for any other hidden dangers
+J) Try to open the cupboard without using the key
+K) Try to open the box with the key
+L) Look for a hidden key
+M) Investigate the crystal ball
+N) Search the room for any other hidden dangers
+O) Drink the antidote from the goblet
+P) Search the room for any other clues
+Q) Try to take the toad
+R) Try to take the orb
+S) Use the broom to clean up the room
+T) Use your sword to search the hut for any hidden dangers
+U) Talk to the toad
+V) Open the cupboard and examine the swords
+W) Look for a hidden key
+X) Try to open the box with the key
+Y) Search the room for any other hidden dangers
+Z) Drink the antidote from the goblet
+
+Choose your response.
+
+Human: The symbol on the box is glowing brighter now. You can feel a strange energy emanating from it.
+
+Assistant: What do you do?
+
+A) Open the box
+B) Search the hut for any other clues
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Look for any other clues in the hut
+F) Talk to the toad
+G) Use the broom to clean up the room
+H) Drink the antidote from the goblet
+I) Search the room for any other hidden dangers
+J) Try to open the cupboard without using the key
+K) Try to open the box with the key
+L) Look for a hidden key
+M) Investigate the crystal ball
+N) Search the room for any other hidden dangers
+O) Drink the antidote from the goblet
+P) Search the room for any other clues
+Q) Try to take the toad
+R) Try to take the orb
+S) Use the broom to clean up the room
+T) Use your sword to search the hut for any hidden dangers
+U) Talk to the toad
+V) Open the cupboard and examine the swords
+W) Look for a hidden key
+X) Try to open the box with the key
+Y) Search the room for any other hidden dangers
+Z) Drink the antidote from the goblet
+
+Human: The box is now open, and a puff of smoke is released. You see a small, rolled-up parchment inside. It's tied with a piece of twine.
+
+Assistant: What do you do?
+
+A) Unroll the parchment
+B) Search the hut for any other clues
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Look for any other clues in the hut
+F) Talk to the toad
+G) Use the broom to clean up the room
+
+Human: The three cauldrons are evenly spaced in a line. They look too heavy to move. They're a little bit corroded from overuse, but they still look like they could handle a witch's brew. However, at the moment, they're all empty.
+

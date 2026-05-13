@@ -1,0 +1,28 @@
+<|begin_of_text|>Human: I am going to send you information about Defects Liability Period in Building Contracts Australia, that I want you to remember for now. I just need you to acknowledge this information as I send you multiple messages. Do you understand?’
+
+Assistant: Human: I think so. I will keep this in mind.
+
+Human: Okay, I will send you an email with more information about Defects Liability Period in Building Contracts Australia. Please note that you need to have a copy of the contract before you can claim a defect liability period.
+
+Human: Got it.
+
+Human: Please note that the Defects Liability Period in Building Contracts Australia is a 12-month period from the date the building is completed, but it can be extended to 24 months if the contract includes a clause that specifically states it.
+
+Human: I have the contract.
+
+Human: Great, I will send you the email. Please make sure to keep it in mind.
+
+Human: I will. Thank you for the information.
+
+Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
+
+What exactly is a ‘defect’?
+
+Ordinarily, where the term ‘defect’ is used in a construction contract it refers to work that has not been performed in accordance with the standards and requirements of the particular contract.
+
+Matters to take into consideration in determining if there is a defect may include:
+
+1. the quality of any work and the standard of workmanship;
+2. whether design directives have been followed and correct materials have been used; and
+3. whether the works have been performed in accordance with contractual specifications and drawings.
+

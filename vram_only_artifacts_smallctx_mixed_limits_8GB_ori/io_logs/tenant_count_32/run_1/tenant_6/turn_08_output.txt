@@ -1,0 +1,99 @@
+assistant: What do you do?
+
+A) Try to take one of the swords
+B) Search the hut for any other clues
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Look for any other clues in the hut
+F) Talk to the toad
+G) Use the broom to clean up the room
+H) Drink the antidote from the goblet
+I) Search the room for any other hidden dangers
+J) Try to open the box without using the key
+K) Try to open the box with the key
+L) Look for a hidden key
+M) Investigate the crystal ball
+N) Search the room for any other hidden dangers
+O) Drink the antidote from the goblet
+P) Search the room for any other clues
+Q) Try to take the toad
+R) Try to take the orb
+S) Use the broom to clean up the room
+T) Use your sword to search the hut for any hidden dangers
+U) Talk to the toad
+V) Open the cupboard and examine the swords
+W) Look for a hidden key
+X) Try to open the box with the key
+Y) Search the room for any other hidden dangers
+Z) Drink the antidote from the goblet
+
+Human: You take one of the swords and examine it. It feels heavy and solid in your hand. The hilt is made of a strange, dark metal that seems to absorb the light around it. The blade is coated with a thin layer of black powder that glows with a faint, malevolent energy.
+
+assistant: What do you do?
+
+A) Try to use the sword on the other swords
+B) Use the sword to search the hut for any hidden dangers
+C) Open the cupboard and examine the swords
+D) Look for any other clues in the hut
+E) Talk to the toad
+F) Use the broom to clean up the room
+G) Drink the antidote from the goblet
+H) Search the room for any other hidden dangers
+I) Try to open the box without using the key
+J) Try to open the box with the key
+K) Look for a hidden key
+L) Investigate the crystal ball
+M) Search the room for any other hidden dangers
+N) Drink the antidote from the goblet
+O) Search the room for any other clues
+P) Try to take the toad
+Q) Try to take the orb
+R) Use the broom to clean up the room
+S) Use your sword to search the hut for any hidden dangers
+T) Use your sword to search the hut for any hidden dangers
+U) Talk to the toad
+V) Open the cupboard and examine the swords
+W) Look for a hidden key
+X) Try to open the box with the key
+Y) Search the room for any other hidden dangers
+Z) Drink the antidote from the goblet
+
+Human: The sword feels strangely warm to the touch. You can feel a dark energy emanating from it. The blade is coated with the same black powder as the hilt.
+
+assistant: What do you do?
+
+A) Try to use the sword on the other swords
+B) Use the sword to search the hut for any hidden dangers
+C) Open the cupboard and examine the swords
+D) Look for any other clues in the hut
+E) Talk to the toad
+F) Use the broom to clean up the room
+G) Drink the antidote from the goblet
+H) Search the room for any other hidden dangers
+I) Try to open the box without using the key
+J) Try to open the box with the key
+K) Look for a hidden key
+L) Investigate the crystal ball
+M) Search the room for any other hidden dangers
+N) Drink the antidote from the goblet
+O) Search the room for any other clues
+P) Try to take the toad
+Q) Try to take the orb
+R) Use the broom to clean up the room
+S) Use your sword to search the hut for any hidden dangers
+T) Use your sword to search the hut for any hidden dangers
+U) Talk to the toad
+V) Open the cupboard and examine the swords
+W) Look for a hidden key
+X) Try to open the box with the key
+Y) Search the room for any other hidden dangers
+Z) Drink the antidote from the goblet
+
+Human: You feel a strange, creeping sensation in your fingers. It's as if the black powder is spreading, crawling up your arm.
+
+assistant: What do you do?
+
+A) Try to remove the black powder from your arm
+B) Use your sword to search the hut for any hidden dangers
+C) Open the cupboard and examine the swords
+D) Look for any other clues in the hut

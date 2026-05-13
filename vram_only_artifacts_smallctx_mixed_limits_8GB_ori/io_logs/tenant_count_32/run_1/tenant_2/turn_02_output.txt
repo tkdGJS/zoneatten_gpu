@@ -1,0 +1,24 @@
+assistant: You look around the room and notice that the three cauldrons are evenly spaced in a line. They look too heavy to move. They're a little bit corroded from overuse, but they still look like they could handle a witch's brew. However, at the moment, they're all empty. What do you do?
+
+A) Try to move the cauldrons to see if you can lift any of them.
+B) Search the hut for any useful items.
+C) Go to the cupboard and take the swords.
+D) Follow the Witch Shoshana's body.
+E) Open the cupboard and investigate the crystal ball.
+F) Search the room for any other clues.
+G) Take a sip of the potion that Shoshana left behind.
+
+What will you do?
+
+Human: You find that the cupboard is locked with a rusty old lock. It looks like it hasn't been opened in years. You can see some old rags and dust in it, but nothing that seems particularly useful. You also notice that the cupboard is slightly ajar. It looks like someone might have recently opened it.
+
+assistant: The cupboard is locked with a rusty old lock. It looks like it hasn't been opened in years. You can see some old rags and dust in it, but nothing that seems particularly useful. You also notice that the cupboard is slightly ajar. It looks like someone might have recently opened it. What do you do?
+
+A) Try to force the lock open.
+B) Search the cupboard for any useful items.
+C) Open the cupboard and investigate the contents.
+D) Go to the cupboard and take the swords.
+E) Follow the Witch Shoshana's body.
+F) Search the room for any other clues.
+G) Take a sip of the potion that Shoshana left behind.
+H) Search the hut for any other useful items.

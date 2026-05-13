@@ -1,0 +1,3 @@
+Assistant: Assistant: Nice to see you again! I think you're a great problem-solver. Here's another equation for you to try: 2x^2 + 5x - 3 = 0
+
+Can you solve for x?

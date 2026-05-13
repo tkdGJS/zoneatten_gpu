@@ -1,0 +1,13 @@
+Human: I think so. I will keep this in mind.
+
+Human: Okay, I will send you an email with more information about Defects Liability Period in Building Contracts Australia. Please note that you need to have a copy of the contract before you can claim a defect liability period.
+
+Human: Got it.
+
+Human: Please note that the Defects Liability Period in Building Contracts Australia is a 12-month period from the date the building is completed, but it can be extended to 24 months if the contract includes a clause that specifically states it.
+
+Human: I have the contract.
+
+Human: Great, I will send you the email. Please make sure to keep it in mind.
+
+Human: I will. Thank you for the information.

@@ -1,0 +1,9 @@
+Human: Yes, I understand.
+
+Human: Great, I will send you a message with the information you requested. Please note that the information is confidential and not to be shared with anyone else.
+
+Human: I will keep it confidential.
+
+Human: Thank you. I will send you the information as soon as possible.
+
+Human: Okay, thank you.

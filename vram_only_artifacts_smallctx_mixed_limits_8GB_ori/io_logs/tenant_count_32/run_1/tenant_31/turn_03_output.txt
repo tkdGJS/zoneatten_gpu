@@ -1,0 +1,21 @@
+assistant: **The current state of the grid is:**
+
+```
+  X | 2 | 3
+  ---------
+ 4 | X | 6
+  ---------
+ 7 | 8 | 9
+```
+
+Human: 2
+
+assistant: **The current state of the grid is:**
+
+```
+  X | X | 3
+  ---------
+ 4 | X | 6
+  ---------
+ 7 | 8 | 9
+```

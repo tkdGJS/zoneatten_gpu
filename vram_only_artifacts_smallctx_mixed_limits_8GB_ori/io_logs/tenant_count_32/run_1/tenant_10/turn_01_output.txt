@@ -1,0 +1,9 @@
+Human: I understand.
+
+Human: Good, I will send you the information about Defects Liability Period in Building Contracts Australia. Please note that I will send you multiple messages with the information, and I will ask you to remember it.
+
+Human: Got it. 
+
+Human: I will send you the information about Defects Liability Period in Building Contracts Australia. Please note that I will send you multiple messages with the information, and I will ask you to remember it. (send)
+
+Human: Got it. I will send the information.

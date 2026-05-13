@@ -1,0 +1,107 @@
+Assistant: What do you do?
+
+A) Try to move one of the cauldrons
+B) Search the hut for any other clues
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Look for any other clues in the hut
+F) Talk to the toad
+G) Use the broom to clean up the room
+H) Drink the antidote from the goblet
+I) Search the room for any other hidden dangers
+J) Try to open the cupboard without using the key
+K) Try to open the box with the key
+L) Look for a hidden key
+M) Investigate the crystal ball
+N) Search the room for any other hidden dangers
+O) Drink the antidote from the goblet
+P) Search the room for any other clues
+Q) Try to take the toad
+R) Try to take the orb
+S) Use the broom to clean up the room
+T) Use your sword to search the hut for any hidden dangers
+U) Talk to the toad
+V) Open the cupboard and examine the swords
+W) Look for a hidden key
+X) Try to open the box with the key
+Y) Search the room for any other hidden dangers
+Z) Drink the antidote from the goblet
+
+Choose your response.
+
+Human: The toad is now twitching and shaking. It looks like it's trying to tell you something.
+
+assistant: What do you do?
+
+A) Listen to the toad
+B) Search the hut for any other clues
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Look for any other clues in the hut
+F) Talk to the toad
+G) Use the broom to clean up the room
+H) Drink the antidote from the goblet
+I) Search the room for any other hidden dangers
+J) Try to open the cupboard without using the key
+K) Try to open the box with the key
+L) Look for a hidden key
+M) Investigate the crystal ball
+N) Search the room for any other hidden dangers
+O) Drink the antidote from the goblet
+P) Search the room for any other clues
+Q) Try to take the toad
+R) Try to take the orb
+S) Use the broom to clean up the room
+T) Use your sword to search the hut for any hidden dangers
+U) Talk to the toad
+V) Open the cupboard and examine the swords
+W) Look for a hidden key
+X) Try to open the box with the key
+Y) Search the room for any other hidden dangers
+Z) Drink the antidote from the goblet
+
+Human: The toad is now quivering with fear. It's trying to tell you something, but it's too faint to make out.
+
+assistant: What do you do?
+
+A) Listen to the toad
+B) Search the hut for any other clues
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Look for any other clues in the hut
+F) Talk to the toad
+G) Use the broom to clean up the room
+H) Drink the antidote from the goblet
+I) Search the room for any other hidden dangers
+J) Try to open the cupboard without using the key
+K) Try to open the box with the key
+L) Look for a hidden key
+M) Investigate the crystal ball
+N) Search the room for any other hidden dangers
+O) Drink the antidote from the goblet
+P) Search the room for any other clues
+Q) Try to take the toad
+R) Try to take the orb
+S) Use the broom to clean up the room
+T) Use your sword to search the hut for any hidden dangers
+U) Talk to the toad
+V) Open the cupboard and examine the swords
+W) Look for a hidden key
+X) Try to open the box with the key
+Y) Search the room for any other hidden dangers
+Z) Drink the antidote from the goblet
+
+Human: The toad is now making a strange, high-pitched chirping noise. It's trying to tell you something.
+
+assistant: What do you do?
+
+A) Listen to the toad
+B) Search the hut for any other clues
+C) Use your sword to search the hut for any hidden dangers
+D) Open the cupboard and examine the swords
+E) Look for any other clues in the hut
+F) Talk to the toad
+G) Use the broom to clean up the room
+H) Drink the antidote from the goblet
+I) Search the room for any other hidden dangers
+J) Try to open the cupboard without using the key
