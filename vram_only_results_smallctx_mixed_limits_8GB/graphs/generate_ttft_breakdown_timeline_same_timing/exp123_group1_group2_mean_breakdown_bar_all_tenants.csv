@@ -1,0 +1,7 @@
+tenant_count,group,mean_blocking_ms,mean_prefill_ms,mean_remaining_ttft_ms,mean_total_ttft_ms,sample_count
+8,Group1,0.0000,0.0000,0.0000,0.0000,0
+8,Group2,0.0000,0.0000,0.0000,0.0000,0
+16,Group1,0.0000,0.0000,0.0000,0.0000,0
+16,Group2,0.0000,0.0000,0.0000,0.0000,0
+32,Group1,142.0174,12967.3313,0.0000,13109.3488,480
+32,Group2,135.1589,13069.9343,0.0000,13205.0932,480

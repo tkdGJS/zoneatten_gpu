@@ -29,7 +29,7 @@ def main() -> int:
         )
 
     raw_csv = ROOT / "result_summary.csv"
-    out_dir = Path(__file__).resolve().parents[1] / "vram_only_results_smallctx_mixed_limits_8GB_ori" / "graphs" / Path(__file__).stem
+    out_dir = Path(__file__).resolve().parents[1] / "vram_only_results_smallctx_mixed_limits_8GB" / "graphs" / Path(__file__).stem
     out_dir.mkdir(parents=True, exist_ok=True)
 
     rows = list(csv.DictReader(raw_csv.open("r", encoding="utf-8", newline="")))

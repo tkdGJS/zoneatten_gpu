@@ -8,8 +8,8 @@ from PIL import Image, ImageDraw, ImageFont
 
 
 ROOT = Path(__file__).resolve().parents[1]
-RAW_CSV = ROOT / "vram_only_results_smallctx_mixed_limits_8GB_ori" / "result_raw.csv"
-OUT_DIR = Path(__file__).resolve().parents[1] / "vram_only_results_smallctx_mixed_limits_8GB_ori" / "graphs" / Path(__file__).stem
+RAW_CSV = ROOT / "vram_only_results_smallctx_mixed_limits_8GB" / "result_raw.csv"
+OUT_DIR = Path(__file__).resolve().parents[1] / "vram_only_results_smallctx_mixed_limits_8GB" / "graphs" / Path(__file__).stem
 
 METRICS: List[Tuple[str, str, str]] = [
     ("ttft_ms", "TTFT (ms)", "ttft"),

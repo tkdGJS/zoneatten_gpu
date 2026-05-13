@@ -6,7 +6,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-OUT_DIR = ROOT / "vram_only_results_smallctx_mixed_limits_8GB_ori" / "graphs" / Path(__file__).stem
+OUT_DIR = ROOT / "vram_only_results_smallctx_mixed_limits_8GB" / "graphs" / Path(__file__).stem
 EXPERIMENTS = [
     ("block_2048_limit_same_timing1", "exp1"),
     ("block_2048_limit_same_timing2", "exp2"),

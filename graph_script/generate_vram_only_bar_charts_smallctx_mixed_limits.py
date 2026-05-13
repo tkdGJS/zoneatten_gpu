@@ -15,7 +15,7 @@ ROOT = Path(
     )
 )
 RAW_CSV = ROOT / "result_raw.csv"
-OUT_DIR = Path(__file__).resolve().parents[1] / "vram_only_results_smallctx_mixed_limits_8GB_ori" / "graphs" / Path(__file__).stem
+OUT_DIR = Path(__file__).resolve().parents[1] / "vram_only_results_smallctx_mixed_limits_8GB" / "graphs" / Path(__file__).stem
 GROUP1_LABEL = os.environ.get("GROUP1_LABEL", "Group1")
 GROUP2_LABEL = os.environ.get("GROUP2_LABEL", "Group2")
 

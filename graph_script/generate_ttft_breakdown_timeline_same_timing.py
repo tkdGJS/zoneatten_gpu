@@ -10,7 +10,7 @@ EXPERIMENTS = [
     ("block_2048_limit_same_timing2", "exp2"),
     ("block_2048_limit_same_timing3", "exp3"),
 ]
-OUT_DIR = Path(__file__).resolve().parents[1] / "vram_only_results_smallctx_mixed_limits_8GB_ori" / "graphs" / Path(__file__).stem
+OUT_DIR = Path(__file__).resolve().parents[1] / "vram_only_results_smallctx_mixed_limits_8GB" / "graphs" / Path(__file__).stem
 TENANT_COUNT_FILTER = "32"
 TENANT_COUNTS = ["8", "16", "32"]
 

@@ -14,8 +14,8 @@ def main() -> int:
         )
 
     root = Path(__file__).resolve().parents[1]
-    raw_csv = root / "vram_only_results_smallctx_mixed_limits_8GB_ori" / "result_summary.csv"
-    out_dir = root / "vram_only_results_smallctx_mixed_limits_8GB_ori" / "graphs" / Path(__file__).stem
+    raw_csv = root / "vram_only_results_smallctx_mixed_limits_8GB" / "result_summary.csv"
+    out_dir = root / "vram_only_results_smallctx_mixed_limits_8GB" / "graphs" / Path(__file__).stem
     out_dir.mkdir(parents=True, exist_ok=True)
 
     rows = list(csv.DictReader(raw_csv.open("r", encoding="utf-8", newline="")))
