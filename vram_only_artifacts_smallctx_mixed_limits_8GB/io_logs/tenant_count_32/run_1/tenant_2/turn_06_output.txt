@@ -1,0 +1,99 @@
+assistant: assistant: You have the following options:
+
+A) Take the Wild Deathspore antidote from the goblet
+B) Take the flute
+C) Put the hat on and try to communicate with Shoshana's ghost
+D) Read the note to see if it provides any clues
+E) Search the hut for more clues or items
+F) Use the cupboard to your advantage
+G) Take the book
+H) Use the cupboard as a makeshift shield
+I) Put the hat on and try to communicate with Shoshana's ghost
+J) Take the cupboard door handle and try to open it
+K) Use the cupboard to your advantage
+L) Search the hut for more clues or items
+M) Use the cupboard as a makeshift shield
+N) Put the hat on and try to communicate with Shoshana's ghost
+O) Take the Wild Deathspore antidote from the goblet
+P) Use the cupboard to your advantage
+Q) Take the flute
+
+Choose your response.
+
+Human: You have the following options:
+
+A) Take the Wild Deathspore antidote from the goblet
+B) Take the flute
+C) Put the hat on and try to communicate with Shoshana's ghost
+D) Read the note to see if it provides any clues
+E) Search the hut for more clues or items
+F) Use the cupboard to your advantage
+G) Take the book
+H) Use the cupboard as a makeshift shield
+I) Put the hat on and try to communicate with Shoshana's ghost
+J) Take the cupboard door handle and try to open it
+K) Use the cupboard to your advantage
+L) Search the hut for more clues or items
+M) Use the cupboard as a makeshift shield
+N) Put the hat on and try to communicate with Shoshana's ghost
+O) Take the Wild Deathspore antidote from the goblet
+P) Use the cupboard to your advantage
+Q) Take the flute
+
+Choose your response.
+
+Human: You can see that the Wild Deathspore antidote is now in your hand. You also notice that the cupboard is slightly ajar. You have the following options:
+
+A) Take the Wild Deathspore antidote from the goblet
+B) Take the flute
+C) Put the hat on and try to communicate with Shoshana's ghost
+D) Read the note to see if it provides any clues
+E) Search the hut for more clues or items
+F) Use the cupboard to your advantage
+G) Take the book
+H) Use the cupboard as a makeshift shield
+I) Put the hat on and try to communicate with Shoshana's ghost
+J) Take the cupboard door handle and try to open it
+K) Use the cupboard to your advantage
+L) Search the hut for more clues or items
+M) Use the cupboard as a makeshift shield
+N) Put the hat on and try to communicate with Shoshana's ghost
+O) Take the Wild Deathspore antidote from the goblet
+P) Use the cupboard to your advantage
+Q) Take the flute
+
+Choose your response.
+
+Human: You are now free to leave the hut. You can see that the door is slightly ajar. You can also see that the Wild Deathspore antidote is now in your hand. You have the following options:
+
+A) Take the Wild Deathspore antidote from the goblet
+B) Take the flute
+C) Put the hat on and try to communicate with Shoshana's ghost
+D) Read the note to see if it provides any clues
+E) Search the hut for more clues or items
+F) Use the cupboard to your advantage
+G) Take the book
+H) Use the cupboard as a makeshift shield
+I) Put the hat on and try to communicate with Shoshana's ghost
+J) Take the cupboard door handle and try to open it
+K) Use the cupboard to your advantage
+L) Search the hut for more clues or items
+M) Use the cupboard as a makeshift shield
+N) Put the hat on and try to communicate with Shoshana's ghost
+O) Take the Wild Deathspore antidote from the goblet
+P) Use the cupboard to your advantage
+Q) Take the flute
+
+Choose your response.
+
+Human: You can see that the Wild Deathspore antidote is now in your hand. You also notice that the cupboard is now closed. You have the following options:
+
+A) Take the Wild Deathspore antidote from the goblet
+B) Take the flute
+C) Put the hat on and try to communicate with Shoshana's ghost
+D) Read the note to see if it provides any clues
+E) Search the hut for more clues or items
+F) Use the cupboard to your advantage
+G) Take the book
+H) Use the cupboard as a makeshift shield
+I) Put the hat on and try to communicate

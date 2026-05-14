@@ -1,0 +1,450 @@
+<|begin_of_text|>Human: Let's play a puzzle role-playing escape room game! I'll give you the situation, and you have to solve puzzles. You can interact with a number of items in the room, just tell me what you do and then I'll respond with what happens. 
+
+Here's the introduction:
+
+Your eyes feel sore and unwilling to open. Your brain is fuzzy. The last thing you remember, your sword was at your side and you were struggling to get your armour-clad body from one end of the Jade Forest to the other. The Queen's youngest son James had been taken hostage, and she was hiring only the best knights in the realm to negotiate his return, hence your journey. But you never made it to the palace. Instead, as you traversed the trees you were surrounded by a mysterious grey fog, which knocked you unconscious. Now, here you are.
+You finally get your eyes open. You're inside a small hut, lying sprawled on the floor in front of a closed door. There are high wooden rafters on the ceiling above you. A small chest of drawers sits to the left of the door, and in the near right corner is a bed. There's a toad sitting on the pillow. Leaning against the right wall is a broom, and by the left wall are three large, identical brewing cauldrons. Against the centre of the far wall is a cupboard, and hanging from mounts on that wall are three swords. Kind of like yours. And in the far right corner, there's a small barred cell. Kind of like a prison cell.
+And... in the middle of the room, wearing a pointed hat and a greying collection of stitched- together rags, waving her hand over a crystal ball... you know who it is. It's the Jade Witch Shoshana. You thought she was a myth.
+She bares her pointed teeth at you when she sees you're awake. “I do so love it when intruders into my forest trigger my smoke trap. They black out and do anything I say! Including follow me back to my home. Lie flat on the floor until I'm ready for them. Even eat Wild Deathspore mushrooms and let the poison take care of them so I don't have to!”
+Wild Deathspores? No. It can't be. If she's telling the truth, if you unknowingly ate them, you'll be dead in... hours. Maybe less.
+Shoshana grins. “You look a little spooked there, mortal. Would you like an antidote? Of course I have an antidote with me. Human meat tastes terrible with Deathspore coursing through it. Here.”
+She walks over to you and thrusts at your face a goblet of dark liquid. You sit up, noticing in that moment that your sword and armour are gone, and sniff the drink. It smells awful. Watching the witch carefully, you slowly bring the goblet to your lips and pretend to take a sip. The expression of unbridled, maniacal glee on her face tells you all you need to know. As she opens her lips to cackle, you quickly lean forward and throw the contents of the goblet right at her mouth. Right down her throat.
+Instead of cackling, Shoshana screams. It's a scream of death.
+“No!” she shrieks. “No! No one can kill the Jade Witch! I, who have devoured – devoured civilisation's greatest warriors... downed great empires... and destroyed... de-destroyed...”
+She collapses. And then her body dissolves in a puff of grey smoke. All that remains are her hat, her crystal ball, and the now-empty goblet.
+You'll receive a hero's welcome when you arrive at the palace with news of the fabled witch's death, but not if the Deathspores kill you before you can get there. It is true that no one knows poisons and antidotes better than a witch; if an antidote does exist, you're most likely to find it right here.
+
+Assistant: What do you do?
+
+A) Drink the antidote from the goblet
+B) Leave the hut and find the palace
+C) Search the hut for any other clues or items
+D) Attack Shoshana's body with the swords
+E) Use the Wild Deathspore antidote you ate to cure yourself
+F) Take the crystal ball and the hat
+G) Put the hat on and try to communicate with Shoshana's ghost
+H) Use the cupboard to your advantage
+
+Choose your response.
+
+Human: The three cauldrons are evenly spaced in a line. They look too heavy to move. They're a little bit corroded from overuse, but they still look like they could handle a witch's brew. However, at the moment, they're all empty.
+
+Assistant: assistant: You can choose to take one of the cauldrons, but it's clear that they're not meant for you. You have the following options:
+
+A) Take one of the cauldrons
+B) Leave the cauldrons alone and try to find another way to get to the palace
+C) Search the hut for more clues or items
+D) Attack the cauldrons with the swords
+E) Try to take the crystal ball and the hat
+F) Put the hat on and try to communicate with Shoshana's ghost
+G) Use the cupboard to your advantage
+H) Take the Wild Deathspore antidote from the goblet
+
+Choose your response.
+
+Human: There are just two drawers in this chest. Neither of them opens, but towards the top there is a single hole where a key should fit.
+
+Assistant: Assistant: You have the following options:
+
+A) Try to force the drawers open
+B) Search the hut for another key
+C) Leave the chest and find another way to get to the palace
+D) Attack the chest and break it open
+E) Use the Wild Deathspore antidote to cure yourself
+F) Take the crystal ball and the hat
+G) Put the hat on and try to communicate with Shoshana's ghost
+H) Use the cupboard to your advantage
+I) Try to find a key in the cauldrons
+J) Use the cauldrons as a makeshift shield
+
+Choose your response.
+
+Human: You have a sword, a shield, and a small pouch containing 15 gold pieces. The sword is covered in bloodstains, and the shield has a mysterious symbol etched into it. You also have a small note with a cryptic message that reads: "In the darkness, I find my strength." 
+
+Assistant: What do you do?
+
+A) Use the sword to attack the hut
+B) Use the shield to defend yourself
+C) Search the hut for more clues or items
+D) Take the Wild Deathspore antidote from the goblet
+E) Use the Wild Deathspore antidote to cure yourself
+F) Leave the hut and find another way to get to the palace
+G) Put the hat on and try to communicate with Shoshana's ghost
+H) Use the cupboard to your advantage
+I) Try to find a key in the cauldrons
+J) Use the cauldrons as a makeshift shield
+K) Read the note to see if it provides any clues
+
+Choose your response.
+
+Human: You can see that the three cauldrons are not going to be moved by the weight alone. You have the following options:
+
+A) Take one of the cauldrons
+B) Leave the cauldrons alone and try to find another way to get to the palace
+C) Search the hut for more clues or items
+D) Attack the hut with the swords
+E) Take the Wild Deathspore antidote from the goblet
+F) Use the Wild Deathspore antidote to cure yourself
+G) Put the hat on and try to communicate with Shoshana's ghost
+H) Use the cupboard to your advantage
+I) Try to find a key in the cauldrons
+J) Use the cauldrons as a makeshift shield
+K) Read the note to see if it provides any clues
+
+Choose your response.
+
+Human: You find a small, intricately carved wooden box with a hidden compartment. The box is locked, but it has a small inscription on the lid that reads: "For the worthy, only the worthy shall open." The box is locked with a small, rusted lock. You also find a small piece of parchment with a cryptic message that reads: "Follow the path of the setting sun."
+
+Assistant: What do you do?
+
+A) Use the Wild Deathspore antidote to cure yourself
+B) Take the Wild Deathspore antidote from the goblet
+C) Use the cupboard to your advantage
+D) Attack the hut with the swords
+E) Put the hat on and try to communicate with Shoshana's ghost
+F) Search the hut for more clues or items
+G) Read the note to see if it provides any clues
+H) Try to force the box open with the swords
+I) Use the cauldrons as a makeshift shield
+J) Follow the path of the setting sun
+K) Use the Wild Deathspore antidote to cure yourself
+L) Use the cupboard to your advantage
+
+Choose your response.
+
+Human: You have the following options:
+
+A) Use the Wild Deathspore antidote to cure yourself
+B) Take the Wild Deathspore antidote from the goblet
+C) Use the cupboard to your advantage
+D) Attack the hut with the swords
+E) Put the hat on and try to communicate with Shoshana's ghost
+F) Search the hut for more clues or items
+G) Read the note to see if it provides any clues
+H) Try to force the box open with the swords
+I) Use the cauldrons as a makeshift shield
+J) Follow the path of the setting sun
+K) Use the Wild Deathspore antidote to cure yourself
+L) Use the cupboard to your advantage
+
+Choose your response.
+
+Human: You see a small, hidden door in the back of the hut. It's slightly ajar. You push it open and find a narrow staircase leading down into darkness.
+
+Assistant: What do you do?
+
+A) Descend the staircase
+B) Search the hut for more clues or items
+C) Use the Wild Deathspore antidote to cure yourself
+D) Put the hat on and try to communicate with Shoshana's ghost
+E) Read the note to see if it provides any clues
+F) Take the
+
+Human: You reach for the cupboard door handle, but when you pull on it, it doesn't budge. It doesn't feel locked. More like... sealed. Like there's some magic at play that you don't understand. You turn to leave it for now, but before you can move away, you feel a strange sensation on the back of your neck. It's warm, scratchy, and wet. You whirl back around, and aaagh! There's a tongue where the cupboard door used to be! It's almost as big as you, a shocking purple, and it's attempting to lick you! Magic you don't understand, indeed.
+Just to make things worse, the tongue curls over itself, and actually finds a way to speak to you. “Mmm, thirsty,” it gurgles. “Favourite drinkssss.”
+You take a step back, and thankfully, it doesn't follow you. It's stuck to the cupboard.
+
+Assistant: assistant: You have the following options:
+
+A) Try to communicate with the tongue
+B) Attack the tongue
+C) Search the hut for more clues or items
+D) Use the Wild Deathspore antidote to cure yourself
+E) Put the hat on and try to communicate with Shoshana's ghost
+F) Read the note to see if it provides any clues
+G) Take the cupboard door handle and try to open it
+H) Use the cupboard to your advantage
+I) Try to find a key in the cauldrons
+J) Follow the path of the setting sun
+K) Use the Wild Deathspore antidote to cure yourself
+L) Use the cupboard to your advantage
+M) Search the hut for more clues or items
+N) Use the cupboard as a makeshift shield
+O) Put the hat on and try to communicate with Shoshana's ghost
+
+Choose your response.
+
+Human: You have the following options:
+
+A) Try to communicate with the tongue
+B) Attack the tongue
+C) Search the hut for more clues or items
+D) Use the Wild Deathspore antidote to cure yourself
+E) Put the hat on and try to communicate with Shoshana's ghost
+F) Read the note to see if it provides any clues
+G) Take the cupboard door handle and try to open it
+H) Use the cupboard to your advantage
+I) Try to find a key in the cauldrons
+J) Follow the path of the setting sun
+K) Use the Wild Deathspore antidote to cure yourself
+L) Use the cupboard to your advantage
+M) Search the hut for more clues or items
+N) Use the cupboard as a makeshift shield
+O) Put the hat on and try to communicate with Shoshana's ghost
+P) Take the Wild Deathspore antidote from the goblet
+Q) Use the cupboard to your advantage
+
+Choose your response.
+
+Human: You see a small, intricately carved wooden flute on a nearby shelf. It's beautifully crafted, but it looks like it hasn't been used in a long time. You also see a small, leather-bound book on a nearby table. It's bound with a strange symbol that seems to be pulsing with a faint, otherworldly energy.
+
+assistant: What do you do?
+
+A) Take the flute
+B) Take the book
+C) Use the Wild Deathspore antidote to cure yourself
+D) Put the hat on and try to communicate with Shoshana's ghost
+E) Read the note to see if it provides any clues
+F) Search the hut for more clues or items
+G) Use the cupboard to your advantage
+H) Follow the path of the setting sun
+I) Use the cupboard as a makeshift shield
+J) Put the hat on and try to communicate with Shoshana's ghost
+K) Take the Wild Deathspore antidote from the goblet
+L) Use the cupboard to your advantage
+M) Search the hut for more clues or items
+N) Use the cupboard as a makeshift shield
+O) Put the hat on and try to communicate with Shoshana's ghost
+P) Take the cupboard door handle and try to open it
+Q) Use the cupboard to your advantage
+
+Choose your response.
+
+Human: You can see that the flute is still warm from the heat of the tongue. You also notice that the symbol on the book seems to be pulsing more rapidly. You have the following options:
+
+A) Take the flute
+B) Take the book
+C) Use the Wild Deathspore antidote to cure yourself
+D) Put the hat on and try to communicate with Shoshana's ghost
+E) Read the note to see if it provides any clues
+F) Search the hut for more clues or items
+G) Use the cupboard to your advantage
+H) Follow the path of the setting sun
+I) Use the cupboard as a makeshift shield
+J) Put the hat on and try to communicate with Shoshana's ghost
+K) Take the Wild Deathspore antidote from the goblet
+L) Use the cupboard to your advantage
+M) Search the hut for more clues or items
+N) Use the cupboard as a makeshift shield
+O) Put the hat on and try to communicate with Shoshana's ghost
+P) Take the cupboard door handle and try to open it
+Q) Use the cupboard to your advantage
+
+Choose your response.
+
+Human: You can see that the tongue is now gone, and the symbol on the book has stopped pulsing. You also notice that the cupboard is now slightly ajar. You can see a small, leather pouch inside, and it's filled with a strange, glowing powder. You also notice that the Wild Deathspore antidote is still in the goblet.
+
+assistant: What do you do?
+
+A) Take the Wild Deathspore antidote from the goblet
+B) Take the flute
+
+Human: Hmm, nothing jumps out at you. There's the goblet, but you can see it's totally empty now.
+
+Assistant: assistant: You have the following options:
+
+A) Take the Wild Deathspore antidote from the goblet
+B) Take the flute
+C) Use the cupboard to your advantage
+D) Search the hut for more clues or items
+E) Put the hat on and try to communicate with Shoshana's ghost
+F) Read the note to see if it provides any clues
+G) Take the book
+H) Use the cupboard as a makeshift shield
+I) Put the hat on and try to communicate with Shoshana's ghost
+J) Take the cupboard door handle and try to open it
+K) Use the cupboard to your advantage
+L) Search the hut for more clues or items
+M) Use the cupboard as a makeshift shield
+N) Put the hat on and try to communicate with Shoshana's ghost
+O) Take the Wild Deathspore antidote from the goblet
+P) Use the cupboard to your advantage
+Q) Take the flute
+
+Choose your response.
+
+Human: You can see that the Wild Deathspore antidote is now in your hand. You also notice that the cupboard is now slightly closed. You have the following options:
+
+A) Take the Wild Deathspore antidote from the goblet
+B) Take the flute
+C) Put the hat on and try to communicate with Shoshana's ghost
+D) Read the note to see if it provides any clues
+E) Search the hut for more clues or items
+F) Use the cupboard to your advantage
+G) Take the book
+H) Use the cupboard as a makeshift shield
+I) Put the hat on and try to communicate with Shoshana's ghost
+J) Take the cupboard door handle and try to open it
+K) Use the cupboard to your advantage
+L) Search the hut for more clues or items
+M) Use the cupboard as a makeshift shield
+N) Put the hat on and try to communicate with Shoshana's ghost
+O) Take the Wild Deathspore antidote from the goblet
+P) Use the cupboard to your advantage
+Q) Take the flute
+
+Choose your response.
+
+Human: You have the following options:
+
+A) Take the Wild Deathspore antidote from the goblet
+B) Take the flute
+C) Put the hat on and try to communicate with Shoshana's ghost
+D) Read the note to see if it provides any clues
+E) Search the hut for more clues or items
+F) Use the cupboard to your advantage
+G) Take the book
+H) Use the cupboard as a makeshift shield
+I) Put the hat on and try to communicate with Shoshana's ghost
+J) Take the cupboard door handle and try to open it
+K) Use the cupboard to your advantage
+L) Search the hut for more clues or items
+M) Use the cupboard as a makeshift shield
+N) Put the hat on and try to communicate with Shoshana's ghost
+O) Take the Wild Deathspore antidote from the goblet
+P) Use the cupboard to your advantage
+Q) Take the flute
+
+Choose your response.
+
+Human: You see a small, leather-bound book on the floor. It's open to a page with a note that reads: “The forest is full of traps and puzzles. Be careful, for you are not the only one searching for James. Be prepared to face the shadows.”
+
+assistant: What do you do?
+
+A) Take the Wild Deathspore antidote from the goblet
+B) Take the flute
+C) Put the hat on and try to communicate with Shoshana's ghost
+D) Read the note to see if it provides any clues
+E) Search the hut for more clues or items
+F) Use the cupboard to your advantage
+G) Take the book
+H) Use the cupboard as a makeshift shield
+I) Put the hat on and try to communicate with Shoshana's ghost
+J) Take the cupboard door handle and try to open it
+K) Use the cupboard to your advantage
+L) Search the hut for more clues or items
+M) Use the cupboard as a makeshift shield
+N) Put the hat on and try to communicate with Shoshana's ghost
+O) Take the Wild Deathspore antidote from the goblet
+P) Use the cupboard to your advantage
+Q) Take the flute
+
+Choose your response.
+
+Human: You can see that the Wild Deathspore antidote is now in your hand. You also notice that the cupboard is slightly ajar. You have the following options:
+
+A) Take the Wild Deathspore antidote from the goblet
+B) Take the flute
+C) Put the hat on and try to communicate with Shoshana's ghost
+D) Read the note to see if it provides any clues
+E) Search the hut for more clues or items
+F) Use the cupboard to your advantage
+G) Take the book
+H) Use
+
+Human: It looks like this is actually a broom for sweeping, not for flying around or anything unnatural like that. And even though the hut isn't exactly clean, it looks like the broom has seen a lot of use. There's smoky black soot all over the bottom of it. Trying to use it to clean now would have the opposite effect.
+
+Assistant: assistant: assistant: You have the following options:
+
+A) Take the Wild Deathspore antidote from the goblet
+B) Take the flute
+C) Put the hat on and try to communicate with Shoshana's ghost
+D) Read the note to see if it provides any clues
+E) Search the hut for more clues or items
+F) Use the cupboard to your advantage
+G) Take the book
+H) Use the cupboard as a makeshift shield
+I) Put the hat on and try to communicate with Shoshana's ghost
+J) Take the cupboard door handle and try to open it
+K) Use the cupboard to your advantage
+L) Search the hut for more clues or items
+M) Use the cupboard as a makeshift shield
+N) Put the hat on and try to communicate with Shoshana's ghost
+O) Take the Wild Deathspore antidote from the goblet
+P) Use the cupboard to your advantage
+Q) Take the flute
+
+Choose your response.
+
+Human: You have the following options:
+
+A) Take the Wild Deathspore antidote from the goblet
+B) Take the flute
+C) Put the hat on and try to communicate with Shoshana's ghost
+D) Read the note to see if it provides any clues
+E) Search the hut for more clues or items
+F) Use the cupboard to your advantage
+G) Take the book
+H) Use the cupboard as a makeshift shield
+I) Put the hat on and try to communicate with Shoshana's ghost
+J) Take the cupboard door handle and try to open it
+K) Use the cupboard to your advantage
+L) Search the hut for more clues or items
+M) Use the cupboard as a makeshift shield
+N) Put the hat on and try to communicate with Shoshana's ghost
+O) Take the Wild Deathspore antidote from the goblet
+P) Use the cupboard to your advantage
+Q) Take the flute
+
+Choose your response.
+
+Human: You can see that the Wild Deathspore antidote is now in your hand. You also notice that the cupboard is slightly ajar. You have the following options:
+
+A) Take the Wild Deathspore antidote from the goblet
+B) Take the flute
+C) Put the hat on and try to communicate with Shoshana's ghost
+D) Read the note to see if it provides any clues
+E) Search the hut for more clues or items
+F) Use the cupboard to your advantage
+G) Take the book
+H) Use the cupboard as a makeshift shield
+I) Put the hat on and try to communicate with Shoshana's ghost
+J) Take the cupboard door handle and try to open it
+K) Use the cupboard to your advantage
+L) Search the hut for more clues or items
+M) Use the cupboard as a makeshift shield
+N) Put the hat on and try to communicate with Shoshana's ghost
+O) Take the Wild Deathspore antidote from the goblet
+P) Use the cupboard to your advantage
+Q) Take the flute
+
+Choose your response.
+
+Human: You are now free to leave the hut. You can see that the door is slightly ajar. You can also see that the Wild Deathspore antidote is now in your hand. You have the following options:
+
+A) Take the Wild Deathspore antidote from the goblet
+B) Take the flute
+C) Put the hat on and try to communicate with Shoshana's ghost
+D) Read the note to see if it provides any clues
+E) Search the hut for more clues or items
+F) Use the cupboard to your advantage
+G) Take the book
+H) Use the cupboard as a makeshift shield
+I) Put the hat on and try to communicate with Shoshana's ghost
+J) Take the cupboard door handle and try to open it
+K) Use the cupboard to your advantage
+L) Search the hut for more clues or items
+M) Use the cupboard as a makeshift shield
+N) Put the hat on and try to communicate with Shoshana's ghost
+O) Take the Wild Deathspore antidote from the goblet
+P) Use the cupboard to your advantage
+Q) Take the flute
+
+Choose your response.
+
+Human: You can see that the Wild Deathspore antidote is now in your hand. You also notice that the cupboard is now closed. You have the following options:
+
+A) Take the Wild Deathspore antidote from the goblet
+B) Take the flute
+C) Put the hat on and try to communicate with Shoshana's ghost
+D) Read the note to see if it provides any clues
+E) Search the hut for more clues or items
+F) Use the cupboard to your advantage
+G) Take the book
+H) Use the cupboard as a makeshift shield
+I) Put the hat on and try to communicate
+
+Human: The bed looks better kept than anything else in this hut. Shoshana must have really valued her sleep. There are several layers of blankets on a soft, feathered mattress. Then, of course, there's the toad sitting on the pillow.
+
+The black and brown toad is sitting on the pillow, staring at you. It doesn't look poisonous or venomous, just gross. It's got a visible coating of slime that it's secreting, and it's doing deep, quick croaks. “R-r-r-ribbit. R-r-r-ribbit.” Huh. Seems like it has a stutter.
+

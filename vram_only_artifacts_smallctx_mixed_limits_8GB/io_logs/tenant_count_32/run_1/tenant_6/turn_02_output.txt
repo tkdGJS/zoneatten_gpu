@@ -1,0 +1,82 @@
+You'll receive a hero's welcome when you arrive at the palace with news of the fabled witch's death, but not if the Deathspores kill you before you can get there. It is true that no one knows poisons and antidotes better than a witch; if an antidote does exist, you're most likely to find it right here. You also find the following items in the chest:
+
+* A note with a cryptic message
+* A piece of parchment with a crude map of the surrounding forest
+* A small pouch containing a vial of Wild Deathspore potion
+
+What do you do?
+
+A) Grab the swords
+B) Search the room for the antidote
+C) Try to light the fire in the fireplace
+D) Use the broom to sweep the room
+E) Open the cupboard to examine the contents
+F) Approach the bed to take a closer look at the toad
+G) Use the cupboard to try and open the barred cell
+H) Try to communicate with the Jade Witch Shoshana
+I) Drink the Wild Deathspore potion and see what happens
+J) Follow the path outside the hut to see if you can find any other clues
+
+What will you do?
+
+Human: You find a small, intricately carved wooden box on the bedside table. It has a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+What do you do?
+
+A) Grab the swords
+B) Search the room for the antidote
+C) Try to light the fire in the fireplace
+D) Use the broom to sweep the room
+E) Open the cupboard to examine the contents
+F) Approach the bed to take a closer look at the toad
+G) Use the cupboard to try and open the barred cell
+H) Try to communicate with the Jade Witch Shoshana
+I) Drink the Wild Deathspore potion and see what happens
+J) Follow the path outside the hut to see if you can find any other clues
+K) Look at the note and the map for any hidden clues
+L) Use the wooden box to examine it more closely
+M) Search the room for any other hidden compartments
+
+What will you do?
+
+Human: You find a small, rusty key hidden in the toad's pouch. It's attached to a length of twine. You also find the note with the cryptic message. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The ancient ones are not what they seem."
+
+What do you do?
+
+A) Grab the swords
+B) Search the room for the antidote
+C) Try to light the fire in the fireplace
+D) Use the broom to sweep the room
+E) Open the cupboard to examine the contents
+F) Approach the bed to take a closer look at the toad
+G) Use the cupboard to try and open the barred cell
+H) Try to communicate with the Jade Witch Shoshana
+I) Drink the Wild Deathspore potion and see what happens
+J) Follow the path outside the hut to see if you can find any other clues
+K) Look at the note and the map for any hidden clues
+L) Use the wooden box to examine it more closely
+M) Search the room for any other hidden compartments
+
+What will you do?
+
+Human: The note and the map seem to be pointing to a specific location in the forest. You also find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+What do you do?
+
+A) Grab the swords
+B) Search the room for the antidote
+C) Try to light the fire in the fireplace
+D) Use the broom to sweep the room
+E) Open the cupboard to examine the contents
+F) Approach the bed to take a closer look at the toad
+G) Use the cupboard to try and open the barred cell
+H) Try to communicate with the Jade Witch Shoshana
+I) Drink the Wild Deathspore potion and see what happens
+J) Follow the path outside the hut to see if you can find any other clues
+K) Look at the note and the map for any hidden clues
+L) Use the wooden box to examine it more closely
+M) Search the room for any other hidden compartments
+
+What will you do?
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to

@@ -1,0 +1,70 @@
+<|begin_of_text|>Human: I am going to send you information about repudiating a building contract, that I want you to remember for now. I just need you to acknowledge this information as I send you multiple messages. Do you understand?
+
+Assistant: You: I understand. Please proceed with the information.
+
+Human: I am going to send you a contract for a building renovation project. The scope of work includes installing new flooring and painting the interior walls. The total cost is $12,000.
+
+Human: I want to accept the contract, but I need to review it carefully before making a decision. Can I request a copy of the contract before signing?
+
+Human: Yes, I can provide you with a copy of the contract. Please let me know when you're ready.
+
+Human: I would like to request a copy of the contract before signing. Can you please send it to me via email?
+
+Human: I can send the contract via email to you. Please let me know when you're ready to receive it.
+
+Human: I'm ready to receive the contract. Can you send it to me?
+
+Human: Here is the contract. Please review it carefully before signing.
+
+Human: I have reviewed the contract and I am ready to sign it. Can you confirm the terms of the contract?
+
+Human: Yes, I confirm that the terms of the contract are as stated. I accept the contract and authorize you to proceed with the project.
+
+Human: I want to confirm that I understand the terms of the contract and I'm ready to pay the $12,000. Can you provide me with the payment details?
+
+Human: I can provide you with the payment details, including the payment schedule and any additional information you may need. Please note that I will need to receive a deposit of 25% of the total cost before proceeding with the project.
+
+Human: I have received the contract and payment details. I'm ready to proceed with the project. Can you confirm the project timeline and estimated completion date?
+
+Human: I have confirmed the project timeline and estimated completion date. The project is expected to be completed within 6 weeks.
+
+Human: I want to confirm that I understand the project scope, timeline, and estimated completion date. I'm ready to sign the contract and move forward with the project.
+
+Human: I have confirmed that I understand the project scope, timeline, and estimated completion date. I accept the contract and authorize you to proceed with the project. I will provide a deposit of $3,000 upon signing.
+
+Human: I have signed the contract and provided the deposit. I will send a confirmation email to you with the payment details.
+
+Human: I have received the confirmation email and I'm ready to proceed with the project. Please send me the payment details and any additional information I may need.
+
+Human: I have sent the payment details and any additional information you may need. Please review the payment details carefully before proceeding with the project.
+
+Human: I have reviewed the payment details and I'm ready to proceed with the project. I have made the deposit of $3,000 and I'm ready to sign the contract.
+
+Human: I have signed the contract and I authorize you to proceed with the project. I will provide a deposit of $9,000 upon signing.
+
+Human: I have signed the contract and I authorize you to proceed with the project. I will provide a deposit of $9,000 upon signing. I will also provide a payment schedule and any additional information you may need.
+
+Human: I have received the confirmation email and I'm ready to proceed with the project. Please send me the payment details and any additional information you may need.
+
+Human: I have sent the payment details and any additional information you may need. I have reviewed the payment details carefully and I'm ready to proceed with the project. Please confirm that I understand the terms of the contract and I'm ready to pay the remaining balance.
+
+Human: I have confirmed that I understand the terms of the contract and I'm ready to pay the remaining balance. I will provide a deposit of $9,000 upon signing.
+
+Human: I have received the confirmation email and I'm ready to proceed with the project. Please send me the payment details and any additional information you may need.
+
+Human: I have sent the payment details and any additional information you may need. I have reviewed the payment details carefully and I'm ready to proceed with the project. I have paid the remaining balance of $2,000.
+
+Human: I have confirmed that I understand the terms of the contract and I'm ready to proceed with the project. I have paid the remaining balance of $2,000. I will provide a final payment of $1,000 upon completion of the project.
+
+Human: I have received the confirmation email and I'm ready to proceed with the project. Please send me the final payment details and any additional information you may need.
+
+Human: I have sent the final payment details and any additional information you may need. I have reviewed the payment details carefully and I'm ready to finalize the project.
+
+Human: I have confirmed that I understand the terms of the contract and I'm ready to finalize the project. I have completed the project and I'm ready to receive payment.
+
+Human: I have received the final payment of $1,000. I'm satisfied with the project
+
+Human: This is an information about repudiating a building contract. Limit your response to “acknowledged” if you understand:
+
+Repudiation of a building contract occurs when one party evinces an intention no longer to be bound by the contract.
+

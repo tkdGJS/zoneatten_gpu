@@ -1,0 +1,1 @@
+Explanation: The text states that neural networks are "loosely modeled on the networks of neurons that make up brains" and that they are "characterized by their ability to learn". This suggests that neural networks are capable of adapting to new information or changing circumstances. Therefore, the correct answer is A - True.

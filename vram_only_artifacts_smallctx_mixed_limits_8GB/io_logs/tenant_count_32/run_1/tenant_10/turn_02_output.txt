@@ -1,0 +1,5 @@
+Human: I understand the information.
+
+Human: I have received the information. Please proceed with the next part of the information.
+
+Human: The Defects Liability Period is a critical component of a Building Contract in Australia, and it provides the owner with the right to claim damages if the builder fails to rectify defects within the specified time frame. It is essential to carefully review the contract to understand the terms and conditions of the Defects Liability Period.

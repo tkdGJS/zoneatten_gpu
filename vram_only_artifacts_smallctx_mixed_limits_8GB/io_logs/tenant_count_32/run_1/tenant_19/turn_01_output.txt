@@ -1,0 +1,10 @@
+You:
+
+A) Yes
+B) No
+C) Maybe
+D) Can't understand
+
+What would you like to do?
+
+Please select one of the options.

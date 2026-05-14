@@ -1,0 +1,12 @@
+assistant: You can choose to take one of the cauldrons, but it's clear that they're not meant for you. You have the following options:
+
+A) Take one of the cauldrons
+B) Leave the cauldrons alone and try to find another way to get to the palace
+C) Search the hut for more clues or items
+D) Attack the cauldrons with the swords
+E) Try to take the crystal ball and the hat
+F) Put the hat on and try to communicate with Shoshana's ghost
+G) Use the cupboard to your advantage
+H) Take the Wild Deathspore antidote from the goblet
+
+Choose your response.

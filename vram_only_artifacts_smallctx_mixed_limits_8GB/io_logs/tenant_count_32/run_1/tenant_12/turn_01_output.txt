@@ -1,0 +1,29 @@
+Human: Yes, I understand. I'll remember the information for now.
+
+Human: Great. Now, please send me the first piece of information. 
+
+Human: I've attached a document titled Defects Liability Period in Building Contracts Australia. Please find attached. 
+
+Human: I've received the document. Thank you. 
+
+Human: I need you to send me another piece of information. Please send the second piece of information.
+
+Human: I've attached another document titled Defects Liability Period in Building Contracts Australia. Please find attached.
+
+Human: I've received the document. Thank you. 
+
+Human: I need you to send me another piece of information. Please send the third piece of information.
+
+Human: I've attached a document titled Defects Liability Period in Building Contracts Australia. Please find attached.
+
+Human: I've received the document. Thank you. 
+
+Human: I need you to send me another piece of information. Please send the fourth piece of information.
+
+Human: I've attached a document titled Defects Liability Period in Building Contracts Australia. Please find attached.
+
+Human: I've received the document. Thank you. 
+
+Human: I need you to send me another piece of information. Please send the fifth piece of information.
+
+Human: I've attached a document titled Defects Liability Period in Building Contracts Australia. Please find attached.

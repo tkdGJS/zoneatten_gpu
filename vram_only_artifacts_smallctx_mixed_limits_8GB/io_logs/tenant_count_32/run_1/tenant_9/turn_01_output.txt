@@ -1,0 +1,17 @@
+Human: I understand. I will remember this information for now. Please proceed with the next message.
+
+Human: No, no, I made a mistake. I will send you the information about Defects Liability Period in Building Contracts Australia first.
+
+Human: I will send you the information. However, I want to clarify that Defects Liability Period is a term that refers to the period of time that an owner or developer is liable for defects in a building or structure after it is completed. It is typically measured from the completion date of the building, and it is usually a fixed period of time, such as one year, two years, or five years.
+
+Human: I remember that. And I want to ask, what is the purpose of Defects Liability Period?
+
+Human: The purpose of Defects Liability Period is to provide a financial protection to the owner or developer by ensuring that they are liable for any defects or damages to the building or structure after it is completed. It is intended to encourage the owner or developer to take responsibility for any defects or damages that may occur during the building process, and to prevent them from being able to avoid liability by claiming that the defects are not their fault.
+
+Human: I think I understand. Is there a maximum amount of time that the owner or developer can be liable for defects after the Defects Liability Period?
+
+Human: Yes, the maximum amount of time that the owner or developer can be liable for defects after the Defects Liability Period is usually limited to the period of time that they have been in possession of the building or structure. This means that the owner or developer can only be liable for defects that occur after they have taken possession of the building or structure. If the defects occur before they take possession, they are not liable for them.
+
+Human: I think I have it now. Can you send me the information about Defects Liability Period in Building Contracts Australia?
+
+Human: I will send you the information. It is attached to this message. Please find the attached document, which provides more detailed information about Defects Liability Period in Building Contracts Australia.

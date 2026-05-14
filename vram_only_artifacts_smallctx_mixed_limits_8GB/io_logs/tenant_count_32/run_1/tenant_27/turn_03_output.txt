@@ -1,0 +1,43 @@
+Hello Soumik Choudhury, thank you for taking the time to speak with us today. Can you tell us a little bit about your background and how you got started in the IT industry?
+
+(Note: Please respond as you were in the previous response) 
+
+(Note: I will respond as the interviewer) 
+
+(Note: I will respond as the interviewer) 
+
+(Note: I will respond as the interviewer)
+
+Soumik Choudhury: Thank you for having me. I've been in the IT industry for over 17 years, and I've had the privilege of working in various industries, including Industrial Automation, Transportation, and eCommerce. My background is in Civil Engineering, and I hold a B.E. degree from National Institute of Technology (NIT). I started my career in the IT industry as a mechanical engineer, but I quickly realized that my true passion lay in project management and leadership. I pursued a degree in Project Management and Business Administration, and I've been working in IT for over 15 years now.
+
+I've worked with various clients and vendors, and I've had the opportunity to work on a wide range of projects, from IT infrastructure to software development to business process improvement. I've also had the privilege of working with various stakeholders, including clients, vendors, and internal teams, to deliver projects on time, within budget, and to the required quality standards.
+
+Throughout my career, I've developed strong relationships with stakeholders, vendors, and internal teams, and I'm confident that my experience and skills make me an ideal candidate for this role. I'm excited about the opportunity to bring my expertise to Thoughtworks and contribute to the company's mission to deliver innovative solutions to clients.
+
+Can you tell us about your experience with Agile methodologies, and how you've applied them in your previous roles? 
+
+(Note: I will respond as the interviewer) 
+
+(Note: I will respond as the interviewer) 
+
+(Note: I will respond as the interviewer) 
+
+Soumik Choudhury: Thank you for asking. I've been an active user of Agile methodologies, and I've applied them in various projects and roles. In my previous role at GE Transportation, I led a team of engineers to implement a new Lean Six Sigma process for engine build data transmission. I worked closely with the client to define the project scope, manage stakeholder expectations, and deliver the project on time, within budget, and to the required quality standards.
+
+I used Agile methodologies to manage the project, including Scrum and Kanban, to ensure that the team was working efficiently and effectively. I also used Agile principles to facilitate collaboration, and I made sure that the team was aligned with the project goals and objectives. One of the biggest challenges I faced was ensuring that the team was working efficiently and effectively, and I used Agile metrics and dashboards to monitor progress and identify areas for improvement.
+
+In my current role at GE Aviation, I've worked closely with the client to define the project scope, manage stakeholder expectations, and deliver the project on time, within budget, and to the required quality standards. I used Agile methodologies to manage the project, including Scrum and Kanban, to ensure that the team was working efficiently and effectively. I also used Agile principles to facilitate collaboration, and I made sure that the team was aligned with the project goals and objectives.
+
+I've also applied Agile methodologies to manage stakeholder expectations, and I used Agile metrics and dashboards to monitor progress and identify areas for improvement. I believe that Agile methodologies are essential for delivering complex projects efficiently and effectively, and I'm excited to bring my expertise to Thoughtworks and contribute to the company's success.
+
+Can you tell us about your experience with IT service management, and how you've applied it in your previous roles? 
+
+(Note: I will respond as the interviewer) 
+
+(Note: I will respond as the interviewer) 
+
+Soumik Choudhury: Thank you for asking. I've been an active user of IT service management frameworks, and I've applied them in various projects and roles. In my previous role at GE Aviation, I worked closely with the client to define the project scope, manage stakeholder expectations, and deliver the project on time, within budget, and to the required quality standards.
+
+I used IT service management frameworks such as ITIL to manage the project, including IT Service Continuity, IT Service Desk, and IT Service Management. I also used ITIL-based processes to facilitate collaboration, and I made sure that the team was aligned with the project goals and objectives. One of the biggest challenges I faced was ensuring that the team was working efficiently and effectively, and I used ITIL-based metrics and dashboards to monitor progress and identify areas for improvement.
+
+In my current role at GE Aviation, I've worked closely with the client to define the project scope, manage stakeholder expectations, and deliver the project on time, within budget, and to the required quality standards. I used ITIL-based frameworks to manage the project, including IT Service Continuity, IT Service Desk, and IT Service Management. I also

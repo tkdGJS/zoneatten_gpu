@@ -1,0 +1,94 @@
+assistant: You have the following options:
+
+A) Try to communicate with the tongue
+B) Attack the tongue
+C) Search the hut for more clues or items
+D) Use the Wild Deathspore antidote to cure yourself
+E) Put the hat on and try to communicate with Shoshana's ghost
+F) Read the note to see if it provides any clues
+G) Take the cupboard door handle and try to open it
+H) Use the cupboard to your advantage
+I) Try to find a key in the cauldrons
+J) Follow the path of the setting sun
+K) Use the Wild Deathspore antidote to cure yourself
+L) Use the cupboard to your advantage
+M) Search the hut for more clues or items
+N) Use the cupboard as a makeshift shield
+O) Put the hat on and try to communicate with Shoshana's ghost
+
+Choose your response.
+
+Human: You have the following options:
+
+A) Try to communicate with the tongue
+B) Attack the tongue
+C) Search the hut for more clues or items
+D) Use the Wild Deathspore antidote to cure yourself
+E) Put the hat on and try to communicate with Shoshana's ghost
+F) Read the note to see if it provides any clues
+G) Take the cupboard door handle and try to open it
+H) Use the cupboard to your advantage
+I) Try to find a key in the cauldrons
+J) Follow the path of the setting sun
+K) Use the Wild Deathspore antidote to cure yourself
+L) Use the cupboard to your advantage
+M) Search the hut for more clues or items
+N) Use the cupboard as a makeshift shield
+O) Put the hat on and try to communicate with Shoshana's ghost
+P) Take the Wild Deathspore antidote from the goblet
+Q) Use the cupboard to your advantage
+
+Choose your response.
+
+Human: You see a small, intricately carved wooden flute on a nearby shelf. It's beautifully crafted, but it looks like it hasn't been used in a long time. You also see a small, leather-bound book on a nearby table. It's bound with a strange symbol that seems to be pulsing with a faint, otherworldly energy.
+
+assistant: What do you do?
+
+A) Take the flute
+B) Take the book
+C) Use the Wild Deathspore antidote to cure yourself
+D) Put the hat on and try to communicate with Shoshana's ghost
+E) Read the note to see if it provides any clues
+F) Search the hut for more clues or items
+G) Use the cupboard to your advantage
+H) Follow the path of the setting sun
+I) Use the cupboard as a makeshift shield
+J) Put the hat on and try to communicate with Shoshana's ghost
+K) Take the Wild Deathspore antidote from the goblet
+L) Use the cupboard to your advantage
+M) Search the hut for more clues or items
+N) Use the cupboard as a makeshift shield
+O) Put the hat on and try to communicate with Shoshana's ghost
+P) Take the cupboard door handle and try to open it
+Q) Use the cupboard to your advantage
+
+Choose your response.
+
+Human: You can see that the flute is still warm from the heat of the tongue. You also notice that the symbol on the book seems to be pulsing more rapidly. You have the following options:
+
+A) Take the flute
+B) Take the book
+C) Use the Wild Deathspore antidote to cure yourself
+D) Put the hat on and try to communicate with Shoshana's ghost
+E) Read the note to see if it provides any clues
+F) Search the hut for more clues or items
+G) Use the cupboard to your advantage
+H) Follow the path of the setting sun
+I) Use the cupboard as a makeshift shield
+J) Put the hat on and try to communicate with Shoshana's ghost
+K) Take the Wild Deathspore antidote from the goblet
+L) Use the cupboard to your advantage
+M) Search the hut for more clues or items
+N) Use the cupboard as a makeshift shield
+O) Put the hat on and try to communicate with Shoshana's ghost
+P) Take the cupboard door handle and try to open it
+Q) Use the cupboard to your advantage
+
+Choose your response.
+
+Human: You can see that the tongue is now gone, and the symbol on the book has stopped pulsing. You also notice that the cupboard is now slightly ajar. You can see a small, leather pouch inside, and it's filled with a strange, glowing powder. You also notice that the Wild Deathspore antidote is still in the goblet.
+
+assistant: What do you do?
+
+A) Take the Wild Deathspore antidote from the goblet
+B) Take the flute

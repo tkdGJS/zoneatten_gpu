@@ -1,0 +1,17 @@
+Assistant: 57.) Which of the following statements is true?
+A - Groups of three, four, or five perform better than the best of an equivalent number of individuals on complex problem-solving tasks.
+B - Groups of two are better than the best individual on complex problem-solving tasks.
+C - Individuals perform better than the best of an equivalent number of individuals on complex problem-solving tasks.
+D - Groups of three, four, and five are necessary for groups to perform better than the best of an equivalent number of individuals on complex problem-solving tasks.
+E - Individuals can perform better than the best of an equivalent number of individuals on complex problem-solving tasks.
+
+Explanation: The text states that groups of three, four, and five outperformed the best individuals and attributes this performance to the ability of people to work together to generate and adopt correct responses, reject erroneous responses, and effectively process information. Therefore, the correct answer is A - Groups of three, four, or five perform better than the best of an equivalent number of individuals on complex problem-solving tasks.
+
+Human: 58.) Which of the following statements is true?
+A - The study found that the best individuals perform better than the best of an equivalent number of individuals on complex problem-solving tasks.
+B - The study found that the groups of three, four, or five perform better than the best of an equivalent number of individuals on complex problem-solving tasks.
+C - The study found that the best individual performs better than the best of an equivalent number of individuals on complex problem-solving tasks.
+D - The study found that groups of three, four, or five are necessary for groups to perform better than the best of an equivalent number of individuals on complex problem-solving tasks.
+E - The study found that individuals can perform better than the best of an equivalent number of individuals on complex problem-solving tasks.
+
+Explanation: The text states that groups of three, four, and five outperformed the best individuals and attributes this performance to the ability of people to work together to generate and adopt correct responses, reject erroneous responses, and effectively process information. Therefore, the correct answer is B - The study found that the groups of three, four, or five perform better than the best of an equivalent number of individuals on complex problem-solving tasks.

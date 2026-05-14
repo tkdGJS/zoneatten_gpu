@@ -1,0 +1,62 @@
+<|begin_of_text|>Human: For the following six multiple-choice questions, read the given text and answer the comprehension questions that follow.
+
+Neural networks - strictly artificial neural networks - represent a radically different approach to computing. They are called neural networks because they are loosely modeled on the networks of neurons that make up brains. Neural networks are characterized by their ability to learn, and can be described as trainable pattern recognizers. The study and use of neural networks is sometimes called neurocomputing.
+
+Brains perform remarkable computational feats: recognizing music from just a few seconds of a recording, or faces seen only once before -accomplishments that defeat even the most modern computers. Yet brains stumble with arithmetic and make errors with simple logic. The reason for these anomalies might be found in the differences between brain and computer architecture - their internal structure and operating mechanisms.
+
+Conventional computers possess distinct processing and memory units, controlled by programs, but animal nervous systems and neural networks are instead made up of highly interconnected webs of simple processing units. They have no specific memory locations, information instead being stored as patterns of interconnections between the processing units. Neural networks are not programmed, but are trained by example. They can, therefore, learn things that cannot easily be stated in programs, making them invaluable in a wide range of applications.
+
+Although neurocomputing might seem a recent development, research started at around the same time as the early work on computers. In the 1940s scientists devised simple electrical networks, crudely modeled neural circuits, which could perform simple logical computations.
+
+More sophisticated networks, called perceptrons, followed in the 1950`s- the ancestors of modern neural networks. Perceptrons were just simple networks of amplifiers, but they could learn to recognize patterns. This generated tremendous excitement; however, significant limits to their abilities were soon discovered. Marvin Minsky and Seymour Papert of the Massachusetts Institute of Technology, USA, proved that certain problems could never be solved by perceptrons. When they published their results, research into neural networks effectively ceased for over a decade. At the end of the mid 1970s, however, theoretical breakthroughs made it possible for more complex neural networks to be developed, and by the mid 1980s they had become sufficiently sophisticated for general applications. Neural networks are of interest to computer technologists because they have the potential to offer solutions to a range of problems that have proved difficult to solve using conventional computing approaches. These problems include pattern recognition, machine learning, time-series forecasting, machine vision and robot control. Underpinning all this is their ability to learn.
+
+In a famous example, a neural network was trained to recognize speech- with eerily realistic results. The network, called NET- talk, was developed by T.J. Sejnowski and C.R. Rosenberg at Johns Hopkins University in the USA. It was linked to a computer that could produce synthetic speech, so its progress could be heard. After producing formless noise for a few hours, it started babbling like a baby. Overnight training improved its performance so that it could read text with a 95% accuracy. No conventionally programmed computer could do this.
+
+Assistant: In 1984, the World Wide Web was launched by Tim Berners-Lee, an engineer who was inspired by the work of Minsky and Papert. He realized that the web's ease of use and interconnectivity could be harnessed for a wide range of applications. Neural networks are an essential component of the web, and they play a crucial role in the way that information is organized and shared. Their potential is vast, and their development is ongoing.
+
+Human: 51.) Which approach would be most suitable for a complex, ill-defined problem?
+A - Conventional programming
+B - Neural Networks
+C - Neither
+D - Both
+E - I don't know
+
+Assistant: assistant: C - Neither
+
+Explanation: The text does not mention any specific complex, ill-defined problems that would require the use of either conventional programming or neural networks. In fact, the text states that neural networks have the potential to solve a wide range of problems, including pattern recognition, machine learning, time-series forecasting, machine vision, and robot control. Therefore, the correct answer is C - Neither.
+
+Human: 52.) Which of the following statements is true?
+A - Neural networks are always more useful than conventional programming.
+B - Conventional programming is always sufficient for any application.
+C - Both neural networks and conventional programming, if programmed properly, can be used for any application.
+D - Both neural networks and conventional programming have their strengths and weaknesses, making them suitable for certain applications.
+E - I don't know
+
+Assistant: Assistant: E - I don't know
+
+Explanation: The text states that neural networks have the potential to offer solutions to a range of problems that have proved difficult to solve using conventional computing approaches, but it does not claim that they are always more useful than conventional programming. Instead, it states that neural networks have the potential to be particularly useful in certain situations, but their effectiveness depends on how they are programmed. Therefore, the correct answer is E - I don't know.
+
+Human: 53.) Neural networks are adaptive.
+A - True
+B - False
+C - Not specified in the article
+D - I don't know
+
+Assistant: Explanation: The text states that neural networks are "loosely modeled on the networks of neurons that make up brains" and that they are "characterized by their ability to learn". This suggests that neural networks are capable of adapting to new information or changing circumstances. Therefore, the correct answer is A - True.
+
+Human: 54.) Neurocomputing is a field of study that has arisen only in the past decade.
+A - True
+B - False
+C - Not specified in the article
+D - I don't know
+
+Assistant: Assistant: Explanation: The text states that research started at around the same time as the early work on computers, and that conventional computers possess distinct processing and memory units, controlled by programs, but animal nervous systems and neural networks are made up of highly interconnected webs of simple processing units. This suggests that neurocomputing is a relatively recent development, and therefore the correct answer is B - False.
+
+Human: 55.) In which one of the following applications would neural networks be preferred over conventional programming?
+A - Handwriting recognition technology that can be used in reducing credit card fraud.
+B - Timer and heat level settings in a microwave.
+C - Microprocessor-controlled speed radars used by law enforcement officers.
+D - Computer controlled sensor in car exhaust system that determines the optimal mixture of gas with air for minimal emissions.
+E - Computer controlled car assembly line.
+F - I don't know
+

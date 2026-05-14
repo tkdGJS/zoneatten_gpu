@@ -1,0 +1,264 @@
+<|begin_of_text|>Human: Let's play a puzzle role-playing escape room game! I'll give you the situation, and you have to solve puzzles. You can interact with a number of items in the room, just tell me what you do and then I'll respond with what happens. 
+
+Here's the introduction:
+
+Your eyes feel sore and unwilling to open. Your brain is fuzzy. The last thing you remember, your sword was at your side and you were struggling to get your armour-clad body from one end of the Jade Forest to the other. The Queen's youngest son James had been taken hostage, and she was hiring only the best knights in the realm to negotiate his return, hence your journey. But you never made it to the palace. Instead, as you traversed the trees you were surrounded by a mysterious grey fog, which knocked you unconscious. Now, here you are.
+You finally get your eyes open. You're inside a small hut, lying sprawled on the floor in front of a closed door. There are high wooden rafters on the ceiling above you. A small chest of drawers sits to the left of the door, and in the near right corner is a bed. There's a toad sitting on the pillow. Leaning against the right wall is a broom, and by the left wall are three large, identical brewing cauldrons. Against the centre of the far wall is a cupboard, and hanging from mounts on that wall are three swords. Kind of like yours. And in the far right corner, there's a small barred cell. Kind of like a prison cell.
+And... in the middle of the room, wearing a pointed hat and a greying collection of stitched- together rags, waving her hand over a crystal ball... you know who it is. It's the Jade Witch Shoshana. You thought she was a myth.
+She bares her pointed teeth at you when she sees you're awake. “I do so love it when intruders into my forest trigger my smoke trap. They black out and do anything I say! Including follow me back to my home. Lie flat on the floor until I'm ready for them. Even eat Wild Deathspore mushrooms and let the poison take care of them so I don't have to!”
+Wild Deathspores? No. It can't be. If she's telling the truth, if you unknowingly ate them, you'll be dead in... hours. Maybe less.
+Shoshana grins. “You look a little spooked there, mortal. Would you like an antidote? Of course I have an antidote with me. Human meat tastes terrible with Deathspore coursing through it. Here.”
+She walks over to you and thrusts at your face a goblet of dark liquid. You sit up, noticing in that moment that your sword and armour are gone, and sniff the drink. It smells awful. Watching the witch carefully, you slowly bring the goblet to your lips and pretend to take a sip. The expression of unbridled, maniacal glee on her face tells you all you need to know. As she opens her lips to cackle, you quickly lean forward and throw the contents of the goblet right at her mouth. Right down her throat.
+Instead of cackling, Shoshana screams. It's a scream of death.
+“No!” she shrieks. “No! No one can kill the Jade Witch! I, who have devoured – devoured civilisation's greatest warriors... downed great empires... and destroyed... de-destroyed...”
+She collapses. And then her body dissolves in a puff of grey smoke. All that remains are her hat, her crystal ball, and the now-empty goblet.
+You'll receive a hero's welcome when you arrive at the palace with news of the fabled witch's death, but not if the Deathspores kill you before you can get there. It is true that no one knows poisons and antidotes better than a witch; if an antidote does exist, you're most likely to find it right here.
+
+Assistant: You look at the items in the room, and your eyes fall on the three swords. You know that they are the same type as your own, and you wonder if they might be able to be used to defend yourself.
+
+What do you do?
+
+A) Grab the swords
+B) Search the room for the antidote
+C) Try to find a way to light the fire in the fireplace
+D) Use the broom to sweep the room
+E) Open the cupboard to examine the contents
+F) Approach the bed to take a closer look at the toad
+G) Use the cupboard to try and open the barred cell
+H) Try to communicate with the Jade Witch Shoshana
+I) Drink the Wild Deathspore potion and see what happens
+J) Follow the path outside the hut to see if you can find any other clues
+
+What will you do?
+
+Human: There are just two drawers in this chest. Neither of them opens, but towards the top there is a single hole where a key should fit.
+
+Assistant: You'll receive a hero's welcome when you arrive at the palace with news of the fabled witch's death, but not if the Deathspores kill you before you can get there. It is true that no one knows poisons and antidotes better than a witch; if an antidote does exist, you're most likely to find it right here. You also find the following items in the chest:
+
+* A note with a cryptic message
+* A piece of parchment with a crude map of the surrounding forest
+* A small pouch containing a vial of Wild Deathspore potion
+
+What do you do?
+
+A) Grab the swords
+B) Search the room for the antidote
+C) Try to light the fire in the fireplace
+D) Use the broom to sweep the room
+E) Open the cupboard to examine the contents
+F) Approach the bed to take a closer look at the toad
+G) Use the cupboard to try and open the barred cell
+H) Try to communicate with the Jade Witch Shoshana
+I) Drink the Wild Deathspore potion and see what happens
+J) Follow the path outside the hut to see if you can find any other clues
+
+What will you do?
+
+Human: You find a small, intricately carved wooden box on the bedside table. It has a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+What do you do?
+
+A) Grab the swords
+B) Search the room for the antidote
+C) Try to light the fire in the fireplace
+D) Use the broom to sweep the room
+E) Open the cupboard to examine the contents
+F) Approach the bed to take a closer look at the toad
+G) Use the cupboard to try and open the barred cell
+H) Try to communicate with the Jade Witch Shoshana
+I) Drink the Wild Deathspore potion and see what happens
+J) Follow the path outside the hut to see if you can find any other clues
+K) Look at the note and the map for any hidden clues
+L) Use the wooden box to examine it more closely
+M) Search the room for any other hidden compartments
+
+What will you do?
+
+Human: You find a small, rusty key hidden in the toad's pouch. It's attached to a length of twine. You also find the note with the cryptic message. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The ancient ones are not what they seem."
+
+What do you do?
+
+A) Grab the swords
+B) Search the room for the antidote
+C) Try to light the fire in the fireplace
+D) Use the broom to sweep the room
+E) Open the cupboard to examine the contents
+F) Approach the bed to take a closer look at the toad
+G) Use the cupboard to try and open the barred cell
+H) Try to communicate with the Jade Witch Shoshana
+I) Drink the Wild Deathspore potion and see what happens
+J) Follow the path outside the hut to see if you can find any other clues
+K) Look at the note and the map for any hidden clues
+L) Use the wooden box to examine it more closely
+M) Search the room for any other hidden compartments
+
+What will you do?
+
+Human: The note and the map seem to be pointing to a specific location in the forest. You also find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+What do you do?
+
+A) Grab the swords
+B) Search the room for the antidote
+C) Try to light the fire in the fireplace
+D) Use the broom to sweep the room
+E) Open the cupboard to examine the contents
+F) Approach the bed to take a closer look at the toad
+G) Use the cupboard to try and open the barred cell
+H) Try to communicate with the Jade Witch Shoshana
+I) Drink the Wild Deathspore potion and see what happens
+J) Follow the path outside the hut to see if you can find any other clues
+K) Look at the note and the map for any hidden clues
+L) Use the wooden box to examine it more closely
+M) Search the room for any other hidden compartments
+
+What will you do?
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to
+
+Human: The bed looks better kept than anything else in this hut. Shoshana must have really valued her sleep. There are several layers of blankets on a soft, feathered mattress. Then, of course, there's the toad sitting on the pillow.
+
+The black and brown toad is sitting on the pillow, staring at you. It doesn't look poisonous or venomous, just gross. It's got a visible coating of slime that it's secreting, and it's doing deep, quick croaks. “R-r-r-ribbit. R-r-r-ribbit.” Huh. Seems like it has a stutter.
+
+Assistant: What do you do?
+
+A) Grab the swords
+B) Search the room for the antidote
+C) Try to light the fire in the fireplace
+D) Use the broom to sweep the room
+E) Open the cupboard to examine the contents
+F) Approach the bed to take a closer look at the toad
+G) Use the cupboard to try and open the barred cell
+H) Try to communicate with the Jade Witch Shoshana
+I) Drink the Wild Deathspore potion and see what happens
+J) Follow the path outside the hut to see if you can find any other clues
+K) Look at the note and the map for any hidden clues
+L) Use the wooden box to examine it more closely
+M) Search the room for any other hidden compartments
+
+What will you do?
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+The note and the map seem to be pointing to a specific location in the forest. You also find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+What do you do?
+
+A) Grab the swords
+B) Search the room for the antidote
+C) Try to light the fire in the fireplace
+D) Use the broom to sweep the room
+E) Open the cupboard to examine the contents
+F) Approach the bed to take a closer look at the toad
+G) Use the cupboard to try and open the barred cell
+H) Try to communicate with the Jade Witch Shoshana
+I) Drink the Wild Deathspore potion and see what happens
+J) Follow the path outside the hut to see if you can find any other clues
+K) Look at the note and the map for any hidden clues
+L) Use the wooden box to examine it more closely
+M) Search the room for any other hidden compartments
+
+What will you do?
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+What do you do?
+
+A) Grab the swords
+B) Search the room for the antidote
+C) Try to light the fire in the fireplace
+D) Use the broom to sweep the room
+E) Open the cupboard to examine the contents
+F) Approach the bed to take a closer look at the toad
+G) Use the cupboard to try and open the barred cell
+H) Try to communicate with the Jade Witch Shoshana
+I) Drink the Wild Deathspore potion and see what happens
+J) Follow the path outside the hut to see if you can find any other clues
+K) Look at the note and the map for any hidden clues
+L) Use the wooden box to examine it more closely
+M) Search the room for any other hidden compartments
+
+What will you do?
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: Well, it's covered in slime. And it says to you again "r-r-ribbit", with that jerky motion.
+
+Assistant: assistant: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intric
+
+Human: Nope, nothing under the toad.
+
+Assistant: assistant: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: You find a small, intricately carved wooden box with a small keyhole on one side. The keyhole is locked. You also find a small, rolled-up piece of parchment with a cryptic message that reads: "The key to escape lies in the heart of the forest. Seek the ancient ones."
+
+Human: The three cauldrons are evenly spaced in a line. They look too heavy to move. They're a little bit corroded from overuse, but they still look like they could handle a witch's brew. However, at the moment, they're all empty.
+

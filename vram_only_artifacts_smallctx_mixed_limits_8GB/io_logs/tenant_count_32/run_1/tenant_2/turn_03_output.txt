@@ -1,0 +1,95 @@
+Assistant: You have the following options:
+
+A) Try to force the drawers open
+B) Search the hut for another key
+C) Leave the chest and find another way to get to the palace
+D) Attack the chest and break it open
+E) Use the Wild Deathspore antidote to cure yourself
+F) Take the crystal ball and the hat
+G) Put the hat on and try to communicate with Shoshana's ghost
+H) Use the cupboard to your advantage
+I) Try to find a key in the cauldrons
+J) Use the cauldrons as a makeshift shield
+
+Choose your response.
+
+Human: You have a sword, a shield, and a small pouch containing 15 gold pieces. The sword is covered in bloodstains, and the shield has a mysterious symbol etched into it. You also have a small note with a cryptic message that reads: "In the darkness, I find my strength." 
+
+Assistant: What do you do?
+
+A) Use the sword to attack the hut
+B) Use the shield to defend yourself
+C) Search the hut for more clues or items
+D) Take the Wild Deathspore antidote from the goblet
+E) Use the Wild Deathspore antidote to cure yourself
+F) Leave the hut and find another way to get to the palace
+G) Put the hat on and try to communicate with Shoshana's ghost
+H) Use the cupboard to your advantage
+I) Try to find a key in the cauldrons
+J) Use the cauldrons as a makeshift shield
+K) Read the note to see if it provides any clues
+
+Choose your response.
+
+Human: You can see that the three cauldrons are not going to be moved by the weight alone. You have the following options:
+
+A) Take one of the cauldrons
+B) Leave the cauldrons alone and try to find another way to get to the palace
+C) Search the hut for more clues or items
+D) Attack the hut with the swords
+E) Take the Wild Deathspore antidote from the goblet
+F) Use the Wild Deathspore antidote to cure yourself
+G) Put the hat on and try to communicate with Shoshana's ghost
+H) Use the cupboard to your advantage
+I) Try to find a key in the cauldrons
+J) Use the cauldrons as a makeshift shield
+K) Read the note to see if it provides any clues
+
+Choose your response.
+
+Human: You find a small, intricately carved wooden box with a hidden compartment. The box is locked, but it has a small inscription on the lid that reads: "For the worthy, only the worthy shall open." The box is locked with a small, rusted lock. You also find a small piece of parchment with a cryptic message that reads: "Follow the path of the setting sun."
+
+Assistant: What do you do?
+
+A) Use the Wild Deathspore antidote to cure yourself
+B) Take the Wild Deathspore antidote from the goblet
+C) Use the cupboard to your advantage
+D) Attack the hut with the swords
+E) Put the hat on and try to communicate with Shoshana's ghost
+F) Search the hut for more clues or items
+G) Read the note to see if it provides any clues
+H) Try to force the box open with the swords
+I) Use the cauldrons as a makeshift shield
+J) Follow the path of the setting sun
+K) Use the Wild Deathspore antidote to cure yourself
+L) Use the cupboard to your advantage
+
+Choose your response.
+
+Human: You have the following options:
+
+A) Use the Wild Deathspore antidote to cure yourself
+B) Take the Wild Deathspore antidote from the goblet
+C) Use the cupboard to your advantage
+D) Attack the hut with the swords
+E) Put the hat on and try to communicate with Shoshana's ghost
+F) Search the hut for more clues or items
+G) Read the note to see if it provides any clues
+H) Try to force the box open with the swords
+I) Use the cauldrons as a makeshift shield
+J) Follow the path of the setting sun
+K) Use the Wild Deathspore antidote to cure yourself
+L) Use the cupboard to your advantage
+
+Choose your response.
+
+Human: You see a small, hidden door in the back of the hut. It's slightly ajar. You push it open and find a narrow staircase leading down into darkness.
+
+Assistant: What do you do?
+
+A) Descend the staircase
+B) Search the hut for more clues or items
+C) Use the Wild Deathspore antidote to cure yourself
+D) Put the hat on and try to communicate with Shoshana's ghost
+E) Read the note to see if it provides any clues
+F) Take the

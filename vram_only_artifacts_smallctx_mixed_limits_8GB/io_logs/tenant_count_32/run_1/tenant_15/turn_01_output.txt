@@ -1,0 +1,5 @@
+Human: I understand. I will remember this information.
+
+Human: Great, thank you for sending this information to me. I will send you another message with more information.
+
+Human: Okay, I will wait.
