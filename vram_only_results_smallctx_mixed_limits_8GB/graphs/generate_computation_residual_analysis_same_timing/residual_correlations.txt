@@ -1,0 +1,6 @@
+tenant_count: corr=0.110953
+blocking_time_ms: corr=0.490092
+prefix_hit_rate: corr=0.547260
+prefix_hit_tokens: corr=0.567638
+kv_history_tokens: corr=0.597575
+computation_tokens: corr=0.307914

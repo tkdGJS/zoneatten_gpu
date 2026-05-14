@@ -1,0 +1,11 @@
+axis_key,axis_label,pearson_prefill,spearman_prefill
+batch_total_resident_kv_mib,Batch total resident KV (MiB),0.550658,0.762269
+batch_pressure_ratio,Batch resident KV / KV capacity,0.550658,0.762269
+joint_compute_x_pressure,Computation tokens x batch pressure ratio,0.600179,0.745479
+context_plus_compute,KV history tokens + computation tokens,0.615121,0.715045
+resident_kv_mib,Resident KV per tenant (MiB),0.551325,0.714423
+estimated_prefill_rounds_ratio,Batch total compute / 8192,0.507692,0.701477
+batch_total_computation_tokens,Batch total computation tokens,0.507692,0.701477
+joint_compute_x_rounds,Computation tokens x estimated prefill rounds,0.593614,0.672515
+computation_tokens,Computation tokens,0.580529,0.595633
+compute_over_hit_ratio,Computation / prefix-hit ratio,0.117569,0.092612
