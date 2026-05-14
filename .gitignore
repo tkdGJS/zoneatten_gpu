@@ -3,7 +3,7 @@ data/
 dataset/
 datasets/
 *.json
-*.jsonl
+
 !vendor/vllm/**/*.json
 vendor/vllm/
 
