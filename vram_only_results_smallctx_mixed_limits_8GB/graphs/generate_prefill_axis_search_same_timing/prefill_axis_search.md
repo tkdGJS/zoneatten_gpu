@@ -9,12 +9,12 @@
 
 ## Ranking By Spearman Correlation
 
-- `Batch total resident KV (MiB)`: Pearson `0.818`, Spearman `0.833`
-- `Batch resident KV / KV capacity`: Pearson `0.818`, Spearman `0.833`
-- `Computation tokens x batch pressure ratio`: Pearson `0.490`, Spearman `0.819`
-- `Batch total computation tokens`: Pearson `0.608`, Spearman `0.814`
-- `Batch total compute / 8192`: Pearson `0.608`, Spearman `0.814`
-- `KV history tokens + computation tokens`: Pearson `0.762`, Spearman `0.805`
+- `Computation tokens`: Pearson `0.000`, Spearman `0.000`
+- `Resident KV per tenant (MiB)`: Pearson `0.000`, Spearman `0.000`
+- `Batch total computation tokens`: Pearson `0.000`, Spearman `0.000`
+- `Batch total resident KV (MiB)`: Pearson `0.000`, Spearman `0.000`
+- `Batch resident KV / KV capacity`: Pearson `0.000`, Spearman `0.000`
+- `Batch total compute / 8192`: Pearson `0.000`, Spearman `0.000`
 
 ## Interpretation
 
@@ -24,8 +24,8 @@
 
 ## Group Split
 
-- Group1, `Batch total computation tokens`: Pearson `0.579`, Spearman `0.839`
-- Group1, `Batch total resident KV (MiB)`: Pearson `0.842`, Spearman `0.862`
-- Group2, `Batch total computation tokens`: Pearson `0.637`, Spearman `0.785`
-- Group2, `Batch total resident KV (MiB)`: Pearson `0.795`, Spearman `0.802`
+- Group1, `Batch total computation tokens`: Pearson `0.000`, Spearman `0.000`
+- Group1, `Batch total resident KV (MiB)`: Pearson `0.000`, Spearman `0.000`
+- Group2, `Batch total computation tokens`: Pearson `0.000`, Spearman `0.000`
+- Group2, `Batch total resident KV (MiB)`: Pearson `0.000`, Spearman `0.000`
 

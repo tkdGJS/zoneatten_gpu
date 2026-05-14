@@ -1,6 +1,6 @@
 axis_key,axis_label,pearson_prefill,spearman_prefill
-batch_total_computation_tokens,Batch total computation tokens,0.657757,0.644086
-batch_estimated_prefill_rounds_ratio,Batch total compute / 8192,0.657757,0.644086
-computation_tokens,Computation tokens,0.500230,0.551216
 time_from_batch_first_token_ms,Delay from first request in batch (ms),0.000000,0.000000
+computation_tokens,Computation tokens,0.000000,0.000000
+batch_total_computation_tokens,Batch total computation tokens,0.000000,0.000000
 batch_first_token_spread_ms,Batch first-token spread (ms),0.000000,0.000000
+batch_estimated_prefill_rounds_ratio,Batch total compute / 8192,0.000000,0.000000

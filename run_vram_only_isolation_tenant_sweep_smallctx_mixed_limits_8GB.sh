@@ -29,8 +29,10 @@ INTER_TURN_SLEEP_SEC="30"
 REQUEST_TIMEOUT_SEC="900"
 MAX_PROMPT_TOKENS="${MAX_PROMPT_TOKENS:-24576}"
 MAX_TOKENS="${MAX_TOKENS:-1024}"
+SHORT_MAX_TOKENS="${SHORT_MAX_TOKENS:-512}"
+LONG_MAX_TOKENS="${LONG_MAX_TOKENS:-2048}"
 MAX_NUM_SEQS="${MAX_NUM_SEQS:-32}"
-TARGET_OUTPUT_BUDGET_TOKENS="${MAX_TOKENS}"
+TARGET_OUTPUT_BUDGET_TOKENS="${TARGET_OUTPUT_BUDGET_TOKENS:-${MAX_TOKENS}}"
 SAFETY_MARGIN_TOKENS="${SAFETY_MARGIN_TOKENS:-64}"
 SHORT_LIMIT_TOKENS="${SHORT_LIMIT_TOKENS:-12288}"
 LONG_LIMIT_TOKENS="${LONG_LIMIT_TOKENS:-24576}"
@@ -38,6 +40,8 @@ SHORT_TARGET_FINAL_PROMPT_TOKENS="${SHORT_TARGET_FINAL_PROMPT_TOKENS:-11200}"
 SHORT_FINAL_PROMPT_TOLERANCE_TOKENS="${SHORT_FINAL_PROMPT_TOLERANCE_TOKENS:-1000}"
 LONG_TARGET_FINAL_PROMPT_TOKENS="${LONG_TARGET_FINAL_PROMPT_TOKENS:-18000}"
 LONG_FINAL_PROMPT_TOLERANCE_TOKENS="${LONG_FINAL_PROMPT_TOLERANCE_TOKENS:-1000}"
+VLLM_MAX_MODEL_LEN="${VLLM_MAX_MODEL_LEN:-$((LONG_LIMIT_TOKENS + LONG_MAX_TOKENS))}"
+VLLM_MAX_NUM_BATCHED_TOKENS="${VLLM_MAX_NUM_BATCHED_TOKENS:-16384}"
 PORT="8000"
 
 source "${VENV_DIR}/bin/activate"
@@ -79,6 +83,8 @@ snapshot_path.write_text(
             "request_timeout_sec=${REQUEST_TIMEOUT_SEC}",
             "max_prompt_tokens=${MAX_PROMPT_TOKENS}",
             "max_tokens=${MAX_TOKENS}",
+            "short_max_tokens=${SHORT_MAX_TOKENS}",
+            "long_max_tokens=${LONG_MAX_TOKENS}",
             "max_num_seqs=${MAX_NUM_SEQS}",
             "target_output_budget_tokens=${TARGET_OUTPUT_BUDGET_TOKENS}",
             "safety_margin_tokens=${SAFETY_MARGIN_TOKENS}",
@@ -88,6 +94,8 @@ snapshot_path.write_text(
             "short_final_prompt_tolerance_tokens=${SHORT_FINAL_PROMPT_TOLERANCE_TOKENS}",
             "long_target_final_prompt_tokens=${LONG_TARGET_FINAL_PROMPT_TOKENS}",
             "long_final_prompt_tolerance_tokens=${LONG_FINAL_PROMPT_TOLERANCE_TOKENS}",
+            "vllm_max_model_len=${VLLM_MAX_MODEL_LEN}",
+            "vllm_max_num_batched_tokens=${VLLM_MAX_NUM_BATCHED_TOKENS}",
             "port=${PORT}",
             "vllm_executable=${VLLM_EXECUTABLE}",
             "vendor_dir=${VENDOR_DIR}",
@@ -269,8 +277,8 @@ for tenant_count in "${TENANT_VALUES[@]}"; do
         VLLM_NUM_GPU_BLOCKS_OVERRIDE="${BLOCK_VALUE}" \
         VLLM_MAX_NUM_SEQS="${MAX_NUM_SEQS}" \
         VLLM_DISABLE_PREFIX_CACHING=0 \
-        VLLM_MAX_MODEL_LEN=24576 \
-        VLLM_MAX_NUM_BATCHED_TOKENS=16384 \
+        VLLM_MAX_MODEL_LEN="${VLLM_MAX_MODEL_LEN}" \
+        VLLM_MAX_NUM_BATCHED_TOKENS="${VLLM_MAX_NUM_BATCHED_TOKENS}" \
         VLLM_EXTRA_ARGS="--attention-backend TRITON_ATTN" \
         "${ROOT_DIR}/start_vllm.sh" --port "${PORT}"
     ) >>"${run_log}" 2>&1 &
@@ -295,6 +303,10 @@ for tenant_count in "${TENANT_VALUES[@]}"; do
       --min-session-user-turns "${MIN_SESSION_USER_TURNS}" \
       --max-prompt-tokens "${MAX_PROMPT_TOKENS}" \
       --max-tokens "${MAX_TOKENS}" \
+      --short-limit-tokens "${SHORT_LIMIT_TOKENS}" \
+      --long-limit-tokens "${LONG_LIMIT_TOKENS}" \
+      --short-max-tokens "${SHORT_MAX_TOKENS}" \
+      --long-max-tokens "${LONG_MAX_TOKENS}" \
       --pre-request-sleep-sec "${PRE_REQUEST_SLEEP_SEC}" \
       --inter-turn-sleep-sec "${INTER_TURN_SLEEP_SEC}" \
       --request-timeout-sec "${REQUEST_TIMEOUT_SEC}"; then

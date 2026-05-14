@@ -188,6 +188,8 @@ def select_candidates_near_target(
     target_final_prompt_tokens: int,
     final_prompt_tolerance_tokens: int,
     count: int,
+    label: str,
+    allow_target_fallback: bool,
     excluded_source_indices: set[int] | None = None,
 ) -> List[Dict[str, object]]:
     excluded_source_indices = excluded_source_indices or set()
@@ -200,6 +202,28 @@ def select_candidates_near_target(
         if abs(item["estimated_final_prompt_tokens"] - target_final_prompt_tokens)
         <= final_prompt_tolerance_tokens
     ]
+    print(
+        f"[select:{label}] available={len(available)} "
+        f"within_target_tolerance={len(in_range)} need={count} "
+        f"target={target_final_prompt_tokens} tolerance={final_prompt_tolerance_tokens}"
+    )
+    if len(in_range) < count and not allow_target_fallback:
+        closest = sorted(
+            available,
+            key=lambda item: abs(
+                int(item["estimated_final_prompt_tokens"]) - target_final_prompt_tokens
+            ),
+        )[: min(10, len(available))]
+        closest_text = ", ".join(
+            str(item["estimated_final_prompt_tokens"]) for item in closest
+        )
+        raise RuntimeError(
+            f"Not enough {label} candidates near target final prompt: "
+            f"need {count}, got {len(in_range)} within ±{final_prompt_tolerance_tokens}. "
+            f"Closest final_prompt_tokens=[{closest_text}]. "
+            "Lower the target, increase tolerance, or pass --allow-target-fallback "
+            "to select the closest candidates anyway."
+        )
     ranked_pool = in_range if len(in_range) >= count else available
     ranked = sorted(
         ranked_pool,
@@ -222,6 +246,7 @@ def build_dataset_entries(
     short_final_prompt_tolerance_tokens: int,
     long_target_final_prompt_tokens: int,
     long_final_prompt_tolerance_tokens: int,
+    allow_target_fallback: bool,
 ) -> List[Dict[str, object]]:
     half = tenant_count // 2
     selected_long = select_candidates_near_target(
@@ -229,6 +254,8 @@ def build_dataset_entries(
         long_target_final_prompt_tokens,
         long_final_prompt_tolerance_tokens,
         half,
+        f"long:{long_limit_tokens}",
+        allow_target_fallback,
     )
     used_source_indices = {item["source_index"] for item in selected_long}
     selected_short = select_candidates_near_target(
@@ -236,6 +263,8 @@ def build_dataset_entries(
         short_target_final_prompt_tokens,
         short_final_prompt_tolerance_tokens,
         half,
+        f"short:{short_limit_tokens}",
+        allow_target_fallback,
         used_source_indices,
     )
 
@@ -296,6 +325,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--short-final-prompt-tolerance-tokens", type=int, default=400)
     parser.add_argument("--long-target-final-prompt-tokens", type=int, default=7600)
     parser.add_argument("--long-final-prompt-tolerance-tokens", type=int, default=400)
+    parser.add_argument(
+        "--allow-target-fallback",
+        action="store_true",
+        help="Select closest candidates when too few sessions fall within the target tolerance.",
+    )
     parser.add_argument("--progress-every", type=int, default=100)
     return parser.parse_args()
 
@@ -320,6 +354,26 @@ def main() -> int:
         f"[filler] target_output_budget_tokens={args.target_output_budget_tokens} "
         f"validated_tokens={len(tokenize_text(tokenizer, assistant_filler))}"
     )
+    final_assistant_turn_tokens = len(tokenize_text(tokenizer, render_assistant_turn(assistant_filler)))
+    for label, limit_tokens, target_tokens in [
+        ("short", args.short_limit_tokens, args.short_target_final_prompt_tokens),
+        ("long", args.long_limit_tokens, args.long_target_final_prompt_tokens),
+    ]:
+        approximate_max_final_prompt = (
+            limit_tokens - final_assistant_turn_tokens - args.safety_margin_tokens
+        )
+        print(
+            f"[feasible:{label}] approximate_max_final_prompt_tokens="
+            f"{approximate_max_final_prompt} target={target_tokens} "
+            f"limit={limit_tokens} final_assistant_turn_tokens={final_assistant_turn_tokens} "
+            f"safety_margin={args.safety_margin_tokens}"
+        )
+        if target_tokens > approximate_max_final_prompt:
+            print(
+                f"[WARN:{label}] target_final_prompt_tokens={target_tokens} is above "
+                f"the approximate feasible maximum {approximate_max_final_prompt}. "
+                "The generator will likely fail unless tolerance includes lower candidates."
+            )
 
     short_candidates = collect_candidates(
         sessions,
@@ -354,6 +408,7 @@ def main() -> int:
         args.short_final_prompt_tolerance_tokens,
         args.long_target_final_prompt_tokens,
         args.long_final_prompt_tolerance_tokens,
+        args.allow_target_fallback,
     )
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with output_path.open("w", encoding="utf-8") as f:

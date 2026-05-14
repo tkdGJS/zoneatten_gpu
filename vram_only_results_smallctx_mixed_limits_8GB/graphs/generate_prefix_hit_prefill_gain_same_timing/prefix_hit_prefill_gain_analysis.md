@@ -13,7 +13,7 @@
 
 ## Fitted Baseline
 
-- A batch-level linear fit was estimated from `batch_total_computation_tokens -> batch_mean_prefill_ms`: `prefill ≈ 1.577293 * compute + -3288.094`
+- A batch-level linear fit was estimated from `batch_total_computation_tokens -> batch_mean_prefill_ms`: `prefill ≈ 0.000000 * compute + 0.000`
 - This fit is then used to estimate a no-hit counterfactual by replacing `compute` with `input`.
 
 ## Estimated Gain Definition
@@ -24,9 +24,9 @@
 
 ## Key Readout
 
-- `batch_prefix_hit_rate` vs `prefill time average / input token`: r = 0.471
-- `batch_prefix_hit_rate` vs `estimated_prefix_hit_gain_ms`: r = 0.772
-- `batch_total_prefix_hit_tokens` vs `estimated_prefix_hit_gain_ms`: r = 0.991
+- `batch_prefix_hit_rate` vs `prefill time average / input token`: r = 0.000
+- `batch_prefix_hit_rate` vs `estimated_prefix_hit_gain_ms`: r = 0.000
+- `batch_total_prefix_hit_tokens` vs `estimated_prefix_hit_gain_ms`: r = 0.000
 
 ## Interpretation
 

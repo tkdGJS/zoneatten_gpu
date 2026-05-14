@@ -5,7 +5,7 @@
 - Data: `block_2048_limit_same_timing1`, `block_2048_limit_same_timing2`, `block_2048_limit_same_timing3`
 - Slice: `tenant_count=32` only
 - Filter: `blocking_time_ms < 100.0`
-- Samples after filtering: `723`
+- Samples after filtering: `0`
 
 ## Why This Filter
 
@@ -14,10 +14,10 @@
 
 ## Axis Ranking
 
-- `Batch total compute / 8192`: Pearson `0.658`, Spearman `0.644`
-- `Batch total computation tokens`: Pearson `0.658`, Spearman `0.644`
-- `Computation tokens`: Pearson `0.500`, Spearman `0.551`
 - `Delay from first request in batch (ms)`: Pearson `0.000`, Spearman `0.000`
+- `Computation tokens`: Pearson `0.000`, Spearman `0.000`
+- `Batch total compute / 8192`: Pearson `0.000`, Spearman `0.000`
+- `Batch total computation tokens`: Pearson `0.000`, Spearman `0.000`
 - `Batch first-token spread (ms)`: Pearson `0.000`, Spearman `0.000`
 
 ## Interpretation

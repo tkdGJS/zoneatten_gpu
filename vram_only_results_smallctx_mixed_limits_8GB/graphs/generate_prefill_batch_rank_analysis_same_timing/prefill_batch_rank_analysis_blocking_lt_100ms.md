@@ -4,8 +4,8 @@
 
 - Data: `block_2048_limit_same_timing1`, `block_2048_limit_same_timing2`, `block_2048_limit_same_timing3`
 - Slice: `tenant_count=32`, `blocking_time_ms < 100`
-- Request samples: `723`
-- Filtered batches: `30`
+- Request samples: `0`
+- Filtered batches: `0`
 
 ## Rank Interpretation
 
@@ -14,15 +14,15 @@
 
 ## Key Correlations
 
-- `rank_in_batch` vs `prefill_ms`: Pearson `-0.061`, Spearman `-0.063`
-- `rank_frac` vs `prefill_ms`: Pearson `0.073`, Spearman `0.072`
+- `rank_in_batch` vs `prefill_ms`: Pearson `0.000`, Spearman `0.000`
+- `rank_frac` vs `prefill_ms`: Pearson `0.000`, Spearman `0.000`
 
 ## Fastest vs Slowest Mean Comparison
 
-- Prefill: fastest `13132.4 ms`, slowest `15524.5 ms`
-- Computation tokens: fastest `916.1`, slowest `1070.1`
-- KV history tokens: fastest `3642.5`, slowest `3845.2`
-- Group1 ratio: fastest `0.41`, slowest `0.51`
+- Prefill: fastest `0.0 ms`, slowest `0.0 ms`
+- Computation tokens: fastest `0.0`, slowest `0.0`
+- KV history tokens: fastest `0.0`, slowest `0.0`
+- Group1 ratio: fastest `0.00`, slowest `0.00`
 
 ## Interpretation
 

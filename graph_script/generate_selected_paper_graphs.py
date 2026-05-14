@@ -12,7 +12,7 @@ EXPERIMENTS = [
     ("block_2048_limit_same_timing2", "exp2"),
     ("block_2048_limit_same_timing3", "exp3"),
 ]
-TENANT_COUNTS = ["8", "16", "32"]
+TENANT_COUNTS = []
 TURN_COLORS = {
     1: "#440154",
     2: "#482777",
@@ -29,6 +29,8 @@ GROUP_COLORS = {
     "8192": "#2563eb",
     "2048": "#f97316",
 }
+GROUP1_COLOR = "#2563eb"
+GROUP2_COLOR = "#f97316"
 BLOCKING_COLOR = "#2563eb"
 PREFILL_COLOR = "#84cc16"
 REMAINING_COLOR = "#dc2626"
@@ -76,6 +78,35 @@ def padded_limits(values):
         return (vmin - pad, vmax + pad)
     pad = (vmax - vmin) * 0.05
     return (vmin - pad, vmax + pad)
+
+
+def actual_tenant_counts(rows):
+    return [str(value) for value in sorted({int(row["tenant_count"]) for row in rows})]
+
+
+def actual_group_limits(rows):
+    limits = [str(value) for value in sorted({int(row["history_limit_tokens"]) for row in rows})]
+    if len(limits) >= 2:
+        return limits[-1], limits[0]
+    if len(limits) == 1:
+        return limits[0], limits[0]
+    return "", ""
+
+
+def group_label_for_limit(history_limit_tokens, group1_limit, group2_limit):
+    if history_limit_tokens == group1_limit:
+        return "Group1"
+    if history_limit_tokens == group2_limit:
+        return "Group2"
+    return f"limit={history_limit_tokens}"
+
+
+def group_color_for_limit(history_limit_tokens, group1_limit, group2_limit):
+    if history_limit_tokens == group1_limit:
+        return GROUP1_COLOR
+    if history_limit_tokens == group2_limit:
+        return GROUP2_COLOR
+    return GROUP_COLORS.get(history_limit_tokens, "#6b7280")
 
 
 def load_request_metrics(exp_dir):
@@ -185,14 +216,26 @@ def load_prefill_batches(blocking_mode, tenant_count="32"):
 
 
 def plot_ttft_vs_prefix_hit_rate(plt, rows, out_path):
-    fig, axes = plt.subplots(1, 3, figsize=(18, 6.2), sharex=True, sharey=True)
+    tenant_counts = actual_tenant_counts(rows)
+    fig, axes = plt.subplots(
+        1,
+        max(1, len(tenant_counts)),
+        figsize=(6 * max(1, len(tenant_counts)), 6.2),
+        sharex=True,
+        sharey=True,
+    )
+    if not isinstance(axes, (list, tuple)):
+        try:
+            axes = list(axes)
+        except TypeError:
+            axes = [axes]
     fig.subplots_adjust(left=0.07, right=0.98, bottom=0.22, top=0.97, wspace=0.16)
     xlim = padded_limits([r["prefix_hit_rate"] for r in rows])
     ylim = padded_limits([r["ttft_ms"] / 1000.0 for r in rows])
     handles = []
     labels = []
 
-    for idx, (ax, tenant_count) in enumerate(zip(axes, TENANT_COUNTS)):
+    for idx, (ax, tenant_count) in enumerate(zip(axes, tenant_counts)):
         subset = [r for r in rows if r["tenant_count"] == tenant_count]
         for turn in range(1, 11):
             turn_rows = [r for r in subset if r["turn_index"] == turn]
@@ -231,12 +274,27 @@ def plot_ttft_vs_prefix_hit_rate(plt, rows, out_path):
 
 
 def plot_p99_breakdown_by_turn(plt, points, out_path, fig_height=6.2):
-    fig, axes = plt.subplots(1, 2, figsize=(18, fig_height), sharey=True)
-    fig.subplots_adjust(left=0.08, right=0.98, bottom=0.21, top=0.97, wspace=0.16)
+    group1_limit, group2_limit = actual_group_limits(points)
     groups = [
-        ("Group1", [p for p in points if p["history_limit_tokens"] == "8192"]),
-        ("Group2", [p for p in points if p["history_limit_tokens"] == "2048"]),
+        (
+            f"Group1 (limit={group1_limit})",
+            [p for p in points if p["history_limit_tokens"] == group1_limit],
+        ),
     ]
+    if group2_limit != group1_limit:
+        groups.append(
+            (
+                f"Group2 (limit={group2_limit})",
+                [p for p in points if p["history_limit_tokens"] == group2_limit],
+            )
+        )
+    fig, axes = plt.subplots(1, len(groups), figsize=(9 * len(groups), fig_height), sharey=True)
+    if not isinstance(axes, (list, tuple)):
+        try:
+            axes = list(axes)
+        except TypeError:
+            axes = [axes]
+    fig.subplots_adjust(left=0.08, right=0.98, bottom=0.21, top=0.97, wspace=0.16)
     ymax = 0.0
     stacked_data = []
     for _, group_points in groups:
@@ -294,28 +352,46 @@ def plot_blocking_and_prefill(plt, rows, rows_lt, rows_gt, out_path):
     fig.subplots_adjust(left=0.07, right=0.98, bottom=0.22, top=0.97, wspace=0.22)
 
     ax0 = axes[0]
+    group1_limit, group2_limit = actual_group_limits(rows)
     x0 = [r["blocking_time_ms"] / 1000.0 for r in rows]
     y0 = [r["ttft_ms"] / 1000.0 for r in rows]
     x0lim = padded_limits(x0)
     y0lim = padded_limits(y0)
     ax0.scatter(
-        [r["blocking_time_ms"] / 1000.0 for r in rows if r["history_limit_tokens"] == "8192"],
-        [r["ttft_ms"] / 1000.0 for r in rows if r["history_limit_tokens"] == "8192"],
+        [
+            r["blocking_time_ms"] / 1000.0
+            for r in rows
+            if r["history_limit_tokens"] == group1_limit
+        ],
+        [
+            r["ttft_ms"] / 1000.0
+            for r in rows
+            if r["history_limit_tokens"] == group1_limit
+        ],
         s=26,
         alpha=0.42,
-        color=GROUP_COLORS["8192"],
+        color=group_color_for_limit(group1_limit, group1_limit, group2_limit),
         edgecolors="none",
-        label="Group1",
+        label=f"Group1 (limit={group1_limit})",
     )
-    ax0.scatter(
-        [r["blocking_time_ms"] / 1000.0 for r in rows if r["history_limit_tokens"] == "2048"],
-        [r["ttft_ms"] / 1000.0 for r in rows if r["history_limit_tokens"] == "2048"],
-        s=26,
-        alpha=0.42,
-        color=GROUP_COLORS["2048"],
-        edgecolors="none",
-        label="Group2",
-    )
+    if group2_limit != group1_limit:
+        ax0.scatter(
+            [
+                r["blocking_time_ms"] / 1000.0
+                for r in rows
+                if r["history_limit_tokens"] == group2_limit
+            ],
+            [
+                r["ttft_ms"] / 1000.0
+                for r in rows
+                if r["history_limit_tokens"] == group2_limit
+            ],
+            s=26,
+            alpha=0.42,
+            color=group_color_for_limit(group2_limit, group1_limit, group2_limit),
+            edgecolors="none",
+            label=f"Group2 (limit={group2_limit})",
+        )
     ax0.set_xlim(*x0lim)
     ax0.set_ylim(*y0lim)
     ax0.set_xlabel("Blocking Time (sec)")

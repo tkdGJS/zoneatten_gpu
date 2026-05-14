@@ -14,10 +14,10 @@
 
 ## Key Findings
 
-- In turns 5/6/7, correlation between computation tokens and prefill is `0.212`.
-- In the same turns, correlation between resident KV per tenant and prefill is `0.356`.
-- After subtracting the baseline `prefill = computation_tokens / 6`, correlation between resident KV and prefill residual is `0.353`.
-- Correlation between computation tokens and that residual is `0.207`.
+- In turns 5/6/7, correlation between computation tokens and prefill is `0.000`.
+- In the same turns, correlation between resident KV per tenant and prefill is `0.000`.
+- After subtracting the baseline `prefill = computation_tokens / 6`, correlation between resident KV and prefill residual is `0.000`.
+- Correlation between computation tokens and that residual is `0.000`.
 
 ## Interpretation
 
@@ -28,7 +28,7 @@
 
 ## KV Bins
 
-- Low KV: `resident_kv_mib <= 67.2`
-- Mid KV: `67.2 < resident_kv_mib <= 181.9`
-- High KV: `resident_kv_mib > 181.9`
+- Low KV: `resident_kv_mib <= 0.0`
+- Mid KV: `0.0 < resident_kv_mib <= 0.0`
+- High KV: `resident_kv_mib > 0.0`
 

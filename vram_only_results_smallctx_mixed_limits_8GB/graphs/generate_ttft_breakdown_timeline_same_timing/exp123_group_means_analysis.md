@@ -84,9 +84,9 @@ exp1, exp2, exp3를 합친 뒤 tenant 8/16/32 조건에서 Group1과 Group2의 m
 
 ## Tenant 32
 
-- Group1 mean total TTFT: `23468.12 ms`
-- Group2 mean total TTFT: `21550.23 ms`
-- Group1 breakdown: blocking `5630.84 ms`, prefill `17837.28 ms`, remaining `0.00 ms`
-- Group2 breakdown: blocking `4644.29 ms`, prefill `16905.94 ms`, remaining `0.00 ms`
-- Prefill 차이가 가장 큰 구간은 `Group1` 쪽이며, 두 그룹 간 prefill 평균 차이는 `931.34 ms`입니다.
-- 평균 total TTFT는 `Group1`가 더 크고, 차이는 `1917.89 ms`입니다.
+- Group1 mean total TTFT: `0.00 ms`
+- Group2 mean total TTFT: `0.00 ms`
+- Group1 breakdown: blocking `0.00 ms`, prefill `0.00 ms`, remaining `0.00 ms`
+- Group2 breakdown: blocking `0.00 ms`, prefill `0.00 ms`, remaining `0.00 ms`
+- Prefill 차이가 가장 큰 구간은 `Group2` 쪽이며, 두 그룹 간 prefill 평균 차이는 `0.00 ms`입니다.
+- 평균 total TTFT는 `Group2`가 더 크고, 차이는 `0.00 ms`입니다.

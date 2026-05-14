@@ -10,8 +10,8 @@
 
 ## Correlation
 
-- `blocking < 100 ms`: Pearson `0.792`, batches `30`
-- `blocking > 100 ms`: Pearson `0.678`, batches `24`
+- `blocking < 100 ms`: Pearson `0.000`, batches `0`
+- `blocking > 100 ms`: Pearson `0.000`, batches `0`
 
 ## Interpretation
 

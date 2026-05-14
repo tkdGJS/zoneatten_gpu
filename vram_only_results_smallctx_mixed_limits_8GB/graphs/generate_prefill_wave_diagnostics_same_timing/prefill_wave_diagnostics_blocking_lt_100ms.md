@@ -23,6 +23,6 @@
 
 ## Batch Summary
 
-- Mean delay spread across filtered batches: `0.0 ms`
-- Mean max delta gap across filtered batches: `0.0 ms`
+- Mean delay spread across filtered batches: `24948.7 ms`
+- Mean max delta gap across filtered batches: `11974.8 ms`
 
