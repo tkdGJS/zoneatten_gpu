@@ -29,6 +29,7 @@ class TenantState:
     session_index: int
     user_turns: List[str]
     history_limit_tokens: int
+    min_tokens: int
     max_tokens: int
     completed_pairs: List[Tuple[str, str]] = field(default_factory=list)
 
@@ -126,13 +127,31 @@ def resolve_group_max_tokens(
     return default_max_tokens
 
 
+def resolve_group_min_tokens(
+    history_limit_tokens: int,
+    default_min_tokens: int,
+    short_limit_tokens: int,
+    long_limit_tokens: int,
+    short_min_tokens: int,
+    long_min_tokens: int,
+) -> int:
+    if long_limit_tokens > 0 and history_limit_tokens >= long_limit_tokens:
+        return long_min_tokens
+    if short_limit_tokens > 0 and history_limit_tokens <= short_limit_tokens:
+        return short_min_tokens
+    return default_min_tokens
+
+
 def load_sessions(
     dataset_path: str,
     min_user_turns: int,
     default_max_tokens: int,
+    default_min_tokens: int,
     short_limit_tokens: int,
     long_limit_tokens: int,
+    short_min_tokens: int,
     short_max_tokens: int,
+    long_min_tokens: int,
     long_max_tokens: int,
 ) -> List[TenantState]:
     with open(dataset_path, "r", encoding="utf-8") as f:
@@ -160,12 +179,26 @@ def load_sessions(
             short_max_tokens,
             long_max_tokens,
         )
+        min_tokens = resolve_group_min_tokens(
+            history_limit_tokens,
+            default_min_tokens,
+            short_limit_tokens,
+            long_limit_tokens,
+            short_min_tokens,
+            long_min_tokens,
+        )
+        if min_tokens > max_tokens:
+            raise RuntimeError(
+                f"Invalid decode budget for history_limit_tokens={history_limit_tokens}: "
+                f"min_tokens={min_tokens} > max_tokens={max_tokens}"
+            )
         sessions.append(
             TenantState(
                 tenant_id=0,
                 session_index=session_index,
                 user_turns=user_turns,
                 history_limit_tokens=history_limit_tokens,
+                min_tokens=min_tokens,
                 max_tokens=max_tokens,
             )
         )
@@ -179,18 +212,24 @@ def assign_sessions(
     tenant_count: int,
     min_user_turns: int,
     default_max_tokens: int,
+    default_min_tokens: int,
     short_limit_tokens: int,
     long_limit_tokens: int,
+    short_min_tokens: int,
     short_max_tokens: int,
+    long_min_tokens: int,
     long_max_tokens: int,
 ) -> List[TenantState]:
     sessions = load_sessions(
         dataset_path,
         min_user_turns,
         default_max_tokens,
+        default_min_tokens,
         short_limit_tokens,
         long_limit_tokens,
+        short_min_tokens,
         short_max_tokens,
+        long_min_tokens,
         long_max_tokens,
     )
     if len(sessions) < tenant_count:
@@ -206,6 +245,7 @@ def assign_sessions(
                 session_index=source.session_index,
                 user_turns=list(source.user_turns),
                 history_limit_tokens=source.history_limit_tokens,
+                min_tokens=source.min_tokens,
                 max_tokens=source.max_tokens,
             )
         )
@@ -300,6 +340,7 @@ def stream_completion_with_request_id(
     base_url: str,
     model: str,
     prompt: str,
+    min_tokens: int,
     max_tokens: int,
     request_id: str,
     request_timeout_sec: int,
@@ -312,6 +353,8 @@ def stream_completion_with_request_id(
         "stream": True,
         "request_id": request_id,
     }
+    if min_tokens > 0:
+        payload["min_tokens"] = min_tokens
     headers = {"X-Request-Id": request_id}
     start_ts = time.monotonic()
     response = session.post(
@@ -416,6 +459,7 @@ def run_tenant(
             "status": "failed",
             "error_message": "",
             "input_tokens": "",
+            "requested_min_tokens": tenant_state.min_tokens,
             "requested_max_tokens": tenant_state.max_tokens,
             "output_tokens": "",
             "kv_history_tokens": "",
@@ -447,6 +491,7 @@ def run_tenant(
                 base_url,
                 model,
                 prompt,
+                tenant_state.min_tokens,
                 tenant_state.max_tokens,
                 client_request_id,
                 request_timeout_sec,
@@ -476,6 +521,7 @@ def run_tenant(
                 "metrics_request_id": metrics_request_id,
                 "client_request_id": client_request_id,
                 "input_tokens": prompt_tokens,
+                "requested_min_tokens": tenant_state.min_tokens,
                 "requested_max_tokens": tenant_state.max_tokens,
                 "output_tokens": output_tokens,
                 "kv_history_tokens": kv_history_tokens,
@@ -502,6 +548,7 @@ def run_tenant(
                     "metrics_request_id": metrics_request_id,
                     "status": "success",
                     "input_tokens": prompt_tokens,
+                    "requested_min_tokens": tenant_state.min_tokens,
                     "requested_max_tokens": tenant_state.max_tokens,
                     "output_tokens": output_tokens,
                     "kv_history_tokens": kv_history_tokens,
@@ -522,6 +569,7 @@ def run_tenant(
                 f"[RESULT] tenant_count={tenant_count} run={run_index} "
                 f"tenant={tenant_state.tenant_id} turn={turn_index} "
                 f"history_limit_tokens={tenant_state.history_limit_tokens} "
+                f"requested_min_tokens={tenant_state.min_tokens} "
                 f"requested_max_tokens={tenant_state.max_tokens} "
                 f"input_tokens={prompt_tokens} output_tokens={output_tokens} "
                 f"kv_history_tokens={kv_history_tokens} "
@@ -571,9 +619,12 @@ def main() -> int:
     parser.add_argument("--min-session-user-turns", type=int, default=10)
     parser.add_argument("--max-prompt-tokens", type=int, default=4096)
     parser.add_argument("--max-tokens", type=int, default=2048)
+    parser.add_argument("--min-tokens", type=int, default=0)
     parser.add_argument("--short-limit-tokens", type=int, default=0)
     parser.add_argument("--long-limit-tokens", type=int, default=0)
+    parser.add_argument("--short-min-tokens", type=int, default=0)
     parser.add_argument("--short-max-tokens", type=int, default=0)
+    parser.add_argument("--long-min-tokens", type=int, default=0)
     parser.add_argument("--long-max-tokens", type=int, default=0)
     parser.add_argument("--pre-request-sleep-sec", type=int, default=180)
     parser.add_argument("--inter-turn-sleep-sec", type=int, default=30)
@@ -594,6 +645,7 @@ def main() -> int:
         "status",
         "error_message",
         "input_tokens",
+        "requested_min_tokens",
         "requested_max_tokens",
         "output_tokens",
         "kv_history_tokens",
@@ -617,22 +669,29 @@ def main() -> int:
 
     session = requests.Session()
     model = get_model_id(session, args.base_url)
+    short_min_tokens = args.short_min_tokens if args.short_min_tokens > 0 else args.min_tokens
     short_max_tokens = args.short_max_tokens or args.max_tokens
+    long_min_tokens = args.long_min_tokens if args.long_min_tokens > 0 else args.min_tokens
     long_max_tokens = args.long_max_tokens or args.max_tokens
     tenant_states = assign_sessions(
         args.dataset_path,
         args.tenant_count,
         args.min_session_user_turns,
         args.max_tokens,
+        args.min_tokens,
         args.short_limit_tokens,
         args.long_limit_tokens,
+        short_min_tokens,
         short_max_tokens,
+        long_min_tokens,
         long_max_tokens,
     )
     print(
         f"[INFO] group decode budgets: short_limit<={args.short_limit_tokens} "
-        f"short_max_tokens={short_max_tokens}; long_limit>={args.long_limit_tokens} "
-        f"long_max_tokens={long_max_tokens}; default_max_tokens={args.max_tokens}",
+        f"short_min_tokens={short_min_tokens} short_max_tokens={short_max_tokens}; "
+        f"long_limit>={args.long_limit_tokens} "
+        f"long_min_tokens={long_min_tokens} long_max_tokens={long_max_tokens}; "
+        f"default_min_tokens={args.min_tokens} default_max_tokens={args.max_tokens}",
         flush=True,
     )
 

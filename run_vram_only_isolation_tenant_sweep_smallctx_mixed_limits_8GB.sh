@@ -31,6 +31,9 @@ MAX_PROMPT_TOKENS="${MAX_PROMPT_TOKENS:-24576}"
 MAX_TOKENS="${MAX_TOKENS:-1024}"
 SHORT_MAX_TOKENS="${SHORT_MAX_TOKENS:-512}"
 LONG_MAX_TOKENS="${LONG_MAX_TOKENS:-2048}"
+MIN_TOKENS="${MIN_TOKENS:-0}"
+SHORT_MIN_TOKENS="${SHORT_MIN_TOKENS:-${SHORT_MAX_TOKENS}}"
+LONG_MIN_TOKENS="${LONG_MIN_TOKENS:-${LONG_MAX_TOKENS}}"
 MAX_NUM_SEQS="${MAX_NUM_SEQS:-32}"
 TARGET_OUTPUT_BUDGET_TOKENS="${TARGET_OUTPUT_BUDGET_TOKENS:-${MAX_TOKENS}}"
 SAFETY_MARGIN_TOKENS="${SAFETY_MARGIN_TOKENS:-64}"
@@ -82,8 +85,11 @@ snapshot_path.write_text(
             "inter_turn_sleep_sec=${INTER_TURN_SLEEP_SEC}",
             "request_timeout_sec=${REQUEST_TIMEOUT_SEC}",
             "max_prompt_tokens=${MAX_PROMPT_TOKENS}",
+            "min_tokens=${MIN_TOKENS}",
             "max_tokens=${MAX_TOKENS}",
+            "short_min_tokens=${SHORT_MIN_TOKENS}",
             "short_max_tokens=${SHORT_MAX_TOKENS}",
+            "long_min_tokens=${LONG_MIN_TOKENS}",
             "long_max_tokens=${LONG_MAX_TOKENS}",
             "max_num_seqs=${MAX_NUM_SEQS}",
             "target_output_budget_tokens=${TARGET_OUTPUT_BUDGET_TOKENS}",
@@ -302,10 +308,13 @@ for tenant_count in "${TENANT_VALUES[@]}"; do
       --turns-per-tenant "${TURNS_PER_TENANT}" \
       --min-session-user-turns "${MIN_SESSION_USER_TURNS}" \
       --max-prompt-tokens "${MAX_PROMPT_TOKENS}" \
+      --min-tokens "${MIN_TOKENS}" \
       --max-tokens "${MAX_TOKENS}" \
       --short-limit-tokens "${SHORT_LIMIT_TOKENS}" \
       --long-limit-tokens "${LONG_LIMIT_TOKENS}" \
+      --short-min-tokens "${SHORT_MIN_TOKENS}" \
       --short-max-tokens "${SHORT_MAX_TOKENS}" \
+      --long-min-tokens "${LONG_MIN_TOKENS}" \
       --long-max-tokens "${LONG_MAX_TOKENS}" \
       --pre-request-sleep-sec "${PRE_REQUEST_SLEEP_SEC}" \
       --inter-turn-sleep-sec "${INTER_TURN_SLEEP_SEC}" \
