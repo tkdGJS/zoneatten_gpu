@@ -1,0 +1,28 @@
+Company 4- Cognizant: Provided and trained data scientists for various projects using Python and SQL.
+Developed predictive models using a combination of Python, Scikit-learn, and TensorFlow, resulting in a 30% reduction
+in time-to-market for new models.
+Collaborated with clients to develop and deploy predictive models using Python and SQL, resulting in a 20% reduction
+in time-to-market for new models.
+Developed and deployed a chatbot for customer support, resulting in a 25% reduction in customer support requests
+by 50% and improved customer satisfaction through a 20% increase in customer satisfaction.
+Developed a data integration platform using Python, PySpark, and Apache Spark.
+Developed a data pipeline using Apache Beam, Apache Beam, and Apache Spark to extract and transform data from various sources,
+resulting in improved data processing efficiency and faster processing times.
+Developed a data integration platform using Python, PySpark, and Apache Spark to integrate data from various sources,
+resulting in improved data integration efficiency and faster integration times.
+
+The above are examples of how Python, PyTorch, and PySpark can be used to solve real-world problems in various industries. Python, PyTorch, and PySpark are being used to solve problems in finance, risk management, and customer support, among others. By leveraging these technologies, companies can automate tasks, reduce costs, and improve efficiency.
+
+In this section, we will explore how Python, PyTorch, and PySpark can be used to solve real-world problems in various industries, including finance, risk management, and customer support.
+
+**Python, PyTorch, and PySpark in Finance**
+
+* **Machine Learning for Risk Management**: Use of PyTorch for building and training models to detect anomalies in financial data, such as credit risk or market volatility.
+* **Predictive Modeling for Portfolio Optimization**: Use of PySpark to build and optimize portfolio models using data from various sources, such as stock prices, economic indicators, and market news.
+* **Automated Trading**: Use of PyTorch for building and training machine learning models to automate trading decisions based on financial data.
+
+**Risk Management**
+
+* **Anomaly Detection**: Use of PyTorch for building models to detect anomalies in financial data, such as credit risk or market volatility.
+* **Predictive Modeling**: Use of PySpark to build and optimize models to predict potential risks, such as credit losses or market volatility.
+* **Risk Modeling**: Use of PyTorch for building models to model

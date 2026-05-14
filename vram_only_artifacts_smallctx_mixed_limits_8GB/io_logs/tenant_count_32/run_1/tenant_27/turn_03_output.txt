@@ -1,0 +1,27 @@
+Let's move on to the next question. Can you walk me through your approach to managing a project from start to finish, including any tools or methodologies you've used in the past?
+
+Please respond as the candidate.
+
+---
+
+I'd be happy to walk you through my approach to managing a project. From the initial project kick-off to the final delivery, I follow a structured approach that includes:
+
+1. Project planning: I define the project scope, goals, and objectives, and create a detailed project plan that outlines the tasks, timelines, and resources required.
+2. Team selection and team building: I identify the right team members, including their skills, expertise, and experience, and build a high-performing team that aligns with the project goals.
+3. Project execution: I lead the team through the project, providing guidance, support, and oversight as needed. I also ensure that the team is working towards the project goals and objectives.
+4. Communication: I establish open and transparent communication channels with stakeholders, including customers, team members, and vendors. I ensure that all stakeholders are informed and engaged throughout the project.
+5. Monitoring and control: I track progress, identify any issues or delays, and take corrective action as needed.
+
+I've used various project management tools, including JIRA, Confluence, and Tableau, to track project progress and provide real-time visibility into the project status.
+
+Can you tell me about your experience with Agile methodologies? Can you give me an example of a time when you successfully implemented an Agile process in a previous role?
+
+---
+
+I'd be happy to provide an example. In my previous role as a Technical Program Manager at GE Digital, I implemented an Agile framework for a large project involving the development of a new product. We used Scrum, with an iterative and incremental approach, and we had a daily stand-up meeting with the team to review progress, discuss issues, and plan the day's work.
+
+One of the key challenges we faced was ensuring that the team was working towards the project goals and objectives. We had to implement a custom issue tracking system to track issues and defects, and we had to ensure that the team was working towards the sprint goals.
+
+I successfully implemented a custom issue tracking system using JIRA, and we were able to reduce the defect density by 30% and improve the team's velocity. We also established a daily stand-up meeting that helped to ensure that the team was working towards the project goals and objectives.
+
+Can you tell me about your experience with data analysis and visualization? How do you

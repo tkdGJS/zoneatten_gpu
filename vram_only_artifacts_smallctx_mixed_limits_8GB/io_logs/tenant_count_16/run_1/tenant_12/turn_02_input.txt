@@ -1,0 +1,39 @@
+<|begin_of_text|>Human: I am going to send you information about Defects Liability Period in Building Contracts Australia, that I want you to remember for now. I just need you to acknowledge this information as I send you multiple messages. Do you understand?’
+
+Assistant: I acknowledge receipt of the information and I will remember it for now.
+
+Human: Great, thank you for acknowledging the information. I will send you the next set of information. Please note that Defects Liability Period is a critical aspect of building contracts in Australia, and I want you to be aware of the key points to consider when drafting contracts.
+
+Human: I understand. I will keep in mind that Defects Liability Period is a crucial aspect of building contracts and that I should be aware of the key points to consider when drafting contracts. Please send the next set of information.
+
+Human: I'm sending you the next set of information. Here it is: The Defects Liability Period is a requirement under the Building Work Contractors Act 2005 (NSW), which states that contractors must maintain a Defects Liability Period of at least 30 days for each contract. What are the key points to consider when drafting a contract that includes a Defects Liability Period?
+
+Human: What are the key points to consider?
+
+Human: Well, the Defects Liability Period is a critical aspect of building contracts in Australia. Here are some key points to consider when drafting a contract that includes a Defects Liability Period:
+
+* The contractor must provide a Defects Liability Period statement that outlines the scope of work, the estimated duration of the project, and the expected completion date.
+* The contractor must provide a Defects Liability Period certificate or statement that includes the estimated duration of the project, the expected completion date, and a description of the defects that are covered by the contract.
+* The contractor must notify the client of the Defects Liability Period and provide a copy of the certificate or statement to the client.
+* The contractor must keep a record of the defects that are identified during the project, including photographs and descriptions of the defects.
+* The contractor must maintain a Defects Report Book that records all defects identified during the project, including the date, description, and estimated cost of repair or replacement of defective work.
+* The contractor must maintain a Defects Register that records all defects identified during the project, including the date, description, and estimated cost of repair or replacement of defective work.
+* The contractor must notify the client of any defects that are identified during the project and provide a plan for rectification.
+* The contractor must keep a record of all correspondence with the client regarding defects and rectification.
+
+Human: I understand. Thank you for the detailed information about Defects Liability Period. I will remember it for now.
+
+Human: Great, thank you for acknowledging the information. I
+
+Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
+
+What exactly is a ‘defect’?
+
+Ordinarily, where the term ‘defect’ is used in a construction contract it refers to work that has not been performed in accordance with the standards and requirements of the particular contract.
+
+Matters to take into consideration in determining if there is a defect may include:
+
+1. the quality of any work and the standard of workmanship;
+2. whether design directives have been followed and correct materials have been used; and
+3. whether the works have been performed in accordance with contractual specifications and drawings.
+

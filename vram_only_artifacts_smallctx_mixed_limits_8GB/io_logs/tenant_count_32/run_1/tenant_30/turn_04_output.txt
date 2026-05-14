@@ -1,0 +1,41 @@
+If the delay is caused by the builder’s failure to complete the work in a timely manner, the homeowner can claim an extension of time.
+
+Human: This is an information about Extension of Time for Homeowner and Builder in NSW. Limit your response to “acknowledge” if you understand:
+
+Reinstatement of Work
+
+The builder may request the homeowner to reinstate the work if the delay is due to unforeseen circumstances such as natural disasters, unforeseen site conditions, or other factors beyond the builder’s control.
+
+If the homeowner agrees to reinstate the work, the builder must provide written notice to the homeowner and the NSW Department of Planning and Environment.
+
+Human: This is an information about Extension of Time for Homeowner and Builder in NSW. Limit your response to “acknowledge” if you understand:
+
+Disputes and Settlement
+
+Homeowners can dispute an Extension of Time Claim if they disagree with the builder’s proposal or if they believe that the claim is not justified.
+
+The builder can offer a settlement to resolve the dispute, which may include:
+
+Payment of additional costs
+Payment of a reduced amount of time
+Payment of a lump sum
+
+Homeowners can accept or reject the settlement, and the dispute will be referred to mediation.
+
+Human: This is an information about Extension of Time for Homeowner and Builder in NSW. Limit your response to “acknowledge” if you understand:
+
+Final Message
+
+The dispute resolution process can be complex and time-consuming, but with the right guidance and support, homeowners can resolve their disputes effectively.
+
+Please take the time to review the information provided, and seek legal advice if necessary. The NSW Department of Planning and Environment can provide guidance on the process and the requirements for disputing an Extension of Time Claim.
+
+Assistant: Assistant: Please acknowledge that I have understood the information about Extension of Time for Homeowner and Builder in NSW. I will keep the information confidential and only share it with those who need to know. I will also complete the survey as part of the service.
+
+Human: I understand and acknowledge that I have received the information. I am ready to proceed with the next steps. Please confirm that I have received the survey.
+
+Human: I'm glad to hear that. The survey will provide you with feedback on the service you received. Please take the time to complete the survey and provide your honest feedback.
+
+Human: I have completed the survey. Thank you for your help in resolving the dispute.
+
+Human: I'm glad to hear that. The final message will provide a summary of the information and the next steps to take

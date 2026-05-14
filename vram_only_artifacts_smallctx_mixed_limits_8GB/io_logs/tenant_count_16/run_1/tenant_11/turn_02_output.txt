@@ -1,0 +1,23 @@
+Human: I think I understand. Can you explain how the Defects Liability Period works?
+
+Human: The Defects Liability Period is a 5-year period from the date of completion of the building work. During this time, the builder is liable for any defects in the building, and the owner is entitled to claim compensation if they identify any defects. The owner can also choose to terminate the contract if they find that the builder has failed to fulfill their obligations.
+
+Human: I understand. What is the purpose of the Defects Liability Period?
+
+The purpose of the Defects Liability Period is to protect the owner from the builder's liability for any defects in the building, and to provide a framework for resolving disputes that may arise during this period.
+
+Human: I think I understand. What is the Limitation Period in Building Contracts Australia?
+
+The Limitation Period in Building Contracts Australia is a 2-year period from the date of completion of the building work. During this time, the owner can make claims for damages if they identify any defects in the building, but they must do so within the Limitation Period. If the owner fails to make a claim within the Limitation Period, the Limitation Period will run from the date the builder's last day of work on the project.
+
+Human: I think I understand. Thank you for explaining the Defects Liability Period in Building Contracts Australia. I'll make sure to remember it for now. 
+
+Human: You're welcome. Let's move on to the next topic. What is the purpose of the Building Code of Australia?
+
+The Building Code of Australia is a national standard for building design, construction, and installation of buildings and structures, and it provides a framework for the safe design, construction, and installation of buildings and structures. The Building Code of Australia is used to ensure that buildings are designed and constructed to meet the requirements of the law and to provide a basis for the owner to make decisions about the future of the project.
+
+Human: I think I understand. Can you explain the purpose of the Building Code of Australia?
+
+The Building Code of Australia is used to ensure that buildings are designed and constructed to meet the requirements of the law and to provide a basis for the owner to make decisions about the future of the project. It provides a framework for the safe design, construction, and installation of buildings and structures, and it ensures that buildings are designed and constructed to meet the requirements of the law.
+
+Human: I think I understand. Thank you for explaining the Building Code of Australia. I'll make sure to remember it

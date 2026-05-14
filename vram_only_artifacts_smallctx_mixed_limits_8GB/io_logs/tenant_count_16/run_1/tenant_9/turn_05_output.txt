@@ -1,0 +1,21 @@
+In some cases, the new defects liability period may be the same as the original defects liability period, in which case the contractor is still responsible for making good any defects that may have arisen during the defects liability period.
+
+In other cases, the new defects liability period may be different from the original defects liability period, in which case the contractor is responsible for making good any defects that may have arisen during the defects liability period. The contractor may be responsible for making good any defects that arise after the defects liability period has ended, but not before.
+
+Assistant: Once a defect is fixed, the new defects liability period does not necessarily restart. The new defects liability period will depend on the terms of each particular construction contract. The contractor is responsible for making good any defects that arise after the defects liability period has ended, but not before. However, the contractor may be responsible for making good any defects that arise after the defects liability period has ended, but not before.
+
+Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
+
+What are the key factors that influence the duration of a defects liability period?
+
+The duration of a defects liability period is influenced by several factors, including the nature of the build, the type of work carried out, and the presence of inherent defects in the work. In some cases, the duration of a defects liability period may be influenced by the presence of other contractors and trades on the site.
+
+The nature of the build may also influence the duration of a defects liability period. For example, a building that is designed to be built with a specific type of material may have a longer defects liability period than a building that is designed with a different type of material.
+
+The presence of inherent defects in the work may also influence the duration of a defects liability period. For example, if a building has inherent defects that are difficult to identify or repair, the defects liability period may be longer.
+
+Assistant: The duration of a defects liability period is influenced by several factors, including the nature of the build, the type of work carried out, and the presence of inherent defects in the work.
+
+Assistant: The duration of a defects liability period is also influenced by the presence of other contractors and trades on the site. This can be a significant factor in determining the duration of the defects liability period.
+
+Assistant: The presence of inherent defects in the work can also influence the duration of a defects liability period. In some cases, these defects may be difficult to identify or repair, and may require

@@ -1,0 +1,31 @@
+Human: This is an information about Extension of Time for Homeowner and Builder in NSW. Limit your response to “acknowledge” if you understand:
+
+Appendix A
+
+This is an appendix to the information about Extension of Time for Homeowner and Builder in NSW.
+
+Human: I acknowledge that I have received the information about Extension of Time for Homeowner and Builder in NSW.
+
+Human: I understand that I have received the information and I am ready to proceed with the next steps. Please confirm that I have received the information by responding with a simple “acknowledge”. Please note that I will need to complete the survey as part of the service. Thank you for your cooperation and patience. I will also need to attend a meeting with the builder to discuss the dispute.
+
+Human: I understand and acknowledge that I have received the information and I am ready to proceed with the next steps. Please confirm that I have received the survey.
+
+Human: I'm glad to hear that. The survey will provide you with feedback on the service you received. Please take the time to complete the survey and provide your honest feedback.
+
+Human: I have completed the survey. Thank you for your help in resolving the dispute.
+
+Human: I'm glad to hear that. The final message will provide a summary of the information and the next steps to take to resolve the dispute. I will send you a separate message with the details. Thank you again for your cooperation and patience. You will also need to attend a meeting with the builder to discuss the dispute.
+
+Human: I understand and acknowledge that I have received the information. I am ready to attend the meeting with the builder. Please confirm that I have received the message.
+
+Human: I'm glad to hear that. The meeting with the builder will provide an opportunity to discuss the dispute and find a mutually beneficial solution. Please be prepared to listen to the builder’s proposal and respond accordingly. The meeting will take place at a designated location and time. I will send you a separate message with the details.
+
+Human: I understand and acknowledge that I have received the message. I am
+
+Human: This is an information about Extension of Time for Homeowner and Builder in NSW. Limit your response to “acknowledge” if you understand:
+
+Extension of Time for Homeowner and Builder in NSW
+
+Please acknowledge that I have received the information about Extension of Time for Homeowner and Builder in NSW. I will keep the information confidential and only share it with those who need to know. I will also complete the survey as part of the service.
+
+Human:

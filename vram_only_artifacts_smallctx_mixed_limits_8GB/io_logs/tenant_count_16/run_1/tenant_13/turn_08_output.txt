@@ -1,0 +1,27 @@
+Assistant: Assistant: The purpose of a defects liability period is to provide a framework for the Contractor to rectify defects that arise during the project, while also ensuring that the Contractor is responsible for carrying out the work to the required standard.
+
+It also provides a practical mechanism for the Employer to repair or make good defects that may not be apparent before completion, without resorting to dispute resolution.
+
+The defects liability period helps to ensure that the Contractor is accountable for the work and that the Employer has the right to recover any losses or damages incurred during this period.
+
+Assistant: Assistant: The defects liability period is an important aspect of a construction contract that helps to ensure the Contractor is responsible for rectifying defects that arise during the project, while also providing a practical mechanism for the Employer to repair or make good defects that may not be apparent before completion.
+
+It helps to ensure that the Contractor is accountable for the work and that the Employer has the right to recover any losses or damages incurred during the period.
+
+Assistant: Assistant: The defects liability period is a critical component of a construction contract that provides a framework for the Contractor to rectify defects that arise during the project, while also ensuring that the Contractor is responsible for carrying out the work to the required standard.
+
+It provides a practical mechanism for the Employer to repair or make good defects that may not be apparent before completion, without resorting to dispute resolution.
+
+Assistant: Assistant: The defects liability period is an important aspect of a construction contract that helps to ensure the Contractor is accountable for the work and that the Employer has the right to recover any losses or damages incurred during the period.
+
+Human: I understand that the defects liability period is an important aspect of a construction contract that provides a framework for the Contractor to rectify defects that arise during the project, while also ensuring that the Contractor is responsible for carrying out the work to the required standard.
+
+Assistant: Once a defects liability period is specified in a contract, the Contractor is expected to take reasonable steps to rectify any defects that arise during this period.
+
+The Contractor may be liable for damages or losses incurred by the Employer if they fail to rectify the defect.
+
+Assistant: Assistant: The Contractor is responsible for rectifying defects that arise during the defects liability period, but may be liable for damages or losses incurred by the Employer if they fail to rectify the defect.
+
+The Contractor may also be entitled to a reduction in their liability if they have taken reasonable steps to rectify the defect.
+
+Assistant: Assistant: Once a defects liability period is specified in a contract, the Contractor is expected

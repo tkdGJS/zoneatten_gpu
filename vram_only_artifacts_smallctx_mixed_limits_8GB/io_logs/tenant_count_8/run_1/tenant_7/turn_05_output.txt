@@ -1,0 +1,22 @@
+If the principal agrees to fix a defect, then any new defects that may arise during the repair will be considered to be part of the new defects liability period. However, if the principal does not agree to fix the defect, then any new defects that arise during the repair will not be considered to be part of the new defects liability period.
+
+Human: I understand that once a defect is fixed, a new defects liability period may not apply. However, if the principal agrees to fix the defect, any new defects that may arise during the repair will be considered to be part of the new defects liability period.
+
+Human: I understand that a new defects liability period may not apply if the principal agrees to fix the defect, but it will not be considered part of the new defects liability period. However, if the principal does not agree to fix the defect, then any new defects that arise during the repair will not be considered to be part of the new defects liability period.
+
+Human: I understand that a new defects liability period may not apply if the principal agrees to fix the defect, but it will not be considered part of the new defects liability period. However, if the principal does not agree to fix the defect, then any new defects that arise during the repair will not be considered to be part of the new defects liability period.
+
+Server: I have received the information. I have added the information to our database. 
+
+Server: I have sent the information to you. The information is as follows:
+
+* The Defects Liability Period in Building Contracts Australia is 5 years from the date of completion of the building or the completion of the building's defects liability period, whichever is earlier.
+* The defects liability period is calculated as the period during which the building's defects liability is liable to be paid for by the owner or occupier of the building.
+* The defects liability period is calculated as the period during which the owner or occupier of the building is liable to pay for any defects or damage caused to the building, which are not the result of normal wear and tear.
+* The defects liability period can be extended by any agreement made between the owner or occupier of the building and the contractor or builder, but it is not affected by any insurance policy or other insurance that is in force at the time of completion of the building.
+
+Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
+
+What is the maximum amount that can be paid for a defects liability claim?
+
+The maximum

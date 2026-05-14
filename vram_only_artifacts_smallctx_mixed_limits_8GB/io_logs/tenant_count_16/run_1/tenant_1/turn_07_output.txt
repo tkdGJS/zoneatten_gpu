@@ -1,0 +1,216 @@
+Assistant: Assistant: Assistant:assistant:assistant: 1.) A) Handwriting recognition technology that can be used in reducing credit card fraud.
+
+2.) B) Timer and heat level settings in a microwave.
+
+3.) C) Microprocessor-controlled speed radars used by law enforcement officers.
+
+4.) D) Computer controlled sensor in car exhaust system that determines the optimal mixture of gas with air for minimal emissions.
+
+5.) A) NET-talk
+
+6.) D) Only robot control
+
+7.) A) NET-talk
+
+8.) A) Marvin Minsky and Seymour Papert
+
+9.) D) Car computers that adjust controls (such as the sensitivity of the gas pedal) based on the driver's habits.
+
+10.) D) Computer controlled sensor in car exhaust system that determines the optimal mixture of gas with air for minimal emissions.
+
+Answer the following questions based on the text:
+
+1. In which one of the following applications would conventional programming be preferred over neural networks?
+A) Voice recognition banking so that clients can do all their banking verbally.
+B) Enhancement of fuzzy or incomplete images captured on surveillance cameras for the purpose of comparing them to a police database of faces.
+C) Programming a VCR to tape a show that you've watched nightly for 5 years.
+D) Car computers that adjust controls (such as the sensitivity of the gas pedal) based on the driver's habits.
+E) I don't know
+
+2.) What is the potential for neural networks to solve problems that have proved difficult to solve using conventional computing approaches?
+A) Only pattern recognition
+B) Only machine learning
+C) Only time-series forecasting
+D) Only robot control
+E) A range of problems including pattern recognition, machine learning, time-series forecasting, machine vision, and robot control.
+
+3.) What is the name of the famous example of a neural network that was trained to recognize speech?
+A) NET-talk
+B) NET-talk
+C) NET-talk
+D) NET-talk
+E) NET-talk
+
+4.) What is the name of the Massachusetts Institute of Technology researchers who made significant contributions to the development of neural networks?
+A) Marvin Minsky and Seymour Papert
+B) Marvin Minsky and Seymour Papert
+C) Marvin Minsky and Seymour Papert
+D) Marvin Minsky and Seymour Papert
+E) Marvin Minsky and Seymour Papert
+
+5.) What is the name of the computer linked to the neural network developed by T.J. Sejnowski and C.R. Rosenberg at Johns Hopkins University?
+A) NET-talk
+B) NET-talk
+C) NET-talk
+D) NET-talk
+E) NET-talk
+
+6.) What is the potential for neural networks to solve problems that have proved difficult to solve using conventional computing approaches?
+A) Only pattern recognition
+B) Only machine learning
+C) Only time-series forecasting
+D) Only robot control
+E) A range of problems including pattern recognition, machine learning, time-series forecasting, machine vision, and robot control.
+
+7.) What is the name of the famous example of a neural network that was trained to recognize speech?
+A) NET-talk
+B) NET-talk
+C) NET-talk
+D) NET-talk
+E) NET-talk
+
+8.) What is the name of the Massachusetts Institute of Technology researchers who made significant contributions to the development of neural networks?
+A) Marvin Minsky and Seymour Papert
+B) Marvin Minsky and Seymour Papert
+C) Marvin Minsky and Seymour Papert
+D) Marvin Minsky and Seymour Papert
+E) Marvin Minsky and Seymour Papert
+
+9.) What is the name of the computer linked to the neural network developed by T.J. Sejnowski and C.R. Rosenberg at Johns Hopkins University?
+A) NET-talk
+B) NET-talk
+C) NET-talk
+D) NET-talk
+E) NET-talk
+
+10.) What is the potential for neural networks to solve problems that have proved difficult to solve using conventional computing approaches?
+A) Only pattern recognition
+B) Only machine learning
+C) Only time-series forecasting
+D) Only robot control
+E) A range of problems including pattern recognition, machine learning, time-series forecasting, machine vision, and robot control. 
+
+Answer the following questions based on the text:
+
+1. In which one of the following applications would conventional programming be preferred over neural networks?
+A) Voice recognition banking so that clients can do all their banking verbally.
+B) Enhancement of fuzzy or incomplete images captured on surveillance cameras for the purpose of comparing them to a police database of faces.
+C) Programming a VCR to tape a show that you've watched nightly for 5 years.
+D) Car computers that adjust controls (such as the sensitivity of the gas pedal) based on the driver's habits.
+E) I don't know
+
+2.) What is the potential for neural networks to solve problems that have proved difficult to solve using conventional computing approaches?
+A) Only pattern recognition
+B) Only machine learning
+C) Only time-series forecasting
+D) Only robot control
+E) A range of problems including pattern recognition, machine learning, time-series forecasting, machine vision, and robot control.
+
+3.) What is the name of the famous example of a neural network that was trained to recognize speech?
+A) NET-talk
+B) NET-talk
+C) NET-talk
+D) NET-talk
+E) NET-talk
+
+4.) What is the name of the Massachusetts Institute of Technology researchers who made significant contributions to the development of neural networks?
+A) Marvin Minsky and Seymour Papert
+B) Marvin Minsky and Seymour Papert
+C) Marvin Minsky and Seymour Papert
+D) Marvin Minsky and Seymour Papert
+E) Marvin Minsky and Seymour Papert
+
+5.) What is the name of the computer linked to the neural network developed by T.J. Sejnowski and C.R. Rosenberg at Johns Hopkins University?
+A) NET-talk
+B) NET-talk
+C) NET-talk
+D) NET-talk
+E) NET-talk
+
+6.) What is the potential for neural networks to solve problems that have proved difficult to solve using conventional computing approaches?
+A) Only pattern recognition
+B) Only machine learning
+C) Only time-series forecasting
+D) Only robot control
+E) A range of problems including pattern recognition, machine learning, time-series forecasting, machine vision, and robot control.
+
+7.) What is the name of the famous example of a neural network that was trained to recognize speech?
+A) NET-talk
+B) NET-talk
+C) NET-talk
+D) NET-talk
+E) NET-talk
+
+8.) What is the name of the Massachusetts Institute of Technology researchers who made significant contributions to the development of neural networks?
+A) Marvin Minsky and Seymour Papert
+B) Marvin Minsky and Seymour Papert
+C) Marvin Minsky and Seymour Papert
+D) Marvin Minsky and Seymour Papert
+E) Marvin Minsky and Seymour Papert
+
+9.) What is the name of the computer linked to the neural network developed by T.J. Sejnowski and C.R. Rosenberg at Johns Hopkins University?
+A) NET-talk
+B) NET-talk
+C) NET-talk
+D) NET-talk
+E) NET-talk
+
+10.) What is the potential for neural networks to solve problems that have proved difficult to solve using conventional computing approaches?
+A) Only pattern recognition
+B) Only machine learning
+C) Only time-series forecasting
+D) Only robot control
+E) A range of problems including pattern recognition, machine learning, time-series forecasting, machine vision, and robot control. 
+
+Answer the following questions based on the text:
+
+1. In which one of the following applications would conventional programming be preferred over neural networks?
+A) Voice recognition banking so that clients can do all their banking verbally.
+B) Enhancement of fuzzy or incomplete images captured on surveillance cameras for the purpose of comparing them to a police database of faces.
+C) Programming a VCR to tape a show that you've watched nightly for 5 years.
+D) Car computers that adjust controls (such as the sensitivity of the gas pedal) based on the driver's habits.
+E) I don't know
+
+2.) What is the potential for neural networks to solve problems that have proved difficult to solve using conventional computing approaches?
+A) Only pattern recognition
+B) Only machine learning
+C) Only time-series forecasting
+D) Only robot control
+E) A range of problems including pattern recognition, machine learning, time-series forecasting, machine vision, and robot control.
+
+3.) What is the name of the famous example of a neural network that was trained to recognize speech?
+A) NET-talk
+B) NET-talk
+C) NET-talk
+D) NET-talk
+E) NET-talk
+
+4.) What is the name of the Massachusetts Institute of Technology researchers who made significant contributions to the development of neural networks?
+A) Marvin Minsky and Seymour Papert
+B) Marvin Minsky and Seymour Papert
+C) Marvin Minsky and Seymour Papert
+D) Marvin Minsky and Seymour Papert
+E) Marvin Minsky and Seymour Papert
+
+5.) What is the name of the computer linked to the neural network developed by T.J. Sejnowski and C.R. Rosenberg at Johns Hopkins University?
+A) NET-talk
+B) NET-talk
+C) NET-talk
+D) NET-talk
+E) NET-talk
+
+6.) What is the potential for neural networks to solve problems that have proved difficult to solve using conventional computing approaches?
+A) Only pattern recognition
+B) Only machine learning
+C) Only time-series forecasting
+D) Only robot control
+E) A range of problems including pattern recognition, machine learning, time-series forecasting, machine vision, and robot control.
+
+7.) What is the name of the famous example of a neural network that was trained to recognize speech?
+A) NET-talk
+B) NET-talk
+C) NET-talk
+D) NET-talk
+E) NET-talk
+
+8.) What is the name of the Massachusetts Institute of Technology researchers who

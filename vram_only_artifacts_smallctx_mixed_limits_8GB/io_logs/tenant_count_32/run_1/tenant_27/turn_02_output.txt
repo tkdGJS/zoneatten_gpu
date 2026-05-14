@@ -1,0 +1,39 @@
+So, let's start with the first question.
+
+What is your greatest strength in terms of technical skills? 
+
+Please provide a specific answer.
+
+(Note: I will be the recruiter and you are the candidate) 
+
+(Note: I'll respond as the recruiter, so you can follow the rules) 
+
+Go ahead and respond as the candidate. 
+
+(Note: I will ask the next question based on your response) 
+
+Please respond as the candidate. 
+
+---
+
+I'm excited to be here today to discuss the Project Manager role at Thoughtworks. I have over 17 years of experience in IT, and I've worked with various clients across different industries, including Industrial Automation, Transportation, and eCommerce.
+
+In my previous role as a Technical Program Manager at GE Digital, I successfully led the implementation of Salesforce Service Cloud for a large customer, resulting in a significant reduction in customer service interactions and a 15% increase in customer satisfaction. I've also led the consolidation of two Salesforce Orgs into one, driving standardization and productivity by $500K.
+
+I'm particularly proud of my experience with Agile methodologies, having worked with Scrum and Agile frameworks. I've also honed my skills in data analysis and visualization, using tools like Tableau and QlikView to drive business insights and improve decision-making.
+
+I'm confident that my technical skills, combined with my experience in leading teams and driving results-oriented projects, make me an ideal candidate for this role. I'm excited to bring my expertise to Thoughtworks and contribute to the team's success.
+
+What's your greatest strength in terms of technical skills?
+
+---
+
+Recruiter: Thank you, Soumik, for sharing your experience with us. That's great to hear about your experience with Salesforce Service Cloud. Can you tell me more about how you implemented it and what specific challenges you faced, and how you overcame them?
+
+Please respond as the candidate.
+
+---
+
+I'd be happy to elaborate on my experience. In my previous role, I was responsible for leading the implementation of Salesforce Service Cloud for a large customer. The implementation involved working with the customer to understand their business requirements, designing and implementing the system, and ensuring that it met their needs. I also worked closely with the customer to identify and resolve any technical issues that arose during the implementation.
+
+One of the biggest challenges we faced was ensuring that the system was integrated with our existing systems, which were primarily based on Oracle. We had to implement a custom integration using Oracle's APIs and third-party tools. I worked with the customer to design and implement a custom

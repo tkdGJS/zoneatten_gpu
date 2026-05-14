@@ -1,0 +1,37 @@
+The builder may request the owner to make an adjustment to the Building Period.
+
+The owner can either agree to the adjustment or refuse to agree.
+
+Assistant: Assistant: Human: This is an information about Extension of Time for Homeowner and Builder in NSW. Limit your response to “acknowledge” if you understand:
+
+Please acknowledge that I have received the information about Extension of Time for Homeowner and Builder in NSW. I will keep the information confidential and only share it with those who need to know. I will also complete the survey as part of the service.
+
+Human: I understand and acknowledge that I have received the information. I am ready to proceed with the next steps. Please confirm that I have received the survey.
+
+Human: I'm glad to hear that. The survey will provide you with feedback on the service you received.
+
+Human: This is an information about Extension of Time for Homeowner and Builder in NSW. Limit your response to “acknowledge” if you understand:
+
+When Does the Building Period End?
+
+The Building Period will, therefore, end when the last of the works have been completed.
+
+The last of the works will be completed when the builder has fulfilled their obligations under the contract and the owner has fulfilled their obligations under the contract.
+
+The Building Period may be extended by a reasonable amount of time if the builder has fulfilled their obligations under the contract.
+
+The Building Period will, therefore, end when the last of the works have been completed.
+
+Assistant: Assistant: Human: This is an information about Extension of Time for Homeowner and Builder in NSW. Limit your response to “acknowledge” if you understand:
+
+Please acknowledge that I have received the information about Extension of Time for Homeowner and Builder in NSW. I will keep the information confidential and only share it with those who need to know. I will also complete the survey as part of the service.
+
+Human: I understand and acknowledge that I have received the information. I am ready to proceed with the next steps. Please confirm that I have received the survey.
+
+Human: I'm glad to hear that. The survey will provide you with feedback on the service you received.
+
+Human: This is an information about Extension of Time for Homeowner and Builder in NSW. Limit your response to “acknowledge” if you understand:
+
+Please acknowledge that I have received the information about Extension of Time for Homeowner and Builder in NSW. I will keep the information confidential and only share it with those who need to know. I will also complete the survey as part of the service.
+
+Human: I understand and acknowledge

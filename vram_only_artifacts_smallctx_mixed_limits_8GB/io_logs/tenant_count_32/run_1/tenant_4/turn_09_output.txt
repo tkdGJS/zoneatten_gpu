@@ -1,0 +1,50 @@
+1. e4 c5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 e5 5. Nc3 d6 6. Nf3 exd3 7. Bxd3 dxe4 8. Nxe4 Nf6
+9. Bb5 a6 10. Ba4 Nc6 11. Bxc6 Qe7 12. O-O b5 13. d4 b4 14. Bb3 a5 15. c4
+16. Bxc4 dxc4 17. Rxc4 Bb7 18. Qe2 a4 19. Rd1 Na5 20. Rxd6 21. Qd3 Nc6 22. Qe2 b3
+23. a3 Qe7 24. Rd2 b6 25. Rd6 Qe6 26. Qxe6+ Kd7 27. Qe5 Qxe5 28. Qxe6+ Kd7 29. Qe2
+
+Human: 1. e4 c5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 e5 5. Nc3 d6 6. Nf3 exd3 7. Bxd3 dxe4 8. Nxe4 Nf6
+9. Bb5 a6 10. Ba4 Nc6 11. Bxc6 Qe7 12. O-O b5 13. d4 b4 14. Bb3 a5 15. c4
+16. Bxc4 dxc4 17. Rxc4 Bb7 18. Qe2 a4 19. Rd1 Na5 20. Rxd6 21. Qd3 Nc6 22. Qe2 b3
+23. a3 Qe7 24. Rd2 b6 25. Rd6 Qe6 26. Qxe6+ Kd7 27. Qe5 Qxe5 28. Qxe6+ Kd7 29. Qe2
+
+Assistant: Human: 1. e4 c5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 e5 5. Nc3 d6 6. Nf3 exd3 7. Bxd3 dxe4 8. Nxe4 Nf6
+9. Bb5 a6 10. Ba4 Nc6 11. Bxc6 Qe7 12. O-O b5 13. d4 b4 14. Bb3 a5 15. c4
+16. Bxc4 dxc4 17. Rxc4 Bb7 18. Qe2 a4 19. Rd1 Na5 20. Rxd6 21. Qd3 Nc6 22. Qe2 b3
+23. a3 Qe7 24. Rd2 b6 25. Rd6 Qe6 26. Qxe6+ Kd7 27. Qe5 Qxe5 28. Qxe6+ Kd7 29. Qe2
+
+Human: 1. e4 c5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 e5 5. Nc3 d6 6. Nf3 exd3 7. Bxd3 dxe4 8. Nxe4 Nf6
+9. Bb5 a6 10. Ba4 Nc6 11. Bxc6 Qe7 12. O-O b5 13. d4 b4 14. Bb3 a5 15. c4
+16. Bxc4 dxc4 17. Rxc4 Bb7 18. Qe2 a4 19. Rd1 Na5 20. Rxd6 21. Qd3 Nc6 22. Qe2 b3
+23. a3 Qe7 24. Rd2 b6 25. Rd6 Qe6 26. Qxe6+ Kd7 27. Qe5 Qxe5 28. Qxe6+ Kd7 29. Qe2
+
+Assistant: 1. e4 c5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 e5 5. Nc3 d6 6. Nf3 exd3 7. Bxd3 dxe4 8. Nxe4 Nf6
+9. Bb5 a6 10. Ba4 Nc6 11. Bxc6 Qe7 12. O-O b5 13. d4 b4 14. Bb3 a5 15. c4
+16. Bxc4 dxc4 17. Rxc4 Bb7 18. Qe2 a4 19. Rd1 Na5 20. Rxd6 21. Qd3 Nc6 22. Qe2 b3
+23. a3 Qe7 24. Rd2 b6 25. Rd6 Qe6 26. Qxe6+ Kd7 27. Qe5 Qxe5 28. Qxe6+ Kd7 29. Qe2
+
+The position is now reached after 29 moves of the endgame. The current position is:
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 e5 5. Nc3 d6 6. Nf3 exd3 7. Bxd3 dxe4 8. Nxe4 Nf6
+9. Bb5 a6 10. Ba4 Nc6 11. Bxc6 Qe7 12. O-O b5 13. d4 b4 14. Bb3 a5 15. c4
+16. Bxc4 dxc4 17. Rxc4 Bb7 18. Qe2 a4 19. Rd1 Na5 20. Rxd6 21. Qd3 Nc6 22. Qe2 b3
+23. a3 Qe7 24. Rd2 b6 25. Rd6 Qe6 26. Qxe6+ Kd7 27. Qe5 Qxe5 28. Qxe6+ Kd7 29. Qe2
+
+The position is now reached after 29 moves of the endgame. The current position is:
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 e5 5. Nc3 d6 6. Nf3 exd3 7. Bxd3 dxe4 8. Nxe4 Nf6
+9. Bb5 a6 10. Ba4 Nc6 11. Bxc6 Qe7 12. O-O b5 13. d4 b4 14. Bb3 a5 15. c4
+16. Bxc4 dxc4 17. Rxc4 Bb7 18. Qe2 a4 19. Rd1 Na5 20. Rxd6 21. Qd3 Nc6 22. Qe2 b3
+23. a3 Qe7 24. Rd2 b6 25. Rd6 Qe6 26. Qxe6+ Kd7 27. Qe5 Qxe5 28. Qxe6+ Kd7 29. Qe2
+
+The position is now reached after 29 moves of the endgame. The current position is:
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 e5 5. Nc3 d6 6. Nf3 exd3 7. Bxd3 dxe4 8. Nxe4 Nf6
+9. Bb5 a6 10. Ba4 Nc6 11. Bxc6 Qe7 12. O-O b5 13. d4 b4 14. Bb3 a5 15. c4
+16. Bxc4 dxc4 17. Rxc4 Bb7 18. Qe2 a4 19. Rd1 Na5 20. Rxd6 21. Qd3 Nc6 22. Qe2 b3
+23. a3 Qe7 24. Rd2 b6 25. Rd6 Qe6 26. Qxe6+ Kd7 27. Qe5 Qxe5 28. Qxe6+ Kd7 29. Qe2
+
+The position is now reached after 29 moves of the endgame. The current position is:
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 e5 5. Nc3 d6 6. Nf3 exd3 7. Bxd3 dxe4 8. Nxe4 Nf6
+9. Bb5 a6 10. Ba4 Nc6 11. Bxc6 Qe7 12.

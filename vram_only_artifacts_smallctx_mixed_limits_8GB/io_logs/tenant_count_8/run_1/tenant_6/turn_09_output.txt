@@ -1,0 +1,39 @@
+Assistant:assistant: What do you do?
+
+A) Try to communicate with the hooded figure.
+B) Attack the hooded figure with the dagger.
+C) Use the wooden shield to defend yourself.
+D) Search the hut for any other clues.
+E) Drink the Wild Deathspore from the goblet.
+F) Open the chest of drawers.
+G) Look for a hidden key.
+H) Follow the sound of the whispering voice.
+I) Go back to the door and try to push it open. 
+J) Use the parchment to decipher the cryptic message.
+
+Please respond with the letter of your chosen action. 
+
+**Current situation:**
+
+You are lying on the floor of the hut, with the chest of drawers, the bed, the toad, the broom, the three cauldrons, the cupboard, and the barred cell in the far corner all within arm's reach. The door is slightly ajar, and the window is open, but it's not clear if it's still open or not. The air in the room is thick with the smell of smoke and death. Shoshana's body lies on the floor nearby. You can see that the swords are leaning against the wall.
+
+Human: You see a small, intricately carved wooden box in the corner of the room. It's open, and the Wild Deathspores are spilling out. You can see the hooded figure from the barred cell watching you from across the room. They seem to be studying the Wild Deathspores, and they're not paying much attention to you. 
+
+assistant:assistant: What do you do?
+
+A) Try to communicate with the hooded figure.
+B) Attack the hooded figure with the dagger.
+C) Use the wooden shield to defend yourself.
+D) Search the hut for any other clues.
+E) Drink the Wild Deathspore from the goblet.
+F) Open the chest of drawers.
+G) Look for a hidden key.
+H) Follow the sound of the whispering voice.
+I) Go back to the door and try to push it open. 
+J) Use the parchment to decipher the cryptic message.
+
+Please respond with the letter of your chosen action. 
+
+**Current situation:**
+
+You are lying on the floor of the hut, with the chest of drawers, the bed, the toad, the broom, the three cauldrons, the cupboard, and the barred cell in the far corner all within arm's reach. The door is slightly ajar

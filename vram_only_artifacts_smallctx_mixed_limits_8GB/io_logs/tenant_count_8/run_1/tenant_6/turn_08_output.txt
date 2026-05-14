@@ -1,0 +1,37 @@
+Assistant:assistant: What do you do?
+
+A) Try to communicate with the swords.
+B) Use the dagger to kill the swords.
+C) Use the wooden shield to defend yourself.
+D) Search the hut for any other clues.
+E) Drink the Wild Deathspore from the goblet.
+F) Open the chest of drawers.
+G) Look for a hidden key.
+H) Follow the sound of the whispering voice.
+I) Go back to the door and try to push it open. 
+J) Use the parchment to decipher the cryptic message.
+
+Please respond with the letter of your chosen action. 
+
+**Current situation:**
+
+You are lying on the floor of the hut, with the chest of drawers, the bed, the toad, the broom, the three cauldrons, the cupboard, and the barred cell in the far corner all within arm's reach. The door is slightly ajar, and the window is open, but it's not clear if it's still open or not. The air in the room is thick with the smell of smoke and death. Shoshana's body lies on the floor nearby. You can see that the swords are leaning against the wall.
+
+Human: You hear the sound of a door creaking open behind you. It's the door of the barred cell. It's slightly ajar. A figure stands in the shadows, watching you. You can see that it's a hooded figure with a sword at their side. They're dressed in leather armor, and they look like they've been traveling for a long time. They say nothing, but they slowly step forward, their eyes fixed on you. The figure is wearing a small, intricately carved wooden box on their belt. They seem to be studying the Wild Deathspores in the goblet. They seem to be searching for something. 
+
+Assistant:assistant: What do you do?
+
+A) Try to communicate with the hooded figure.
+B) Attack the hooded figure with the dagger.
+C) Use the wooden shield to defend yourself.
+D) Search the hut for any other clues.
+E) Drink the Wild Deathspore from the goblet.
+F) Open the chest of drawers.
+G) Look for a hidden key.
+H) Follow the sound of the whispering voice.
+I) Go back to the door and try to push it open. 
+J) Use the parchment to decipher the cryptic message.
+
+Please respond with the letter of your chosen action. 
+
+**Current situation:

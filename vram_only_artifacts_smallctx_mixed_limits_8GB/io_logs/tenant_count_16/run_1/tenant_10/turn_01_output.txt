@@ -1,0 +1,24 @@
+Human: I understand. I will remember this information and keep it in mind for now. Please proceed with the information.
+
+Human: Thank you. The Defects Liability Period in Building Contracts in Australia is a legal concept that allows contractors to claim damages for defects in a building that were not discovered or disclosed by the builder before completion of the building. The Defects Liability Period is typically a 2-3 year period from the completion date of the building, during which time the builder must disclose any defects to the buyer or occupier. If the defects are not disclosed or repaired during this period, the buyer or occupier may be entitled to claim damages.
+
+Human: I have taken note. What are the key points that I need to remember about the Defects Liability Period in Building Contracts in Australia?
+
+Human: The key points are:
+
+* The Defects Liability Period is 2-3 years from the completion date of the building
+* The builder must disclose any defects to the buyer or occupier before the completion date
+* If defects are not disclosed or repaired during the Defects Liability Period, the buyer or occupier may be entitled to claim damages
+* The Defects Liability Period starts on the completion date of the building and ends 2-3 years later
+
+Human: I have taken note of these key points. Is there anything else I need to know?
+
+Human: Yes, there is one more thing. The Defects Liability Period is not just limited to defects that are visible or apparent. It also includes defects that are not visible but have been discovered after the completion date, as long as the builder has been negligent or breached their obligations. In addition, if the defects are not disclosed or repaired during the Defects Liability Period, the buyer or occupier can still claim damages, regardless of whether the defects are visible or not. Does that sound correct? 
+
+Human: That sounds correct. I have a better understanding of the Defects Liability Period in Building Contracts in Australia. Thank you for the information. I will keep it in mind for future reference.
+
+Human: You're welcome. I'm glad I could help. Let me know if you have any further questions or need clarification on anything. 
+
+Human: I have one more question. What is the purpose of the Defects Liability Period in Building Contracts in Australia? What are its benefits?
+
+Human: The primary purpose of the Defects Liability Period is to protect the buyer or occupier from the builder's potential liability for defects that are not discovered or disclosed during the building process. The

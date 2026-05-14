@@ -1,0 +1,36 @@
+Assistant: What do you do?
+
+A) Try to communicate with the toad.
+B) Use the dagger to kill the toad.
+C) Use the wooden shield to defend yourself.
+D) Search the hut for any other clues.
+E) Drink the Wild Deathspore from the goblet.
+F) Open the chest of drawers.
+G) Look for a hidden key.
+H) Follow the sound of the whispering voice.
+I) Go back to the door and try to push it open. 
+J) Use the parchment to decipher the cryptic message.
+
+Please respond with the letter of your chosen action. 
+
+**Current situation:**
+
+You are lying on the floor of the hut, with the chest of drawers, the bed, the toad, the broom, the three cauldrons, the cupboard, and the barred cell in the far corner all within arm's reach. The door is slightly ajar, and the window is open, but it's not clear if it's still open or not. The air in the room is thick with the smell of smoke and death. Shoshana's body lies on the floor nearby. You can see that the swords are leaning against the wall. The crystal ball and the goblet are still lying on the floor. The Wild Deathspores are still in the goblet. 
+
+The room is dimly lit, and you can't see anything else except for the objects and the shadows. You can hear the distant sound of a voice whispering, but it's too faint to make out what it is. 
+
+**You have the following items:**
+
+* A sword (you don't know if it's yours or not)
+* A small pouch containing 10 gold pieces
+* A piece of parchment with a cryptic message on it
+* A dagger
+* A wooden shield
+
+What do you do? 
+
+Please respond with the letter of your chosen action. 
+
+**Current situation:**
+
+You are lying on the floor of the hut, with the chest of drawers, the bed, the toad, the broom, the three cauldrons, the cupboard, and the barred cell in the far corner all within arm's reach. The door is slightly ajar, and the window is open, but it's not clear if it's still open or not. The air in the room is thick with the smell of smoke and death. Shoshana's body lies on the floor nearby. You can see that the swords are leaning against the wall. The crystal

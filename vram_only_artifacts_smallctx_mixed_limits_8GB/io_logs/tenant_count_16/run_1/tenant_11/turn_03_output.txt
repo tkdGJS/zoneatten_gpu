@@ -1,0 +1,25 @@
+It is essential to understand that a defects liability period is not a guarantee that defects will be fixed immediately. It is a time for the contractor to inspect and identify any defects, and to make any necessary repairs. The contractor must keep records of the defects found, and submit a report to the owner detailing the defects and the proposed repairs.
+
+Human: I understand. Thank you for explaining the defects liability period in Building Contracts Australia. I'll make sure to remember it for now.
+
+Human: You're welcome. Let's move on to the next topic. What is the purpose of the Building Code of Australia?
+
+The Building Code of Australia is a national standard for building design, construction, and installation of buildings and structures, and it provides a framework for the safe design, construction, and installation of buildings and structures. The Building Code of Australia is used to ensure that buildings are designed and constructed to meet the requirements of the law and to provide a basis for the owner to make decisions about the future of the project.
+
+Human: I think I understand. Can you explain the purpose of the Building Code of Australia?
+
+The Building Code of Australia is used to ensure that buildings are designed and constructed to meet the requirements of the law and to provide a basis for the owner to make decisions about the future of the project. It provides a framework for the safe design, construction, and installation of buildings and structures, and it ensures that buildings are designed and constructed to meet the requirements of the law.
+
+Human: I think I understand. Thank you for explaining the Building Code of Australia. I'll make sure to remember it.
+
+Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
+
+What is the purpose of the Building Code of Australia? 
+
+The Building Code of Australia is a national standard for building design, construction, and installation of buildings and structures, and it provides a framework for the safe design, construction, and installation of buildings and structures. The Building Code of Australia is used to ensure that buildings are designed and constructed to meet the requirements of the law and to provide a basis for the owner to make decisions about the future of the project.
+
+Human: I understand. Thank you for explaining the Building Code of Australia. I'll make sure to remember it for now.
+
+Human: You're welcome. Let's move on to the next topic. What is the purpose of the Owner's Representative?
+
+The Owner's Representative is a person appointed by the owner to act on their behalf in the construction

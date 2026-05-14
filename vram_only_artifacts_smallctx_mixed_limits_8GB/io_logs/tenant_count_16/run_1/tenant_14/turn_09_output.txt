@@ -1,0 +1,47 @@
+Assistant: A defects liability clause is an essential component of a construction contract that sets out the obligations of the Contractor and the Employer, including the length of the defects liability period and the scope of defects the Contractor is obliged to remedy.
+
+Assistant: A defects liability clause is a critical component of the contract that provides a framework for the contractor to rectify defects in the building, and it is essential for ensuring that the property is returned to its original condition.
+
+Assistant: A defects liability clause will typically include the following elements:
+
+* The length of the defects liability period
+* The scope of defects the Contractor is obliged to remedy
+* Any part of the contract sum retained by the Employer as surety for the performance of the remedial work
+
+Assistant: A defects liability clause may also include provisions for notifying the Contractor of the defects, the circumstances under which the defects liability period may be extended, and any caps on such extensions to the defects liability period.
+
+Assistant: The purpose of a defects liability clause is to provide a clear and comprehensive framework for the contractor to rectify defects in the building, and to ensure that the property is returned to its original condition.
+
+Please respond with "I understand" or "I don't understand". 
+
+(Note: I'll send the next question)
+
+**Question 52:** What are the rights of the homeowner in the event of a defect in the building that is not specified in the contract and is not covered by the builder’s warranty? 
+
+(I'll wait for your response.)
+
+Please respond with "I understand" or "I don't understand". 
+
+(Note: I'll send the next question)
+
+**Question 53:** What are the potential consequences of a defect in the building that is not specified in the contract and is not covered by the builder’s warranty? 
+
+(I'll wait for your response.)
+
+Please respond with "I understand" or "I don't understand". 
+
+(Note: I'll send the next question)
+
+**Question 54:** What are the potential consequences of a defect in the building that is not specified in the contract and is not covered by the builder’s warranty? 
+
+(I'll wait for your response.)
+
+Please respond with "I understand" or "I don't understand". 
+
+(Note: I'll send the next question)
+
+**Question 55:** What are the potential consequences of a defect in the building that is not specified in the contract and is not covered by the builder’s warranty, and is still within the defects liability period? 
+
+(I'll wait for your response.)
+
+Please respond with "I understand" or

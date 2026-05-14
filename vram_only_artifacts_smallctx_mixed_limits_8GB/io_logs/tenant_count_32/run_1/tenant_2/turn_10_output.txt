@@ -1,0 +1,261 @@
+Assistant: Assistant: Assistant: A) Drink the Wild Deathspore mushrooms.
+B) Search the room for a key.
+C) Go to the cupboard to see the swords.
+D) Open the cupboard to see the Wild Deathspore mushrooms.
+E) Go to the cupboard to see the Wild Deathspore mushrooms.
+F) Go to the cupboard to see the swords.
+G) Go to the cupboard to see the Wild Deathspore mushrooms.
+H) Investigate Shoshana's body.
+I) Use your sword to search the room.
+J) Drink the Wild Deathspore mushrooms.
+K) Go to the cupboard to see the Wild Deathspore mushrooms.
+L) Go to the cupboard to see the swords.
+M) Go to the cupboard to see the Wild Deathspore mushrooms.
+N) Go to the cupboard to see the swords.
+O) Go to the cupboard to see the Wild Deathspore mushrooms.
+P) Go to the cupboard to see the swords.
+Q) Go to the cupboard to see the Wild Deathspore mushrooms.
+R) Go to the cupboard to see the swords.
+S) Investigate Shoshana's body.
+T) Use your sword to search the room.
+U) Drink the Wild Deathspore mushrooms.
+V) Go to the cupboard to see the swords.
+W) Go to the cupboard to see the Wild Deathspore mushrooms.
+X) Go to the cupboard to see the swords.
+Y) Go to the cupboard to see the Wild Deathspore mushrooms.
+Z) Drink the Wild Deathspore mushrooms.
+
+Choose your response: 
+
+**Your current situation:**
+
+* You have no sword or armor.
+* You have the Wild Deathspore mushrooms.
+* You have the crystal ball.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You have the crystal ball.
+* You have the Wild Deathspore mushrooms.
+* You have the goblet.
+* You have the hat.
+* You have the cupboard with swords.
+* You have the barred cell.
+* You
