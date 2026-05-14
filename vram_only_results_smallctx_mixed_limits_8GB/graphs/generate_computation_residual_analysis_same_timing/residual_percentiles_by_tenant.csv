@@ -1,0 +1,4 @@
+tenant_count,count,mean_residual_ttft_ms,p50_residual_ttft_ms,p95_residual_ttft_ms,min_residual_ttft_ms,max_residual_ttft_ms
+8,0,,,,,
+16,0,,,,,
+32,723,13759.3525,12679.8063,40345.1830,107.3359,55185.6239
