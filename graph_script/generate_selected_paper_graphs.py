@@ -29,13 +29,17 @@ GROUP_COLORS = {
     "8192": "#2563eb",
     "2048": "#f97316",
 }
+DISPLAY_LIMIT_MAP = {
+    "8192": "24576",
+    "2048": "12288",
+}
 GROUP1_COLOR = "#2563eb"
 GROUP2_COLOR = "#f97316"
 BLOCKING_COLOR = "#2563eb"
 PREFILL_COLOR = "#84cc16"
 REMAINING_COLOR = "#dc2626"
 THRESHOLD_MS = 100.0
-MAX_NUM_BATCHED_TOKENS = 8192.0
+MAX_NUM_BATCHED_TOKENS = 16384.0
 
 
 def mean(values):
@@ -95,10 +99,10 @@ def actual_group_limits(rows):
 
 def group_label_for_limit(history_limit_tokens, group1_limit, group2_limit):
     if history_limit_tokens == group1_limit:
-        return "Group1"
+        return f"Group1 (limit={DISPLAY_LIMIT_MAP.get(group1_limit, group1_limit)})"
     if history_limit_tokens == group2_limit:
-        return "Group2"
-    return f"limit={history_limit_tokens}"
+        return f"Group2 (limit={DISPLAY_LIMIT_MAP.get(group2_limit, group2_limit)})"
+    return f"limit={DISPLAY_LIMIT_MAP.get(history_limit_tokens, history_limit_tokens)}"
 
 
 def group_color_for_limit(history_limit_tokens, group1_limit, group2_limit):
@@ -208,7 +212,7 @@ def load_prefill_batches(blocking_mode, tenant_count="32"):
         batch_rows.append(
             {
                 "turn_index": turn_index,
-                "batch_compute_ratio_8192": total_compute / MAX_NUM_BATCHED_TOKENS,
+                "batch_compute_ratio": total_compute / MAX_NUM_BATCHED_TOKENS,
                 "batch_mean_prefill_ms": mean([r["prefill_ms"] for r in subset]),
             }
         )
@@ -277,14 +281,14 @@ def plot_p99_breakdown_by_turn(plt, points, out_path, fig_height=6.2):
     group1_limit, group2_limit = actual_group_limits(points)
     groups = [
         (
-            f"Group1 (limit={group1_limit})",
+            group_label_for_limit(group1_limit, group1_limit, group2_limit),
             [p for p in points if p["history_limit_tokens"] == group1_limit],
         ),
     ]
     if group2_limit != group1_limit:
         groups.append(
             (
-                f"Group2 (limit={group2_limit})",
+                group_label_for_limit(group2_limit, group1_limit, group2_limit),
                 [p for p in points if p["history_limit_tokens"] == group2_limit],
             )
         )
@@ -347,6 +351,167 @@ def plot_p99_breakdown_by_turn(plt, points, out_path, fig_height=6.2):
     plt.close(fig)
 
 
+def build_p99_blocking_prefill_sum_by_turn(points):
+    group1_limit, group2_limit = actual_group_limits(points)
+    groups = [
+        (
+            group_label_for_limit(group1_limit, group1_limit, group2_limit),
+            [p for p in points if p["history_limit_tokens"] == group1_limit],
+        ),
+    ]
+    if group2_limit != group1_limit:
+        groups.append(
+            (
+                group_label_for_limit(group2_limit, group1_limit, group2_limit),
+                [p for p in points if p["history_limit_tokens"] == group2_limit],
+            )
+        )
+
+    rows = []
+    for group_label, group_points in groups:
+        grouped = defaultdict(list)
+        for point in group_points:
+            grouped[point["turn_index"]].append(point)
+        for turn in range(1, 11):
+            turn_points = grouped[turn]
+            p99_blocking_ms = percentile([p["blocking_ms"] for p in turn_points], 0.99)
+            p99_prefill_ms = percentile([p["prefill_ms"] for p in turn_points], 0.99)
+            p99_remaining_ms = percentile([p["remaining_ms"] for p in turn_points], 0.99)
+            rows.append(
+                {
+                    "group_label": group_label,
+                    "turn_index": turn,
+                    "p99_blocking_ms": p99_blocking_ms,
+                    "p99_prefill_ms": p99_prefill_ms,
+                    "p99_blocking_plus_prefill_ms": p99_blocking_ms + p99_prefill_ms,
+                    "p99_remaining_ms": p99_remaining_ms,
+                    "p99_total_components_ms": p99_blocking_ms
+                    + p99_prefill_ms
+                    + p99_remaining_ms,
+                }
+            )
+    return rows
+
+
+def write_p99_blocking_prefill_sum_csv(rows, out_path):
+    fieldnames = [
+        "group_label",
+        "turn_index",
+        "p99_blocking_ms",
+        "p99_prefill_ms",
+        "p99_blocking_plus_prefill_ms",
+        "p99_remaining_ms",
+        "p99_total_components_ms",
+    ]
+    with out_path.open("w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        for row in rows:
+            writer.writerow(row)
+
+
+def plot_p99_blocking_prefill_sum_by_turn(plt, rows, out_path):
+    fig, ax = plt.subplots(figsize=(12, 6.2))
+    fig.subplots_adjust(left=0.1, right=0.98, bottom=0.18, top=0.96)
+    group_labels = []
+    for row in rows:
+        if row["group_label"] not in group_labels:
+            group_labels.append(row["group_label"])
+
+    markers = ["o", "s", "^", "D"]
+    colors = [GROUP1_COLOR, GROUP2_COLOR, "#059669", "#7c3aed"]
+    for index, group_label in enumerate(group_labels):
+        subset = [row for row in rows if row["group_label"] == group_label]
+        ax.plot(
+            [row["turn_index"] for row in subset],
+            [row["p99_blocking_plus_prefill_ms"] / 1000.0 for row in subset],
+            marker=markers[index % len(markers)],
+            linewidth=2.6,
+            markersize=7,
+            color=colors[index % len(colors)],
+            label=group_label,
+        )
+
+    ax.set_xlim(1, 10)
+    ax.set_xticks(range(1, 11))
+    ax.set_xlabel("Turn")
+    ax.set_ylabel("P99 Blocking + P99 Prefill (sec)")
+    ax.grid(axis="y", alpha=0.25)
+    ax.legend(loc="upper left", frameon=True, fontsize=13)
+    fig.savefig(out_path, dpi=220)
+    plt.close(fig)
+
+
+def build_p99_component_totals_by_group(rows):
+    totals = []
+    group_labels = []
+    for row in rows:
+        if row["group_label"] not in group_labels:
+            group_labels.append(row["group_label"])
+    for group_label in group_labels:
+        subset = [row for row in rows if row["group_label"] == group_label]
+        blocking_ms = sum(row["p99_blocking_ms"] for row in subset)
+        prefill_ms = sum(row["p99_prefill_ms"] for row in subset)
+        remaining_ms = sum(row["p99_remaining_ms"] for row in subset)
+        totals.append(
+            {
+                "group_label": group_label,
+                "sum_p99_blocking_ms": blocking_ms,
+                "sum_p99_prefill_ms": prefill_ms,
+                "sum_p99_remaining_ms": remaining_ms,
+                "sum_p99_total_components_ms": blocking_ms + prefill_ms + remaining_ms,
+            }
+        )
+    return totals
+
+
+def write_p99_component_totals_csv(rows, out_path):
+    fieldnames = [
+        "group_label",
+        "sum_p99_blocking_ms",
+        "sum_p99_prefill_ms",
+        "sum_p99_remaining_ms",
+        "sum_p99_total_components_ms",
+    ]
+    with out_path.open("w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        for row in rows:
+            writer.writerow(row)
+
+
+def plot_p99_component_totals_by_group(plt, rows, out_path):
+    fig, ax = plt.subplots(figsize=(9.5, 6.2))
+    fig.subplots_adjust(left=0.12, right=0.97, bottom=0.2, top=0.94)
+
+    labels = [row["group_label"] for row in rows]
+    xs = list(range(len(rows)))
+    blocking = [row["sum_p99_blocking_ms"] / 1000.0 for row in rows]
+    prefill = [row["sum_p99_prefill_ms"] / 1000.0 for row in rows]
+    remaining = [row["sum_p99_remaining_ms"] / 1000.0 for row in rows]
+
+    ax.bar(xs, blocking, color=BLOCKING_COLOR, label="Blocking Time")
+    ax.bar(xs, prefill, bottom=blocking, color=PREFILL_COLOR, label="Prefill Time")
+    ax.bar(
+        xs,
+        remaining,
+        bottom=[b + p for b, p in zip(blocking, prefill)],
+        color=REMAINING_COLOR,
+        label="Remaining TTFT",
+    )
+    ax.set_xticks(xs)
+    ax.set_xticklabels(labels, rotation=0)
+    ax.set_ylabel("Sum of component time (sec)")
+    ax.grid(axis="y", alpha=0.25)
+    ax.legend(loc="upper left", frameon=True, fontsize=13)
+
+    for x, total in zip(xs, [b + p + r for b, p, r in zip(blocking, prefill, remaining)]):
+        ax.text(x, total, f"{total:.1f}s", ha="center", va="bottom", fontsize=12)
+
+    fig.savefig(out_path, dpi=220)
+    plt.close(fig)
+
+
 def plot_blocking_and_prefill(plt, rows, rows_lt, rows_gt, out_path):
     fig, axes = plt.subplots(1, 3, figsize=(18, 6.2), sharey=False)
     fig.subplots_adjust(left=0.07, right=0.98, bottom=0.22, top=0.97, wspace=0.22)
@@ -372,7 +537,7 @@ def plot_blocking_and_prefill(plt, rows, rows_lt, rows_gt, out_path):
         alpha=0.42,
         color=group_color_for_limit(group1_limit, group1_limit, group2_limit),
         edgecolors="none",
-        label=f"Group1 (limit={group1_limit})",
+        label=group_label_for_limit(group1_limit, group1_limit, group2_limit),
     )
     if group2_limit != group1_limit:
         ax0.scatter(
@@ -390,7 +555,7 @@ def plot_blocking_and_prefill(plt, rows, rows_lt, rows_gt, out_path):
             alpha=0.42,
             color=group_color_for_limit(group2_limit, group1_limit, group2_limit),
             edgecolors="none",
-            label=f"Group2 (limit={group2_limit})",
+            label=group_label_for_limit(group2_limit, group1_limit, group2_limit),
         )
     ax0.set_xlim(*x0lim)
     ax0.set_ylim(*y0lim)
@@ -402,7 +567,7 @@ def plot_blocking_and_prefill(plt, rows, rows_lt, rows_gt, out_path):
     ax0.text(0.5, -0.30, "(a)", transform=ax0.transAxes, ha="center", va="top")
 
     all_prefill_rows = rows_lt + rows_gt
-    xlim = padded_limits([r["batch_compute_ratio_8192"] for r in all_prefill_rows])
+    xlim = padded_limits([r["batch_compute_ratio"] for r in all_prefill_rows])
     ylim = padded_limits([r["batch_mean_prefill_ms"] / 1000.0 for r in all_prefill_rows])
     turn_handles = {}
     for ax, panel_rows, label in [
@@ -412,7 +577,7 @@ def plot_blocking_and_prefill(plt, rows, rows_lt, rows_gt, out_path):
         for turn in range(1, 11):
             subset = [r for r in panel_rows if r["turn_index"] == turn]
             sc = ax.scatter(
-                [r["batch_compute_ratio_8192"] for r in subset],
+                [r["batch_compute_ratio"] for r in subset],
                 [r["batch_mean_prefill_ms"] / 1000.0 for r in subset],
                 s=62,
                 alpha=0.78,
@@ -429,7 +594,7 @@ def plot_blocking_and_prefill(plt, rows, rows_lt, rows_gt, out_path):
         ax.text(
             0.03,
             0.97,
-            f"{label}\nr = {corr([r['batch_compute_ratio_8192'] for r in panel_rows], [r['batch_mean_prefill_ms'] for r in panel_rows]):.3f}",
+            f"{label}\nr = {corr([r['batch_compute_ratio'] for r in panel_rows], [r['batch_mean_prefill_ms'] for r in panel_rows]):.3f}",
             transform=ax.transAxes,
             va="top",
             ha="left",
@@ -501,6 +666,26 @@ def main():
         points_32,
         OUT_DIR / "paper_ttft_breakdown_group_p99_by_turn_32tenants_shorter_height.png",
         fig_height=5.6,
+    )
+    p99_blocking_prefill_sum = build_p99_blocking_prefill_sum_by_turn(points_32)
+    write_p99_blocking_prefill_sum_csv(
+        p99_blocking_prefill_sum,
+        OUT_DIR / "paper_p99_blocking_prefill_sum_by_turn_32tenants.csv",
+    )
+    plot_p99_blocking_prefill_sum_by_turn(
+        plt,
+        p99_blocking_prefill_sum,
+        OUT_DIR / "paper_p99_blocking_prefill_sum_by_turn_32tenants.png",
+    )
+    p99_component_totals = build_p99_component_totals_by_group(p99_blocking_prefill_sum)
+    write_p99_component_totals_csv(
+        p99_component_totals,
+        OUT_DIR / "paper_p99_component_totals_by_group_32tenants.csv",
+    )
+    plot_p99_component_totals_by_group(
+        plt,
+        p99_component_totals,
+        OUT_DIR / "paper_p99_component_totals_by_group_32tenants.png",
     )
     plot_blocking_and_prefill(
         plt,
