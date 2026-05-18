@@ -1,0 +1,264 @@
+Assistant:assistant:assistant:assistant:assistant:assistant:assistant:assistant:assistant:assistant: What do you do?
+
+A) Take the diary
+B) Take the coins
+C) Take the box
+D) Drink the Wild Deathspore liquid
+E) Search the room for more clues
+F) Open the cupboard
+G) Go back to the palace
+H) Use the swords on Shoshana
+I) Leave the hut
+J) Take the map
+K) Examine the parchment
+L) Drink the Wild Deathspore liquid
+M) Search the hut for more clues
+N) Ask the witch about the coins
+
+Human: You get to take the coins.
+
+As you take the coins, you notice that they seem to be a treasure map. You start to study the map more closely, and you notice that it leads to a hidden location in the palace.
+
+The map appears to be a crude illustration of the palace's inner workings, and it seems to point to a specific location.
+
+The map also contains a cryptic message that reads:
+
+"Beware the shadows in the night. The palace is full of secrets. Seek the truth in the darkness."
+
+As you finish reading the message, you hear a faint rustling noise coming from the cupboard. It sounds like something is moving inside.
+
+What do you do?
+
+A) Take the diary
+B) Take the coins
+C) Take the box
+D) Drink the Wild Deathspore liquid
+E) Search the room for more clues
+F) Open the cupboard
+G) Go back to the palace
+H) Use the swords on Shoshana
+I) Leave the hut
+J) Take the map
+K) Examine the parchment
+L) Drink the Wild Deathspore liquid
+M) Search the hut for more clues
+N) Ask the witch about the coins
+
+Human: The hut seems to be filled with all sorts of strange and wondrous things. There's a large, ornate mirror hanging on the wall, a collection of rare and exotic plants on the shelves, and a small, leather-bound book lying on the floor.
+
+Assistant:assistant:assistant:assistant:assistant:assistant:assistant:assistant:assistant:assistant:assistant: What do you do?
+
+A) Take the diary
+B) Take the coins
+C) Take the box
+D) Drink the Wild Deathspore liquid
+E) Search the room for more clues
+F) Open the cupboard
+G) Go back to the palace
+H) Use the swords on Shoshana
+I) Leave the hut
+J) Take the map
+K) Examine the parchment
+L) Drink the Wild Deathspore liquid
+M) Search the hut for more clues
+N) Ask the witch about the coins
+
+Human: You get to take the box.
+
+As you take the box, you notice that it's made of a strange, dark material that seems to absorb light. You lift the lid, and inside, you find a small, ornate key.
+
+The key is attached to a small, leather strap, and it seems to be enchanted. You try to use the key, but it doesn't fit into any of the locks.
+
+What do you do?
+
+A) Take the diary
+B) Take the coins
+C) Take the box
+D) Drink the Wild Deathspore liquid
+E) Search the room for more clues
+F) Open the cupboard
+G) Go back to the palace
+H) Use the swords on Shoshana
+I) Leave the hut
+J) Take the map
+K) Examine the parchment
+L) Drink the Wild Deathspore liquid
+M) Search the hut for more clues
+N) Ask the witch about the coins
+
+Human: The palace is full of secrets. What do you do?
+
+A) Take the diary
+B) Take the coins
+C) Take the box
+D) Drink the Wild Deathspore liquid
+E) Search the room for more clues
+F) Open the cupboard
+G) Go back to the palace
+H) Use the swords on Shoshana
+I) Leave the hut
+J) Take the map
+K) Examine the parchment
+L) Drink the Wild Deathspore liquid
+M) Search the hut for more clues
+N) Ask the witch about the coins
+
+Human: You get to take the key.
+
+As you take the key, you notice that it's enchanted. You try to use it, but it doesn't fit into any of the locks.
+
+What do you do?
+
+A) Take the diary
+B) Take the coins
+C) Take the box
+D) Drink the Wild Deathspore liquid
+E) Search the room for more clues
+F) Open the cupboard
+G) Go back to the palace
+H) Use the swords on Shoshana
+I) Leave the hut
+J) Take the map
+K) Examine the parchment
+L) Drink the Wild Deathspore liquid
+M) Search the hut for more clues
+N) Ask the witch about the coins
+
+Human: You get to take the box.
+
+As you take the box, you notice that it's filled with a strange, pulsating energy. You try to open it, but it won't budge.
+
+What do you do?
+
+A) Take the diary
+B) Take the coins
+C) Take the box
+D) Drink the Wild Deathspore liquid
+E) Search the room for more clues
+F) Open the cupboard
+G) Go back to the palace
+H) Use the swords on Shoshana
+I) Leave the hut
+J) Take the map
+K) Examine the parchment
+L) Drink the Wild Deathspore liquid
+M) Search the hut for more clues
+N) Ask the witch about the coins
+
+Human: You get to take the map.
+
+As you take the map, you notice that it's filled with intricate symbols and markings. You try to decipher them, but it's too complex.
+
+What do you do?
+
+A) Take the diary
+B) Take the coins
+C) Take the box
+D) Drink the Wild Deathspore liquid
+E) Search the room for more clues
+F) Open the cupboard
+G) Go back to the palace
+H) Use the swords on Shoshana
+I) Leave the hut
+J) Take the map
+K) Examine the parchment
+L) Drink the Wild Deathspore liquid
+M) Search the hut for more clues
+N) Ask the witch about the coins
+
+Human: You get to take the parchment.
+
+As you take the parchment, you notice that it's filled with cryptic messages and symbols. You try to decipher them, but it's too complex.
+
+What do you do?
+
+A) Take the diary
+B) Take the coins
+C) Take the box
+D) Drink the Wild Deathspore liquid
+E) Search the room for more clues
+F) Open the cupboard
+G) Go back to the palace
+H) Use the swords on Shoshana
+I) Leave the hut
+J) Take the map
+K) Examine the parchment
+L) Drink the Wild Deathspore liquid
+M) Search the hut for more clues
+N) Ask the witch about the coins
+
+Human: You get to take the parchment.
+
+As you take the parchment, you notice that it's filled with strange symbols and markings. You try to decipher them, but it's too complex.
+
+What do you do?
+
+A) Take the diary
+B) Take the coins
+C) Take the box
+D) Drink the Wild Deathspore liquid
+E) Search the room for more clues
+F) Open the cupboard
+G) Go back to the palace
+H) Use the swords on Shoshana
+I) Leave the hut
+J) Take the map
+K) Examine the parchment
+L) Drink the Wild Deathspore liquid
+M) Search the hut for more clues
+N) Ask the witch about the coins
+
+Human: You get to take the swords.
+
+As you take the swords, you notice that they're enchanted. You try to use them, but they don't seem to fit in your hand.
+
+What do you do?
+
+A) Take the diary
+B) Take the coins
+C) Take the box
+D) Drink the Wild Deathspore liquid
+E) Search the room for more clues
+F) Open the cupboard
+G) Go back to the palace
+H) Use the swords on Shoshana
+I) Leave the hut
+J) Take the map
+K) Examine the parchment
+L) Drink the Wild Deathspore liquid
+M) Search the hut for more clues
+N) Ask the witch about the coins
+
+Human: You get to take the swords.
+
+As you take the swords, you notice that they feel heavy and cold to the touch. You try to use them, but they don't seem to fit in your hand.
+
+What do you do?
+
+A) Take the diary
+B) Take the coins
+C) Take the box
+D) Drink the Wild Deathspore liquid
+E) Search the room for more clues
+F) Open the cupboard
+G) Go back to the palace
+H) Use the swords on Shoshana
+I) Leave the hut
+J) Take the map
+K) Examine the parchment
+L) Drink the Wild Deathspore liquid
+M) Search the hut for more clues
+N) Ask the witch about the swords
+
+Human: You get to take the parchment.
+
+As you take the parchment, you notice that it's filled with cryptic messages and symbols. You try to decipher them, but it's too complex.
+
+What do you do?
+
+A) Take the diary
+B) Take the coins
+C) Take the box
+D) Drink the Wild Deathspore liquid
+E) Search the room for more clues
+F) Open

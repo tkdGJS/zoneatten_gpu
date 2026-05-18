@@ -1,0 +1,339 @@
+Assistant: Assistant: Assistant: The toad is indeed a unique creature. It's not poisonous, but it's definitely not something you'd want to mess with. You can try to communicate with it, but be careful not to startle it.
+
+What do you do? 
+
+A) Try to communicate with the toad
+B) Leave the bed and continue exploring the hut
+C) Search the hut for more clues
+D) Open the cupboard to look for more items
+E) Stand up and try to attack Shoshana
+F) Try to reason with Shoshana
+G) Use the sword to try and smash the cupboard
+H) Go to the bed in the near right corner to examine it
+I) Open the chest of drawers to look for more items
+J) Open the cupboard to look for more clues
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Try to communicate with the toad
+B) Leave the bed and continue exploring the hut
+C) Search the hut for more clues
+D) Open the cupboard to look for more items
+E) Stand up and try to attack Shoshana
+F) Try to reason with Shoshana
+G) Use the sword to try and smash the cupboard
+H) Go to the bed in the near right corner to examine it
+I) Open the chest of drawers to look for more items
+J) Open the cupboard to look for more clues
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Try to communicate with the toad
+B) Leave the bed and continue exploring the hut
+C) Search the hut for more clues
+D) Open the cupboard to look for more items
+E) Stand up and try to attack Shoshana
+F) Try to reason with Shoshana
+G) Use the sword to try and smash the cupboard
+H) Go to the bed in the near right corner to examine it
+I) Open the chest of drawers to look for more items
+J) Open the cupboard to look for more clues
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Try to communicate with the toad
+B) Leave the bed and continue exploring the hut
+C) Search the hut for more clues
+D) Open the cupboard to look for more items
+E) Stand up and try to attack Shoshana
+F) Try to reason with Shoshana
+G) Use the sword to try and smash the cupboard
+H) Go to the bed in the near right corner to examine it
+I) Open the chest of drawers to look for more items
+J) Open the cupboard to look for more clues
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Try to communicate with the toad
+B) Leave the bed and continue exploring the hut
+C) Search the hut for more clues
+D) Open the cupboard to look for more items
+E) Stand up and try to attack Shoshana
+F) Try to reason with Shoshana
+G) Use the sword to try and smash the cupboard
+H) Go to the bed in the near right corner to examine it
+I) Open the chest of drawers to look for more items
+J) Open the cupboard to look for more clues
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Try to communicate with the toad
+B) Leave the bed and continue exploring the hut
+C) Search the hut for more clues
+D) Open the cupboard to look for more items
+E) Stand up and try to attack Shoshana
+F) Try to reason with Shoshana
+G) Use the sword to try and smash the cupboard
+H) Go to the bed in the near right corner to examine it
+I) Open the chest of drawers to look for more items
+J) Open the cupboard to look for more clues
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Try to communicate with the toad
+B) Leave the bed and continue exploring the hut
+C) Search the hut for more clues
+D) Open the cupboard to look for more items
+E) Stand up and try to attack Shoshana
+F) Try to reason with Shoshana
+G) Use the sword to try and smash the cupboard
+H) Go to the bed in the near right corner to examine it
+I) Open the chest of drawers to look for more items
+J) Open the cupboard to look for more clues
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Try to communicate with the toad
+B) Leave the bed and continue exploring the hut
+C) Search the hut for more clues
+D) Open the cupboard to look for more items
+E) Stand up and try to attack Shoshana
+F) Try to reason with Shoshana
+G) Use the sword to try and smash the cupboard
+H) Go to the bed in the near right corner to examine it
+I) Open the chest of drawers to look for more items
+J) Open the cupboard to look for more clues
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Try to communicate with the toad
+B) Leave the bed and continue exploring the hut
+C) Search the hut for more clues
+D) Open the cupboard to look for more items
+E) Stand up and try to attack Shoshana
+F) Try to reason with Shoshana
+G

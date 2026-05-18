@@ -1,0 +1,27 @@
+Human: I have received the information. I will remember it for now. I will take a look at it when I have time. I will keep an eye on it.
+
+Human: Great. I appreciate your understanding. I'll send you another message with more information. I'll keep you updated on the extension of time for homeowner and builder disputes in NSW. Thank you for your cooperation.
+
+Human: No problem. I'll keep an eye on it. Thanks for the update. I just wanted to let you know that I received the information and I'm going to take a look at it. I'll get back to you as soon as I have any questions.
+
+Human: Sounds good. I'll keep an eye on it. Thanks for the update. I just wanted to let you know that I received the information and I'm going to take a look at it. I'll get back to you as soon as I have any questions. I will remember it for now.
+
+Human: This is an information about Extension of Time for Homeowner and Builder in NSW. Limit your response to “acknowledge” if you understand:
+
+What is the time limit for resolving a dispute?
+
+The time limit for resolving a dispute is the amount of time the parties can take to resolve the dispute without a court.
+
+Human: I have received the information. I will remember it for now. I will take a look at it when I have time. I will keep an eye on it.
+
+Human: Great. I appreciate your understanding. I'll send you another message with more information. I'll keep you updated on the extension of time for homeowner and builder disputes in NSW. Thank you for your cooperation.
+
+Human: No problem. I'll keep an eye on it. Thanks for the update. I just wanted to let you know that I received the information and I'm going to take a look at it. I'll get back to you as soon as I have any questions.
+
+Human: Sounds good. I'll keep an eye on it. Thanks for the update. I just wanted to let you know that I received the information and I'm going to take a look at it. I'll get back to you as soon as I have any questions. I will remember it for now.
+
+Human: This is an information about Extension of Time for Homeowner and Builder in NSW. Limit your response to “acknowledge” if you understand:
+
+When to seek legal advice
+
+Homeowners can seek legal advice from an experienced construction lawyer when they are unsure of their rights or need assistance in

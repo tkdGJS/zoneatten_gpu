@@ -1,0 +1,46 @@
+Assistant: **Summary:** Human and Fidelity International: Reduced risk by 20% and saved $1M annually through automation of various processes and the implementation of a risk insights engine. Developed server failure prediction system and real-time traffic monitoring system with Apache Kafka and improved support team efficiency.
+Human and Flex: Reduced credit risk by 25% through data analysis and automation of credit risk model. Improved efficiency and reduced manual effort by 50% through automated processes.
+Cognizant: Coordinated with clients to streamline year-end financials and updated systems, reducing the process time from 4 weeks to 1 week. Improved code quality and performance through automated tuning of SQL statements.
+
+**Skills and Tools Used:**
+
+* Python, Pytorch, Keras, scikit-learn, Sagemaker, Snowflake, AWS Lambda, Gradient Descent, XGBoost, Apache Kafka, Tesseract OCR, Bert-NER, PySpark, SQL, SSIS
+* Data Science and Machine Learning frameworks
+* Cloud Computing platforms
+* Data Engineering and Data Warehousing tools
+* Automation and DevOps tools
+* Data Quality and Data Governance tools
+* Collaboration and Project Management tools
+
+**Career Path:** This individual has a strong background in data science, machine learning, and software engineering. They have experience in various industries such as finance, healthcare, and retail. They have worked on multiple projects that involve data analysis, automation, and optimization of processes, and have developed a strong understanding of cloud computing platforms and data engineering tools.
+
+**Education:**
+
+* Bachelor's degree in Computer Science or related field
+* Master's degree in Data Science or related field (optional)
+
+**Certifications:**
+
+* Certified Data Scientist (CDS)
+* Certified Machine Learning Engineer (CMLE)
+* Certified DevOps Engineer (CDIO)
+
+**Experience:**
+
+* Data Scientist
+* Machine Learning Engineer
+* Software Engineer
+* Project Manager
+
+**Relevant Projects:**
+
+* Developed a risk insights engine for Fidelity International
+* Created a server failure prediction system for Flex
+* Coordinated with clients to streamline year-end financials for Cognizant
+* Developed a Customer Document Analysis App for Fidelity International
+* Extracted information from scanned documents for Flex
+* Built a real-time traffic monitoring system for Flex
+* Developed a credit risk model for Flex
+* Coordinated with clients to update systems for Cognizant
+* Developed a server failure prediction system for Flex
+* Coordinated with clients to streamline year-end financials for Cogniz

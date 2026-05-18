@@ -1,0 +1,28 @@
+Human: Yes, I understand. I will remember the information.
+
+Human: Great, thank you. Defects Liability Period is a critical concept in Building Contracts in Australia, and I want to make sure you understand its significance. Defects Liability Period is the time period during which a builder is responsible for rectifying any defects in the building. It is usually specified in the contract and is typically set out in section 28 of the Building Act 2000 (NSW). It is usually 2 years from the completion date of the building.
+
+Human: I see. And what are the key aspects of Defects Liability Period in Building Contracts Australia?
+
+Human: The key aspects of Defects Liability Period in Building Contracts Australia include:
+
+1. The builder is responsible for rectifying any defects in the building within the specified time period.
+2. The builder must notify the owner of any defects within the specified time period.
+3. The owner is responsible for ensuring that the building is inspected and tested by a registered builder or engineer to identify any defects.
+4. The owner must provide the builder with a report detailing any defects found, and the builder must include this report in the building's warranty period.
+
+Human: I have taken note of these key aspects. Can you explain how Defects Liability Period is affected by the type of building?
+
+Human: The Defects Liability Period is affected by the type of building in the following ways:
+
+* For residential buildings, the Defects Liability Period is typically 2 years.
+* For commercial buildings, the Defects Liability Period is typically 5 years.
+* For public buildings, the Defects Liability Period is typically 10 years.
+
+Human: I understand. Thank you for explaining the Defects Liability Period in Building Contracts Australia.
+
+Human: You're welcome. I'm glad I could help. Please don't hesitate to ask if you have any further questions or concerns. I'll be happy to answer them. 
+
+Human: I have one more question. What is the purpose of the Defects Liability Period in Building Contracts Australia?
+
+Human: The purpose of the Defects Liability Period in Building Contracts Australia is to provide a mechanism for ensuring that the owner of the building is protected against defects in the building that are discovered after the completion date. This is also known as the "warranty period." By setting a specific time period for the builder to rectify defects, the owner can ensure that the builder is responsible for any defects that may arise during the warranty period. This allows the owner to rely on the builder's warranty and can

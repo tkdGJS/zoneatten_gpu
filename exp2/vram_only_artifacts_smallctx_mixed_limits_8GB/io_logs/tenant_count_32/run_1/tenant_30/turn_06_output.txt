@@ -1,0 +1,44 @@
+Human: Human: I have received the information about how to settle dispute from Delay in NSW. I will make sure to keep it in mind.
+
+Human: Great, thank you. I'll send you another message with more details.
+
+Human: I've sent you another message. What is the role of the Fair Trading in resolving disputes?
+
+Human: This is an information about Extension of Time for Homeowner and Builder in NSW. Limit your response to “acknowledge” if you understand:
+
+Fair Trading is a government agency that regulates the construction industry in NSW. The Fair Trading department is responsible for enforcing the Building and Construction Industry Fairness Act 2016 and the Building and Construction Industry Security of Payment Act 2016.
+
+The Fair Trading department may investigate disputes between homeowners and builders, and may order the builder to pay compensation to the homeowner for the delay.
+
+Human: Human: I have received the information about Fair Trading in NSW. I will make sure to keep it in mind.
+
+Human: Great, thank you. I'll send you another message with more details.
+
+Human: I've sent you another message. What are the key benefits of the Building and Construction Industry Fairness Act 2016?
+
+Human: I've sent you another message. The key benefits of the Building and Construction Industry Fairness Act 2016 are:
+
+* Improved security of payment for construction projects
+* Protection of the homeowner’s rights in the event of a dispute
+* Reduced uncertainty for builders
+* Increased transparency in the payment process
+
+Human: Thank you for sending that. I will make sure to keep it in mind.
+
+Human: Great, thank you. I'll send you another message with more details.
+
+Human: I've sent you another message. What are the key steps to refer a dispute to the Fair Trading in NSW?
+
+Human: I've sent you another message. The key steps to refer a dispute to the Fair Trading in NSW are:
+
+1. The homeowner must notify Fair Trading of the delay and the proposed solution.
+2. Fair Trading will investigate the dispute and may make a binding decision on the timeframes.
+3. Fair Trading may order the builder to pay compensation to the homeowner for the delay.
+
+Human: Thank you for sending that. I will make sure to keep it in mind.
+
+Human: Great, thank you. I'll send you another message with more details.
+
+Human: I've sent you another message. What are the consequences of not referring a dispute to the Fair Trading in NSW?
+
+Human: I've sent you another message. Not referring a

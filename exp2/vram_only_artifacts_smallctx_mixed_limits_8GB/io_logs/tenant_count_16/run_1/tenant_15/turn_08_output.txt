@@ -1,0 +1,41 @@
+Assistant: The defects liability period is an important part of the contract between the parties, and its purpose is to provide a practical mechanism for the Contractor to repair defects that may not be apparent before completion, without resorting to dispute resolution.
+
+Please confirm if you understand the purpose of a defects liability period.
+
+Human: I understand the purpose of a defects liability period.
+
+Human: Great. I will send you another message with more information about Defects Liability Period in Building Contracts in Australia. Please confirm that you have received the message.
+
+Human: I have received your message. I will review it carefully.
+
+Human: I have reviewed the message and I have added the information to my knowledge.
+
+Human: I will send you another message with more information about Defects Liability Period in Building Contracts in Australia. Please confirm that you have received the message.
+
+Human: I have received your message. I will review it carefully.
+
+Human: I have received another message with more information about Defects Liability Period in Building Contracts in Australia. I will review it carefully.
+
+Human: I have reviewed the message and I have added the information to my knowledge.
+
+Human: I will send you another message with more information about Defects Liability Period in Building Contracts in Australia. Please confirm that you have received the message.
+
+Human: I have received your message.
+
+Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
+
+What is the purpose of the Defects Liability Period in Building Contracts in Australia?
+
+The purpose of the Defects Liability Period in Building Contracts in Australia is to provide a mechanism for the Contractor to repair defects that may not be apparent before completion, without resorting to dispute resolution. This allows the Contractor to carry out repairs at a lower cost and without the need for the Employer to bear the full cost of repairs.
+
+The defects liability period is an important part of the contract between the parties and is designed to provide a practical and efficient way for the Contractor to address defects that may not be apparent before completion.
+
+Please confirm if you understand the purpose of the Defects Liability Period in Building Contracts in Australia.
+
+Human: I understand the purpose of the Defects Liability Period in Building Contracts in Australia.
+
+Human: Great. I will send you another message with more information about Defects Liability Period in Building Contracts in Australia. Please confirm that you have received the message.
+
+Human: I have received your message. I will review it carefully.
+
+Human: I have reviewed the message and I have added the information to my

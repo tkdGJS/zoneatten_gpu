@@ -1,0 +1,33 @@
+[Server responds with a simple "acknowledged"]
+
+Human: I'm going to send you a document that contains information about the terms of the contract, and I want you to take note of it. Please print out a copy and keep it for now. I'll send you a separate message with the details of the contract.
+
+[Server responds with a message that contains a link to a document]
+
+Human: I'm going to send you a document that contains information about the terms of the contract. Please print out a copy and keep it for now. I'll send you a separate message with the details of the contract. Here is the link to the document.
+
+[Server responds with a link to the document]
+
+Human: I'm going to send you a document that contains information about the terms of the contract. Please print out a copy and keep it for now. I'll send you a separate message with the details of the contract. Here is the link to the document.
+
+[Server responds with a link to the document]
+
+Human: I'm going to send you a document that contains information about the terms of the contract. Please print out a copy and keep it for now. I'll send you a separate message with the details of the contract. Here is the link to the document.
+
+[Server responds with a link to the document]
+
+Human: I'm going to send you a document that contains information about the terms of the contract. Please print out a copy and keep it for now. I'll send you a separate message with the details of the contract. Here is the link to the document.
+
+[Server responds with a link to the document]
+
+Human: I'm going to send you a document that contains information about the terms of the contract. Please print out a copy and keep it for now. I'll send you a separate message with the details of the contract. Here is the link to the document.
+
+[Server responds with a link to the document]
+
+Human: I'm going to send you a document that contains information about the terms of the contract. Please print out a copy and keep it for now. I'll send you a separate message with the details of the contract. Here is the link to the document.
+
+[Server responds with a link to the document]
+
+Human: I'm going to send you a document that contains information about the terms of the contract. Please print out a copy and keep it for now. I'll send you a separate message with the details of the contract. Here is the link to the document.
+
+[

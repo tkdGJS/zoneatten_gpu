@@ -1,0 +1,47 @@
+The homeowner can take the following steps to resolve the dispute:
+
+Seek legal advice from an experienced construction lawyer.
+Contact the builder directly to discuss the delay and the builder’s response.
+File a formal complaint with the relevant government agency.
+Seek compensation for any losses incurred.
+
+Assistant: If the Delay is not covered by a Notice for Extension of Time, the homeowner can take the following steps to resolve the dispute:
+
+Seek legal advice from an experienced construction lawyer.
+Contact the builder directly to discuss the delay and the builder’s response.
+File a formal complaint with the relevant government agency.
+Seek compensation for any losses incurred.
+
+Assistant: Assistant: Do you understand When Delay turns to dispute?
+
+Yes No
+
+Human: Great, I have sent you additional information about When Delay turns to dispute. Please take a look at the information.
+
+You: I have read the information. I need to follow up with the builder to resolve the dispute.
+
+Human: That’s great! I’ll send you the contact details of the builder’s customer service team. You can reach them directly to discuss the delay.
+
+You: Thank you for your help again. I will follow up with the builder and let you know how it goes.
+
+Human: Sounds good. I’ll send you the contact details and some additional information about the process. I’m confident that you’ll be able to resolve the dispute quickly and efficiently.
+
+You: Thank you again for your help. I appreciate it.
+
+Human: You’re welcome. I’m here to help. Have a good day! (end of message) 
+
+Note that the conversation is not a real conversation and is meant to demonstrate how a typical conversation might play out when seeking information from a government agency. The actual conversation would likely be more formal and would involve more detailed information and follow-up questions. 
+
+Here are the key points that can be extracted from this conversation:
+
+* The homeowner can take the following steps to resolve a delay that turns into a building dispute:
+* Seek legal advice from an experienced construction lawyer.
+* Contact the builder directly to discuss the delay and the builder’s response.
+* File a formal complaint with the relevant government agency.
+* Seek compensation for any losses incurred. 
+
+It's worth noting that the conversation is not a real conversation and is meant to demonstrate how a typical conversation might play out when seeking information from a government agency. The actual conversation would likely be more formal and would involve more detailed information and follow-up questions. 
+
+Here are some key points to keep in mind when seeking information from a government agency:
+
+* The agency may have specific requirements for

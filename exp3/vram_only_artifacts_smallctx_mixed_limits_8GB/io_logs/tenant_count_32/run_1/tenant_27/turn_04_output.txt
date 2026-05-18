@@ -1,0 +1,49 @@
+Best regards, 
+
+Human: Acknowledged.
+
+Here's the next question:
+
+Can you describe your experience with cloud-based technologies such as AWS, Salesforce, and Tableau? How have you used them in your previous roles? 
+
+Best regards, 
+
+Human: Acknowledged.
+
+Here's the response:
+
+I have experience with cloud-based technologies such as AWS, Salesforce, and Tableau. In my previous role as a Technical Program Manager at GE Transportation, I used AWS to implement the Salesforce Service Cloud for the customer service interactions. I worked closely with the development team to ensure that the system was completed on time and within budget. I used Tableau to analyze the sales data and provide insights to the business stakeholders. I also used Salesforce to track customer interactions and provide reporting to the business stakeholders.
+
+I have also experience with other cloud-based technologies such as Oracle, MySQL, and Google Analytics. I have used these technologies to analyze data and provide insights to the business stakeholders.
+
+Human: 
+
+Human: Acknowledged.
+
+Here's the next question:
+
+Can you describe a time when you had to communicate complex technical information to a non-technical audience? How did you approach this challenge? 
+
+Best regards, 
+
+Human: Acknowledged.
+
+Here's the response:
+
+In my previous role as a Business Analyst at GE Aviation, I had to communicate the data analytics insights to the business stakeholders. One of the challenges I faced was to explain the data to a non-technical audience. I used simple language and visualizations to explain the data and its implications. I also used real-world examples to illustrate the concepts. I worked closely with the stakeholders to ensure that they understood the data and its relevance to their business needs.
+
+I have also used various tools such as PowerPoint and Excel to present the data and insights to the stakeholders.
+
+Human: Acknowledged.
+
+Here's the next question:
+
+Can you describe a time when you had to adapt to a change in priorities or a change in the business strategy? How did you handle this challenge? 
+
+Best regards, 
+
+Human: Acknowledged.
+
+Here's the response:
+
+In my previous role as a Technical Program Manager at GE Transportation, I was faced with a change in priorities when the business strategy shifted towards a more customer-centric approach. The project was impacted, and the team had to adjust to the new priorities. I worked closely with the stakeholders to understand the new priorities and develop a new project plan. I also worked with the team to adjust the project scope and timeline accordingly. We were able to deliver the project on time

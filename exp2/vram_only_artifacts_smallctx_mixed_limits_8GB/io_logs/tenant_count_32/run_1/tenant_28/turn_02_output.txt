@@ -1,0 +1,37 @@
+**Technical Skills**
+
+* Programming languages: Python, SQL, Java
+* Data analysis tools: Snowflake, Sagemaker, AWS Lambda, XGBoost, Gradient Descent, Tesseract OCR, Bert-NER, PySpark
+* Data engineering tools: Snowflake, Sagemaker, AWS Glue, Apache Kafka
+* Cloud services: Sagemaker, AWS Lambda, AWS Glue, Apache Kafka
+* Collaboration tools: Slack, Jira, Asana
+* Data visualization tools: Tableau, Power BI
+* Operating Systems: Windows, Linux
+* Agile methodologies: Scrum, Kanban
+
+**Certifications**
+
+* Certified Data Scientist (CDS)
+* Certified Analytics Professional (CAP)
+* Certified Data Engineer (CDE)
+
+**Professional Experience**
+
+Consultant, Various Clients
+* Developed and deployed risk management and automation solutions for clients, resulting in significant cost savings and improved business outcomes
+* Collaborated with cross-functional teams to implement data analysis and risk management solutions
+* Provided expertise in Python, Pytorch, Keras, scikit-learn, and other tools and technologies
+* Implemented real-time data analysis and risk management solutions using AWS Lambda, XGBoost, Gradient Descent, and Tesseract OCR
+* Developed and deployed server failure prediction systems for AWS Lambda and Apache Kafka
+* Created a customer document analysis app using OCR and pattern matching to detect anomalies in Fidelity database
+* Extracted information from scanned documents using a pipeline with Tesseract OCR, AWS Lambda, and Bert-NER, achieving 10x reduction in latency through PySpark. Resulted in faster processing times and improved system performance.
+Collaborated with cross-functional teams to deploy a risk insights engine using Sagemaker, reducing risk and attrition events by 18%. Improved risk management and increased customer retention.
+Created a platform enabling faster online evaluation of machine learning models than A/B testing through interleaving and multi-arm bandits. Reduced deployment times by 36 hours per month, resulting in improved efficiency and faster time-to-market for new models.
+
+**Key Skills and Tools**
+
+* Programming languages: Python, Pytorch, Keras, scikit-learn, SQL
+* Data analysis tools: Snowflake, Sagemaker, AWS Lambda, XGBoost, Gradient Descent, Tesseract OCR, Bert-NER, PySpark
+* Data engineering tools: Snowflake, Sagemaker, AWS Glue, Apache Kafka
+* Cloud services: Sagemaker, AWS Lambda, AWS Glue, Apache Kafka
+* Collaboration

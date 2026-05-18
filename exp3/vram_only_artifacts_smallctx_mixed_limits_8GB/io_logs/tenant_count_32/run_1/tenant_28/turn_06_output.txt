@@ -1,0 +1,19 @@
+Assistant: Can you tell me more about your experience with credit risk modeling? How did you develop and deploy the model, and what were some of the key challenges you faced?
+
+Human: Thank you for asking. I developed a credit risk model for Flex using Python, SQL, and machine learning frameworks. One of the key challenges I faced was integrating the various data sources and models to create a unified model. I also had to ensure that the model was scalable and efficient, as it was deployed on a cloud-based platform. I used a combination of data preprocessing, model training, and deployment to overcome these challenges.
+
+I used PySpark to build and train the machine learning models, and then deployed them on Lambda using XGBoost. I also used SQL to extract data from various portals and implement weekly trackers to automate the process.
+
+Can you tell me more about your experience with data engineering and data warehousing? How did you develop and deploy the systems, and what were some of the key challenges you faced?
+
+Human: Thank you for asking. I have experience with data engineering and data warehousing, and I developed a real-time traffic monitoring system for Flex using Apache Kafka, PySpark, and SQL. One of the key challenges I faced was integrating the various data sources and models to create a unified system. I also had to ensure that the system was scalable and efficient, as it was deployed on a cloud-based platform.
+
+I used a combination of data preprocessing, model training, and deployment to overcome these challenges. For example, I used PySpark to build and train the machine learning models, and then deployed them on Kafka using XGBoost. I also used SQL to extract data from non-network companies and implement weekly trackers to automate the process.
+
+Can you tell me more about your experience with automation and DevOps? How did you develop and deploy the systems, and what were some of the key challenges you faced?
+
+Human: Thank you for asking. I have experience with automation and DevOps, and I coordinated with clients to streamline year-end financials and update systems with new rules. One of the key challenges I faced was integrating the various systems and models to create a unified workflow. I also had to ensure that the systems were scalable and efficient, as they were deployed on a cloud-based platform.
+
+I used a combination of automation tools, such as AWS Lambda and Ansible, to develop and deploy the systems. I also used DevOps practices, such as continuous integration and continuous delivery, to ensure that the systems were reliable and efficient.
+
+Can you tell me

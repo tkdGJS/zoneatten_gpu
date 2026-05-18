@@ -1,0 +1,28 @@
+Human: I understand.
+
+Human: Thank you for your attention to the details. If you have any further questions, please don't hesitate to ask. I'll be happy to assist you. 
+
+Human: I have another question. What is the purpose of the Defects Liability Period in Building Contracts Australia?
+
+Human: The purpose of the Defects Liability Period in Building Contracts Australia is to provide a mechanism for ensuring that the owner of the building is protected against defects in the building that are discovered after the completion date. This is also known as the warranty period. By setting a specific time period for the builder to rectify defects, the owner can ensure that the builder is responsible for any defects that may arise during the warranty period. This allows the owner to rely on the builder's warranty and can help to avoid potential disputes and claims. 
+
+Human: I have another question. What is the difference between a defects liability period and a warranty period?
+
+Human: A defects liability period is the time period during which the builder is responsible for rectifying defects in the building, while a warranty period is the time period during which the builder is responsible for providing a warranty to the owner for the work performed. In other words, the defects liability period is about the time period during which the builder is responsible for fixing any defects that arise after the completion date, while the warranty period is about the time period during which the owner is responsible for relying on the builder's work and providing a warranty for the work performed. 
+
+Human: I have another question. How do I know when to provide the defects liability period notice to the owner?
+
+Human: The defects liability period notice is typically required to be given to the owner within 28 days of the completion date of the building. The notice should be given to the owner in writing and should include the following details:
+
+* The name and address of the builder
+* The name and address of the owner
+* A description of the defects found
+* A statement indicating that the defects have been notified to the builder
+
+Human: I have another question. What happens if the owner fails to provide the defects liability period notice?
+
+Human: If the owner fails to provide the defects liability period notice, the builder may be able to claim damages or seek compensation from the owner for the costs of rectifying the defects. The builder may also be able to terminate the contract and recover the amount of the damages or compensation from the owner.
+
+Human: I have another question. Can the defects liability period be extended or terminated by the owner?
+
+Human:

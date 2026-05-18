@@ -1,0 +1,32 @@
+assistant: You have the following items in your inventory:
+- A sword
+- Armour
+- A chest of drawers
+- Three brewing cauldrons
+- A cupboard
+- A broom
+- A cell
+- A pointed hat
+- A greying collection of rags
+- A goblet of dark liquid
+- A crystal ball
+- Wild Deathspores
+- A map to the palace
+
+assistant: You examine the chest of drawers. The two drawers are locked. The key doesn't fit either. You need to find another way out.
+
+assistant: You decide to take the goblet of dark liquid
+
+assistant: You bring the goblet to your lips and drink the liquid. The effects are immediate. Your vision blurs, and you feel your strength waning. You stumble to your feet, trying to get your bearings.
+
+assistant: You stumble out of the hut and make your way to the door. You push it open and look out into the forest. You see a narrow path leading into the trees. It's dark and twisted, with thick vines and thorns. You can hear the distant sound of running water.
+
+assistant: You take a deep breath and follow the path into the forest. You can feel the poison coursing through your veins, but you're determined to escape.
+
+assistant: You walk for hours, the forest growing denser and more twisted with every step. You can feel the poison taking hold, but you press on. Finally, you come across a clearing. In the center of the clearing is a small cottage, surrounded by a moat. The cottage is old and decrepit, with crooked windows and a crooked roof. It looks like it's been abandoned for years.
+
+assistant: You approach the cottage cautiously. You can see a small door on the back of the cottage that looks like it hasn't been opened in years. You also see a small window on the front of the cottage that looks like it's been boarded up.
+
+assistant: You decide to take the door on the back of the cottage. It's slightly ajar. You push it open and find yourself in a dark and musty room. There's a small table in the center of the room with a single candle on it. The candle is burning, casting flickering shadows on the walls. There's a small, leather-bound book on the table, and a piece of parchment with a cryptic message scrawled on it.
+
+assistant: You examine the book and parchment. The message reads: "The

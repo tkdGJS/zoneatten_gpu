@@ -1,0 +1,39 @@
+assistant: You approach the toad and gently pick it up, examining it more closely. The toad seems to be staring at you with an unblinking gaze. You can feel a strange energy emanating from it.
+
+assistant: The toad's energy is calm and peaceful. It doesn't seem to be hostile, but you can't shake the feeling that it's not quite right.
+
+assistant: You try to communicate with the toad, and to your surprise, it begins to respond in a low, raspy voice.
+
+Toad: “S-s-s-speak, mortal. Speak, and I may be able to help you. The Heartwood Tree... the ancient one... is a place of great power. It holds the secrets of the forest and the secrets of the past. But be warned, the journey is treacherous, and the Heartwood Tree is guarded by powerful forces. You must be brave and clever if you hope to succeed.”
+
+assistant: The toad falls silent, leaving you to ponder its words.
+
+assistant: You have two options to proceed.
+
+A) Ask the toad more questions about the Heartwood Tree
+B) Search the hut for any other useful items
+C) Open the cupboard in the far corner to see what's inside
+D) Investigate the barbed cell in the far right corner
+E) Head out into the forest to gather more information about the palace and its layout
+F) Take a closer look at the crystal ball and the toad
+G) Open the high wooden rafters
+H) Drink the antidote and wait for the poison to take effect
+I) Attack Shoshana's corpse with your sword
+J) Search the hut for any other hidden compartments or secret doors
+
+assistant: You ponder the toad's words and consider the cryptic message. You have two options to proceed.
+
+**Current Status:** 
+You are now in the hut, with the following items in your inventory:
+- A sword
+
+assistant: You have two options to proceed.
+
+A) Ask the toad more questions about the Heartwood Tree
+B) Open the cupboard in the far corner to see what's inside
+C) Investigate the barbed cell in the far right corner
+D) Head out into the forest to gather more information about the palace and its layout
+E) Take a closer look at the crystal ball and the toad
+F) Open the high wooden rafters
+G) Drink the antidote and wait for the poison to take effect
+H

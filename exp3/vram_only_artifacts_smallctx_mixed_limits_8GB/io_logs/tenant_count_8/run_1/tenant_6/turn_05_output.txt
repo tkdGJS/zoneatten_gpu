@@ -1,0 +1,49 @@
+assistant: You have two options to proceed.
+
+A) Ask the toad more questions about the Shadow Stalker
+B) Open the cupboard in the far corner to see what's inside
+C) Investigate the barbed cell in the far right corner
+D) Head out into the forest to gather more information about the palace and its layout
+E) Take a closer look at the crystal ball and the toad
+F) Open the high wooden rafters
+G) Drink the antidote and wait for the poison to take effect
+H) Attack Shoshana's corpse with your sword
+I) Search the hut for any other hidden compartments or secret doors
+J) Follow the toad out into the forest
+
+assistant: You ponder the toad's words and consider the cryptic message. You have two options to proceed.
+
+**Current Status:** 
+You are now in the hut, with the following items in your inventory:
+- A sword
+
+assistant: You have two options to proceed.
+
+A) Ask the toad more questions about the Shadow Stalker
+B) Open the cupboard in the far corner to see what's inside
+C) Investigate the barbed cell in the far right corner
+D) Head out into the forest to gather more information about the palace and its layout
+E) Take a closer look at the crystal ball and the toad
+F) Open the high wooden rafters
+G) Drink the antidote and wait for the poison to take effect
+H) Attack Shoshana's corpse with your sword
+I) Search the hut for any other hidden compartments or secret doors
+J) Follow the toad out into the forest
+
+assistant: You ponder the toad's words and consider the cryptic message. You have two options to proceed.
+
+**Current Status:** 
+You are now in the hut, with the following items in your inventory:
+- A sword
+
+assistant: You have two options to proceed.
+
+A) Ask the toad more questions about the Shadow Stalker
+B) Open the cupboard in the far corner to see what's inside
+C) Investigate the barbed cell in the far right corner
+D) Head out into the forest to gather more information about the palace and its layout
+E) Take a closer look at the crystal ball and the toad
+F) Open the high wooden rafters
+G) Drink the antidote and wait for the poison to take effect
+H) Attack Shoshana's corpse with your sword
+I) Search the hut

@@ -1,0 +1,109 @@
+<|begin_of_text|>Human: Company 1- Fidelity International: Built and deployed a risk insights engine to capture technology and people risk, using Python, Pytorch,
+Keras, scikit-learn, Sagemaker, and SnowFlake. Reduced cybersecurity incidents by 20% and saved $1M
+annually. Also reduced risk identification time by 50% and increased employee awareness of potential risks
+by 25%.
+Led development of a server failure prediction system for 600 endpoints using AWS Lambda, Gradient
+Descent, XGBoost, web scraping, and feature engineering. Reduced false email alerts by 91%, saving
+hundreds of hours of mail monitoring time. Improved support team efficiency by saving 300 hours of their
+time. Implemented real-time traffic monitoring with Apache Kafka for improved data analysis and system
+performance.
+Developed a Customer Document Analysis App using OCR and pattern matching to detect anomalies in
+Fidelity database, identifying 40 critical mismatches and thousands of minor ones, resulting in improved
+accuracy of customer data and streamlined processes.
+Extracted information from scanned documents using a pipeline with Tesseract OCR, AWS Lambda, and
+Bert-NER, achieving 10x reduction in latency through PySpark. Resulted in faster processing times and
+improved system performance.
+Collaborated with cross-functional teams to deploy a risk insights engine using Sagemaker, reducing risk
+and attrition events by 18%. Improved risk management and increased customer retention.
+Created a platform enabling faster online evaluation of machine learning models than A/B testing through
+interleaving and multi-arm bandits. Reduced deployment times by 36 hours per month, resulting in
+improved efficiency and faster time-to-market for new models.
+
+Company 2- Flex: Credit Risk Reconciliation
+Extracted and transformed data from ERP, FDSS, AR systems using Python and SQL.
+Developed supervised ML model to assign credit risk ratings, resulting in a 25% reduction in credit losses.
+Loss Given Default
+Analyzed multiple data sources and cleaned data using Python and SQL.
+Built regression model to automate loss estimation, saving 30 hours per week on manual analysis.
+FDSS
+Extracted and transformed data from various portals using Python, SSIS, and SQL.
+Automated extraction process from non-network companies and implemented weekly trackers, resulting in
+a 50% reduction in manual effort
+
+Company 3- Cognizant:Coordinated with clients to efficiently close year-end financials and update systems with new rules through
+automation, reducing the process from 4 weeks to 1 week.
+Proactively performed root cause analysis for a job that was taking more than 4 hours to complete,
+resulting in a code change that reduced the job runtime to 15 minutes and received client appreciation.
+Tuned and deployed nearly 200 SQL statements as part of performance tuning for an application, resulting
+in improved performance
+
+Assistant: Summary
+As a consultant, I provided expertise in various areas of risk management, data analysis, and automation, resulting in significant cost savings for clients. I worked with a range of tools and technologies, including Python, Pytorch, Keras, scikit-learn, Sagemaker, and Snowflake. I collaborated with cross-functional teams to implement automation and risk management solutions that improved efficiency, reduced risk, and increased customer satisfaction. My work has resulted in significant cost savings and improved business outcomes for clients. As a consultant, I am always looking to expand my expertise and stay up-to-date with the latest tools and technologies. I am excited to explore new opportunities to apply my skills in risk management, data analysis, and automation to drive business growth and improve customer satisfaction. I am confident that my expertise will enable me to make a positive impact in the field of risk management and data analysis. I am committed to delivering high-quality results and exceeding client expectations. I am excited to join a new organization and contribute my skills and expertise to drive business success. 
+
+**Key Skills and Tools**
+
+* Programming languages: Python, Pytorch, Keras, scikit-learn, SQL
+* Data analysis tools: Snowflake, Sagemaker, AWS Lambda, XGBoost, Gradient Descent, Tesseract OCR, Bert-NER, PySpark
+* Data engineering tools: Snowflake, Sagemaker, AWS Glue
+* Cloud services: Sagemaker, AWS Lambda, AWS Glue, Apache Kafka
+* Collaboration tools: Slack, Jira, Asana
+* Data visualization tools: Tableau, Power BI
+* Operating Systems: Windows, Linux
+* Agile methodologies: Scrum, Kanban
+
+**Certifications**
+
+* Certified Data Scientist (CDS)
+* Certified Analytics Professional (CAP)
+* Certified Data Engineer (CDE)
+
+**Professional Experience**
+
+Consultant, Various Clients
+* Developed and deployed risk management and automation solutions for clients, resulting in significant cost savings and improved business outcomes
+* Collaborated with cross-functional teams to implement data analysis and risk management solutions
+* Provided expertise in Python, Pytorch, Keras, scikit-learn, and other tools and technologies
+* Implemented real-time data analysis and risk management solutions using AWS Lambda, XGBoost, Gradient Descent, and Tesseract OCR
+* Developed and deployed server failure prediction systems for AWS Lambda and Apache Kafka
+* Created a customer document analysis app using OCR and pattern matching to detect anomalies in Fidelity database
+* Extracted information from scanned
+
+Human: Company 1- Fidelity International: Built and deployed a risk insights engine to capture technology and people risk, using Python, Pytorch,
+Keras, scikit-learn, Sagemaker, and SnowFlake. Reduced cybersecurity incidents by 20% and saved $1M
+annually. Also reduced risk identification time by 50% and increased employee awareness of potential risks
+by 25%.
+Led development of a server failure prediction system for 600 endpoints using AWS Lambda, Gradient
+Descent, XGBoost, web scraping, and feature engineering. Reduced false email alerts by 91%, saving
+hundreds of hours of mail monitoring time. Improved support team efficiency by saving 300 hours of their
+time. Implemented real-time traffic monitoring with Apache Kafka for improved data analysis and system
+performance.
+Developed a Customer Document Analysis App using OCR and pattern matching to detect anomalies in
+Fidelity database, identifying 40 critical mismatches and thousands of minor ones, resulting in improved
+accuracy of customer data and streamlined processes.
+Extracted information from scanned documents using a pipeline with Tesseract OCR, AWS Lambda, and
+Bert-NER, achieving 10x reduction in latency through PySpark. Resulted in faster processing times and
+improved system performance.
+Collaborated with cross-functional teams to deploy a risk insights engine using Sagemaker, reducing risk
+and attrition events by 18%. Improved risk management and increased customer retention.
+Created a platform enabling faster online evaluation of machine learning models than A/B testing through
+interleaving and multi-arm bandits. Reduced deployment times by 36 hours per month, resulting in
+improved efficiency and faster time-to-market for new models.
+
+Company 2- Flex: Credit Risk Reconciliation
+Extracted and transformed data from ERP, FDSS, AR systems using Python and SQL.
+Developed supervised ML model to assign credit risk ratings, resulting in a 25% reduction in credit losses.
+Loss Given Default
+Analyzed multiple data sources and cleaned data using Python and SQL.
+Built regression model to automate loss estimation, saving 30 hours per week on manual analysis.
+FDSS
+Extracted and transformed data from various portals using Python, SSIS, and SQL.
+Automated extraction process from non-network companies and implemented weekly trackers, resulting in
+a 50% reduction in manual effort
+
+Company 3- Cognizant:Coordinated with clients to efficiently close year-end financials and update systems with new rules through
+automation, reducing the process from 4 weeks to 1 week.
+Proactively performed root cause analysis for a job that was taking more than 4 hours to complete,
+resulting in a code change that reduced the job runtime to 15 minutes and received client appreciation.
+Tuned and deployed nearly 200 SQL statements as part of performance tuning for an application, resulting
+in improved performance
+

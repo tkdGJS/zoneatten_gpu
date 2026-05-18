@@ -1,0 +1,311 @@
+Assistant: You have a key in the chest. It's a rusty old key. It looks like it hasn't been used in a long time. You wonder if it might fit the lock on the barred cell door. 
+
+What do you do? 
+
+A) Try the key on the locked cell door
+B) Search the hut for more clues
+C) Open the cupboard to look for a tool or a lever to move the cauldrons
+D) Leave the hut and explore the forest
+E) Stand up and try to attack Shoshana
+F) Try to reason with Shoshana
+G) Take the crystal ball from the centre of the far wall
+H) Use the sword to try and smash the cauldrons
+I) Go to the bed in the near right corner to examine it
+J) Open the chest of drawers to look for more items
+
+What is your next action? 
+
+A) Try the key on the locked cell door
+B) Search the hut for more clues
+C) Open the cupboard to look for a tool or a lever to move the cauldrons
+D) Leave the hut and explore the forest
+E) Stand up and try to attack Shoshana
+F) Try to reason with Shoshana
+G) Take the crystal ball from the centre of the far wall
+H) Use the sword to try and smash the cauldrons
+I) Go to the bed in the near right corner to examine it
+J) Open the chest of drawers to look for more items
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Try the key on the locked cell door
+B) Search the hut for more clues
+C) Open the cupboard to look for a tool or a lever to move the cauldrons
+D) Leave the hut and explore the forest
+E) Stand up and try to attack Shoshana
+F) Try to reason with Shoshana
+G) Take the crystal ball from the centre of the far wall
+H) Use the sword to try and smash the cauldrons
+I) Go to the bed in the near right corner to examine it
+J) Open the chest of drawers to look for more items
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Try the key on the locked cell door
+B) Search the hut for more clues
+C) Open the cupboard to look for a tool or a lever to move the cauldrons
+D) Leave the hut and explore the forest
+E) Stand up and try to attack Shoshana
+F) Try to reason with Shoshana
+G) Take the crystal ball from the centre of the far wall
+H) Use the sword to try and smash the cauldrons
+I) Go to the bed in the near right corner to examine it
+J) Open the chest of drawers to look for more items
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Try the key on the locked cell door
+B) Search the hut for more clues
+C) Open the cupboard to look for a tool or a lever to move the cauldrons
+D) Leave the hut and explore the forest
+E) Stand up and try to attack Shoshana
+F) Try to reason with Shoshana
+G) Take the crystal ball from the centre of the far wall
+H) Use the sword to try and smash the cauldrons
+I) Go to the bed in the near right corner to examine it
+J) Open the chest of drawers to look for more items
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Try the key on the locked cell door
+B) Search the hut for more clues
+C) Open the cupboard to look for a tool or a lever to move the cauldrons
+D) Leave the hut and explore the forest
+E) Stand up and try to attack Shoshana
+F) Try to reason with Shoshana
+G) Take the crystal ball from the centre of the far wall
+H) Use the sword to try and smash the cauldrons
+I) Go to the bed in the near right corner to examine it
+J) Open the chest of drawers to look for more items
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Try the key on the locked cell door
+B) Search the hut for more clues
+C) Open the cupboard to look for a tool or a lever to move the cauldrons
+D) Leave the hut and explore the forest
+E) Stand up and try to attack Shoshana
+F) Try to reason with Shoshana
+G) Take the crystal ball from the centre of the far wall
+H) Use the sword to try and smash the cauldrons
+I) Go to the bed in the near right corner to examine it
+J) Open the chest of drawers to look for more items
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Try the key on the locked cell door
+B) Search the hut for more clues
+C) Open the cupboard to look for a tool or a lever to move the cauldrons
+D) Leave the hut and explore the forest
+E) Stand up and try to attack Shoshana
+F) Try to reason with Shoshana
+G) Take the crystal ball from the centre of the far wall
+H) Use the sword to try and smash the cauldrons
+I) Go to the bed in the near right corner to examine it
+J) Open the chest of drawers to look for more items
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Try the key on the locked cell door
+B) Search the hut for more clues
+C) Open the cupboard to look for a tool or a lever to move the cauldrons
+D) Leave the hut and explore the forest
+E) Stand up and try to attack Shoshana
+F) Try to reason with Shoshana
+G) Take the crystal

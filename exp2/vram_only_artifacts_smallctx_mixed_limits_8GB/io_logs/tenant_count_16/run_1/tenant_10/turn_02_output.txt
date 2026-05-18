@@ -1,0 +1,60 @@
+Server: I understand.
+
+Human: I have received your response. Please proceed.
+
+Server: The owner or occupier must also consider whether the defect is minor or major, and if it is minor, they may be able to claim a reduction in the Defects Liability Period.
+
+Server: I understand.
+
+Human: I have received the information. Please proceed.
+
+Server: The owner or occupier may also consider the location of the defect and whether it is within the building or in a nearby area, and if it is in a nearby area, they may be able to claim a reduction in the Defects Liability Period.
+
+Server: I understand.
+
+Human: I have received the information. Please proceed.
+
+Server: The owner or occupier may also consider whether the defect is caused by a latent defect, which is a defect that is not immediately apparent but can be discovered after the building is completed.
+
+Server: I understand.
+
+Human: I have received the information. Please proceed.
+
+Server: The owner or occupier must also consider whether the defect is a latent defect, and if it is, they may be able to claim a reduction in the Defects Liability Period.
+
+Server: I understand.
+
+Human: I have received the information. Please proceed.
+
+Server: In some cases, the owner or occupier may be able to claim a deduction for any costs incurred by the builder in relation to the defect, such as the cost of materials, labour, and other expenses incurred in responding to the defect.
+
+Server: I understand.
+
+Human: I have received the information. Please proceed.
+
+Server: The owner or occupier must keep records of all correspondence and communications regarding the Defects Liability Period.
+
+Server: I understand.
+
+Human: I have received the information. Please proceed.
+
+Server: The owner or occupier should keep records of all correspondence and communications, including:
+
+1. correspondence with the builder
+2. correspondence with other parties involved in the construction
+3. any documentation or evidence of defects
+4. any correspondence with the builder regarding the extension of the Defects Liability Period.
+
+Server: I understand.
+
+Human: I have received the information. Please proceed.
+
+Server: The owner or occupier should also keep records of any correspondence with the builder regarding the completion of the work, including any defects that were discovered after the completion of the work.
+
+Server: I understand.
+
+Human: I have received the information. Please proceed.
+
+Server: The owner or occupier should keep records of all correspondence and communications regarding the Defects Liability Period, including:
+
+1. correspondence with the

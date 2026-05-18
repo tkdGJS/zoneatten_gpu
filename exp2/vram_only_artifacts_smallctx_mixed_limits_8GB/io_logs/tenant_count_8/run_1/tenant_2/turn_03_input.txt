@@ -1,0 +1,753 @@
+<|begin_of_text|>Human: Let's play a puzzle role-playing escape room game! I'll give you the situation, and you have to solve puzzles. You can interact with a number of items in the room, just tell me what you do and then I'll respond with what happens. 
+
+Here's the introduction:
+
+Your eyes feel sore and unwilling to open. Your brain is fuzzy. The last thing you remember, your sword was at your side and you were struggling to get your armour-clad body from one end of the Jade Forest to the other. The Queen's youngest son James had been taken hostage, and she was hiring only the best knights in the realm to negotiate his return, hence your journey. But you never made it to the palace. Instead, as you traversed the trees you were surrounded by a mysterious grey fog, which knocked you unconscious. Now, here you are.
+You finally get your eyes open. You're inside a small hut, lying sprawled on the floor in front of a closed door. There are high wooden rafters on the ceiling above you. A small chest of drawers sits to the left of the door, and in the near right corner is a bed. There's a toad sitting on the pillow. Leaning against the right wall is a broom, and by the left wall are three large, identical brewing cauldrons. Against the centre of the far wall is a cupboard, and hanging from mounts on that wall are three swords. Kind of like yours. And in the far right corner, there's a small barred cell. Kind of like a prison cell.
+And... in the middle of the room, wearing a pointed hat and a greying collection of stitched- together rags, waving her hand over a crystal ball... you know who it is. It's the Jade Witch Shoshana. You thought she was a myth.
+She bares her pointed teeth at you when she sees you're awake. “I do so love it when intruders into my forest trigger my smoke trap. They black out and do anything I say! Including follow me back to my home. Lie flat on the floor until I'm ready for them. Even eat Wild Deathspore mushrooms and let the poison take care of them so I don't have to!”
+Wild Deathspores? No. It can't be. If she's telling the truth, if you unknowingly ate them, you'll be dead in... hours. Maybe less.
+Shoshana grins. “You look a little spooked there, mortal. Would you like an antidote? Of course I have an antidote with me. Human meat tastes terrible with Deathspore coursing through it. Here.”
+She walks over to you and thrusts at your face a goblet of dark liquid. You sit up, noticing in that moment that your sword and armour are gone, and sniff the drink. It smells awful. Watching the witch carefully, you slowly bring the goblet to your lips and pretend to take a sip. The expression of unbridled, maniacal glee on her face tells you all you need to know. As she opens her lips to cackle, you quickly lean forward and throw the contents of the goblet right at her mouth. Right down her throat.
+Instead of cackling, Shoshana screams. It's a scream of death.
+“No!” she shrieks. “No! No one can kill the Jade Witch! I, who have devoured – devoured civilisation's greatest warriors... downed great empires... and destroyed... de-destroyed...”
+She collapses. And then her body dissolves in a puff of grey smoke. All that remains are her hat, her crystal ball, and the now-empty goblet.
+You'll receive a hero's welcome when you arrive at the palace with news of the fabled witch's death, but not if the Deathspores kill you before you can get there. It is true that no one knows poisons and antidotes better than a witch; if an antidote does exist, you're most likely to find it right here.
+
+Assistant: You take a deep breath, feeling the room's stale air fill your lungs. You can now begin your journey to the palace. The first step is to find the sword. It was sitting right in front of the door, as if waiting for you. You can see it glinting in the dim light. You notice that the sword seems to be slightly askew. You have three options:
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What do you do? 
+
+What will you do? I'll respond with the outcome of your actions. 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+**Please choose your action.** 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's start! You're in the hut, lying on the floor, with the sword, the cupboard, the cauldrons, the toad, and the broom. You have no idea what to do first. Here's your first option:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore
+
+Human: The three cauldrons are evenly spaced in a line. They look too heavy to move. They're a little bit corroded from overuse, but they still look like they could handle a witch's brew. However, at the moment, they're all empty.
+
+Assistant: You notice that the cauldrons are all slightly different sizes. Some are small, some are large, and one is a bit larger than the others. You also notice that the toad sitting on the pillow is watching you. It's not moving.
+
+You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+Let's continue! You're in the hut, lying on the floor. You have three options:
+
+A) Try to correct the sword's position.
+B) Search the hut for any other useful items.
+C) Go to the cupboard to see if there are any other useful items.
+D) Go to the cupboard to see if there are any other swords.
+
+What will you do? 
+
+Please respond with the letter of your chosen action. 
+
+---
+
+I'll respond with the outcome of your actions. Let's see how you fare! 
+
+---
+
+What will you do? 
+
+**HINT:** Wild Deathspore mushrooms are highly toxic, and eating them will be fatal. 
+
+---
+
+Please choose your action. 
+
+Please respond with the letter of your chosen action
+
+Human: There are just two drawers in this chest. Neither of them opens, but towards the top there is a single hole where a key should fit.
+

@@ -1,0 +1,19 @@
+assistant: assistant: assistant: assistant: assistant: I'll wait for your response. Please proceed.
+
+Human: I have used AWS lambda to fetch the data from vendor apm tool and used pandas and matplot lib to analyse logs, we have created new features from the logs data and checked few models such as decision trees and ensemble models to check how they are performing and we were getting 88% accuracy in predictions so we have deployed the manual trained model on Amazon sagemaker to do predictions and use the lambda to fetch historical data to dynamodb to retrain model every month with latest data.
+
+assistant: assistant: assistant: assistant: assistant: I'll wait for your response. Please proceed.
+
+Human: I have used AWS lambda to fetch the data from vendor apm tool and used pandas and matplot lib to analyse logs, we have created new features from the logs data and checked few models such as decision trees and ensemble models to check how they are performing and we were getting 88% accuracy in predictions so we have deployed the manual trained model on Amazon sagemaker to do predictions and use the lambda to fetch historical data to dynamodb to retrain model every month with latest data.
+
+assistant: That's great. Can you tell me about your experience with data governance and data security? How do you approach data governance and security in a data-driven organization?
+
+Human: I've worked with data governance and data security in various projects. I've established and enforced data quality standards and procedures, and worked with data governance frameworks such as GDPR and HIPAA. I've also worked with data security frameworks such as encryption and access controls to ensure that sensitive data is protected.
+
+assistant: Thank you for your response. Can you tell me about your experience with Agile methodologies? How do you approach Agile development and project management?
+
+Human: I've worked with Agile methodologies such as Scrum and Kanban. I've used Scrum to develop and deliver projects, and Kanban to track and manage projects. I've worked with Agile frameworks such as Scrum and Kanban to ensure that projects are completed on time and within budget.
+
+assistant: Thank you for your response. Can you tell me about your experience with data quality issues? How do you approach data quality and data governance in a data-driven organization?
+
+Human: I've worked with data quality issues such as missing values, inconsistent data formatting, and data inconsistencies. I've used data validation checks and data quality metrics to identify and correct errors or inconsistencies in the data. I've also worked with data governance to establish

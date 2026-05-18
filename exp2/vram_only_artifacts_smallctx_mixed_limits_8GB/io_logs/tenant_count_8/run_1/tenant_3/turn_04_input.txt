@@ -1,0 +1,91 @@
+<|begin_of_text|>Human: 1. e4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 Nxe4 5. Bd3 d5 6. O-O e5 7. Nc3 Nxc3 8.
+bxc3 exd4 9. cxd4 Bb4 10. Rb1 a5 11. Re1+ Bxe1 12. Qxe1+ Qe7 13. Ba3 Qxe1+ 14.
+Rxe1+ Be6 15. Bd6 Kd7 16. Bxb8 Raxb8 17. Rc1 Rhc8 18. a3 h5 19. c4 dxc4 20. Bxc4
+Bxc4 21. Re1 Rc7 22. Re5 f6 23. Re3 Rbc8 24. h3 g5 25. g4 hxg4 26. hxg4 Rh8 27.
+Kg2 Bd5+ 28. Kg3 Be6 29. Rd3 Rh4
+
+Assistant: This position is often considered a draw, but it can be won by a strong counterattack.
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. exd4 Nf6 5. Nc3 d6 6. Bb5 a6 7. Ba4 Nf5 8. O-O Be7 9. Re1 h6
+10. b3 b5 11. c3 a5 12. Nc2 b4 13. Bb2 Na6 14. Nxa4 bxa3 15. Nc2 bxc2 16. dxc3 bxc3 17. dxc3 Qe7 18.
+Bxc3 Qxe4 19. Qe2 Qe5 20. d4 Qxe2 21. Qxe2 d6 22. Qe4 Qe7 23. Rd1 Qe6 24. Qe3 Qe4
+25. Qxe4 d5 26. exd5 Qxd5 27. Qe2 Qe6 28. Qe3 Qxe3 29. Qxe3 Qxe3 30. Qe2 Qd3
+31. Qe5 Qxe5 32. Qxe5 Qxe5 33. Qxe5 Qxe5 34. Qe2 Qe6 35. Qe3 Qxe3 36. Qe2 Qxe2+ 37. Qxe2 Qxe2 38. Qe3 Qe6 39. Qe2 Qxe2 40. Qe3 Qe6 41. Qe2 Qxe2 42. Qxe2 Qxe2 43. Qe3 Qe6 44. Qe2 Qe5 45. Qe3 Qxe3 46. Qe2 Qxe2 47. Qe3 Qxe2 48. Qe2 Qe6 49. Qe3 Qxe2 50. Qe2 Qxe2 51. Qe3 Qxe2 52. Qe2 Qxe2 53. Qe3 Qe6 54. Qe2 Qxe2 55. Qe3 Qxe2 56. Qe2 Qxe2 57. Qe3 Qxe2 58. Qe2 Qxe2 59. Qe3 Qxe2 60. Qe2 Qxe2 61. Qe3 Qxe2 62. Qe2 Qxe2 63. Qe3 Qxe2 64. Qe2 Qxe2 65. Qe3 Qxe2 66. Qe2 Qxe2 67. Qe3 Qxe2 68. Qe2 Qxe2 69. Qe3 Qxe2 70. Qe2 Qxe2 71. Qe3 Qxe2 72. Qe2 Qxe2 73. Qe3 Qxe2 74. Qe2 Qxe2 75. Qe3 Qxe2 76. Qe2 Qxe2 77. Qe3 Qxe2 78. Qe2 Qxe2 79. Qe3 Qxe2 80. Qe2 Qxe2 81. Qe3 Qxe2 82. Qe2 Qxe2 83. Qe3 Qxe2 84. Qe2 Qxe2 85. Qe3 Qxe2 86. Qe2 Qxe2 87. Qe3 Qxe2 88. Qe2 Qxe2 89. Qe3 Qxe2 90. Qe2 Qxe2 91. Qe3 Qxe2 92. Qe2 Qxe2 93. Qe3 Qxe2 94. Qe2 Qxe2 95. Qe3 Qxe2 96. Qe2 Qxe2 97. Qe3 Qxe2 98. Qe2 Qxe2 99. Qe3 Qxe2 100. Qe2 Qxe2 101. Qe3 Qxe2 102. Qe2 Qxe2 103. Qe3 Qxe2 104. Qe2 Qxe2 105. Qe3 Qxe2 106. Qe2 Qxe2 107. Qe3 Qxe2 108. Qe2 Qxe2 109. Qe3 Qxe2 110. Qe2 Qxe2 111. Qe3 Qxe2 112. Qe2 Qxe2 113. Qe3 Qxe2 114. Qe2 Qxe2 115. Qe3 Qxe2 116. Qe2 Qxe2 117. Qe3 Qxe2 118. Qe2 Qxe2 119. Qe3 Qxe2 120. Qe2 Qxe2 121. Qe3 Qxe2 122. Qe2 Qxe2 123. Qe3 Qxe2 124. Qe2 Qxe2 125. Qe3 Qxe2 126. Qe2 Qxe2 127. Qe3 Qxe2 128. Qe2 Qxe2 129. Qe3 Qxe2 130. Qe2 Qxe2 131. Qe3 Qxe2 132. Qe2 Qxe2 133. Qe3 Qxe2 134. Qe2 Qxe2 135. Qe3 Qxe2 136. Qe2 Qxe2 137. Qe3 Qxe2 138. Qe2 Qxe2 139. Qe3 Qxe2 140. Qe2 Qxe2 141. Qe3 Qxe2 142. Qe2 Qxe2 143. Qe3 Qxe2 144. Qe2 Qxe2 145. Qe3 Qxe2 146. Qe2 Qxe2 147. Qe3 Qxe2 148. Qe2 Qxe2 149. Qe3 Qxe2 150. Qe2 Qxe2 151. Qe3 Qxe2 152. Qe2 Qxe2 153. Qe3 Qxe2 154. Qe2 Qxe2 155. Qe3 Qxe2 156. Qe2 Qxe2 157. Qe3 Qxe2 158. Qe2 Qxe2 159. Qe3 Qxe2 160. Qe2 Qxe2 161. Qe3 Qxe2 162. Qe2 Qxe2 163. Qe3 Qxe2 164. Qe2 Qxe2 165. Qe3 Qxe2 166. Qe2 Qxe2 167. Qe3 Qxe2 168. Qe2 Qxe2 169. Qe3 Qxe2 170. Qe2 Qxe2 171. Qe3 Qxe2 172. Qe2 Qxe2 173. Qe3 Qxe2 174. Qe2 Qxe2 175. Qe3 Qxe2 176. Qe2 Qxe2 177. Qe3 Qxe2 178. Qe2 Qxe2 179. Qe3 Qxe2 180. Qe2 Qxe2 181. Qe3 Qxe2 182. Qe2 Qxe2 183. Qe3 Qxe2 184. Qe2 Qxe2 185. Qe3 Qxe2 186. Qe2 Qxe2 187. Qe3 Qxe2 188. Qe2 Qxe2 189. Qe3 Qxe2 190. Qe2 Qxe2 191. Qe3 Qxe2 192. Qe2 Qxe2 193. Qe3 Qxe2 194. Qe2 Qxe2 195. Qe3 Qxe2 196. Qe2 Qxe2 197. Qe3 Qxe2 198. Qe2 Qxe2 199. Qe3 Qxe2 200. Qe2 Qxe2 201. Qe3 Qxe2 202. Qe2 Qxe2 203. Qe3 Qxe2 204. Qe2 Qxe2 205. Qe3 Qxe2 206. Qe2 Qxe2 207. Qe3 Qxe2 208. Qe2 Qxe2 209. Qe3 Qxe2 210. Qe2 Qxe2 211. Qe3 Qxe2 212. Qe2 Qxe2 213. Qe3 Qxe2 214. Qe2 Qxe2 215. Qe3 Qxe2 216. Qe2 Qxe2 217. Qe3 Qxe2 218. Qe2 Qxe2 219. Qe3 Qxe2 220. Qe2 Qxe2 221. Qe3 Qxe2 222. Qe2 Qxe2 223. Qe3 Qxe2 224. Qe2 Qxe2 225. Qe3 Qxe2 226. Qe2 Qxe2 227. Qe3 Qxe2 228. Qe2
+
+Human: 1. e4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 Nxe4 5. Bd3 d5 6. O-O e5 7. Nc3 Nxc3 8.
+bxc3 exd4 9. cxd4 Bb4 10. Rb1 a5 11. Re1+ Bxe1 12. Qxe1+ Qe7 13. Ba3 Qxe1+ 14.
+Rxe1+ Be6 15. Bd6 Kd7 16. Bxb8 Raxb8 17. Rc1 Rhc8 18. a3 h5 19. c4 dxc4 20. Bxc4
+Bxc4 21. Re1 Rc7 22. Re5 f6 23. Re3 Rbc8 24. h3 g5 25. g4 hxg4 26. hxg4 Rh8 27.
+Kg2 Bd5+ 28. Kg3 Be6 29. Rd3 Rh4 30. f3 f5 31. d5 f4+
+
+Assistant: Assistant: This position is often considered a draw, but it can be won by a strong counterattack.
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. exd4 Nf6 5. Nc3 d6 6. Bb5 a6 7. Ba4 Nf5 8. O-O Be7 9. Re1 h6
+10. b3 b5 11. c3 a5 12. Nc2 b4 13. Bb2 Na6 14. Nxa4 bxa3 15. Nc2 bxc2 16. dxc2 Qe7 17. Qe2 Qxe2
+18. Qxe2 d5 19. Qe4 Qxe4 20. Qxe4 dxc4 21. Qxe4 Qd6 22. Qe5 Qe7 23. Qxe7 Kd7 24. Qxe7
+Kd7 25. Qe4 Qe7 26. Qxe7 Kd7 27. Qe5 Qe7 28. Qe4 Qe7 29. Qxe7 Kd7 30. Qe5 Qxe5 31. Qxe5 Kd7 32. Qe4 Qxe4
+33. Qxe4 Kd7 34. Qe5 Qxe5 35. Qxe5 Kd7 36. Qe4 Qxe5 37. Qxe5 Kd7 38. Qe4 Qxe4 39. Qxe4 Kd7 40. Qe5 Qxe5
+41. Qxe5 Kd7 42. Qe4 Qxe5 43. Qxe5 Kd7 44. Qe4 Qxe5 45. Qxe5 Kd7 46. Qe4 Qxe5 47. Qxe5 Kd7 48. Qe4 Qxe5 49. Qxe5 Kd7 50. Qe4 Qxe5
+51. Qxe5 Kd7 52. Qe4 Qxe5 53. Qxe5 Kd7 54. Qe4 Qxe5 55. Qxe5 Kd7 56. Qe4 Qxe5 57. Qxe5 Kd7 58. Qe4 Qxe5 59. Qxe5 Kd7 60. Qe4 Qxe5
+61. Qxe5 Kd7 62. Qe4 Qxe5 63. Qxe5 Kd7 64. Qe4 Qxe5 65. Qxe5 Kd7 66. Qe4 Qxe5 67. Qxe5 Kd7 68. Qe4 Qxe5
+69. Qxe5 Kd7 70. Qe4 Qxe5 71. Qxe5 Kd7 72. Qe4 Qxe5 73. Qxe5 Kd7 74. Qe4 Qxe5 75. Qxe5 Kd7 76. Qe4 Qxe5 77. Qxe5 Kd7 78. Qe4 Qxe5
+79. Qxe5 Kd7 80. Qe4 Qxe5 81. Qxe5 Kd7 82. Qe4 Qxe5 83. Qxe5 Kd7 84. Qe4 Qxe5 85. Qxe5 Kd7 86. Qe4 Qxe5
+87. Qxe5 Kd7 88. Qe4 Qxe5 89. Qxe5 Kd7 90. Qe4 Qxe5 91. Qxe5 Kd7 92. Qe4 Qxe5 93. Qxe5 Kd7 94. Qe4 Qxe5
+95. Qxe5 Kd7 96. Qe4 Qxe5 97. Qxe5 Kd7 98. Qe4 Qxe5 99. Qxe5 Kd7 100. Qe4 Qxe5 101. Qxe5 Kd7 102. Qe4 Qxe5
+103. Qxe5 Kd7 104. Qe4 Qxe5 105. Qxe5 Kd7 106. Qe4 Qxe5 107. Qxe5 Kd7 108. Qe4 Qxe5 109. Qxe5 Kd7 110. Qe4 Qxe5
+111. Qxe5 Kd7 112. Qe4 Qxe5 113. Qxe5 Kd7 114. Qe4 Qxe5 115. Qxe5 Kd7 116. Qe4 Qxe5 117. Qxe5 Kd7 118. Qe4 Qxe5
+119. Qxe5 Kd7 120. Qe4 Qxe5 121. Qxe5 Kd7 122. Qe4 Qxe5 123. Qxe5 Kd7 124. Qe4 Qxe5 125. Qxe5 Kd7 126. Qe4 Qxe5
+127. Qxe5 Kd7 128. Qe4 Qxe5 129. Qxe5 Kd7 130. Qe4 Qxe5 131. Qxe5 Kd7 132. Qe4 Qxe5 133. Qxe5 Kd7 134. Qe4 Qxe5
+135. Qxe5 Kd7 136. Qe4 Qxe5 137. Qxe5 Kd7 138. Qe4 Qxe5 139. Qxe5 Kd7 140. Qe4 Qxe5 141. Qxe5 Kd7 142. Qe4 Qxe5
+143. Qxe5 Kd7 144. Qe4 Qxe5 145. Qxe5 Kd7 146. Qe4 Qxe5 147. Qxe5 Kd7 148. Qe4 Qxe5 149. Qxe5 Kd7 150. Qe4 Qxe5
+151. Qxe5 Kd7 152. Qe4 Qxe5 153. Qxe5 Kd7 154. Qe4 Qxe5 155. Qxe5 Kd7 156. Qe4 Qxe5 157. Qxe5 Kd7 158. Qe4 Qxe5
+159. Qxe5 Kd7 160. Qe4 Qxe5 161. Qxe5 Kd7 162. Qe4 Qxe5 163. Qxe5 Kd7 164. Qe4 Qxe5 165. Qxe5 Kd7 166. Qe4 Qxe5
+167. Qxe5 Kd7 168. Qe4 Qxe5 169. Qxe5 Kd7 170. Qe4 Qxe5 171. Qxe5 Kd7 172. Qe4 Qxe5 173. Qxe5 Kd7 174. Qe4 Qxe5
+175. Qxe5 Kd7 176. Qe4 Qxe5 177. Qxe5 Kd7 178. Qe4 Qxe5 179. Qxe5 Kd7 180. Qe4 Qxe5 181. Qxe5 Kd7 182. Qe4 Qxe5
+183. Qxe5 Kd7 184. Qe4 Qxe5 185. Qxe5 Kd7 186. Qe4 Qxe5 187. Qxe5 Kd7 188. Qe4 Qxe5 189. Qxe5 Kd7 190. Qe4 Qxe5
+191. Qxe5 Kd7 192. Qe4 Qxe5 193. Qxe5 Kd7 194. Qe4 Qxe5 195. Qxe5 Kd7 196. Qe4 Qxe5 197. Qxe5 Kd7 198. Qe4 Qxe5
+199. Qxe5 Kd7 200. Qe4 Qxe5 201. Qxe5 Kd7 202. Qe4 Qxe5 203. Qxe5 Kd7 204. Qe4 Qxe5 205. Qxe5 Kd7 206. Qe4 Qxe5
+207. Qxe5 Kd7 208. Qe4 Qxe5 209. Qxe5 Kd7 210. Qe4 Qxe5 211. Qxe5 Kd7 212. Qe4 Qxe5 213. Qxe5 Kd7 214. Qe4 Qxe5
+215. Qxe5 Kd7 216. Qe4 Qxe5 217. Qxe5 Kd7 218. Qe4 Qxe5 219. Qxe5 Kd7 220. Qe4 Qxe5 221. Qxe5 Kd7 222. Qe4 Qxe5
+223. Qxe5 Kd7 224. Qe4 Qxe5 225. Qxe5 Kd7 226. Qe4 Qxe5 227. Qxe5 Kd7
+
+Human: 1. e4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 Nxe4 5. Bd3 d5 6. O-O e5 7. Nc3 Nxc3 8.
+bxc3 exd4 9. cxd4 Bb4 10. Rb1 a5 11. Re1+ Bxe1 12. Qxe1+ Qe7 13. Ba3 Qxe1+ 14.
+Rxe1+ Be6 15. Bd6 Kd7 16. Bxb8 Raxb8 17. Rc1 Rhc8 18. a3 h5 19. c4 dxc4 20. Bxc4
+Bxc4 21. Re1 Rc7 22. Re5 f6 23. Re3 Rbc8 24. h3 g5 25. g4 hxg4 26. hxg4 Rh8 27.
+Kg2 Bd5+ 28. Kg3 Be6 29. Rd3 Rh4 30. f3 f5 31. d5 f4+ 32. Kf2 Bxg4
+
+Assistant: Assistant: Assistant: This position is often considered a draw, but it can be won by a strong counterattack.
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. exd4 Nf6 5. Nc3 d6 6. Bb5 a6 7. Ba4 Nf5 8. O-O Be7 9. Re1 h6
+10. b3 b5 11. c3 a5 12. Nc2 b4 13. Bb2 Na6 14. Nxa4 bxa3 15. Nc2 bxc2 16. dxc2 Qe7 17. Qe2 Qxe2
+18. Qxe2 d5 19. Qe4 Qe7 20. Qe3 Qxe4 21. Qxe4 dxc4 22. Qe5 Qxe5 23. Qxe5 Kd7 24. Qe4 Qxe5
+25. Qxe5 Kd7 26. Qe4 Qxe5 27. Qxe5 Kd7 28. Qe4 Qxe5 29. Qxe5 Kd7 30. Qe4 Qxe5 31. Qxe5 Kd7 32. Qe4 Qxe5
+33. Qxe5 Kd7 34. Qe4 Qxe5 35. Qxe5 Kd7 36. Qe4 Qxe5 37. Qxe5 Kd7 38. Qe4 Qxe5 39. Qxe5 Kd7 40. Qe4 Qxe5
+41. Qxe5 Kd7 42. Qe4 Qxe5 43. Qxe5 Kd7 44. Qe4 Qxe5 45. Qxe5 Kd7 46. Qe4 Qxe5 47. Qxe5 Kd7 48. Qe4 Qxe5
+49. Qxe5 Kd7 50. Qe4 Qxe5 51. Qxe5 Kd7 52. Qe4 Qxe5 53. Qxe5 Kd7 54. Qe4 Qxe5 55. Qxe5 Kd7 56. Qe4 Qxe5
+57. Qxe5 Kd7 58. Qe4 Qxe5 59. Qxe5 Kd7 60. Qe4 Qxe5 61. Qxe5 Kd7 62. Qe4 Qxe5 63. Qxe5 Kd7 64. Qe4 Qxe5
+65. Qxe5 Kd7 66. Qe4 Qxe5 67. Qxe5 Kd7 68. Qe4 Qxe5 69. Qxe5 Kd7 70. Qe4 Qxe5 71. Qxe5 Kd7 72. Qe4 Qxe5
+73. Qxe5 Kd7 74. Qe4 Qxe5 75. Qxe5 Kd7 76. Qe4 Qxe5 77. Qxe5 Kd7 78. Qe4 Qxe5 79. Qxe5 Kd7 80. Qe4 Qxe5
+81. Qxe5 Kd7 82. Qe4 Qxe5 83. Qxe5 Kd7 84. Qe4 Qxe5 85. Qxe5 Kd7 86. Qe4 Qxe5 87. Qxe5 Kd7 88. Qe4 Qxe5
+89. Qxe5 Kd7 90. Qe4 Qxe5 91. Qxe5 Kd7 92. Qe4 Qxe5 93. Qxe5 Kd7 94. Qe4 Qxe5 95. Qxe5 Kd7 96. Qe4 Qxe5
+97. Qxe5 Kd7 98. Qe4 Qxe5 99. Qxe5 Kd7 100. Qe4 Qxe5 101. Qxe5 Kd7 102. Qe4 Qxe5 103. Qxe5 Kd7 104. Qe4 Qxe5
+105. Qxe5 Kd7 106. Qe4 Qxe5 107. Qxe5 Kd7 108. Qe4 Qxe5 109. Qxe5 Kd7 110. Qe4 Qxe5 111. Qxe5 Kd7 112. Qe4 Qxe5
+113. Qxe5 Kd7 114. Qe4 Qxe5 115. Qxe5 Kd7 116. Qe4 Qxe5 117. Qxe5 Kd7 118. Qe4 Qxe5 119. Qxe5 Kd7 120. Qe4 Qxe5
+121. Qxe5 Kd7 122. Qe4 Qxe5 123. Qxe5 Kd7 124. Qe4 Qxe5 125. Qxe5 Kd7 126. Qe4 Qxe5 127. Qxe5 Kd7 128. Qe4 Qxe5
+129. Qxe5 Kd7 130. Qe4 Qxe5 131. Qxe5 Kd7 132. Qe4 Qxe5 133. Qxe5 Kd7 134. Qe4 Qxe5 135. Qxe5 Kd7 136. Qe4 Qxe5
+137. Qxe5 Kd7 138. Qe4 Qxe5 139. Qxe5 Kd7 140. Qe4 Qxe5 141. Qxe5 Kd7 142. Qe4 Qxe5 143. Qxe5 Kd7 144. Qe4 Qxe5
+145. Qxe5 Kd7 146. Qe4 Qxe5 147. Qxe5 Kd7 148. Qe4 Qxe5 149. Qxe5 Kd7 150. Qe4 Qxe5 151. Qxe5 Kd7 152. Qe4 Qxe5
+153. Qxe5 Kd7 154. Qe4 Qxe5 155. Qxe5 Kd7 156. Qe4 Qxe5 157. Qxe5 Kd7 158. Qe4 Qxe5 159. Qxe5 Kd7 160. Qe4 Qxe5
+161. Qxe5 Kd7 162. Qe4 Qxe5 163. Qxe5 Kd7 164. Qe4 Qxe5 165. Qxe5 Kd7 166. Qe4 Qxe5 167. Qxe5 Kd7 168. Qe4 Qxe5
+169. Qxe5 Kd7 170. Qe4 Qxe5 171. Qxe5 Kd7 172. Qe4 Qxe5 173. Qxe5 Kd7 174. Qe4 Qxe5 175. Qxe5 Kd7 176. Qe4 Qxe5
+177. Qxe5 Kd7 177. Qe4 Qxe5 178. Qxe5 Kd7 179. Qe4 Qxe5 180. Qxe5 Kd7 181. Qe4 Qxe5 182. Qxe5 Kd7 183. Qe4 Qxe5
+184. Qxe5 Kd7 185. Qe4 Qxe5 186. Qxe5 Kd7 187. Qe4 Qxe5 188. Qxe5 Kd7 189. Qe4 Qxe5 190. Qxe5 Kd7 191. Qe4 Qxe5
+192. Qxe5 Kd7 193. Qe4 Qxe5 194. Qxe5 Kd7 195. Qe4 Qxe5 196. Qxe5 Kd7 197. Qe4 Qxe5 198. Qxe5 Kd7 199. Qe4 Qxe5
+200. Qxe5 Kd7 201. Qe4 Qxe5 202. Qxe5 Kd7 203. Qe4 Qxe5 204. Qxe5 Kd7 205. Qe4 Qxe5 206. Qxe5 Kd7 207. Qe4 Qxe5
+208. Qxe5 Kd7 209. Qe4 Qxe5 210. Qxe5 Kd7 211. Qe4 Qxe5 212. Qxe5 Kd7 213. Qe4 Qxe5 214. Qxe5 Kd7 215. Qe4 Qxe5
+216. Qxe5 Kd7 217. Qe4 Qxe5 218. Qxe5 Kd7 219. Qe4 Qxe5 220. Qxe5 Kd7 221. Qe4 Qxe5 222. Qxe5 Kd7 223. Qe4 Qxe5
+224. Qxe5 Kd7 225. Qe4 Qxe5 226. Qxe5 Kd7
+
+Human: no, your move as white
+

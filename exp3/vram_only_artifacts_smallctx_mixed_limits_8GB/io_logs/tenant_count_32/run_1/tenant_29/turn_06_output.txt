@@ -1,0 +1,39 @@
+Assistant: If efforts at amicable negotiation fails, the following steps can be taken:
+
+Send a written notice to the builder of the dispute, including the items in dispute.
+Send a formal written notice to the builder of the dispute, including the items in dispute.
+Mediation: Seek the assistance of a mediator to help the parties reach a mutually acceptable solution.
+Expert appraisal of work: Engage an independent expert to assess the value of the work done.
+Similar dispute resolution methods: Consider arbitration, or other dispute resolution methods.
+
+Assistant: If mediation or expert appraisal is unsuccessful, the parties may be able to seek compensation for losses incurred.
+
+Assistant: Assistant: Do you understand How to settle dispute from Delay?
+
+Yes No
+
+Human: Great, I have sent you additional information about How to settle dispute from Delay. Please take a look at the information.
+
+You: I have read the information. I need to follow up with the builder to resolve the dispute.
+
+Human: That’s great! I’ll send you the contact details of the builder’s customer service team. You can reach them directly to discuss the delay.
+
+You: Thank you for your help again. I will follow up with the builder and let you know how it goes.
+
+Human: Sounds good. I’ll send you the contact details and some additional information about the process. I’m confident that you’ll be able to resolve the dispute quickly and efficiently.
+
+You: Thank you again for your help. I appreciate it.
+
+Human: You’re welcome. I’m here to help. Have a good day! (end of message) 
+
+Note that the conversation is not a real conversation and is meant to demonstrate how a typical conversation might play out when seeking information from a government agency. The actual conversation would likely be more formal and would involve more detailed information and follow-up questions. 
+
+Here are the key points that can be extracted from this conversation:
+
+* The first step in resolving any residential construction dispute is to put in genuine effort to talk and come up with a solution that is amenable to both parties.
+* Open, honest communication is key in resolving disputes.
+* Recourse may be had under the Fair Trading contract’s dispute resolution clause if efforts at amicable negotiation fails.
+* Mediation, expert appraisal of work, and similar dispute resolution methods may be considered.
+* Compensation for losses incurred may be sought if mediation or expert appraisal is unsuccessful. 
+
+It's worth noting that the conversation is not a real conversation and is meant to demonstrate how a typical conversation might play out when seeking information from a government agency.

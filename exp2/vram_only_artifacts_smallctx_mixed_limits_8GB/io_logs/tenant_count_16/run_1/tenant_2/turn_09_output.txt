@@ -1,0 +1,334 @@
+Sword: You can't help but feel that Shoshana must have been a master of some sort of dark magic. You wonder if she's been using this hut for more than just her hut. Maybe there's a hidden chamber or something.
+
+What do you do? 
+
+A) Go to the bed in the near right corner to examine it
+B) Search the hut for any other clues
+C) Use the sword to try and smash the cupboard
+D) Stand up and try to attack Shoshana
+E) Try to reason with Shoshana
+F) Use the broom to sweep the floor
+G) Go to the bed in the near right corner to examine it
+H) Open the chest of drawers to look for more items
+I) Open the cupboard to look for more clues
+J) Open the cupboard to look for more items
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Go to the bed in the near right corner to examine it
+B) Search the hut for any other clues
+C) Use the sword to try and smash the cupboard
+D) Stand up and try to attack Shoshana
+E) Try to reason with Shoshana
+F) Use the broom to sweep the floor
+G) Go to the bed in the near right corner to examine it
+H) Open the chest of drawers to look for more items
+I) Open the cupboard to look for more clues
+J) Open the cupboard to look for more items
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Go to the bed in the near right corner to examine it
+B) Search the hut for any other clues
+C) Use the sword to try and smash the cupboard
+D) Stand up and try to attack Shoshana
+E) Try to reason with Shoshana
+F) Use the broom to sweep the floor
+G) Go to the bed in the near right corner to examine it
+H) Open the chest of drawers to look for more items
+I) Open the cupboard to look for more clues
+J) Open the cupboard to look for more items
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Go to the bed in the near right corner to examine it
+B) Search the hut for any other clues
+C) Use the sword to try and smash the cupboard
+D) Stand up and try to attack Shoshana
+E) Try to reason with Shoshana
+F) Use the broom to sweep the floor
+G) Go to the bed in the near right corner to examine it
+H) Open the chest of drawers to look for more items
+I) Open the cupboard to look for more clues
+J) Open the cupboard to look for more items
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Go to the bed in the near right corner to examine it
+B) Search the hut for any other clues
+C) Use the sword to try and smash the cupboard
+D) Stand up and try to attack Shoshana
+E) Try to reason with Shoshana
+F) Use the broom to sweep the floor
+G) Go to the bed in the near right corner to examine it
+H) Open the chest of drawers to look for more items
+I) Open the cupboard to look for more clues
+J) Open the cupboard to look for more items
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Go to the bed in the near right corner to examine it
+B) Search the hut for any other clues
+C) Use the sword to try and smash the cupboard
+D) Stand up and try to attack Shoshana
+E) Try to reason with Shoshana
+F) Use the broom to sweep the floor
+G) Go to the bed in the near right corner to examine it
+H) Open the chest of drawers to look for more items
+I) Open the cupboard to look for more clues
+J) Open the cupboard to look for more items
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Go to the bed in the near right corner to examine it
+B) Search the hut for any other clues
+C) Use the sword to try and smash the cupboard
+D) Stand up and try to attack Shoshana
+E) Try to reason with Shoshana
+F) Use the broom to sweep the floor
+G) Go to the bed in the near right corner to examine it
+H) Open the chest of drawers to look for more items
+I) Open the cupboard to look for more clues
+J) Open the cupboard to look for more items
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Go to the bed in the near right corner to examine it
+B) Search the hut for any other clues
+C) Use the sword to try and smash the cupboard
+D) Stand up and try to attack Shoshana
+E) Try to reason with Shoshana
+F) Use the broom to sweep the floor
+G) Go to the bed in the near right corner to examine it
+H) Open the chest of drawers to look for more items
+I) Open the cupboard to look for more clues
+J) Open the cupboard to look for more items
+
+Please respond with the letter of your chosen action. 
+
+**Your current status:**
+
+- Health: 100
+- Hunger: 100
+- Thirst: 100
+- Energy: 100
+
+**Your inventory:**
+
+- Sword
+- Armour
+- Small chest of drawers
+- Broom
+- Three large, identical brewing cauldrons
+- Cupboard
+- Three swords
+- Crystal ball
+- Wild Deathspore mushrooms
+
+**Your current location:**
+
+- A small hut
+- A barred cell
+- The Jade Forest
+- Shoshana's hut
+
+What is your next action? 
+
+A) Go to the bed in the near right corner to examine it
+B

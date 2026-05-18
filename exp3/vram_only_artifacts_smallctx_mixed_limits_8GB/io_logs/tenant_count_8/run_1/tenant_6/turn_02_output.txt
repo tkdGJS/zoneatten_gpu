@@ -1,0 +1,44 @@
+assistant: You manage to open the chest of drawers and find two empty drawers and one partially closed drawer with a small keyhole. The partially closed drawer has a small piece of parchment attached to it with a note that reads:
+
+"Leave the palace and the Witch's cottage. The forest is full of dangers. Seek the ancient one who dwells in the Heartwood Tree. He will help you escape."
+
+What do you do?
+
+A) Search the hut for any other useful items
+B) Open the cupboard in the far corner to see what's inside
+C) Investigate the barbed cell in the far right corner
+D) Head out into the forest to gather more information about the palace and its layout
+E) Take a closer look at the crystal ball and the toad
+F) Follow Shoshana's corpse to see if she left any clues
+G) Open the high wooden rafters
+H) Drink the antidote and wait for the poison to take effect
+I) Attack Shoshana's corpse with your sword
+J) Search the hut for any other hidden compartments or secret doors
+
+assistant: You take a closer look at the parchment and find that it's a cryptic map that appears to be pointing to the Heartwood Tree. It looks like it might be a riddle.
+
+assistant: You manage to decipher the riddle and find the following:
+
+"The ancient one dwells where shadows dance,
+Seek the one with the leaves of time.
+In the heart of the forest, where the trees are old,
+Find the key to escape, and the path to be told."
+
+What do you do?
+
+A) Search the hut for any other useful items
+B) Open the cupboard in the far corner to see what's inside
+C) Investigate the barbed cell in the far right corner
+D) Head out into the forest to gather more information about the palace and its layout
+E) Take a closer look at the crystal ball and the toad
+F) Follow Shoshana's corpse to see if she left any clues
+G) Open the high wooden rafters
+H) Drink the antidote and wait for the poison to take effect
+I) Attack Shoshana's corpse with your sword
+J) Search the hut for any other hidden compartments or secret doors
+
+assistant: You ponder the riddle and consider the cryptic message. You have two options to proceed.
+
+**Current Status:** 
+You are now in the hut, with the following items in your inventory:
+- A sword

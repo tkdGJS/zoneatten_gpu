@@ -1,0 +1,29 @@
+A notice for extension of time must be provided by the builder within the required timeframe. If the builder fails to provide the notice, the homeowner can dispute the delay.
+
+Human: I have received the information. I will remember it for now. I will take a look at it when I have time. I will keep an eye on it.
+
+Human: Great. I appreciate your understanding. I'll send you another message with more information. I'll keep you updated on the extension of time for homeowner and builder disputes in NSW. Thank you for your cooperation.
+
+Human: No problem. I'll keep an eye on it. Thanks for the update. I just wanted to let you know that I received the information and I'm going to take a look at it. I'll get back to you as soon as I have any questions.
+
+Human: Sounds good. I'll keep an eye on it. Thanks for the update. I just wanted to let you know that I received the information and I'm going to take a look at it. I'll get back to you as soon as I have any questions. I will remember it for now.
+
+Human: This is an information about Extension of Time for Homeowner and Builder in NSW. Limit your response to “acknowledge” if you understand:
+
+What are the rights of the homeowner?
+
+The homeowner has the right to:
+
+* Receive written notice of the builder’s claim for an extension of time
+* Contest the claim if they disagree with the builder’s reasons
+* Seek legal advice from an experienced construction lawyer
+* Protect their interests by ensuring the construction project stays on track
+* Ensure the builder’s responsibilities are clear
+
+Human: I have received the information. I will remember it for now. I will take a look at it when I have time. I will keep an eye on it.
+
+Human: Great. I appreciate your understanding. I'll send you another message with more information. I'll keep you updated on the extension of time for homeowner and builder disputes in NSW. Thank you for your cooperation.
+
+Human: No problem. I'll keep an eye on it. Thanks for the update. I just wanted to let you know that I received the information and I'm going to take a look at it. I'll get back to you as soon as I have any questions.
+
+Human: Sounds good. I'll keep an eye on it. Thanks for the update. I just wanted to let you know that I received the information and I'm going to take a look at it. I'll get back to

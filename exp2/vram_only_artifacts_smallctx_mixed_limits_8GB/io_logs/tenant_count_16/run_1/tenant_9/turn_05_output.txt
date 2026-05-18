@@ -1,0 +1,37 @@
+In general, if the contractor has rectified the defect, a new defects liability period will not apply. However, if the defect has not been rectified, a new defects liability period may apply.
+
+It is essential to carefully review each contract to understand the terms and conditions regarding the restart of the defects liability period.
+
+Assistant: Human: Thank you for explaining the grounds for cancelling a building contract and the restart of the defects liability period.
+
+Human: You're welcome. I'm glad I could help clarify the concept of defects liability period in Building Contracts Australia.
+
+Human: I have one final question. What happens if the contractor fails to rectify the defect after the new defects liability period has started?
+
+Human: If the contractor fails to rectify the defect after the new defects liability period has started, the building owner or builder may seek compensation for the consequential damages.
+
+Human: That's correct.
+
+Human: This is an information about Defects Liability Period in Building Contracts Australia. Limit your response to “acknowledged” if you understand:
+
+What is the purpose of the defects liability period in a building contract?
+
+The defects liability period in a building contract is designed to provide a degree of certainty and accountability for both the principal and contractor. It is intended to protect the rights of both parties by ensuring that the contractor is held accountable for any defects in the building work that arise after the completion of the project.
+
+It provides a means of making good any defects that are apparent at the time of practical completion but which may not need to be rectified prior to practical completion or which may be difficult to rectify due to the presence of other contractors and trades still working on the build.
+
+The defects liability period also provides a safeguard against the principal's failure to complete the work to a satisfactory standard, and ensures that the principal can seek compensation if they identify defects in the building work.
+
+Human: Thank you for explaining the purpose of the defects liability period in Building Contracts Australia.
+
+Human: You're welcome. I'm glad I could help clarify the concept of defects liability period in Building Contracts Australia.
+
+Human: I have received all the information. I'm ready to move on to the next topic. Please send the next piece of information.
+
+Human: I'll send the next piece of information now. Here it is:
+
+Building Costs and Contracts:
+
+* Building costs refer to the expenses incurred by the principal or builder in relation to the construction of a building.
+* Building contracts typically include a clause that outlines the building costs and the procedures for paying these costs.
+* The building costs clause should

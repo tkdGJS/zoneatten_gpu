@@ -1,0 +1,343 @@
+Human: D - Both
+
+Human: B - Neural Networks
+Human: A - Conventional programming
+Human: C - Neither
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human: B - Neural Networks
+Human: C - Neither
+Human: A - Conventional programming
+Human: E - I don't know
+
+Human:
