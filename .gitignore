@@ -24,3 +24,4 @@ __pycache__/
 tkdgjs/
 .venv/
 .env
+vendor.zip
