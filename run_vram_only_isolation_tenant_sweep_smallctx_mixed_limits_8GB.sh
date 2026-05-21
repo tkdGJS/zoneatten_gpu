@@ -20,6 +20,7 @@ PREBUILT_DATASET_PATH="${PREBUILT_DATASET_PATH:-}"
 
 BLOCK_VALUE="16384"
 TENANT_VALUES=(32 16 8)
+TENANT_KV_MIN_BLOCK_VALUES="${TENANT_KV_MIN_BLOCK_VALUES:-0 8 16 32 64 128 256}"
 RUNS_PER_SETTING="1"
 TURNS_PER_TENANT="10"
 MIN_SESSION_USER_TURNS="10"
@@ -77,6 +78,7 @@ snapshot_path.write_text(
             "metrics_dir=${METRICS_DIR}",
             "block_value=${BLOCK_VALUE}",
             "tenant_values=${TENANT_VALUES[*]}",
+            "tenant_kv_min_block_values=${TENANT_KV_MIN_BLOCK_VALUES}",
             "runs_per_setting=${RUNS_PER_SETTING}",
             "turns_per_tenant=${TURNS_PER_TENANT}",
             "min_session_user_turns=${MIN_SESSION_USER_TURNS}",
@@ -224,111 +226,115 @@ wait_for_instance_shutdown() {
   return 1
 }
 
-for tenant_count in "${TENANT_VALUES[@]}"; do
-  for run_index in $(seq 1 "${RUNS_PER_SETTING}"); do
-    base_url="http://127.0.0.1:${PORT}"
-    run_log="${LOG_DIR}/block_${BLOCK_VALUE}_tenant_${tenant_count}_run_${run_index}.log"
-    metrics_jsonl="${METRICS_DIR}/block_${BLOCK_VALUE}_tenant_${tenant_count}_run_${run_index}.jsonl"
-    generated_dataset_path="${GENERATED_DATASET_DIR}/sharegpt_mixed_history_limits_tenant_${tenant_count}.json"
+for tenant_kv_min_blocks in ${TENANT_KV_MIN_BLOCK_VALUES}; do
+  for tenant_count in "${TENANT_VALUES[@]}"; do
+    for run_index in $(seq 1 "${RUNS_PER_SETTING}"); do
+      base_url="http://127.0.0.1:${PORT}"
+      run_log="${LOG_DIR}/block_${BLOCK_VALUE}_kvmin_${tenant_kv_min_blocks}_tenant_${tenant_count}_run_${run_index}.log"
+      metrics_jsonl="${METRICS_DIR}/block_${BLOCK_VALUE}_kvmin_${tenant_kv_min_blocks}_tenant_${tenant_count}_run_${run_index}.jsonl"
+      generated_dataset_path="${GENERATED_DATASET_DIR}/sharegpt_mixed_history_limits_tenant_${tenant_count}.json"
 
-    if [[ -n "${PREBUILT_DATASET_PATH}" ]]; then
-      if [[ "${PREBUILT_DATASET_PATH}" = /* ]]; then
-        generated_dataset_path="${PREBUILT_DATASET_PATH}"
+      if [[ -n "${PREBUILT_DATASET_PATH}" ]]; then
+        if [[ "${PREBUILT_DATASET_PATH}" = /* ]]; then
+          generated_dataset_path="${PREBUILT_DATASET_PATH}"
+        else
+          generated_dataset_path="${ROOT_DIR}/${PREBUILT_DATASET_PATH}"
+        fi
+        if [[ ! -f "${generated_dataset_path}" ]]; then
+          echo "[ERROR] prebuilt dataset not found: ${generated_dataset_path}" >&2
+          exit 1
+        fi
+        echo "[INFO] using prebuilt dataset: ${generated_dataset_path}"
+      elif [[ "${REUSE_GENERATED_DATASET}" == "1" && -f "${generated_dataset_path}" ]]; then
+        echo "[INFO] reusing generated dataset: ${generated_dataset_path}"
       else
-        generated_dataset_path="${ROOT_DIR}/${PREBUILT_DATASET_PATH}"
+        rm -f "${generated_dataset_path}"
+        python "${ROOT_DIR}/build_mixed_history_limit_dataset_offline.py" \
+          --model "${MODEL_NAME}" \
+          --vendor-dir "${VENDOR_DIR}" \
+          --dataset-path "${SOURCE_DATASET_PATH}" \
+          --output-path "${generated_dataset_path}" \
+          --tenant-count "${tenant_count}" \
+          --turns-per-tenant "${TURNS_PER_TENANT}" \
+          --short-limit-tokens "${SHORT_LIMIT_TOKENS}" \
+          --long-limit-tokens "${LONG_LIMIT_TOKENS}" \
+          --target-output-budget-tokens "${TARGET_OUTPUT_BUDGET_TOKENS}" \
+          --safety-margin-tokens "${SAFETY_MARGIN_TOKENS}" \
+          --short-target-final-prompt-tokens "${SHORT_TARGET_FINAL_PROMPT_TOKENS}" \
+          --short-final-prompt-tolerance-tokens "${SHORT_FINAL_PROMPT_TOLERANCE_TOKENS}" \
+          --long-target-final-prompt-tokens "${LONG_TARGET_FINAL_PROMPT_TOKENS}" \
+          --long-final-prompt-tolerance-tokens "${LONG_FINAL_PROMPT_TOLERANCE_TOKENS}"
       fi
-      if [[ ! -f "${generated_dataset_path}" ]]; then
-        echo "[ERROR] prebuilt dataset not found: ${generated_dataset_path}" >&2
-        exit 1
-      fi
-      echo "[INFO] using prebuilt dataset: ${generated_dataset_path}"
-    elif [[ "${REUSE_GENERATED_DATASET}" == "1" && -f "${generated_dataset_path}" ]]; then
-      echo "[INFO] reusing generated dataset: ${generated_dataset_path}"
-    else
-      rm -f "${generated_dataset_path}"
-      python "${ROOT_DIR}/build_mixed_history_limit_dataset_offline.py" \
-        --model "${MODEL_NAME}" \
-        --vendor-dir "${VENDOR_DIR}" \
-        --dataset-path "${SOURCE_DATASET_PATH}" \
-        --output-path "${generated_dataset_path}" \
+
+      python "${ROOT_DIR}/inspect_mixed_history_dataset.py" \
+        --dataset-path "${generated_dataset_path}" \
+        --show-first "${tenant_count}" | tee "${run_log}"
+
+      echo "[RUN] num_gpu_blocks_override=${BLOCK_VALUE} tenant_kv_min_blocks=${tenant_kv_min_blocks} run=${run_index} tenants=${tenant_count} port=${PORT}"
+      rm -f "${metrics_jsonl}"
+      kill_port_owners "${PORT}"
+
+      server_pid=""
+      cleanup_needed=1
+      trap 'if [[ "${cleanup_needed}" -eq 1 ]]; then cleanup_server "${server_pid}"; fi' EXIT
+
+      (
+        cd "${ROOT_DIR}"
+        VLLM_EXECUTABLE="${VLLM_EXECUTABLE}" \
+          VLLM_VENDOR_DIR="${VENDOR_DIR}" \
+          VLLM_REQUEST_METRICS_JSONL="${metrics_jsonl}" \
+          VLLM_NUM_GPU_BLOCKS_OVERRIDE="${BLOCK_VALUE}" \
+          VLLM_TENANT_KV_MIN_BLOCKS="${tenant_kv_min_blocks}" \
+          VLLM_MAX_NUM_SEQS="${MAX_NUM_SEQS}" \
+          VLLM_DISABLE_PREFIX_CACHING=0 \
+          VLLM_MAX_MODEL_LEN="${VLLM_MAX_MODEL_LEN}" \
+          VLLM_MAX_NUM_BATCHED_TOKENS="${VLLM_MAX_NUM_BATCHED_TOKENS}" \
+          VLLM_EXTRA_ARGS="--attention-backend TRITON_ATTN" \
+          "${ROOT_DIR}/start_vllm.sh" --port "${PORT}"
+      ) >>"${run_log}" 2>&1 &
+      server_pid="$!"
+
+      wait_for_server_ready "${base_url}"
+
+      cp "${generated_dataset_path}" "${RESULT_DIR}/experiment_snapshot/kvmin_${tenant_kv_min_blocks}_tenant_${tenant_count}_run_${run_index}_dataset.json"
+
+      if ! python "${ROOT_DIR}/measure_vram_only_isolation.py" \
+        --base-url "${base_url}" \
+        --dataset-path "${generated_dataset_path}" \
+        --raw-csv "${RAW_CSV}" \
+        --summary-csv "${SUMMARY_CSV}" \
+        --run-log "${run_log}" \
+        --io-log-dir "${IO_LOG_DIR}" \
+        --metrics-jsonl "${metrics_jsonl}" \
         --tenant-count "${tenant_count}" \
+        --run-index "${run_index}" \
+        --num-gpu-blocks-override "${BLOCK_VALUE}" \
+        --tenant-kv-min-blocks "${tenant_kv_min_blocks}" \
         --turns-per-tenant "${TURNS_PER_TENANT}" \
+        --min-session-user-turns "${MIN_SESSION_USER_TURNS}" \
+        --max-prompt-tokens "${MAX_PROMPT_TOKENS}" \
+        --min-tokens "${MIN_TOKENS}" \
+        --max-tokens "${MAX_TOKENS}" \
         --short-limit-tokens "${SHORT_LIMIT_TOKENS}" \
         --long-limit-tokens "${LONG_LIMIT_TOKENS}" \
-        --target-output-budget-tokens "${TARGET_OUTPUT_BUDGET_TOKENS}" \
-        --safety-margin-tokens "${SAFETY_MARGIN_TOKENS}" \
-        --short-target-final-prompt-tokens "${SHORT_TARGET_FINAL_PROMPT_TOKENS}" \
-        --short-final-prompt-tolerance-tokens "${SHORT_FINAL_PROMPT_TOLERANCE_TOKENS}" \
-        --long-target-final-prompt-tokens "${LONG_TARGET_FINAL_PROMPT_TOKENS}" \
-        --long-final-prompt-tolerance-tokens "${LONG_FINAL_PROMPT_TOLERANCE_TOKENS}"
-    fi
+        --short-min-tokens "${SHORT_MIN_TOKENS}" \
+        --short-max-tokens "${SHORT_MAX_TOKENS}" \
+        --long-min-tokens "${LONG_MIN_TOKENS}" \
+        --long-max-tokens "${LONG_MAX_TOKENS}" \
+        --pre-request-sleep-sec "${PRE_REQUEST_SLEEP_SEC}" \
+        --inter-turn-sleep-sec "${INTER_TURN_SLEEP_SEC}" \
+        --request-timeout-sec "${REQUEST_TIMEOUT_SEC}"; then
+        echo "[FAIL] num_gpu_blocks_override=${BLOCK_VALUE} tenant_kv_min_blocks=${tenant_kv_min_blocks} run=${run_index} tenants=${tenant_count}" >&2
+      fi
 
-    python "${ROOT_DIR}/inspect_mixed_history_dataset.py" \
-      --dataset-path "${generated_dataset_path}" \
-      --show-first "${tenant_count}" | tee "${run_log}"
-
-    echo "[RUN] num_gpu_blocks_override=${BLOCK_VALUE} run=${run_index} tenants=${tenant_count} port=${PORT}"
-    rm -f "${metrics_jsonl}"
-    kill_port_owners "${PORT}"
-
-    server_pid=""
-    cleanup_needed=1
-    trap 'if [[ "${cleanup_needed}" -eq 1 ]]; then cleanup_server "${server_pid}"; fi' EXIT
-
-    (
-      cd "${ROOT_DIR}"
-      VLLM_EXECUTABLE="${VLLM_EXECUTABLE}" \
-        VLLM_VENDOR_DIR="${VENDOR_DIR}" \
-        VLLM_REQUEST_METRICS_JSONL="${metrics_jsonl}" \
-        VLLM_NUM_GPU_BLOCKS_OVERRIDE="${BLOCK_VALUE}" \
-        VLLM_MAX_NUM_SEQS="${MAX_NUM_SEQS}" \
-        VLLM_DISABLE_PREFIX_CACHING=0 \
-        VLLM_MAX_MODEL_LEN="${VLLM_MAX_MODEL_LEN}" \
-        VLLM_MAX_NUM_BATCHED_TOKENS="${VLLM_MAX_NUM_BATCHED_TOKENS}" \
-        VLLM_EXTRA_ARGS="--attention-backend TRITON_ATTN" \
-        "${ROOT_DIR}/start_vllm.sh" --port "${PORT}"
-    ) >>"${run_log}" 2>&1 &
-    server_pid="$!"
-
-    wait_for_server_ready "${base_url}"
-
-    cp "${generated_dataset_path}" "${RESULT_DIR}/experiment_snapshot/tenant_${tenant_count}_run_${run_index}_dataset.json"
-
-    if ! python "${ROOT_DIR}/measure_vram_only_isolation.py" \
-      --base-url "${base_url}" \
-      --dataset-path "${generated_dataset_path}" \
-      --raw-csv "${RAW_CSV}" \
-      --summary-csv "${SUMMARY_CSV}" \
-      --run-log "${run_log}" \
-      --io-log-dir "${IO_LOG_DIR}" \
-      --metrics-jsonl "${metrics_jsonl}" \
-      --tenant-count "${tenant_count}" \
-      --run-index "${run_index}" \
-      --num-gpu-blocks-override "${BLOCK_VALUE}" \
-      --turns-per-tenant "${TURNS_PER_TENANT}" \
-      --min-session-user-turns "${MIN_SESSION_USER_TURNS}" \
-      --max-prompt-tokens "${MAX_PROMPT_TOKENS}" \
-      --min-tokens "${MIN_TOKENS}" \
-      --max-tokens "${MAX_TOKENS}" \
-      --short-limit-tokens "${SHORT_LIMIT_TOKENS}" \
-      --long-limit-tokens "${LONG_LIMIT_TOKENS}" \
-      --short-min-tokens "${SHORT_MIN_TOKENS}" \
-      --short-max-tokens "${SHORT_MAX_TOKENS}" \
-      --long-min-tokens "${LONG_MIN_TOKENS}" \
-      --long-max-tokens "${LONG_MAX_TOKENS}" \
-      --pre-request-sleep-sec "${PRE_REQUEST_SLEEP_SEC}" \
-      --inter-turn-sleep-sec "${INTER_TURN_SLEEP_SEC}" \
-      --request-timeout-sec "${REQUEST_TIMEOUT_SEC}"; then
-      echo "[FAIL] num_gpu_blocks_override=${BLOCK_VALUE} run=${run_index} tenants=${tenant_count}" >&2
-    fi
-
-    sleep "${POST_REQUEST_SLEEP_SEC}"
-    cleanup_server "${server_pid}"
-    echo "[INFO] num_gpu_blocks_override=${BLOCK_VALUE} run=${run_index}: waiting for full shutdown on port=${PORT}"
-    wait_for_instance_shutdown "${server_pid}" "${PORT}"
-    cleanup_needed=0
-    trap - EXIT
+      sleep "${POST_REQUEST_SLEEP_SEC}"
+      cleanup_server "${server_pid}"
+      echo "[INFO] num_gpu_blocks_override=${BLOCK_VALUE} tenant_kv_min_blocks=${tenant_kv_min_blocks} run=${run_index}: waiting for full shutdown on port=${PORT}"
+      wait_for_instance_shutdown "${server_pid}" "${PORT}"
+      cleanup_needed=0
+      trap - EXIT
+    done
   done
 done
 
-echo "[DONE] block=${BLOCK_VALUE} tenant_sweep=${TENANT_VALUES[*]} raw_csv=${RAW_CSV} summary_csv=${SUMMARY_CSV}"
+echo "[DONE] block=${BLOCK_VALUE} tenant_kv_min_block_sweep=${TENANT_KV_MIN_BLOCK_VALUES} tenant_sweep=${TENANT_VALUES[*]} raw_csv=${RAW_CSV} summary_csv=${SUMMARY_CSV}"

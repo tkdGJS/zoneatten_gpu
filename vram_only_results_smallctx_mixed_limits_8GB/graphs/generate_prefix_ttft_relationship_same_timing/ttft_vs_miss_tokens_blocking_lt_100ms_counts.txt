@@ -1,0 +1,3 @@
+exp1: Group1=206, Group2=199, total=405
+exp2: Group1=205, Group2=206, total=411
+exp3: Group1=190, Group2=195, total=385

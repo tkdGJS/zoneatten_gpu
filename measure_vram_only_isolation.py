@@ -48,10 +48,11 @@ def summarize(raw_csv_path: str, summary_csv_path: str) -> None:
     with open(raw_csv_path, "r", encoding="utf-8", newline="") as f:
         rows.extend(csv.DictReader(f))
 
-    grouped: Dict[Tuple[str, str, str], List[Dict[str, str]]] = {}
+    grouped: Dict[Tuple[str, str, str, str], List[Dict[str, str]]] = {}
     for row in rows:
         key = (
             row["num_gpu_blocks_override"],
+            row.get("tenant_kv_min_blocks", "0"),
             row["tenant_count"],
             row["tenant_id"],
         )
@@ -59,6 +60,7 @@ def summarize(raw_csv_path: str, summary_csv_path: str) -> None:
 
     fieldnames = [
         "num_gpu_blocks_override",
+        "tenant_kv_min_blocks",
         "tenant_count",
         "tenant_id",
         "history_limit_tokens",
@@ -78,25 +80,49 @@ def summarize(raw_csv_path: str, summary_csv_path: str) -> None:
     with open(summary_csv_path, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
-        for num_gpu_blocks_override, tenant_count, tenant_id in sorted(
-            grouped, key=lambda item: (int(item[0][0]), int(item[0][1]), int(item[0][2]))
+        for (
+            num_gpu_blocks_override,
+            tenant_kv_min_blocks,
+            tenant_count,
+            tenant_id,
+        ) in sorted(
+            grouped,
+            key=lambda item: (
+                int(item[0][0]),
+                int(item[0][1]),
+                int(item[0][2]),
+                int(item[0][3]),
+            ),
         ):
-            group_rows = grouped[(num_gpu_blocks_override, tenant_count, tenant_id)]
+            group_rows = grouped[
+                (num_gpu_blocks_override, tenant_kv_min_blocks, tenant_count, tenant_id)
+            ]
             success_rows = [row for row in group_rows if row["status"] == "success"]
             writer.writerow(
                 {
                     "num_gpu_blocks_override": num_gpu_blocks_override,
+                    "tenant_kv_min_blocks": tenant_kv_min_blocks,
                     "tenant_count": tenant_count,
                     "tenant_id": tenant_id,
-                    "history_limit_tokens": group_rows[0].get("history_limit_tokens", ""),
+                    "history_limit_tokens": group_rows[0].get(
+                        "history_limit_tokens", ""
+                    ),
                     "successful_requests": len(success_rows),
                     "failed_requests": len(group_rows) - len(success_rows),
                     "avg_input_tokens": mean_or_blank(success_rows, "input_tokens"),
                     "avg_output_tokens": mean_or_blank(success_rows, "output_tokens"),
-                    "avg_kv_history_tokens": mean_or_blank(success_rows, "kv_history_tokens"),
-                    "avg_prefix_hit_tokens": mean_or_blank(success_rows, "prefix_hit_tokens"),
-                    "avg_prefix_hit_rate": mean_or_blank(success_rows, "prefix_hit_rate"),
-                    "avg_blocking_time_ms": mean_or_blank(success_rows, "blocking_time_ms"),
+                    "avg_kv_history_tokens": mean_or_blank(
+                        success_rows, "kv_history_tokens"
+                    ),
+                    "avg_prefix_hit_tokens": mean_or_blank(
+                        success_rows, "prefix_hit_tokens"
+                    ),
+                    "avg_prefix_hit_rate": mean_or_blank(
+                        success_rows, "prefix_hit_rate"
+                    ),
+                    "avg_blocking_time_ms": mean_or_blank(
+                        success_rows, "blocking_time_ms"
+                    ),
                     "avg_ttft_ms": mean_or_blank(success_rows, "ttft_ms"),
                     "avg_p95_tbt_ms": mean_or_blank(success_rows, "p95_tbt_ms"),
                     "avg_ttlt_ms": mean_or_blank(success_rows, "ttlt_ms"),
@@ -271,12 +297,18 @@ def build_prompt_for_turn(
     full_text = history_text + current_turn_text
     full_count, full_ids = tokenize_text(session, base_url, model, full_text)
     if full_ids is None:
-        raise RuntimeError("Tokenize endpoint did not return token ids for prompt trimming")
+        raise RuntimeError(
+            "Tokenize endpoint did not return token ids for prompt trimming"
+        )
 
-    kept_ids = full_ids[-max_prompt_tokens:] if full_count > max_prompt_tokens else full_ids
+    kept_ids = (
+        full_ids[-max_prompt_tokens:] if full_count > max_prompt_tokens else full_ids
+    )
     prompt = detokenize_ids(session, base_url, model, kept_ids)
     if prompt is None:
-        raise RuntimeError("Detokenize endpoint did not return prompt text for trimmed prompt")
+        raise RuntimeError(
+            "Detokenize endpoint did not return prompt text for trimmed prompt"
+        )
     prompt_tokens, _ = tokenize_text(session, base_url, model, prompt)
     removed_tokens = full_count - len(kept_ids)
     kv_history_tokens = max(0, history_tokens - removed_tokens)
@@ -286,6 +318,7 @@ def build_prompt_for_turn(
 def save_request_logs(
     log_dir: str,
     tenant_count: int,
+    tenant_kv_min_blocks: int,
     run_index: int,
     tenant_id: int,
     turn_index: int,
@@ -296,6 +329,7 @@ def save_request_logs(
     request_dir = os.path.join(
         log_dir,
         f"tenant_count_{tenant_count}",
+        f"tenant_kv_min_blocks_{tenant_kv_min_blocks}",
         f"run_{run_index}",
         f"tenant_{tenant_id}",
     )
@@ -332,7 +366,9 @@ def wait_for_request_metrics(
                     if payload.get("request_id") == request_id:
                         return payload
         time.sleep(0.5)
-    raise RuntimeError(f"Timed out waiting for patched vLLM metrics for request_id={request_id}")
+    raise RuntimeError(
+        f"Timed out waiting for patched vLLM metrics for request_id={request_id}"
+    )
 
 
 def stream_completion_with_request_id(
@@ -340,6 +376,7 @@ def stream_completion_with_request_id(
     base_url: str,
     model: str,
     prompt: str,
+    tenant_id: int,
     min_tokens: int,
     max_tokens: int,
     request_id: str,
@@ -352,6 +389,7 @@ def stream_completion_with_request_id(
         "max_tokens": max_tokens,
         "stream": True,
         "request_id": request_id,
+        "vllm_xargs": {"tenant_id": f"tenant_{tenant_id}"},
     }
     if min_tokens > 0:
         payload["min_tokens"] = min_tokens
@@ -416,6 +454,7 @@ def run_tenant(
     base_url: str,
     model: str,
     num_gpu_blocks_override: int,
+    tenant_kv_min_blocks: int,
     tenant_count: int,
     run_index: int,
     turns_per_tenant: int,
@@ -448,6 +487,7 @@ def run_tenant(
         row: Dict[str, object] = {
             "timestamp_utc": utc_now(),
             "num_gpu_blocks_override": num_gpu_blocks_override,
+            "tenant_kv_min_blocks": tenant_kv_min_blocks,
             "tenant_count": tenant_count,
             "run_index": run_index,
             "tenant_id": tenant_state.tenant_id,
@@ -491,6 +531,7 @@ def run_tenant(
                 base_url,
                 model,
                 prompt,
+                tenant_state.tenant_id,
                 tenant_state.min_tokens,
                 tenant_state.max_tokens,
                 client_request_id,
@@ -514,6 +555,7 @@ def run_tenant(
 
             metadata = {
                 "tenant_id": tenant_state.tenant_id,
+                "tenant_kv_min_blocks": tenant_kv_min_blocks,
                 "history_limit_tokens": tenant_state.history_limit_tokens,
                 "turn_index": turn_index,
                 "session_index": tenant_state.session_index,
@@ -527,7 +569,9 @@ def run_tenant(
                 "kv_history_tokens": kv_history_tokens,
                 "prefix_hit_tokens": prefix_hit_tokens,
                 "prefix_hit_rate": prefix_hit_rate,
-                "blocking_time_ms": round(float(request_metrics["queued_time_s"]) * 1000.0, 4),
+                "blocking_time_ms": round(
+                    float(request_metrics["queued_time_s"]) * 1000.0, 4
+                ),
                 "ttft_ms": round(float(stream_result["ttft_ms"]), 4),
                 "p95_tbt_ms": "" if p95_tbt_ms is None else round(float(p95_tbt_ms), 4),
                 "ttlt_ms": round(float(stream_result["ttlt_ms"]), 4),
@@ -535,6 +579,7 @@ def run_tenant(
             prompt_path, output_path, _ = save_request_logs(
                 io_log_dir,
                 tenant_count,
+                tenant_kv_min_blocks,
                 run_index,
                 tenant_state.tenant_id,
                 turn_index,
@@ -554,9 +599,13 @@ def run_tenant(
                     "kv_history_tokens": kv_history_tokens,
                     "prefix_hit_tokens": prefix_hit_tokens,
                     "prefix_hit_rate": prefix_hit_rate,
-                    "blocking_time_ms": round(float(request_metrics["queued_time_s"]) * 1000.0, 4),
+                    "blocking_time_ms": round(
+                        float(request_metrics["queued_time_s"]) * 1000.0, 4
+                    ),
                     "ttft_ms": round(float(stream_result["ttft_ms"]), 4),
-                    "p95_tbt_ms": "" if p95_tbt_ms is None else round(float(p95_tbt_ms), 4),
+                    "p95_tbt_ms": (
+                        "" if p95_tbt_ms is None else round(float(p95_tbt_ms), 4)
+                    ),
                     "ttlt_ms": round(float(stream_result["ttlt_ms"]), 4),
                     "prompt_log_path": os.path.abspath(prompt_path),
                     "output_log_path": os.path.abspath(output_path),
@@ -567,6 +616,7 @@ def run_tenant(
             )
             print(
                 f"[RESULT] tenant_count={tenant_count} run={run_index} "
+                f"tenant_kv_min_blocks={tenant_kv_min_blocks} "
                 f"tenant={tenant_state.tenant_id} turn={turn_index} "
                 f"history_limit_tokens={tenant_state.history_limit_tokens} "
                 f"requested_min_tokens={tenant_state.min_tokens} "
@@ -583,6 +633,7 @@ def run_tenant(
             row["error_message"] = str(exc)
             print(
                 f"[FAIL] tenant_count={tenant_count} run={run_index} "
+                f"tenant_kv_min_blocks={tenant_kv_min_blocks} "
                 f"tenant={tenant_state.tenant_id} turn={turn_index}: {exc}",
                 file=sys.stderr,
                 flush=True,
@@ -615,6 +666,7 @@ def main() -> int:
     parser.add_argument("--tenant-count", required=True, type=int)
     parser.add_argument("--run-index", required=True, type=int)
     parser.add_argument("--num-gpu-blocks-override", required=True, type=int)
+    parser.add_argument("--tenant-kv-min-blocks", required=True, type=int)
     parser.add_argument("--turns-per-tenant", type=int, default=10)
     parser.add_argument("--min-session-user-turns", type=int, default=10)
     parser.add_argument("--max-prompt-tokens", type=int, default=4096)
@@ -634,6 +686,7 @@ def main() -> int:
     raw_fieldnames = [
         "timestamp_utc",
         "num_gpu_blocks_override",
+        "tenant_kv_min_blocks",
         "tenant_count",
         "run_index",
         "tenant_id",
@@ -669,9 +722,13 @@ def main() -> int:
 
     session = requests.Session()
     model = get_model_id(session, args.base_url)
-    short_min_tokens = args.short_min_tokens if args.short_min_tokens > 0 else args.min_tokens
+    short_min_tokens = (
+        args.short_min_tokens if args.short_min_tokens > 0 else args.min_tokens
+    )
     short_max_tokens = args.short_max_tokens or args.max_tokens
-    long_min_tokens = args.long_min_tokens if args.long_min_tokens > 0 else args.min_tokens
+    long_min_tokens = (
+        args.long_min_tokens if args.long_min_tokens > 0 else args.min_tokens
+    )
     long_max_tokens = args.long_max_tokens or args.max_tokens
     tenant_states = assign_sessions(
         args.dataset_path,
@@ -714,6 +771,7 @@ def main() -> int:
                 args.base_url,
                 model,
                 args.num_gpu_blocks_override,
+                args.tenant_kv_min_blocks,
                 args.tenant_count,
                 args.run_index,
                 args.turns_per_tenant,
